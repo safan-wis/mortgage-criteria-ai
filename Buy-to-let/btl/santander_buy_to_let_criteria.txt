@@ -1,0 +1,783 @@
+SANTANDER FOR INTERMEDIARIES - BUY TO LET MORTGAGE LENDING CRITERIA
+================================================================================
+
+What's changed?
+
+The following section has been updated:
+
+Affordability
+
+Buy to Let affordability changes.
+
+ Eligibility questions
+
+We'll not be able to proceed with the application if any of the following apply:
+
+Any client is aged under 21.
+Any client is aged over 80.
+Any client who meets the income criteria doesn’t have permanent right to reside in the UK.
+For single applications, your client doesn't own a residential or Buy to Let property (not commercial) in the UK. For joint applications, neither client owns a residential or Buy to Let (not commercial) property in the UK.
+For purchase or remortgage applications, on completion of this mortgage, your clients will own more than 3 mortgaged let properties on their own or with anyone else or more than 10 let properties.
+For remortgage without capital raising applications (£4£), on completion of this mortgage, your clients will own more than 3 mortgaged let properties with Santander or more than 10 let properties.
+This Buy to Let mortgage is FCA regulated.
+The property value is below £75,000.
+The LTV will be more than 75%.
+The application includes any capital raising for business use, other than for Buy to Let purposes.
+The property is subject to planning restrictions preventing occupation for 52 weeks a year.
+The property will be let to more than 4 named individuals on a single tenancy agreement or more than 1 tenancy agreement.
+The (proposed) tenant or tenants previously owned the property.
+The property is leasehold and the leaseholder will retain a controlling interest in the freehold.
+The property is a freehold flat.
+You (the intermediary) don't hold the appropriate interim permission or authorisation from the FCA to allow you to submit this application to us.
+
+ Affordability
+
+ Affordability
+
+Our Buy to Let calculator confirms the maximum we may be able to lend up to 75% LTV.
+All Buy to Let properties must meet the following criteria:
+
+Our minimum rental cover at the Buy to Let affordability rate on an interest only basis:
+
+Application type
+Rental cover
+Buy to Let affordability rate
+
+All clients' income tax bands are 20% or less1
+Any client's income tax band is higher than 20%
+Less than 5 year products
+5 year fixed
+
+Purchase or remortgages with capital raising
+125%
+145%
+6.99%
+4.99%
+
+Remortgages without capital raising (£4£)
+125%
+145%
+4.99%
+4.99%
+
+1The income tax band selected should take into account profit on rental income for all properties that your client will own on completion.
+For Limited Company Directors please use their highest tax band payable to ensure all income is included. For more information on income tax bands please visit https://www.gov.uk/income-tax-rates
+
+You'll need to see evidence from your clients that they meet this criteria before you submit the mortgage application, for example a copy of their latest mortgage statement. You'll also need to keep this on file for the term of the mortgage contract. We may need to see a copy of this evidence.
+The property being mortgaged with Santander must be self-financing.
+We use the lower of our valuer’s opinion of the rent or the ongoing/anticipated rent received.
+
+ Credit history
+
+Landlord must be creditworthy and have a good track record as evidenced by a good credit score.
+Landlord mustn't be overcommitted on other secured and unsecured borrowing.
+
+ Declines
+
+If you wish to appeal a declined AIP or FMA, please speak to your dedicated contact.
+
+ Deposits
+
+All parties contributing towards the purchase of a Buy to Let should be named as a client and meet the criteria stated.
+We don’t accept deposit funds originating from a child’s bank account or directly from a business bank account without having been declared as personal income.
+Where deposit funds originate from outside of the United Kingdom, your client will be required to state the origin of funds and additional checks may apply. Please refer to our evidence requirements > proof of deposit section for a list of countries/jurisdictions from where we don't accept deposit funds.
+Applications where a third party is providing towards the deposit may be considered subject to sufficient supporting information. However we don't accept:
+
+Second charges on Buy to Let properties
+Trust agreements
+Conditional gifts i.e. that may have to be repaid
+Gifts that require fees, payments, or charges
+A gift donor having an interest in the management of a Buy to Let property
+A gift donor occupying the Buy to Let property (under tenancy or otherwise)
+A gift donor having any existing interest in the property* (e.g. vendor, tenant, freeholder etc.).
+
+*Please note this also includes where the gift is coming from a joint bank account or where the funds are from the sale of a previously owned joint property with the gift donor.
+For gifted deposit applications where the funds are received from abroad, there are some additional requirements we may ask for to evidence the deposit. Please refer to our evidence requirements guide for more details.
+
+ Foreign currency income
+
+We'll consider applications where any element of income is paid in any of the following foreign currencies:
+
+US Dollar (USD)
+Euro (EUR)
+Swiss Franc (CHF)
+
+The sterling equivalent must be calculated and discounted by 25% to allow for currency fluctuations. This figure must be input into the £ equivalent field in Introducer Internet.
+You must record in the general notes within the 'Regulation' section in the full mortgage application in Introducer Internet:
+
+Foreign currency amount
+GBP equivalent
+Exchange rate on the day of the calculation
+Date of calculation.
+
+ Income
+
+At least 1 client must have a minimum income of £25,000.
+Income types
+We won't accept rental income from Buy to Let properties, child benefit, child tax credit, working tax credit, Universal Credit, pension credit or maintenance payments to meet this £25,000 minimum income requirement. Please refer to our evidence requirements guide for further details.
+
+Main annual income
+Other
+
+Permanent employment - basic salary
+Bonus or commission where the amounts are regular and consistent
+
+Fixed term contract (PAYE)
+Overtime where the amounts are regular and consistent
+
+Short-term renewable contract (PAYE)
+Car allowance
+
+Salary for a director of a limited company
+London weighting/large town allowance
+
+Net profit of a sole trader/partnership
+Permanent shift allowance
+
+Director's dividends
+Indefinite mortgage subsidies or housing allowances
+
+Private/company pensions and annuities
+Second job - where this is ongoing and sustainable
+
+State pension
+Bonus, commission or overtime paid monthly where the amounts are regular but inconsistent
+
+Employed in a family business
+Annual bonus or commission
+
+Other bonus, commission or overtime paid less frequently than monthly
+
+Long-term mortgage subsidies or housing allowances
+
+Indefinite state benefits (DWP/HMRC)
+
+Investment income (excludes rental income)
+
+Fostering income
+
+Evidence of income is required in all cases and should be retained on file with the declaration for a minimum of 2 years from the date of completion. Please make sure proof of income is obtained for each client prior to the date of the mortgage application.
+
+ Customer
+
+ Conflict of interest
+
+Intermediaries are required to act appropriately where an application represents a potential conflict of interest situation. This applies to both new business and product transfer applications. You can't deal with an application in your own name. This includes acting as the accountant for your self-employed applications where you're a qualified accountant.
+For firms where there is no independent person to process the application and validate all necessary documentation, the application will need to be put through another firm.
+
+ Client contact information
+
+All new mortgage applications submitted must provide a personal email address and mobile number for each client.
+If your client is unable or unwilling to give this information through the intermediary application process and they still wish to apply for a Santander mortgage, they'll need to contact Santander directly by phone.
+
+ Eligibility criteria
+
+All Buy to Let applications
+
+Minimum age at application is 21.
+Maximum age at the end of the mortgage term can't exceed any applicant's 85th birthday.
+At least 1 client owns a residential or Buy to Let property (not commercial) in the UK.
+We need 3 years’ address history.
+At least 1 client must have a minimum income of £25,000:
+
+We won't accept rental income from Buy to Letproperties, child benefit, child tax credit, working taxcredit, Universal Credit, pension credit or maintenance payments to meet this £25,000 minimum income requirement.
+
+We don't accept applications from the following:
+
+First time buyers.
+Limited companies, partnerships or trusts.
+Where your client's main income is net profit from their property portfolio e.g. professional landlords.
+Where a property is being sold by a limited company to 1 of its directors, or a connected person. A 'connected person' includes a spouse/civil partner, a parent or child/step child of the director.
+Where your client is looking to buy a property that they're currently renting.
+
+Property criteria
+The table below shows the maximum number of properties your clients can own on completion for purchase and remortgage applications.
+
+Maximum number of mortgaged let properties with any lender
+3
+
+Maximum number of let properties
+10 (of which a maximum of 3 can be mortgaged)
+
+Portfolio landlords
+We only consider portfolio landlords if the application is a remortgage without capital raising (£4£).
+For these clients, the application must meet the following property criteria on completion:
+
+Maximum number of mortgaged let properties with Santander
+3
+
+Maximum number of let properties (mortgaged and mortgage-free)
+10
+
+We don't accept portfolio landlords for new purchase applications or remortgages with capital raising.
+
+ Foreign nationals
+
+We consider applications from non-UK/non-Irish nationals.
+We don't accept applications from foreign nationals holding diplomatic immunity.
+For applications where their income is used to meet the £25,000 minimum income criteria, your client must have the permanent right to reside in the UK e.g. indefinite leave to enter (ILE) or remain in the UK (ILR) or settled or pre-settled status (EEA/Swiss citizens). This must be supported by 1 of the following:
+
+A visa stamp in a passport (for this purpose only, the passport may be expired), or
+An unexpired Biometric Residence Permit, or
+The share code so we can check the settled or pre-settled status of EEA/Swiss citizens. Go to https://www.gov.uk/view-prove-immigration-status
+
+Please note this isn't an exhaustive list. 
+Further information may be available from www.gov.uk/browse/visas-immigration/settle-in-the-uk
+
+If limited bureau data is available, 3 months' bank statements.
+
+ Guarantors
+
+We don't accept guarantor applications.
+
+ Identification
+
+A Confirmation of Verification of Identity Certificate must be completed and meet the requirements set out within the Joint Money Laundering Steering Group Guidance for UK Financial Sector.
+
+ Portfolio landlords
+
+We define portfolio landlords as a client owning 4 or more mortgaged let properties (including holiday lets) on completion of the new Buy to Let property with us, whether it's on their own, with anyone else or in a limited company or LLP where your client owns an interest.
+We don't accept portfolio landlords unless your client is remortgaging without capital raising (£4£). Please see the 'Eligibility criteria' section.
+
+ Porting
+
+It's possible to 'port' most existing products to a new mortgage providing it's for a house purchase but not to a property being remortgaged or owned mortgage-free.
+Your client's entitlement to port their mortgage product is always subject to the conditions for transferring the loan to a new mortgage in their mortgage terms and conditions. In particular, any new mortgage application made will be subject to a full credit assessment. Your client and property must meet our lending criteria at the time of the new application.
+If we don't agree a new mortgage, your client won't be able to port their mortgage product and they may then be required to pay the ERC if they subsequently redeem their existing mortgage.
+Where redemption of the existing BTL mortgage and purchase of the new BTL property isn't simultaneous, providing the purchase of the new BTL property completes within 3 months of the redemption date, the existing product can be ported to the new BTL mortgage.
+On redemption of the existing mortgage the ERC is paid in full and a refund will be made on completion of the new BTL purchase, as long as the product is ported for the full amount. If the new BTL mortgage is less than the existing mortgage, the ERC refund will be a proportionate amount.
+Any additional borrowing must come from the new business BTL product range.
+
+ Property Investment Club
+
+We don't accept applications where the property is being purchased by, from or connected to a Property Investment Club.
+
+ Residency
+
+All clients must:
+
+be resident in the UK (excludes Isle of Man)
+have the right to remain in the UK permanently.
+
+Exceptions to this policy are applicants temporarily overseas (e.g. BFPO, offshore worker) who'll be returning to live in their UK owner-occupied residential property.
+
+ Self-employed
+
+We'll not accept applications from clients who've been self-employed or owned their business for less than 1 year.
+Your clients must provide at least 1 year of trading figures.
+
+ Solicitor panel
+
+All BTL mortgage applications are required to use a solicitor from the Santander panel. We don't accept BTL applications on a dual representation basis. You can use the solicitor panel search to find a solicitor on our panel.
+
+ Evidence requirements
+
+ Employed income
+
+We don't accept an employer's reference as proof of income. Where payslips are provided, they can't be handwritten or amended in any way.
+
+Income type
+Acceptable proof
+
+Permanent contract of employment (basic salary)
+
+Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date).
+
+Fixed-term contracts
+
+Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date), and
+Evidence of continuous employment in the same field for the last 12 months, and either
+Confirmation from employer of long-term employment arrangement, or
+Written confirmation from a reputable agency of secure further positions.
+
+Zero-hours contracts
+
+Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date), and
+Evidence of continuous income in the same field of employment for the last 12 months, and
+Confirmation from employer of ongoing employment arrangement.
+
+Employment in your own family's business (if your clients hold less than 20% shareholding in the Company)
+
+Where your client's shareholding in a company (or combined shareholding of all clients) is 20% or more, please see the 'Self-employed income' section.
+
+Latest monthly payslip (no older than 2 months from application date) supported by YTD figures. If paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date), and
+Bank statements evidencing latest 3 months' salary credits.
+
+Short term renewable contracts
+
+Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date), and
+Evidence your client has worked in this field of employment for at least the last 12 months; and
+Contract from employer, and either
+Confirmation of earlier contracts, or
+The arrangement is confirmed as ongoing by the employer/agency.
+If a contract has less than 6 months to run, we require evidence that the contracts will be renewed.
+
+London weightingLarge town allowancePermanent shift allowanceEmployer’s mortgage subsidyHousing allowanceCar allowance
+
+Latest monthly payslip (no older than 2 months from application date) supported by YTD figures. If paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date).
+
+Second job – where a track record can be evidenced, and the income is ongoing and sustainable
+
+Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date).
+
+Discretionary mortgage subsidies and housing allowance
+
+Restricted term subsidies may be considered as a secondary income subject to a minimum term of 5 years:
+
+Contract of employment, and
+Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date).
+
+ Bonus, commission or overtime
+
+Acceptable proof of income is in addition to the requirements for basic income in the 'Employed income' section.
+
+Income types
+Acceptable proof
+
+Bonus, commission or overtime
+
+To use as primary income, amounts must be regular and consistent and not a short term trend.
+We'll use the lowest monthly payment from the last 3 months' payslips x12.
+
+If paid monthly, latest 3 months’ payslips required.
+If paid weekly, 4 weeks’ consecutive payslips required, along with 1 payslip from each of the previous 2 months identifying the bonus/commission/overtime payment.
+
+Where the income isn't supported by the year to date figure, we may reduce the income accordingly. Please tell us in the 'General notes' section of Introducer Internet, where there is a valid reason.
+Where amounts are regular but inconsistent.
+We'll use an average from the last 3 months' payslips x12.
+
+If paid monthly, latest 3 months' payslips required.
+If paid weekly, 4 weeks' consecutive payslips required, along with 1 payslip from each of the previous 2 months identifying the bonus/commission/overtime payment.
+
+Where the income isn't supported by the year to date figure, we may reduce the income accordingly. Please tell us in the 'General notes' section of Introducer Internet, where there is a valid reason.
+
+Bonus, commission or overtime paid less frequently than monthly e.g quarterly
+
+3 payslips showing the last 3 bonus/commission/overtime payments received.
+
+Where the income isn't supported by the year to date figure, we may reduce the income accordingly. Please record an explanation in the 'General notes' section of Introducer Internet, where there is a valid reason.
+
+Annual bonus or commission
+
+Most recent payslip showing bonus or commission payment, and
+Previous payslip or P60 evidencing the bonus or commission paid in the previous tax year.
+
+ Parental leave (maternity and paternity)
+
+Latest payslip, and
+Last payslip prior to parental leave showing the full salary, and
+Details of lowest income expected during parental leave and if this is insufficient, alternative source of funds to support payments and living costs may be needed (e.g. savings).
+Where an applicant intends to return to work on the same terms as before the start of parental leave, we'll need confirmation of this in the 'General notes' section on Introducer Internet.
+Where an applicant (or either applicant if joint application) will be changing their working pattern following parental leave, we'll need a letter from the applicant's employer confirming their return to work conditions.
+Please make sure that you've included any anticipated childcare costs in non-regular expenditure. Where there will be no childcare costs please provide an explanation including details of alternative arrangements in the 'General notes' section on Introducer Internet
+
+ Self-employed income
+
+Where there are unexplained downward trends or sharp increases in the most recent year's trading figures, please give us additional information to tell us why.
+Where your client's shareholding in a company, or combined shareholding of your clients is less than 20%, treat as employed. Please refer to the ‘Other income types’ section for guidance on how to treat dividends.
+
+Primary income (100%)
+Acceptable proof
+
+Employed income (salary) for Director of a limited company (where your client's shareholding in a company, or combined shareholding of all clients, is 20% or more, treat your client as self-employed)
+
+Accountant's certificate
+For all self-employed income proof the most recent year-end mustn't be more than 18 months before the date of the application.
+Dividends can't exceed your client's share of profit (after tax) and should be capped to net profit. We don't accept retained profits.
+
+We reserve the right to request accounts where necessary. These must be final accounts and signed by a suitably qualified accountant. Please see below for acceptable accountant's qualifications.
+Loans over 90% LTV (available for residential applications where an existing Santander mortgage customer is moving home only)
+
+Accounts providing 3 years' trading figures signed by a suitably qualified accountant.
+
+Net profit of a sole trader/partnership (including limited liability partnerships)
+
+Accountant's certificate
+
+If your client doesn't have an accountant, we need:
+
+Self Assessment Tax Calculation forms (e.g. SA302) plus Tax Year Overviews (TYO) covering latest 2 years (SA302s and TYOs can be requested from the HMRC or via an online HMRC account). For Buy to Let applications 12 trading months required, and
+Latest month's business bank statement (dated within the last 30 days).
+
+For all self-employed income proof, the most recent year-end mustn't be more than 18 months before the date of the application.
+For Limited Liability Partnerships (LLPs) we can also accept:
+
+A letter on the LLPs headed paper from an independent partner/partnership accountant addressed to Santander for a partnership with 8 or more partners. This must include:
+
+Your client's net profit for the last 3 years*
+The nature of the business
+The year the business started
+Your client's percentage share of the net profit
+The name, signature and details of the person signing.
+
+*If they've been a partner for less than 3 years, we can accept a minimum of 2 years.
+Loans over 90% LTV (available for residential applications where an existing Santander mortgage customer is moving home only)
+
+3 years' SA302s plus a Tax Year Overview for each corresponding tax year; or
+Accounts providing 3 years' trading figures signed by a suitably qualified accountant.
+
+We reserve the right to request accounts where necessary. These must be final accounts and signed by a suitably qualified accountant. Please see below for acceptable accountant's qualifications.
+
+Dividends for Directors (where your client's shareholding in a company, or combined shareholding of all clients is 20% or more, treat your client as self-employed); includes Alphabet shares
+
+Accountant's certificate
+For all self-employed income proof the most recent year-end must not be more than 18 months before the date of the application.
+Dividends can't exceed your client's share of profit (after tax) and should be capped to net profit. We don't accept retained profits.
+
+We reserve the right to request accounts where necessary. These must be final accounts and signed by a suitably qualified accountant. Please see below for acceptable accountant's qualifications.
+Loans over 90% LTV (available for residential applications where an existing Santander mortgage customer is moving home only)
+
+Accounts providing 3 years' trading figures signed by a suitably qualified accountant.
+
+Sub-contractor in the construction industry
+
+Accountant's certificate
+
+If your client doesn't have an accountant, we need:
+
+Self Assessment Tax Calculation forms (e.g. SA302) plus Tax Year Overviews (TYO) covering latest 2 years (SA302s and TYOs can be requested from the HMRC or via an online HMRC account); and
+Latest month's business bank statement (dated within last 30 days).
+For all self-employed income proof, the most recent year-end must not be more than 18 months before the date of the application.
+
+If your client doesn't have Self Assessment Tax Calculation forms (e.g. SA302), we need:
+
+CIS Payment and Deduction statements plus TYOs covering latest 2 years. Where these are provided, we'll take an average of the last 2 years or the latest year if lower; and
+Latest month's business bank statement (dated within the last 30 days).
+
+The latest CIS Payment and Deduction statement must be dated no more than 6 months before the date of application.
+CIS Payment and Deduction statements must show:
+
+the contractors name and employers tax reference
+the end date of the tax month in which the payment was made
+the sub-contractors name
+the sub-contractors unique tax reference (UTR)
+the gross amount of the payment made to the sub-contractor
+the cost of any materials which may have reduced the amount upon which the deduction has been applied
+the amount of the deduction.
+
+Loans over 90% LTV
+
+3 years' SA302s or CIS Payment and Deduction statements plus a Tax Year Overview for each corresponding tax year; or
+Accounts providing 3 years' trading figures signed by a suitably qualified accountant.
+
+We reserve the right to request accounts where necessary. These must be final accounts and signed by a suitably qualified accountant. Please see below for acceptable accountant's qualifications.
+
+Umbrella company
+
+We treat your client as self-employed where they are paid through umbrella companies.
+We don't accept income paid through an umbrella company that isn't declared for UK tax purposes.
+Income requirements
+
+Minimum 2 years' self-employed evidence*; together with
+terms of contract (with the firm they are working for not the umbrella company); and
+future contracts.
+
+*For PAYE clients where self-employed evidence isn't available please provide the latest 2 years' P60s with the gross income input as the net profit figure.
+
+PAYE contractors
+
+Latest month (4 weeks) payslips or invoices.
+ Latest 2 years’ P60s with the gross income input as the net profit.
+Copy of the contract with the firm they’re working for not the Umbrella Company.
+Where’s it’s not possible to obtain the contract with the firm they’re working for, if your client is contracting via an agency for example, then you should provide the agency contract.
+
+Employed in your own family's business
+
+If your clients hold a 20% or more shareholding in the Company treat as self-employed.
+Latest monthly payslip (no older than 2 months from application date) supported by YTD figures. If paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date); and
+Bank statements evidencing latest 3 months' salary credits.
+
+Acceptable accountant's qualifications
+
+We accept accountant's certificates produced and signed by an accountant that has a qualification (and is an Associate or Fellow) with 1 of the professional bodies list below:
+
+Institute of Chartered Accountants in England & Wales
+Institute of Chartered Accountants of Scotland
+Institute of Chartered Accountants in Ireland, also known as Chartered Accountants Ireland
+Association of Chartered Certified Accountants
+Association of Authorised Public Accountants
+Chartered Institute of Management Accountants
+Certified Public Accountants Association
+Association of Accounting Technicians
+Association of International Accountants
+Chartered Institute of Taxation
+Institute of Financial Accountants
+Chartered Institute of Public Finance & Accountancy
+
+Covid-19 impact:
+Please provide full details of any outstanding Bounce Back Loan (BBL) or Coronavirus Business Interruption Loan (CBIL) including the amount taken and the monthly payment.
+
+ Pension income
+
+Income type
+Acceptable proof
+
+Pensions and annuities (private/company) (currently receiving)
+
+Latest monthly pension payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date), or
+The latest bank statement evidencing the payment from the pension company, together with either:
+
+Pension statement, or
+Pension payslip up to 12 months old, or
+Annuity/Pension letter, or
+P60 (if not clear the P60 is related to pension/annuity then the covering letter must be provided from the pension/annuity provider)
+
+Pension statements and annuity letters may not be handwritten or amended and must:
+
+show your client's name and address, which must match that stated on the application form,
+show pension/annuity company’s name, address, telephone number and company’s registration number (if Limited) and be on headed paper or show company stamp,
+show pay dates,
+cover at least 1 month (4 consecutive weeks if paid weekly),
+show gross income,
+show net pay.
+
+Pension statements (private/company) must:
+
+show regularity of payment,
+not be older than 12 months.
+
+Annuity letters must:
+
+show amount payable monthly,
+not be older than 12 months.
+
+Please note if a pension is paid less frequently than monthly, it'll only be considered as secondary income.
+
+State Pension
+
+DWP (Pension service) state pension letter issued within the last 12 months, or
+Latest bank statement identifying payment from DWP.
+
+ Benefits income
+
+Income type
+Acceptable proof
+
+Working Tax Credit*
+Child Tax Credit*
+Child Benefit*
+
+HMRC Tax Credit award letter or HMRC Child Benefit letter (all pages), or
+For Tax Credits, bank statements evidencing the last 3 months' Tax Credits (most recent statement to be no more than 1 month from application date), or
+For Child Benefit, most recent bank statement/certified photocopy of building society or NS&I passbook evidencing the payment from the HMRC/DWP source.
+Where any client's total gross income is above £60,000, Child Benefit must not be included as a source of income.
+We may ask for further information to confirm how the mortgage will remain affordable when the payments end.
+
+*Where these benefits are paid as part of your client's Universal Credit payment, we'll treat them as secondary income (70%).
+Please note that Universal Credit, Working Tax Credit, Child Tax Credit and Child Benefit can't be used for Buy to Let mortgage applications.
+
+State benefits (DWP/HMRC) confirmed as indefinite e.g. carer’s allowance and DLA
+
+DWP/HMRC letter confirming the amount and benefit type.
+
+Universal Credit
+
+Latest Universal Credit payment summary (dated within 1 month of application) with a breakdown of payments and deductions.
+
+It must show all sections, including;
+
+What your client is entitled to.
+The amount taken off (deductions).
+Total payment for this month.
+Last 6 months’ payments shown on the Universal Credit account.
+
+Universal Credit income calculation:
+
+We'll take an average of the 6 months' payments minus the latest month's housing benefit (if 6 months’ full statements are received then we’ll take an average of all totals minus all housing benefit).
+
+ Other income types
+
+Income type
+Acceptable proof
+
+Investment income (excluding rental income)
+
+Evidence of a regular income from this source showing a consistent or improving return:
+
+Bank statements evidencing latest 3 months' income, and
+Evidence of the source, e.g. portfolio of stocks and shares.
+
+As investment income is complex and different for every case it is advised that you speak to your dedicated contact about what evidence of the source is required.
+
+Dividends for applicants with a shareholding of less than 20% (individually or combined)
+
+Please speak to your dedicated contact about what evidence is required.
+Income should be entered into the 'Investment income' box when completing the AIP.
+
+Maintenance payments
+
+Bank statements evidencing latest 3 months' maintenance payments (most recent statement to be no more than 1 month from application date).
+
+Please note that maintenance payments can't be used for Buy to Let mortgage applications.
+
+Fostering income
+
+Confirmation from local authority of the number of children placed and the payment amount for each, and
+Confirmation from local authority of the length of time they’ve been a foster parent and how long it is likely to continue, and
+Details of future placements (where relevant), and either
+Payslips evidencing latest 3 months' income, or
+Bank statements evidencing latest 3 months’ income, or
+Self-employed accounts (if applicable).
+
+ Fees
+
+ Early repayment charges (ERC)
+
+If an ERC applies to a loan part, your clients can make capital repayments of up to 10% of the balance on this loan part each calendar year without incurring a charge. A minimum amount may apply. If the product fee has been added to the loan, your client can repay this up to 21 days following completion. Repayment of the product fee won't affect your client's 10% ERC free allowance.
+The mortgage must remain with us until the product charge end date or any applicable ERC will be charged. In addition, if a benefit package is taken with the product, there's a benefit package end date which may differ from the product charge end date. If the benefit package end date is before the product charge end date, an ERC will still be applicable until the product charge end date.
+Should your client redeem their mortgage before the benefit package end date, they'll need to repay the benefit (£250 cashback or £200 for remortgage legal work). The benefit package end date is shown on the mortgage illustration and the rate bulletin. The repayment of the benefit package ERC will be in addition to any product ERC which may apply.
+Your client won't pay any applicable ERC if on or before the charge end date, they:
+
+simultaneously with redemption take a mortgage on a new property that completes with us for the same amount and product terms as the previous mortgage. Please see the 'Porting' section for more information; or
+simultaneously with redemption, if their existing deal has 9 months or less to expiry at application, choose to take a new product with us for a least the same amount.
+
+A product ERC is a percentage of your client's outstanding mortgage balance at the time of redemption. The level of charge differs by product term. The ERC percentage remains the same until the product charge end date.
+
+ Fees
+
+All mortgage fees are the same as residential rates set out in the Santander tariff of mortgage charges
+
+ Product
+
+ Additional borrowing
+
+Please note we don't currently offer additional loans if your client has a Buy to Let or consent to let mortgage.
+
+ General Buy to Let conditions
+
+Our Buy to Let mortgages don't allow a landlord to borrow additional funds from Santander after completion of the mortgage.
+We reserve the right to ask for additional client information where we deem necessary.
+
+ Interest only applications
+
+Pure interest only is available subject to the sale of the Buy to Let property. No minimum buffer applies.
+Interest only investment/endowment is permitted subject to criteria.
+
+ Mortgage buffer
+
+There is a £750 buffer available on all purchase and remortgage offers excluding undervalue transactions.
+Please note the mortgage buffer can exceed the product LTV, but it can't go over 90% LTV. Where this facility is required, please make sure your client informs their solicitor.
+
+ Mortgage loan
+
+Minimum loan £25,000.
+Maximum loan £750,000 per property.
+No higher lending charge applies.
+
+ Mortgage term
+
+Minimum 5 years.
+Maximum 40 years.
+
+ Remortgaging
+
+For all Buy to Let remortgages the property must have been owned for at least 6 months.
+We don't accept applications where your client is remortgaging their existing residential property as a Buy to Let, regardless of any future intentions.
+We don't normally accept applications that include a change of borrower at the same time.
+We'll consider remortgaging with capital raising for personal use up to 75% LTV, including:
+
+home/property improvements
+personal debt consolidation
+investment, including purchase of another Buy to Let or residential property.
+
+Capital raising for business purposes isn't accepted.
+
+ Repayment methods
+
+We offer repayment, pure interest only subject to the sale of the Buy to Let property, and investment linked interest only where the vehicle meets the residential lending criteria for the vehicle and its value.
+
+ Property
+
+ Cladding
+
+For most flats, the valuer won’t ask for any information before they complete the valuation report. So, you don’t need to send us anything upfront. If the valuer finds there is cladding that raises a concern and we don’t already hold building records, they’ll let you know what they need to give a valuation.
+If the valuer asks for further information, you should provide this in the exact format they’ve asked for. It should be on headed paper from the building owner or management company.
+England, Wales and Northern IrelandAlthough we'll consider other supporting documents, we still need a letter from the building owner or management company if the valuer asks for this.
+ScotlandWe may be able to accept an EWS1 for the individual flat concerned if it’s sent with a letter of provenance.
+
+ Leasehold properties
+
+We don't accept applications on leaseholds where the leaseholder has or will have a controlling interest in the freehold.
+The minimum time remaining on the lease at the expiry of the mortgage term must be:
+
+30 years for mortgages on capital and interest
+50 years where any part of the loan is on interest only.
+
+Applications are subject to a satisfactory valuation.
+Please note that the property will be valued by a third party registered RICS valuer. When a property is leasehold, its value will depend upon the length of time remaining on the lease. Typically value reduces as the lease term expires. Consequently, there may be occasions where the valuation of a leasehold property could be insufficient to support the mortgage required, even though the time remaining on the lease meets the above lending requirements.
+
+ Loan to value restrictions
+
+Maximum LTV 75%.
+New build flats maximum LTV 75%.
+
+ Properties in the Isle of Man
+
+We don't accept applications for properties in the Isle of Man.
+
+ Property
+
+Located in England, Scotland, Wales or Northern Ireland.
+Minimum value £75,000.
+No maximum value.
+Must be habitable with a working kitchen and bathroom (as a minimum) before any funds will be released.
+
+We don't accept applications for:
+
+Any property where the tenant is a Registered Social Landlord e.g. Housing Association, Local Authority or educational establishment.
+Any property with a restriction on use or occupation.
+Any property with 6 or more bedrooms.
+Any property on a holiday let basis.
+Freehold flats (in England and Wales).
+Any commonhold properties.
+Sheltered accommodation.
+Property with part commercial use (including property subject to agricultural or other planning restrictions).
+Remortgage applications on properties that we still define as a new build.
+
+We may accept applications for:
+Where contiguous land is owned or controlled by your client, we'll consider lending providing either:
+
+access and services don't depend on the contiguous land; or
+adjacent land is in exactly the same name(s) as our security and the land can be charged to us.
+
+ Right to Buy/Acquire
+
+We don't accept applications for Right to Buy properties still within the discount repayment period.
+
+ Second charges
+
+We don't allow second or subsequent charges to be registered where a property is let or will be let. Remortgage applications may be considered where any existing second charge will be discharged on or before completion.
+
+ Shared Ownership
+
+We don't accept applications on Shared Ownership properties.
+
+ Tenancy types
+
+Assured Shorthold Tenancy (minimum 6 months, maximum 36 months), including UK jurisdictional equivalents.
+
+Lettings must be 1 single tenancy agreement to individuals and single families.
+Maximum of 4 named individuals on a single tenancy and no more than 1 tenancy agreement.
+
+ Undervalue transactions
+
+We accept transactions where the reduced purchase price is:
+
+80% or more of the current market value; and
+no more than £100,000 below the current market value.
+
+The loan to value is based on the reduced purchase price.
+
+ Valuations
+
+We'll arrange for a valuation of the property to be let. The valuer will advise the expected rental income and the value of the property.
+We'll accept properties that our valuer considers:
+
+suitable for marketing as an owner-occupation property without alteration
+acceptable for mortgage purposes by mainstream lenders.
+capable of being let/re-let within a maximum of 3 months.
+capable of selling within 6 months.
+suitable security where there are multiple tenants.
+
+Where the location of the property means demand is limited to the investor market, the property is only acceptable if demand is considered to be sustainable and based upon tangible characteristics of the locality and economy e.g. a university.
+The opinion of the valuer will be final and non negotiable.

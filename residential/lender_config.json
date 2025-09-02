@@ -1,0 +1,116 @@
+{
+  "lender_files_config": {
+    "total_files": 35,
+    "text_files": 32,
+    "pdf_files": 3,
+    "last_updated": "2025-08-31",
+    "platform": "Docling AI",
+    "purpose": "Residential Mortgage Criteria Q&A System"
+  },
+  "lender_categories": {
+    "major_banks": [
+      "barclays_residential.txt",
+      "hsbc_residential.txt",
+      "hsbc_residential_1.txt",
+      "natwest_bank_residential.txt",
+      "santander_bank_residential.txt",
+      "santander_bank_residential_1.txt",
+      "santander_bank_residential.pdf"
+    ],
+    "building_societies": [
+      "accord_residential.txt",
+      "coventry_residential.txt",
+      "furness_building_society_residential.txt",
+      "leeds_building_society_residential.txt",
+      "leek_building_society_residential.txt",
+      "newcastle_building_society_residential.txt",
+      "nottingham_building_society_residential.txt",
+      "principality_building_society_residential.txt",
+      "skipton_building_society_mortgage_residential.txt"
+    ],
+    "specialist_lenders": [
+      "fleet_residential.pdf",
+      "kent_reliance_residential.txt",
+      "kmc_lending_residential.txt",
+      "kmc_lending_residential.pdf",
+      "lend_invest_residential.txt",
+      "moda_mortgages_residential.txt",
+      "nationwide-residential.txt",
+      "pepper_money_residential.txt",
+      "the_mortgage_lender_residential.txt",
+      "vida_home_loans_residential.txt",
+      "virgin_money_residential.txt"
+    ],
+    "other_banks": [
+      "bank_of_ireland_residential.txt",
+      "clydesdale_bank_residential.txt",
+      "halifax_bank_residential.txt",
+      "halifax_residential_banking_services_residential.txt",
+      "halifax_residential_banking_services_residential_direct_residential.txt",
+      "scottish_widows_mortgage_residential.txt"
+    ]
+  },
+  "duplicate_file_groups": {
+    "kmc_lending": [
+      "kmc_lending_residential.txt",
+      "kmc_lending_residential.pdf"
+    ],
+    "santander": [
+      "santander_bank_residential.txt",
+      "santander_bank_residential_1.txt",
+      "santander_bank_residential.pdf"
+    ]
+  },
+  "file_format_analysis": {
+    "barclays_style": [
+      "barclays_residential.txt",
+      "bank_of_ireland_residential.txt",
+      "hsbc_residential.txt",
+      "hsbc_residential_1.txt",
+      "kmc_lending_residential.txt"
+    ],
+    "accord_style": [
+      "accord_residential.txt"
+    ],
+    "mixed_style": [
+      "clydesdale_bank_residential.txt",
+      "coventry_residential.txt",
+      "fleet_residential.pdf",
+      "furness_building_society_residential.txt",
+      "halifax_bank_residential.txt",
+      "halifax_residential_banking_services_residential.txt",
+      "halifax_residential_banking_services_residential_direct_residential.txt",
+      "kent_reliance_residential.txt",
+      "leeds_building_society_residential.txt",
+      "leek_building_society_residential.txt",
+      "lend_invest_residential.txt",
+      "metro_bank_residential.txt",
+      "moda_mortgages_residential.txt",
+      "natwest_bank_residential.txt",
+      "newcastle_building_society_residential.txt",
+      "nottingham_building_society_residential.txt",
+      "nationwide-residential.txt",
+      "pepper_money_residential.txt",
+      "principality_building_society_residential.txt",
+      "scottish_widows_mortgage_residential.txt",
+      "skipton_building_society_mortgage_residential.txt",
+      "the_mortgage_lender_residential.txt",
+      "vida_home_loans_residential.txt",
+      "virgin_money_residential.txt"
+    ]
+  },
+  "processing_notes": {
+    "duplicate_files": "All duplicate files are intentionally preserved to ensure comprehensive coverage of lender criteria",
+    "format_variations": "Mixed format styles are handled automatically by the Docling platform",
+    "file_sizes": "File sizes range from 630B to 13.35MB, all within platform processing limits",
+    "content_structure": "All files contain structured mortgage criteria with clear sections and headers",
+    "lender_coverage": "Covers 30+ major UK mortgage lenders with comprehensive criteria"
+  },
+  "ai_platform_requirements": {
+    "chunking_strategy": "Use HybridChunker to preserve mortgage criteria structure",
+    "metadata_extraction": "Extract lender name, criteria type, and section information",
+    "search_optimization": "Enable semantic search across all lender criteria simultaneously",
+    "response_format": "Include lender attribution and source information in all responses",
+    "performance_targets": "Sub-second response time for criteria queries across all lenders"
+  }
+}

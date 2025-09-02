@@ -1,0 +1,51 @@
+SAMPLE BUILDING SOCIETY RESIDENTIAL CRITERIA
+========================================================
+
+LENDER INFORMATION:
+- Lender Name: Sample Building Society
+- Product Type: Residential Mortgages
+- Minimum Age: 21
+- Maximum Age: 70
+
+INCOME REQUIREMENTS:
+- Minimum Income: £30,000
+- Self-employed: 3 years accounts required
+- PAYE: 6 months payslips required
+- Bonus: 50% of bonus can be used
+
+DEPOSIT REQUIREMENTS:
+- Minimum Deposit: 15%
+- Maximum LTV: 85%
+- Gifted deposits: Allowed with solicitor letter
+- Help to Buy: Supported
+
+PROPERTY TYPES:
+- Freehold houses: Yes
+- Leasehold flats: Yes (min 90 years)
+- New build: Yes
+- Buy to let: No
+- Shared ownership: Yes
+
+CREDIT REQUIREMENTS:
+- Credit score: Minimum 750
+- CCJs: Maximum £250
+- Defaults: None in last 12 months
+- Bankruptcy: Discharged 10+ years ago
+- IVA: Discharged 6+ years ago
+
+EMPLOYMENT:
+- Full-time: Yes
+- Part-time: Yes (minimum 20 hours)
+- Contract: 18+ months remaining
+- Agency: 12+ months with same agency
+- Zero hours: 12+ months with same employer
+
+SPECIAL FEATURES:
+- First-time buyers: 95% LTV available
+- Key workers: Special rates available
+- Green mortgages: Discounted rates for energy-efficient properties
+- Family mortgages: Joint borrower sole proprietor available
+
+ADDITIONAL NOTES:
+This is another demo file showing the variety of criteria that can be added.
+The system handles different formats and structures automatically.

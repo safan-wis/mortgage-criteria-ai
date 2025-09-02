@@ -1,0 +1,1106 @@
+# Santander for Intermediaries - Residential Mortgage Criteria
+
+Source: https://www.santanderforintermediaries.co.uk/products-and-criteria/mortgage-lending-criteria
+
+Last Updated: 2025-08-28
+
+
+## What's changed?
+• Affordability
+
+Changes to our loan to income multiples.
+• Changes to our loan to income multiples.
+
+• Changes to our loan to income multiples.
+
+The following section has been updated:
+
+## Eligibility questions
+• Are your clients unable to provide written confirmation of all types of income which will be used in the application?
+• Is this a Buy to Let application?
+• Is this a Guarantor application?
+• Is this a Shared Equity mortgage not offered through the Government's Help to Buy (England or London) scheme?
+• Is this a Low Cost Housing Restricted Resale Covenant application?
+• Is the property being purchased by, from or connected to, a Property Investment Club?
+• Are all your clients applying unemployed?
+• Are any of your clients under 18?
+• Will the end of the mortgage term exceed any of your clients' 75th birthday?
+• Will an occupier who isn't an applicant on the new mortgage application be paying a lump sum towards the purchase of the property?
+• Will your client or their immediate family live in less than 40% of the property either on completion of the mortgage or at a later time?
+• Is your client remortgaging an Alliance & Leicester mortgage to Santander?
+• If this a remortgage application, does your client currently not occupy the property?
+• On completion of this mortgage will your client own 6 or more properties that are mortgaged?
+• Is this a type of property or loan that we don't lend on?
+
+• Ever had a property repossessed by a mortgage lender?
+• Ever been bankrupt or subject to an IVA?
+• Ever had a criminal conviction, unless the conviction is for a minor traffic offence, or spent under the Rehabilitation of Offenders Act 1974?
+
+If the answer is yes to any of the questions below, unfortunately we'll decline the application. Also, has any client on the application:
+
+## Affordability
+        
+            
+            Affordability
+        
+            
+            Arrears
+        
+            
+            Bankruptcy
+        
+            
+            Credit score
+        
+            
+            Declines
+        
+            
+            Expenditure
+        
+            
+            Foreign currency income
+        
+            
+            Loan to income (formerly income multiples)
+        
+            
+            Payslip deductions
+        
+            
+            Proof of deposit
+        
+            
+            Proof of mortgage payments
+        
+            
+            Proof of rental payments
+        
+            
+            Rental property income
+        
+            
+            Secured credit commitments
+        
+            
+            Self certification
+
+Primary income (100% of income) | Secondary income (70% of income) | Gross basic | Other
+--- | --- | --- | ---
+Permanent employment - basic salary; Fixed term contract (PAYE); Short-term renewable contract (PAYE); Salary for a director of a limited company; Net profit of a sole trader/ partnership; Director's dividends (1); Umbrella company; Private/company pensions and annuities; State pension; Employed in a family business (2) | Bonus or commission where the amounts are regular and consistent (2); Overtime where the amounts are regular and consistent (2); Car allowance; London weighting/large town allowance; Permanent shift allowance; Indefinite mortgage subsidies or housing allowances; Child benefit (3); Child tax credit; Working tax credit/pension credit; Second job - where a track record can be evidenced, and the income is ongoing and sustainable. | Bonus, commission or overtime paid monthly where the amounts are regular but inconsistent; Annual bonus or commission; Other bonus, commission or overtime paid less frequently than monthly; Long-term mortgage subsidies or housing allowances; Indefinite state benefits (DWP/HMRC) e.g. carer's allowance and DLA; Universal Credit; Investment income; Maintenance payments; Rental income; Fostering income; Taxable tips/gratuities/tronc
+
+High credit score | Low credit score
+--- | ---
+Not over indebted | No existing mortgage
+An established clear credit history | Little to no credit history
+Likely to have a lower LTV | Likely to have a high LTV
+A well conducted existing mortgage | Some adverse credit history
+A record on the voter's roll | No record on the voter's roll
+
+Combined income for all clients | Capital and interest | Interest only | LTV 75% or less | LTV over 75% to 85% | LTV over 85% to 90% | LTV over 90% | LTV 75% or less | LTV over 75% to 85%
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+Less than £45,000 | 4.45x | 4.45x | 4.45x | 4.45x | 4.45x | 4.45x
+£45,000 to less than £100,000 | 5.00x | 5.00x | 5.00x | 4.45x | 5.00x | 5.00x
+£100,000 or more | 5.50x | 5.50x | 5.50x | 4.45x | 5.50x | 5.50x
+£4£ Remortgage | 5.50x | 5.50x | 5.50x | 5.50x | 5.50x | 5.50x
+
+Affordability assessment | Introducer Internet full mortgage application | Examples
+--- | --- | ---
+Discretionary deductions | May be excluded | You need to confirm if your client is prepared to cancel all discretionary payslip deductions in the future if they experience financial difficulties.; If the answer is 'no', you'll need to tell us which discretionary payslip deductions your client is prepared to cancel. | Additional voluntary pension contributions (must show to the company pension contribution as a separate entry on your client's payslip); Sharesave; Employee share schemes; Give as You Earn (GAYE); Private healthcare; Mobile telephones
+• Any credit card balance that has been paid in full for at least the last 6 months before application.
+• Credit commitments with 4 months or less to run at the time of application submission, as long as your client doesn't intend to take on a new credit commitment to replace the existing one. You must record in the general notes section in Introducer Internet:
+
+Client name
+Commitment type
+Balance
+Lender
+Monthly payment
+Confirmation that your client doesn't intend to take on a new credit commitment.
+• Client name
+• Commitment type
+• Balance
+• Lender
+• Monthly payment
+• Confirmation that your client doesn't intend to take on a new credit commitment.
+
+• Client name
+• Commitment type
+• Balance
+• Lender
+• Monthly payment
+• Confirmation that your client doesn't intend to take on a new credit commitment.
+
+• Loans and outstanding credit card balances
+• Shared Ownership rent
+• Services charges
+• Maintenance
+• Student loans; and
+• Cost of investments to be used to repay interest only loans.
+
+• US Dollar (USD)
+• Euro (EUR)
+• Swiss Franc (CHF)
+
+• Foreign currency amount.
+• GBP equivalent.
+• Exchange rate on the day of the calculation.
+• Date of calculation.
+
+• Our income multiples are for guidance only and may change at short notice. All applications must be affordable.
+• Please use our affordability calculator to see how much your client may be able to borrow.
+
+• provided by the vendor (unless an acceptable new build incentive from the builder/developer or an undervalue transaction in certain circumstances),
+• protected by a Deed of Trust (or similar),
+• the person providing it will be living in the property, but isn't named on the mortgage, or
+• there is a beneficial/equitable ownership/interest in the property.
+
+• Amount,
+• Lender (explain background if not a financial institution),
+• Loan terms (e.g. interest rate, payments required),
+• Any security required e.g. second charge, and
+• Confirmation that payments have been factored into affordability.
+
+• your client's total secured commitments exceed £150,000 at application and they have more than 5 secured credit commitments at application, OR
+• will own 6 or more mortgaged properties on completion (including the property being purchased/remortgaged).
+
+Consideration of any application is primarily based on your client's ability to repay the mortgage loan. Calculation of the amount we'll lend to your client is based on assessing affordability. The affordability calculator is available on our website. Current credit commitments must be included when assessing affordability even if they're being repaid as part of the transaction. For example, a loan or credit card being repaid from equity in the property. However, the following credit commitments don't need to be included: Please note that if your client has a financial agreement which has a balloon payment associated to it, this must always be declared as a financial commitment. To make sure a realistic figure is used for affordability purposes, the system will automatically use 100% of primary income and a maximum of 70% of secondary income, to calculate the net monthly income figures. The table below shows the income types considered. Primary income is income that is permanent, monthly, reliable, sustainable and regular. Secondary income is income that, whilst not permanent or guaranteed, is nevertheless regular and sustainable. Please note that applications will be subject to additional policy including maximum income multiples and debt:income ratios. Income types 1. Dividends can’t exceed your client's share of profit (after tax) and should be capped to net profit. 2. Please refer to our evidence requirements guide for further details and requirements. 3. Where either the benefit recipient or their partner's total gross income is above £60,000, child benefit must not be included as a source of income. Arrears in the previous 12 months aren't acceptable. Any client who has ever been bankrupt will be declined. The following provides examples of the types of application that fall into our credit scores. Low scoring applications may be declined. If you wish to appeal a declined AIP or FMA, please speak to your dedicated contact. Regular expenditure items need to be included to assess affordability. To include: We'll consider applications where any element of employed income is paid in any of the following foreign currencies: The sterling equivalent must be calculated and discounted by 25% to allow for currency fluctuations. This figure must be input into the £ equivalent field in Introducer Internet. You must record in the general notes within the Regulation Section in the full mortgage application in Introducer Internet: The table below shows our maximum income multiples. Income may be a combination of primary and secondary incomes: Some payslip deductions where your client confirms the deduction is discretionary may be excluded from our affordability assessment, subject to confirmation in the Introducer Internet general notes. Non-discretionary deductions, e.g. company pension contributions, student loans, season ticket loans, childcare vouchers, can't be excluded from the affordability assessment. We don't accept applications where your client advises they'll cancel a company pension scheme to support affordability. We may request proof of deposit where we want to know more about the source of the funds e.g. a first time buyer putting down a large deposit. We accept Help to Buy: ISA as a source of deposit for first time buyers. We don’t accept deposit funds originating either from a child’s bank account/trustee account, or funds transferred directly from a business bank account without having been declared as personal income. Where deposit funds originate from outside of the United Kingdom, you'll be required to state the origin of your client's funds and additional checks may apply. Please refer to our evidence requirements > proof of deposit section for a list of countries/jurisdictions from where we don't accept deposit funds. We can accept deposits provided by gift or loan. Gifted deposit We won't accept a gifted deposit if: The list above isn't exhaustive, so there may be other instances where we won't accept a gifted deposit. The use of a second charge could indicate the amount provided isn't a gift and further clarification may be required. We don't allow a second charge on any flexible mortgage products. For gifted deposit applications where the funds are received from abroad, there are some additional requirements we may ask for to evidence the deposit. Please refer to our evidence requirements > proof of deposit section for more details. Loan Where the source of deposit is a loan, you should give us the following details in the notes section on Introducer Internet: We don't accept deposits funded from a Santander personal loan. Not required unless requested specifically. Not required unless requested specifically. Acceptable rental income surplus evidenced on existing let properties may be used as secondary income, please see the retained properties section. We don't accept new applications if: We don't allow self certification of income.
+
+## Affordability
+Consideration of any application is primarily based on your client's ability to repay the mortgage loan. Calculation of the amount we'll lend to your client is based on assessing affordability. The affordability calculator is available on our website. Current credit commitments must be included when assessing affordability even if they're being repaid as part of the transaction. For example, a loan or credit card being repaid from equity in the property. However, the following credit commitments don't need to be included: Please note that if your client has a financial agreement which has a balloon payment associated to it, this must always be declared as a financial commitment. To make sure a realistic figure is used for affordability purposes, the system will automatically use 100% of primary income and a maximum of 70% of secondary income, to calculate the net monthly income figures. The table below shows the income types considered. Primary income is income that is permanent, monthly, reliable, sustainable and regular. Secondary income is income that, whilst not permanent or guaranteed, is nevertheless regular and sustainable. Please note that applications will be subject to additional policy including maximum income multiples and debt:income ratios. Income types 1. Dividends can’t exceed your client's share of profit (after tax) and should be capped to net profit. 2. Please refer to our evidence requirements guide for further details and requirements. 3. Where either the benefit recipient or their partner's total gross income is above £60,000, child benefit must not be included as a source of income.
+
+## Arrears
+Arrears in the previous 12 months aren't acceptable.
+
+## Bankruptcy
+Any client who has ever been bankrupt will be declined.
+
+## Credit score
+The following provides examples of the types of application that fall into our credit scores. Low scoring applications may be declined.
+
+## Declines
+If you wish to appeal a declined AIP or FMA, please speak to your dedicated contact.
+
+## Expenditure
+Regular expenditure items need to be included to assess affordability. To include:
+
+## Foreign currency income
+We'll consider applications where any element of employed income is paid in any of the following foreign currencies: The sterling equivalent must be calculated and discounted by 25% to allow for currency fluctuations. This figure must be input into the £ equivalent field in Introducer Internet. You must record in the general notes within the Regulation Section in the full mortgage application in Introducer Internet:
+
+## Loan to income (formerly income multiples)
+The table below shows our maximum income multiples. Income may be a combination of primary and secondary incomes:
+
+## Payslip deductions
+Some payslip deductions where your client confirms the deduction is discretionary may be excluded from our affordability assessment, subject to confirmation in the Introducer Internet general notes. Non-discretionary deductions, e.g. company pension contributions, student loans, season ticket loans, childcare vouchers, can't be excluded from the affordability assessment. We don't accept applications where your client advises they'll cancel a company pension scheme to support affordability.
+
+## Proof of deposit
+We may request proof of deposit where we want to know more about the source of the funds e.g. a first time buyer putting down a large deposit. We accept Help to Buy: ISA as a source of deposit for first time buyers. We don’t accept deposit funds originating either from a child’s bank account/trustee account, or funds transferred directly from a business bank account without having been declared as personal income. Where deposit funds originate from outside of the United Kingdom, you'll be required to state the origin of your client's funds and additional checks may apply. Please refer to our evidence requirements > proof of deposit section for a list of countries/jurisdictions from where we don't accept deposit funds. We can accept deposits provided by gift or loan. Gifted deposit We won't accept a gifted deposit if: The list above isn't exhaustive, so there may be other instances where we won't accept a gifted deposit. The use of a second charge could indicate the amount provided isn't a gift and further clarification may be required. We don't allow a second charge on any flexible mortgage products. For gifted deposit applications where the funds are received from abroad, there are some additional requirements we may ask for to evidence the deposit. Please refer to our evidence requirements > proof of deposit section for more details. Loan Where the source of deposit is a loan, you should give us the following details in the notes section on Introducer Internet: We don't accept deposits funded from a Santander personal loan.
+
+## Proof of mortgage payments
+Not required unless requested specifically.
+
+## Proof of rental payments
+Not required unless requested specifically.
+
+## Rental property income
+Acceptable rental income surplus evidenced on existing let properties may be used as secondary income, please see the retained properties section.
+
+## Secured credit commitments
+We don't accept new applications if:
+
+## Self certification
+We don't allow self certification of income.
+
+## Customer
+        
+            
+            Applicants and over 17s living in the property
+        
+            
+            Automated Income Verification (AIV)
+        
+            
+            Conflict of interest
+        
+            
+            Contractors
+        
+            
+            Criminal record
+        
+            
+            Cryptocurrency
+        
+            
+            Client contact information
+        
+            
+            Eligibility
+        
+            
+            Execution only
+        
+            
+            Existing mortgage customers moving home
+        
+            
+            First time buyer
+        
+            
+            Foreign nationals
+        
+            
+            Guarantors
+        
+            
+            Identification
+        
+            
+            Lending over 90% LTV
+        
+            
+            Maximum age
+        
+            
+            Porting
+        
+            
+            Property Investment Club
+        
+            
+            Residency
+        
+            
+            Self-employed
+        
+            
+            Solicitor panel
+        
+            
+            Voter's Roll (Electoral Register)
+
+If there's 9 months or less left on the current deal at the date of application submission | If they're borrowing the same amount or more, we'll waive the ERC in full, or; If they're borrowing less, we'll charge an ERC on the amount they're not moving onto the new product, e.g. if the current balance is £100,000 and the new mortgage is £90,000, we'll charge an ERC on the £10,000 difference.
+If there's more than 9 months left on the current deal at the date of application submission | Any ERC must be paid in full.
+• be satisfied the income declared is accurate and have supporting evidence of net income which meets our requirements when you submit the case. You don't need to upload this to us.
+• keep the evidence on file for the term of the mortgage contract. We reserve the right to see copies of this.
+
+• be aged 18 or over; and
+• have 3 years' address history; and
+• be a UK resident (please refer to our residency section).
+
+• High net worth: 1 client must have an annual net income of no less than £300,000, or net assets of no less than £3,000,000. Joint incomes can't be summed to meet the eligibility amounts.
+• Mortgage professionals: must either work or have recently worked in the home finance sector for at least a year, are CeMAP qualified (or equivalent) and understand the risks. For joint applications both clients must be Mortgage Professionals.
+
+• If your client borrows the same or more, on redemption of the existing mortgage, the ERC is paid in full and will be refunded after completion of the new purchase.
+• If borrowing less, the ERC refund will be a proportionate amount, i.e. we’ll only refund the ERC on the amount your client has ported.
+
+• A visa stamp in a passport (for this purpose only, the passport may be expired), or
+• An unexpired Biometric Residence Permit, or
+• The share code so we can check the settled or pre-settled status of EEA/Swiss citizens. Go to https://www.gov.uk/view-prove-immigration-status
+
+• If limited bureau data is available, 3 months' bank statements.
+
+• Maximum purchase price or property value £600,000 (£400,000 for flats).
+• Can't own another property in the UK or abroad.
+• The property must be owner-occupied.
+• The method of repayment must be capital and interest
+• We require the latest 3 months' personal bank statements for each client in addition to any additional income verification.
+• Must meet our income evidence requirements. Please refer to our Evidence requirements guide for further details.
+
+• the oldest client's 75th birthday, or
+• the oldest client's 70th birthday where any loan part is on interest only, or
+• the client’s intended retirement age if this is earlier.
+
+• If they're borrowing the same or less - we may consider applications beyond the oldest client's selected retirement age. However, the term can't be extended and can't go past the oldest client's 75th birthday.
+• If any loan part is on interest only - we may consider applications beyond the oldest client's 70th birthday, as long as they're not increasing the interest only amount. However, the term can't be extended and can't go past the oldest client's 75th birthday.
+
+• Be a UK resident; and
+• The property must be for their own use and immediate occupation.
+
+• Temporarily overseas (e.g. BFPO, offshore worker) and returning to live in the property at an end date; or
+• Not fully occupying but the property would be:- Partially occupied e.g. sole applicant working overseas during the week but residing in the property at weekends- Split occupation e.g. one joint party resides in property and the other is abroad- Family occupied – e.g. dependent relative such as spouse/parent/sibling resides but with no formal letting agreement. Purchase applications only. Remortgage applications aren't permitted.
+
+Maximum of 2 clients per application. If the application includes a person who is going to be living in the property and they're also providing a lump sum towards the purchase, that person must be included on the application and appear on the mortgage. If there will be a person over age 17 living in the property who isn't on the mortgage, they must sign our Deed of Consent and Charge to postpone/charge to Santander any occupancy right or interest they may have in the property. This Deed is on the reverse of our Mortgage Deed (Standard Security in Scotland). Where your client has just 1 name (first name or surname), either on their birth certificate or because they changed it by deed poll, input 'XXX' into the surname field within the Agreement in Principle on Introducer Internet. AIV is a method we use to verify your client's stated income by comparing Current Account Turnover sourced from Credit Reference Agencies. Where we use AIV, we confirm this at the full mortgage application decision stage in Introducer Internet and you must: If you resubmit a case or there's a material change, we check the eligibility for AIV. If we don't use AIV, we confirm what income evidence you need to upload to support the application. Our detailed income evidence requirements are set out on our website. We reserve the right to request this evidence. Intermediaries are required to act appropriately where an application represents a potential conflict of interest situation. This applies to both new business and product transfer applications. You can't deal with an application in your own name. This includes acting as the accountant for your self-employed applications where you're a qualified accountant. For firms where there is no independent person to process the application and validate all necessary documentation, the application will need to be submitted through another firm. We'll consider clients on non-permanent employment contracts. We don't accept applications from clients with a criminal record (or where they're living with someone who has), unless the conviction is for a minor traffic offence, or is spent under the Rehabilitation of Offenders Act 1974. We don't accept cryptocurrencies as a source of deposit. All new mortgage applications submitted must provide a personal email address and mobile number for each client. If your client is unable or unwilling to provide this information through the intermediary application process and they still wish to apply for a Santander mortgage, they’ll need to contact Santander directly by phone. At the time of application, your clients must: We'll accept applications on an execution only basis for high net worth clients and Mortgage Professionals. For an application to be considered on an execution only basis your clients must meet the following criteria: Evidence of eligibility to proceed with execution only must be obtained from your client. We'll undertake regular monthly checks with a sample of intermediaries to check that they comply with the above criteria. If your client already has a Santander mortgage, there are a couple of options available to them when they're moving home. Porting Porting is when an existing Santander mortgage customer moves home and transfers their mortgage product for the rest of its term. Most of our products are portable. It's possible to ‘port’ most existing products to a new mortgage as long as it's for house purchase/home ownership but not to a property being remortgaged or owned mortgage-free. Your client's right to port their mortgage product is always subject to the conditions for transferring the loan to a new mortgage in their Mortgage Terms and Conditions. In particular, any new mortgage application made will be subject to a full credit check and the customer/property must meet our lending criteria at the time of the new application. If we don't agree a new mortgage, your client won't be able to port their mortgage product and they may then need to pay an early repayment charge (ERC) if they then redeem their existing mortgage. Where redemption of the existing mortgage and purchase of the new property isn't simultaneous, as long as the purchase of the new property completes within 3 months of the redemption date, the existing product can be ported to the new mortgage. Any additional borrowing must come from the new business mortgage product range. Where your client is porting their existing mortgage to a new build property, they’ll receive a refund of the ERC in line with the criteria above, if the purchase of the new property completes within 6 months of the redemption date. Where your client chooses to port their Flexible Offset mortgage to a new property, the sale and purchase must be simultaneous. The 3 month ERC waiver window doesn't apply (because there's no ERC). Choosing a new product Existing Santander mortgage customers moving home can choose a new business product for their total borrowing. Where they’re currently tied in: You'll need to inform your client that they must tell their solicitor to deduct the full or partial percentage of ERC waiver from the redemption monies if redemption and completion are simultaneous. If completion is non-simultaneous, your client must pay the full ERC due on redemption. As long as completion of the new mortgage is within 3 months of redemption, your client can then request a refund of the full or partial ERC. A client who has never owned a property, whether in the UK or abroad. On joint applications all clients must meet the definition. We consider applications from non-UK/non-Irish nationals where the property is for their own use and for immediate occupation. These may be subject to full underwriting. We don't accept applications from foreign nationals holding diplomatic immunity. For applications where the LTV is over 75% and your client's income is required for affordability purposes, they must have the permanent right to reside in the UK e.g. indefinite leave to enter (ILE) or remain in the UK (ILR) or settled or pre-settled status (EEA/Swiss citizens). This must be supported by 1 of the following: Further information may be available from www.gov.uk/browse/visas-immigration/settle-in-the-uk We don't accept guarantor applications. A Confirmation of Verification of Identity Certificate must be completed and meet the requirements set out within the Joint Money Laundering Steering Group Guidance for the UK Financial Sector. We reserve the right to ask for additional client information, including identity evidence, where it's deemed necessary. For lending over 90% LTV, your client will need to meet the following criteria: For LTV restrictions please refer to the 'Types and purpose of loans where we lend' section. We consider applications where the mortgage term doesn't exceed: Retired clients We treat clients as retired if they receive retirement income and aren’t reliant on income from employment or self-employment at the time of application. In these cases, there’s no intended retirement age. Subject to our maximum age policy at the end of the mortgage term, we can consider applications from retired clients. Existing Santander mortgage customers moving home: In all cases we undertake regular checks to assess the plausibility of your client's selected or anticipated age of retirement and we may request further information or evidence to support this. Please refer to the 'Existing mortgage customers moving home' section for more information. We don't accept applications where the property is being purchased by, from or connected to a Property Investment Club. All clients must: Exceptions to this policy are clients who meet 1 of the following scenarios: Where your client's shareholding in a company (or combined shareholding of all clients) is 20% or more, treat your client as self-employed. Where your client's shareholding in a company (or combined shareholding of all clients) is less than 20%, treat your client as employed. For family business employment, we require bank statements evidencing the latest 3 months' salary credits. We won't accept applications from clients who have been self-employed or owned their business for less than 2 years. Where accounts are marked with a negative 'going concern' qualification the application will be declined. We can consider income from alphabet share ownership for a director of a limited company. Please see our evidence requirements guide for more information. All mortgage applications are required to use a solicitor from the Santander panel. To find an appropriate local solicitor please use the solicitor search facility on our website. Clients who can't be traced on the voter's roll for the years they have lived at a property, may be considered subject to a letter from the local authority confirming they had registered for those years. For clients who didn't register at the address a written explanation should be obtained and submitted for consideration.
+
+## Applicants and over 17s living in the property
+Maximum of 2 clients per application. If the application includes a person who is going to be living in the property and they're also providing a lump sum towards the purchase, that person must be included on the application and appear on the mortgage. If there will be a person over age 17 living in the property who isn't on the mortgage, they must sign our Deed of Consent and Charge to postpone/charge to Santander any occupancy right or interest they may have in the property. This Deed is on the reverse of our Mortgage Deed (Standard Security in Scotland). Where your client has just 1 name (first name or surname), either on their birth certificate or because they changed it by deed poll, input 'XXX' into the surname field within the Agreement in Principle on Introducer Internet.
+
+## Automated Income Verification (AIV)
+AIV is a method we use to verify your client's stated income by comparing Current Account Turnover sourced from Credit Reference Agencies. Where we use AIV, we confirm this at the full mortgage application decision stage in Introducer Internet and you must: If you resubmit a case or there's a material change, we check the eligibility for AIV. If we don't use AIV, we confirm what income evidence you need to upload to support the application. Our detailed income evidence requirements are set out on our website. We reserve the right to request this evidence.
+
+## Conflict of interest
+Intermediaries are required to act appropriately where an application represents a potential conflict of interest situation. This applies to both new business and product transfer applications. You can't deal with an application in your own name. This includes acting as the accountant for your self-employed applications where you're a qualified accountant. For firms where there is no independent person to process the application and validate all necessary documentation, the application will need to be submitted through another firm.
+
+## Contractors
+We'll consider clients on non-permanent employment contracts.
+
+## Criminal record
+We don't accept applications from clients with a criminal record (or where they're living with someone who has), unless the conviction is for a minor traffic offence, or is spent under the Rehabilitation of Offenders Act 1974.
+
+## Cryptocurrency
+We don't accept cryptocurrencies as a source of deposit.
+
+## Client contact information
+All new mortgage applications submitted must provide a personal email address and mobile number for each client. If your client is unable or unwilling to provide this information through the intermediary application process and they still wish to apply for a Santander mortgage, they’ll need to contact Santander directly by phone.
+
+## Eligibility
+At the time of application, your clients must:
+
+## Execution only
+We'll accept applications on an execution only basis for high net worth clients and Mortgage Professionals. For an application to be considered on an execution only basis your clients must meet the following criteria: Evidence of eligibility to proceed with execution only must be obtained from your client. We'll undertake regular monthly checks with a sample of intermediaries to check that they comply with the above criteria.
+
+## Existing mortgage customers moving home
+If your client already has a Santander mortgage, there are a couple of options available to them when they're moving home. Porting Porting is when an existing Santander mortgage customer moves home and transfers their mortgage product for the rest of its term. Most of our products are portable. It's possible to ‘port’ most existing products to a new mortgage as long as it's for house purchase/home ownership but not to a property being remortgaged or owned mortgage-free. Your client's right to port their mortgage product is always subject to the conditions for transferring the loan to a new mortgage in their Mortgage Terms and Conditions. In particular, any new mortgage application made will be subject to a full credit check and the customer/property must meet our lending criteria at the time of the new application. If we don't agree a new mortgage, your client won't be able to port their mortgage product and they may then need to pay an early repayment charge (ERC) if they then redeem their existing mortgage. Where redemption of the existing mortgage and purchase of the new property isn't simultaneous, as long as the purchase of the new property completes within 3 months of the redemption date, the existing product can be ported to the new mortgage. Any additional borrowing must come from the new business mortgage product range. Where your client is porting their existing mortgage to a new build property, they’ll receive a refund of the ERC in line with the criteria above, if the purchase of the new property completes within 6 months of the redemption date. Where your client chooses to port their Flexible Offset mortgage to a new property, the sale and purchase must be simultaneous. The 3 month ERC waiver window doesn't apply (because there's no ERC). Choosing a new product Existing Santander mortgage customers moving home can choose a new business product for their total borrowing. Where they’re currently tied in: You'll need to inform your client that they must tell their solicitor to deduct the full or partial percentage of ERC waiver from the redemption monies if redemption and completion are simultaneous. If completion is non-simultaneous, your client must pay the full ERC due on redemption. As long as completion of the new mortgage is within 3 months of redemption, your client can then request a refund of the full or partial ERC.
+
+## First time buyer
+A client who has never owned a property, whether in the UK or abroad. On joint applications all clients must meet the definition.
+
+## Foreign nationals
+We consider applications from non-UK/non-Irish nationals where the property is for their own use and for immediate occupation. These may be subject to full underwriting. We don't accept applications from foreign nationals holding diplomatic immunity. For applications where the LTV is over 75% and your client's income is required for affordability purposes, they must have the permanent right to reside in the UK e.g. indefinite leave to enter (ILE) or remain in the UK (ILR) or settled or pre-settled status (EEA/Swiss citizens). This must be supported by 1 of the following: Further information may be available from www.gov.uk/browse/visas-immigration/settle-in-the-uk
+
+## Guarantors
+We don't accept guarantor applications.
+
+## Identification
+A Confirmation of Verification of Identity Certificate must be completed and meet the requirements set out within the Joint Money Laundering Steering Group Guidance for the UK Financial Sector. We reserve the right to ask for additional client information, including identity evidence, where it's deemed necessary.
+
+## Lending over 90% LTV
+For lending over 90% LTV, your client will need to meet the following criteria: For LTV restrictions please refer to the 'Types and purpose of loans where we lend' section.
+
+## Maximum age
+We consider applications where the mortgage term doesn't exceed: Retired clients We treat clients as retired if they receive retirement income and aren’t reliant on income from employment or self-employment at the time of application. In these cases, there’s no intended retirement age. Subject to our maximum age policy at the end of the mortgage term, we can consider applications from retired clients. Existing Santander mortgage customers moving home: In all cases we undertake regular checks to assess the plausibility of your client's selected or anticipated age of retirement and we may request further information or evidence to support this.
+
+## Porting
+Please refer to the 'Existing mortgage customers moving home' section for more information.
+
+## Property Investment Club
+We don't accept applications where the property is being purchased by, from or connected to a Property Investment Club.
+
+## Residency
+All clients must: Exceptions to this policy are clients who meet 1 of the following scenarios:
+
+## Self-employed
+Where your client's shareholding in a company (or combined shareholding of all clients) is 20% or more, treat your client as self-employed. Where your client's shareholding in a company (or combined shareholding of all clients) is less than 20%, treat your client as employed. For family business employment, we require bank statements evidencing the latest 3 months' salary credits. We won't accept applications from clients who have been self-employed or owned their business for less than 2 years. Where accounts are marked with a negative 'going concern' qualification the application will be declined. We can consider income from alphabet share ownership for a director of a limited company. Please see our evidence requirements guide for more information.
+
+## Solicitor panel
+All mortgage applications are required to use a solicitor from the Santander panel. To find an appropriate local solicitor please use the solicitor search facility on our website.
+
+## Voter's Roll (Electoral Register)
+Clients who can't be traced on the voter's roll for the years they have lived at a property, may be considered subject to a letter from the local authority confirming they had registered for those years. For clients who didn't register at the address a written explanation should be obtained and submitted for consideration.
+
+## Evidence requirements
+        
+            
+            Employed income
+        
+            
+            Bonus, commission or overtime
+        
+            
+            Parental leave (maternity and paternity)
+        
+            
+            Self-employed income
+        
+            
+            Pension income
+        
+            
+            Benefits income
+        
+            
+            Other income types
+        
+            
+            Foreign nationals
+        
+            
+            Proof of deposit
+        
+            
+            Interest only - acceptable repayment vehicles
+        
+            
+            Lending over 90% LTV
+        
+            
+            Lending over 85% LTV where the loan is more than £570,000
+
+Primary income (100%) | Acceptable proof
+--- | ---
+Permanent contract of employment (basic salary) | Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date).
+Fixed-term contracts | Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date); and; Evidence of continuous employment in the same field for the last 12 months; and either; Confirmation from employer of long-term employment arrangement; or; Written confirmation from a reputable agency of secure further positions.
+Zero-hours contracts | Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date); and; Evidence of continuous income in the same field of employment for the last 12 months; and; Confirmation from employer of ongoing employment arrangement.
+Employment in your own family's business (if your clients hold less than 20% shareholding in the Company) | Latest monthly payslip (no older than 2 months from application date) supported by YTD figures. If paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date); and; Bank statements evidencing latest 3 months' salary credits.
+Short term renewable contracts | Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date); and; Evidence your client has worked in this field of employment for at least the last 12 months; and; Contract from employer; and either; Confirmation of earlier contracts; or; The arrangement is confirmed as ongoing by the employer/agency.
+
+Other primary income (100%) | Acceptable proof
+--- | ---
+London weightingLarge town allowancePermanent shift allowanceEmployer's mortgage subsidyHousing allowanceCar allowance | Latest monthly payslip (no older than 2 months from application date) supported by YTD figures. If paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date).
+Second job – where a track record can be evidenced, and the income is ongoing and sustainable | Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date).
+
+Secondary income (70%) | Acceptable proof
+--- | ---
+Discretionary mortgage subsidies and housing allowance | Contract of employment; and; Latest monthly payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date).
+
+Primary income (100%) | Acceptable proof
+--- | ---
+Bonus, commission or overtime | If paid monthly, latest 3 months’ payslips required.; If paid weekly, 4 weeks’ consecutive payslips required, along with 1 payslip from each of the previous 2 months identifying the bonus/commission/overtime payment.
+
+Secondary income (70%) | Acceptable proof
+--- | ---
+Bonus, commission or overtime | If paid monthly, latest 3 months' payslips required.; If paid weekly, 4 weeks' consecutive payslips required, along with one payslip from each of the previous 2 months identifying the bonus/commission/overtime payment.
+Bonus, commission or overtime paid less frequently than monthly e.g quarterly | 3 payslips showing the last 3 bonus/commission/overtime payments received.
+Annual bonus or commission | Most recent payslip showing bonus or commission payment; and; Previous payslip or P60 evidencing the bonus or commission paid in the previous tax year.
+
+Primary income (100%) | Acceptable proof
+--- | ---
+Employed income (salary) for Director of a limited company (where your client's shareholding in a company, or combined shareholding of all clients, is 20% or more, treat your client as self-employed) | Accountant's certificate; For all self-employed income proof the most recent year-end mustn't be more than 18 months before the date of the application.; Dividends can't exceed your client's share of profit (after tax) and should be capped to net profit. We don't accept retained profits.; Accounts providing 3 years' trading figures signed by a suitably qualified accountant.
+Net profit of a sole trader/partnership (including limited liability partnerships) | Accountant's certificate; Self Assessment Tax Calculation forms (e.g. SA302) plus Tax Year Overviews (TYO) covering latest 2 years (SA302s and TYOs can be requested from the HMRC or via an online HMRC account). For Buy to Let applications 12 trading months required, and; Latest month's business bank statement (dated within the last 30 days).; A letter on the LLPs headed paper from an independent partner/partnership accountant addressed to Santander for a partnership with 8 or more partners. This must include:
+
+Your client's net profit for the last 3 years*
+The nature of the business
+The year the business started
+Your client's percentage share of the net profit
+The name, signature and details of the person signing.; Your client's net profit for the last 3 years*; The nature of the business; The year the business started; Your client's percentage share of the net profit; The name, signature and details of the person signing.; 3 years' SA302s plus a Tax Year Overview for each corresponding tax year; or; Accounts providing 3 years' trading figures signed by a suitably qualified accountant.
+Dividends for Directors (where your client's shareholding in a company, or combined shareholding of all clients is 20% or more, treat your client as self-employed); includes Alphabet shares | Accountant's certificate; For all self-employed income proof the most recent year-end must not be more than 18 months before the date of the application.; Dividends can't exceed your client's share of profit (after tax) and should be capped to net profit. We don't accept retained profits.; Accounts providing 3 years' trading figures signed by a suitably qualified accountant.
+Sub-contractor in the construction industry | Accountant's certificate; Self Assessment Tax Calculation forms (e.g. SA302) plus Tax Year Overviews (TYO) covering latest 2 years (SA302s and TYOs can be requested from the HMRC or via an online HMRC account); and; Latest month's business bank statement (dated within last 30 days).; For all self-employed income proof, the most recent year-end must not be more than 18 months before the date of the application.; CIS Payment and Deduction statements plus TYOs covering latest 2 years. Where these are provided, we'll take an average of the last 2 years or the latest year if lower; and; Latest month's business bank statement (dated within the last 30 days).; the contractors name and employers tax reference; the end date of the tax month in which the payment was made; the sub-contractors name; the sub-contractors unique tax reference (UTR); the gross amount of the payment made to the sub-contractor; the cost of any materials which may have reduced the amount upon which the deduction has been applied; the amount of the deduction.; 3 years' SA302s or CIS Payment and Deduction statements plus a Tax Year Overview for each corresponding tax year; or; Accounts providing 3 years' trading figures signed by a suitably qualified accountant.
+Umbrella company | Minimum 2 years' self-employed evidence*; together with; terms of contract (with the firm they are working for not the umbrella company); and; future contracts.
+PAYE contractors | Latest month (4 weeks) payslips or invoices.; Latest 2 years’ P60s with the gross income input as the net profit.; Copy of the contract with the firm they’re working for not the Umbrella Company.; Where’s it’s not possible to obtain the contract with the firm they’re working for, if your client is contracting via an agency for example, then you should provide the agency contract.
+Employed in your own family's business | If your clients hold a 20% or more shareholding in the Company treat as self-employed.; Latest monthly payslip (no older than 2 months from application date) supported by YTD figures. If paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date); and; Bank statements evidencing latest 3 months' salary credits.
+Acceptable accountant's qualifications | Institute of Chartered Accountants in England & Wales; Institute of Chartered Accountants of Scotland; Institute of Chartered Accountants in Ireland, also known as Chartered Accountants Ireland; Association of Chartered Certified Accountants; Association of Authorised Public Accountants; Chartered Institute of Management Accountants; Certified Public Accountants Association; Association of Accounting Technicians; Association of International Accountants; Chartered Institute of Taxation; Institute of Financial Accountants; Chartered Institute of Public Finance & Accountancy
+
+Primary income (100%) | Acceptable proof
+--- | ---
+Pensions and annuities (private/company) (currently receiving) | Latest monthly pension payslip (no older than 2 months from application date) or if paid more frequently than monthly, last 4 weeks' payslips required (no older than 5 weeks from application date), or; The latest bank statement evidencing the payment from the pension company, together with either:; Pension statement, or; Pension payslip up to 12 months old, or; Annuity/Pension letter, or; P60 (if not clear the P60 is related to pension/annuity then the covering letter must be provided from the pension/annuity provider); show your client's name and address, which must match that stated on the application form,; show pension/annuity company’s name, address, telephone number and company’s registration number (if Limited) and be on headed paper or show company stamp,; show pay dates,; cover at least 1 month (4 consecutive weeks if paid weekly),; show gross income,; show net pay.; show regularity of payment,; not be older than 12 months.; show amount payable monthly,; not be older than 12 months.
+State Pension | DWP (Pension service) state pension letter issued within the last 12 months, or; Latest bank statement identifying payment from DWP.
+
+Other primary income (100%) | Acceptable proof
+--- | ---
+Working Tax Credit*Child Tax Credit*Child Benefit* | HMRC Tax Credit award letter or HMRC Child Benefit letter (all pages); or; For Tax Credits, bank statements evidencing the last 3 months' tax credits (most recent statement to be no more than 1 month from application date); or; For Child Benefit, most recent bank statement/certified photocopy of building society or NS&I passbook evidencing the payment from the HMRC/DWP source.; Where any client's total gross income is above £60,000, Child Benefit must not be included as a source of income.; We may ask for further information to confirm how the mortgage will remain affordable when the payments end.
+
+Secondary income (70%) | Acceptable proof
+--- | ---
+State benefits (DWP/HMRC) confirmed as indefinite e.g. carer's allowance and DLA | DWP/HMRC letter confirming the amount and benefit type.
+Universal Credit | Latest Universal Credit payment summary (dated within 1 month of application) with a breakdown of payments and deductions.; What your client is entitled to.; The amount taken off (deductions).; Total payment for this month.; Last 6 months' payments shown on the Universal Credit account.; We'll take an average of the last 6 months' payments minus the latest month's housing benefit (if 6 months' full statements are received then we'll take an average of all totals minus all housing benefit).
+
+Secondary income (70%) | Acceptable proof
+--- | ---
+Investment income (excluding rental income) | Bank statements evidencing latest 3 months' income, and; Evidence of the source, e.g. portfolio of stocks and shares.
+Dividends for clients with a shareholding of less than 20% (individually or combined) | Please speak to your dedicated contact about what evidence is required.
+Income should be entered into the 'Investment income' box when completing the AIP.
+Rental income from properties already let
+Allowable annual rental income as calculated in Introducer Internet or our affordability calculator | Bank statements evidencing latest 3 months' rental income, or; 2 years’ self-employed accounts (only acceptable where your clients let out properties as part of a business).
+Maintenance payments | Bank statements evidencing latest 3 months' maintenance payments (most recent statement to be no more than 1 month from application date).
+Fostering income | Confirmation from local authority of the number of children placed and the payment amount for each, and; Confirmation from local authority of the length of time they’ve been a foster parent and how long it is likely to continue, and; Details of future placements (where relevant), and either; Payslips evidencing latest 3 months' income, or; Bank statements evidencing latest 3 months’ income, or; Self-employed accounts (if applicable).
+
+Afghanistan | Algeria | Angola | Belarus
+Bolivia | Bosnia & Herzegovina | British Virgin Islands | Bulgaria
+Burkina Faso | Burundi | Cameroon | Central African Republic
+China (excluding Hong Kong) | Cuba | Democratic Rep. of Congo (Zaire) | Eritrea
+Ethiopia | Guinea | Guinea-Bissau | Haiti
+Iran | Iraq | Ivory Coast | Kenya
+Lebanon | Laos | Libya | Mali
+Monaco | Montenegro | Mozambique | Myanmar (Burma)
+Namibia | Nepal | Nicaragua | Nigeria
+North Korea | Russian Federation | Serbia (Rep. of) | Somalia
+South Africa | South Sudan | Sudan | Syria
+Tanzania | Trinidad & Tobago | Tunisia | Turkey
+Ukraine | Vanuatu | Venezuela | Vietnam
+Yemen | Zimbabwe |  | 
+
+Sale of the mortgage property | Evidence required
+--- | ---
+Sale of the mortgaged property | Minimum £300,000 equity in the property.; Confirmation in Introducer Internet of your client's customer's future plans following the sale of this residential mortgaged property and that they'll have sufficient equity/funds to carry out those future plans.; Where 'Purchase a new residential property' is stated as the future plan and the remaining loan term is less than 10 years, additional information is required on the property location, type and size.; Complete the 'Interest Only - Sale of Mortgaged Property Customer Declaration' and upload via MATS immediately following submission of the mortgage application.
+
+Investment Vehicle | Value based on | Evidence Required
+--- | --- | ---
+Mortgage-related endowment or mortgage-related ISA | Mid-point projection at maturity | Latest annual statement from the life company showing the projected value (must not be more than 15 months old).; Use the median/middle figure for mortgage-related endowments or mortgage-related ISA at the term end, as detailed on the latest statement.
+Investment portfolio: shares, unit trusts, Open Ended Investment Companies (OEIC's), Investment Bond | Current cash value | Latest statement issued by the administering company (must not be more than 12 months old).; Must show current investment value from last statement.; Use 100% of the current value only, with no growth projections or added sums, even where future monthly investments are being factored into expenditure.
+• Latest payslip, and
+• Last payslip prior to parental leave showing the full salary, and
+• Details of lowest income expected during parental leave and if this is insufficient, alternative source of funds to support payments and living costs may be needed (e.g. savings).
+• Where an applicant intends to return to work on the same terms as before the start of parental leave, we'll need confirmation of this in the 'General notes' section on Introducer Internet.
+• Where an applicant (or either applicant if joint application) will be changing their working pattern following parental leave, we'll need a letter from the applicant's employer confirming their return to work conditions.
+• Please make sure that you've included any anticipated childcare costs in non-regular expenditure. Where there will be no childcare costs please provide an explanation including details of alternative arrangements in the 'General notes' section on Introducer Internet
+
+• Income is required for affordability purposes where the LTV exceeds 75% for residential applications; or
+• Income is required towards the £25,000 minimum income for Buy to Let applications.
+
+• A visa stamp in a passport (for this purpose only, the passport may be expired); or
+• An unexpired Biometric Residence Permit; or
+• The share code so we can check the settled or pre-settled status of EEA/Swiss citizens. Go to https://www.gov.uk/view-prove-immigration-status
+
+• If limited bureau data is available, 3 months' bank statements.
+
+• Copy of savings book or bank statement showing the full amount of the deposit.
+• Equity – confirmation of the sale price and balance outstanding.
+• Capital raised from another property – copy of the mortgage offer letter.
+• Endowment/investment policy maturity – letter showing maturity value.
+• Gifted deposit- please see ‘Gifted deposit' sub section below for more details.
+
+• Title and full name of person(s) providing the gift
+• Relationship to client
+• Occupation of the person providing the gift
+• Gift amount
+• How has the giftor generated the funds?
+• Country of origin
+• Confirmation of whether the gift is non-repayable
+• Confirmation that the person(s) providing the gift:
+
+isn't the present owner of the property being purchased, and
+won't be living in the property on or after completion, and
+won't retain any legal interest in the property being purchased (including taking a second charge).
+• isn't the present owner of the property being purchased, and
+• won't be living in the property on or after completion, and
+• won't retain any legal interest in the property being purchased (including taking a second charge).
+
+• isn't the present owner of the property being purchased, and
+• won't be living in the property on or after completion, and
+• won't retain any legal interest in the property being purchased (including taking a second charge).
+
+• Date of birth and address of person(s) providing the gift
+• Details of how the person(s) providing the gift built up the funds
+• If this was from savings, please give us their occupation and salary details
+• If this was from sale of property, please give us full details with evidence of ownership and sale
+• Copy of bank statement(s) from the person(s) providing the gift showing the money being transferred into your client's account
+• Copy of bank statement(s) from your client(s) showing the full deposit amount and evidence of the gifted funds being credited into the account
+• A letter from each person providing the gift including their title and full name, date of birth, address, occupation, gift amount and their relationship to your client(s). In addition, they must confirm that the gift is non-repayable and the person(s) providing the gift isn't the present owner of the property being purchased, won't be living in the property on or after completion and won't retain any legal interest (including second charge) in the property being purchased. This letter must be signed and dated.
+
+• Provided by MATS document upload when the mortgage application is submitted.
+• Retained on file for a minimum of 2 years from the date of application.
+
+• Investments may be held in an ISA but this isn't a requirement. Cash ISAs are not acceptable.
+• Must have been held for a minimum of 12 months and cover the interest only amount.
+• Must be administered by an FCA regulated financial services firm with an 'authorised' or 'EEA authorised' status.
+• All owners of the repayment vehicle must match the names shown on the application.
+• Your clients must not have reduced their holding since the last statement.
+
+We don't accept an employer's reference as proof of income. Where payslips are provided, they can't be handwritten or amended in any way. Where there are unexplained downward trends or sharp increases in the most recent year's trading figures, please give us additional information to tell us why. Where your client's shareholding in a company, or combined shareholding of your clients is less than 20%, treat as employed. Please refer to the ‘Other income types’ section for guidance on how to treat dividends. Covid-19 impact: Please provide full details of any outstanding Bounce Back Loan (BBL) or Coronavirus Business Interruption Loan (CBIL) including the amount taken and the monthly payment. We consider applications from non-UK/non-Irish nationals where the property is for their own use and for immediate occupation for residential applications. These may be subject to full underwriting. We don't accept applications from foreign nationals holding diplomatic immunity. Your clients must have the permanent right to reside in the UK e.g. indefinite leave to enter (ILE) or remain in the UK (ILR) or settled or pre-settled status (EEA/Swiss citizens) where: Applications must be supported by 1 of the following: Further information may be available from https://www.gov.uk/browse/visas-immigration/settle-in-the-uk Acceptable proof When proof of deposit is required, this can be: This list isn't exhaustive, other methods may be acceptable. We don’t accept deposit funds originating either from a child’s bank account/trustee account; or funds transferred directly from a business bank account without having been declared as personal income. Where the deposit or other purchase costs, for example, stamp duty originate from outside of the United Kingdom, you'll be required to state the origin of your client's funds and additional checks may apply. Currently we're not accepting deposits or any other help with purchases costs where the funds originate from the following countries/jurisdictions: Gifted deposit Where a gifted deposit is used, please give us the following details in the application: Gifted deposit funds Please note for gifted deposit applications, there are some additional requirements we may ask for to evidence the deposit. We look at these on a case by case basis so it may take longer to process. All evidence must be: We undertake regular checks to assess the plausibility of your client's repayment strategy and we may request further information or evidence. Investment vehicle – additional requirements We don't accept any other repayment vehicle, for example pensions, sale of other properties (including BTLs), bonuses, overpayments, cash savings (including cash ISA) or inheritance. For lending over 90% LTV we require 3 months' personal bank statements for each client. Plus, any other income verification needed. For lending over 85% LTV where the loan amount is more than £570,000, we require the latest 1 month’s personal bank statement for each client. Plus, any other income verification needed.
+
+## Employed income
+We don't accept an employer's reference as proof of income. Where payslips are provided, they can't be handwritten or amended in any way.
+
+## Bonus, commission or overtime
+
+## Parental leave (maternity and paternity)
+
+## Self-employed income
+Where there are unexplained downward trends or sharp increases in the most recent year's trading figures, please give us additional information to tell us why. Where your client's shareholding in a company, or combined shareholding of your clients is less than 20%, treat as employed. Please refer to the ‘Other income types’ section for guidance on how to treat dividends. Covid-19 impact: Please provide full details of any outstanding Bounce Back Loan (BBL) or Coronavirus Business Interruption Loan (CBIL) including the amount taken and the monthly payment.
+
+## Pension income
+
+## Benefits income
+
+## Other income types
+
+## Foreign nationals
+We consider applications from non-UK/non-Irish nationals where the property is for their own use and for immediate occupation for residential applications. These may be subject to full underwriting. We don't accept applications from foreign nationals holding diplomatic immunity. Your clients must have the permanent right to reside in the UK e.g. indefinite leave to enter (ILE) or remain in the UK (ILR) or settled or pre-settled status (EEA/Swiss citizens) where: Applications must be supported by 1 of the following: Further information may be available from https://www.gov.uk/browse/visas-immigration/settle-in-the-uk
+
+## Proof of deposit
+Acceptable proof When proof of deposit is required, this can be: This list isn't exhaustive, other methods may be acceptable. We don’t accept deposit funds originating either from a child’s bank account/trustee account; or funds transferred directly from a business bank account without having been declared as personal income. Where the deposit or other purchase costs, for example, stamp duty originate from outside of the United Kingdom, you'll be required to state the origin of your client's funds and additional checks may apply. Currently we're not accepting deposits or any other help with purchases costs where the funds originate from the following countries/jurisdictions: Gifted deposit Where a gifted deposit is used, please give us the following details in the application: Gifted deposit funds Please note for gifted deposit applications, there are some additional requirements we may ask for to evidence the deposit. We look at these on a case by case basis so it may take longer to process.
+
+## Interest only - acceptable repayment vehicles
+All evidence must be: We undertake regular checks to assess the plausibility of your client's repayment strategy and we may request further information or evidence. Investment vehicle – additional requirements We don't accept any other repayment vehicle, for example pensions, sale of other properties (including BTLs), bonuses, overpayments, cash savings (including cash ISA) or inheritance.
+
+## Lending over 90% LTV
+For lending over 90% LTV we require 3 months' personal bank statements for each client. Plus, any other income verification needed.
+
+## Lending over 85% LTV where the loan is more than £570,000
+For lending over 85% LTV where the loan amount is more than £570,000, we require the latest 1 month’s personal bank statement for each client. Plus, any other income verification needed.
+
+## Fees
+        
+            
+            Account fee
+        
+            
+            Broker fees
+        
+            
+            Early repayment charges (ERC)
+        
+            
+            Funds transfer
+        
+            
+            Product fees
+• simultaneously with redemption take a mortgage on a new property that completes with us for the same amount and product as the previous mortgage. Please refer to the 'Existing mortgage customers moving home' section for more information.
+• simultaneously with redemption, if their existing deal has 9 months or less to expiry at application, choose to take a new product with us for at least the same amount. Please refer to the 'Existing mortgage customers moving home' section for more information.
+
+There's an account fee of £225, which is payable on completion of the mortgage. The fee can be deferred until the end of the mortgage. We allow broker advice fees to be added to the loan subject to the fee not exceeding 1% of the total loan and where the loan to value including the fee is less than 75%. Where a fee is being added to the loan this must be documented in Introducer Internet 'Notes' in the following format: 'The broker fee is included within the mortgage advance'. If an ERC applies to a loan part, your client can make capital repayments of up to 10% of the balance on this loan part each calendar year without incurring a charge. A minimum amount may apply. If the product fee has been added to the loan, your client can repay this up to 21 days following completion. Repayment of the product fee won't affect their 10% ERC free allowance and no ERC will be charged. The mortgage must remain with us until the product charge end date or any applicable ERC will be charged. In addition, if a benefit package is taken with the product, there is a benefit package end date which may differ from the product charge end date. If the benefit package end date is before the product charge end date, an ERC will still be applicable until the product charge end date. Should your client redeem their mortgage before the benefit package end date, they'll need to repay the benefit (£250 cashback or £200 for remortgage legal work). The benefit end date is shown on the mortgage illustration and the rate bulletin. The repayment of the benefit package ERC will be in addition to any product ERC which may apply. Your client won't pay any applicable ERC if on or before the charge end date, they: A product ERC is a percentage of your client's outstanding mortgage balance at the time of redemption. The level of charge differs by product term. All cashbacks together with advance monies will be telegraphically transferred to the legal adviser at the time of completion. There's no fee for doing this. Product fees are charged on some of our mortgages. Where the fee has been added to the loan, the added fee will attract interest over the term at the product interest rate. Your client can repay the product fee up to 21 days after completion without incurring any interest on the product fee. This doesn't impact on the ERC overpayment facility.
+
+## Account fee
+There's an account fee of £225, which is payable on completion of the mortgage. The fee can be deferred until the end of the mortgage.
+
+## Broker fees
+We allow broker advice fees to be added to the loan subject to the fee not exceeding 1% of the total loan and where the loan to value including the fee is less than 75%. Where a fee is being added to the loan this must be documented in Introducer Internet 'Notes' in the following format: 'The broker fee is included within the mortgage advance'.
+
+## Early repayment charges (ERC)
+If an ERC applies to a loan part, your client can make capital repayments of up to 10% of the balance on this loan part each calendar year without incurring a charge. A minimum amount may apply. If the product fee has been added to the loan, your client can repay this up to 21 days following completion. Repayment of the product fee won't affect their 10% ERC free allowance and no ERC will be charged. The mortgage must remain with us until the product charge end date or any applicable ERC will be charged. In addition, if a benefit package is taken with the product, there is a benefit package end date which may differ from the product charge end date. If the benefit package end date is before the product charge end date, an ERC will still be applicable until the product charge end date. Should your client redeem their mortgage before the benefit package end date, they'll need to repay the benefit (£250 cashback or £200 for remortgage legal work). The benefit end date is shown on the mortgage illustration and the rate bulletin. The repayment of the benefit package ERC will be in addition to any product ERC which may apply. Your client won't pay any applicable ERC if on or before the charge end date, they: A product ERC is a percentage of your client's outstanding mortgage balance at the time of redemption. The level of charge differs by product term.
+
+## Funds transfer
+All cashbacks together with advance monies will be telegraphically transferred to the legal adviser at the time of completion. There's no fee for doing this.
+
+## Product fees
+Product fees are charged on some of our mortgages. Where the fee has been added to the loan, the added fee will attract interest over the term at the product interest rate. Your client can repay the product fee up to 21 days after completion without incurring any interest on the product fee. This doesn't impact on the ERC overpayment facility.
+
+## Product
+        
+            
+            Additional loans
+        
+            
+            Cashback
+        
+            
+            Daily interest
+        
+            
+            Direct debit
+        
+            
+            Flexible Offset
+        
+            
+            General conditions
+        
+            
+            Interest only applications
+        
+            
+            Interest only repayment vehicles
+        
+            
+            Interest only - existing customers moving home
+        
+            
+            Maximum LTV - product
+        
+            
+            Maximum term
+        
+            
+            Minimum loan
+        
+            
+            Minimum term
+        
+            
+            Mortgage buffer
+        
+            
+            Mortgage product maximum loan size
+        
+            
+            Offer validity
+        
+            
+            Repayment methods
+        
+            
+            Top up of an existing product
+        
+            
+            Types and purpose of loans where we lend
+
+95% LTV | up to £570,000
+90% LTV | up to £1,000,000
+85% LTV | up to £2,000,000
+75% LTV | up to £3,000,000
+
+Type of loan | Maximum LTV | Comments
+--- | --- | ---
+Standard residential mortgage | 95% | Residential use only. Excludes remortgage.
+Houses |  | 
+Loans up to and including £570,000 | 95% | 
+Loans between £570,001 and £1,000,000 | 90% | 
+Loans between £1,000,001 and £2,000,0000 | 85% | 
+Loans between £2,000,001 and £3,000,0000 | 75% | 
+Flats |  | 
+Loans up to and including £380,000 | 95% | Can go over 7 storeys subject to inspection. Suitability of the property must be established.
+Loans between £380,001 and £1,000,000 | 90%
+Loans between £1,000,001 and £2,000,000 | 85%
+Loans between £2,000,001 and £3,000,000 | 75%
+New build |  | 
+Houses | 95% | See 'New build' section
+Flats | 95% | 
+Remortgage |  | 
+Standard remortgage | 90% | 
+Redeem equity loan in full | 85% | 
+Shared Ownership staircasing | 85% | Residential use only
+Change of borrower | 85% | 
+Capital raising | 85% | 
+Debt consolidation | 85% | The maximum amount allowed for a loan part(s) where the purpose is debt consolidation is £50,000.
+Any retained property | 90% | Where the retained property is mortgaged with Santander UK plc the maximum LTV on the existing property is 75% if let, or 90% if not let.
+Right to Buy/Acquire | 100%* | *100% of discounted purchase price subject to a maximum of 90% of the property value. For further details please refer to the 'Right to Buy/Acquire' section.
+Second home/Holiday homes | 80% | For owner occupation.
+Shared Ownership | 90% | If scheme provider requires your clients to obtain a Level 2 Survey (or equivalent), your client must arrange this. Initial share purchase must be at least 25%. Then any 'staircasing' share must be at least 10%.
+Purchasing a property for occupation by your client's immediate family (client not resident) | 80% | No tenancy agreement in place.Please note remortgage applications aren't permitted.
+• Available to existing Flexible Offset mortgage customers moving home only.
+• The Flexible Offset mortgage can be ported to a new property but the sale and purchase must be simultaneous.
+• No second charges allowed on the property.
+• Not available for homebuyer schemes, Shared Ownership properties, DWP mortgage benefit customers.
+• The loan can't be used for business purposes.
+• The Flexible Offset mortgage can't be used in conjunction with any other product.
+• The Flexible Offset mortgage doesn't have a product ERC, however a benefit ERC may apply.
+• For any Flexible Offset mortgage, drawdowns from available funds will be assessed for affordability and will only be allowed on a capital and interest basis or interest only. If the drawdown is on interest only, clients with a combined gross income of £200,000 or more can borrow up to 75% LTV. Clients with a combined gross income of less than £200,000 can borrow up to 50% LTV.
+
+• All product offers are subject to availability and may be withdrawn at any time.
+• All clients must meet our normal lending policy.
+• We reserve the right to withdraw the mortgage rate and reclaim the benefit if the property is no longer owner occupied or your client doesn't comply with the conditions of their mortgage.
+• If the property has been owned for less than 6 months, the application may be referred for investigation. This could result in delays to completion or in some instances the application being declined.
+
+• There's no minimum income required.
+• Where any part of the mortgage is on interest only, and the combined gross income is less than £45,000, the maximum income multiple is 4.45x income. If the combined gross income is between £45,000 and less than £100,000, the maximum income multiple is 5.00x income. If the combined gross income is £100,000 or more, the maximum income multiple is 5.50x income. For remortgages without capital raising, the maximum income multiple is 5.50x income, regardless of the repayment method. Income may be a combination of primary and secondary incomes and proof of income must be evidenced.
+• Where any part of the mortgage is on an interest only basis the maximum LTV for the overall lending is 85%. Where there's a combined gross income of £200,000 or more, any lending over 75% LTV must be on a capital and interest basis. For clients with a combined gross income of less than £200,000, any lending over 50% LTV must be on a capital and interest basis.
+• We'll assess affordability on a capital and interest basis. Please use our affordability calculator to determine the client's potential borrowing.
+• Where any loan part is on an interest only basis the mortgage term can't exceed your client's 70th birthday.
+
+• Minimum £300,000 equity in the property;
+
+For part interest only sale of property with part capital and interest, the £300,000 is calculated on the equity at the end of the mortgage term.
+For pure interest only with sale of property the £300,000 is based on the deposit/equity at application.
+• For part interest only sale of property with part capital and interest, the £300,000 is calculated on the equity at the end of the mortgage term.
+• For pure interest only with sale of property the £300,000 is based on the deposit/equity at application.
+• Includes loans on part and part;
+• Maximum term 40 years. For loans where interest only sale of property is combined with another loan part repayment method, the term for this can't exceed the sale of property term.
+
+• For part interest only sale of property with part capital and interest, the £300,000 is calculated on the equity at the end of the mortgage term.
+• For pure interest only with sale of property the £300,000 is based on the deposit/equity at application.
+
+• Maximum term 40 years, or policy maturity date if sooner.
+• Mortgage-related endowment policy and mortgage-related ISA policy: value based on mid-point projection at maturity. Latest annual statement from the life company (must be no more than 15 months old) is required as evidence.
+• Investment portfolio (shares, unit trusts, open ended investment companies (OEICs)) and investment bonds: value based on current cash value (100%). Latest statement issued by the administering company (must not be more than 12 months old) required as evidence.
+
+• May be held in an ISA but this isn't a requirement. Please note that cash ISAs are not acceptable.
+• Must have been held for a minimum of 12 months and cover the interest only amount.
+• Must be administered by an FCA regulated financial services firm with ‘authorised' status.
+• All owners of the repayment vehicle must match the names shown on the application.
+
+• maximum LTV 85%
+• maximum age not to exceed 75th birthday of any borrower.
+
+• Existing clients porting their existing product who aren't simultaneously taking a new product
+• Flexible Offset products
+• Right to Buy
+• Shared Ownership
+• Undervalue transactions.
+
+• Any necessary supporting documentation is updated and resubmitted.
+• We are notified of any change in circumstances.
+• The case is re-decisioned and remains acceptable to Santander in line with our current mortgage lending policy.
+• A new credit search and affordability assessment.
+• A new product must be selected if the original product completion deadline has expired.
+• An updated property valuation.
+
+We offer advised additional loans through our telephone channel. If your client doesn’t want advice and they have access to Santander Online Banking, they can get an instant decision in principle and apply for an additional loan online. All cashbacks are telegraphically transferred to the conveyancer on completion. Interest is calculated daily and charged monthly. Payment by direct debit mandate is compulsory for all products. Payments can be taken on any day of the month between 1st and 28th. We allow interest only applications provided there's an acceptable source of funds to repay the capital at the end of the mortgage. For new clients and existing borrowers who are increasing the interest only amount: We accept the following repayment vehicles where any part of the mortgage is on an interest only basis: Sale of the mortgaged property For new clients and existing borrowers who are increasing the interest only amount: Investment vehicles Acceptable investment vehicles We require evidence to support the plausibility of your clients' repayment strategy in all cases. We don't accept any other repayment vehicle: e.g. pensions, sale of other properties (including BTLs), bonuses, overpayments, cash savings (including cash ISA) or inheritance. We'll consider applications where a repayment vehicle is held in a foreign currency on a case by case basis for existing Santander mortgage customers moving home borrowing the same or less only. Existing Santander mortgage customers who have any part of their existing loan on an interest only basis can port their existing deal subject to our current lending criteria. You can submit these applications to us through Introducer Internet. If there is no increase in any interest only loan part and the existing vehicle was previously (but no longer) acceptable to Santander, we may consider their new application where the existing mortgage is being simultaneously redeemed and already falls outside of the current interest only policies stated. This is subject to: This is subject to no further increase in either the existing LTV or term. Lending into future requirement can't continue where the borrowers require an increase in lending. The maximum loan to value is also affected by the type and purpose of the loan and the property type. Our product range LTV limits also apply. The maximum term is 40 years. For part interest and part capital and interest, no loan part can exceed the interest only term. Minimum loan sizes apply to our products. Please refer to our latest rate guide for details. The minimum loan size relates to each individual product and not the total of all the loan parts. 5 years (or product term if longer). There's a £750 buffer available on all purchase and remortgage offers excluding: Please note the mortgage buffer can exceed the product LTV, but it can't go over 90% LTV. Where this facility is required, please make sure your client informs their solicitor. The maximum loan size on mortgage products relates to the total borrowing required by your client, not just the borrowing on that product. Our mortgage offers are valid for 6 months (9 months for new build if your client takes one of our new build property only products) from date of issue or up to the product completion deadline, whichever comes first. Exceptions apply to clients porting with no top up product or staying on SVR. In these cases, your client's offer will be valid for 9 months if they're buying a new build home. We'll consider an extension subject to the following: Repayment methods available are capital and interest, interest only with an acceptable repayment vehicle and sale of property. Please see the interest only application section. Prior to completion, the maximum top up available is 10% of the original loan amount. The minimum is £1,000. The maximum LTV varies by the type and purpose of the loan and by the property type.
+
+## Additional loans
+We offer advised additional loans through our telephone channel. If your client doesn’t want advice and they have access to Santander Online Banking, they can get an instant decision in principle and apply for an additional loan online.
+
+## Cashback
+All cashbacks are telegraphically transferred to the conveyancer on completion.
+
+## Daily interest
+Interest is calculated daily and charged monthly.
+
+## Direct debit
+Payment by direct debit mandate is compulsory for all products. Payments can be taken on any day of the month between 1st and 28th.
+
+## Flexible Offset
+
+## General conditions
+
+## Interest only applications
+We allow interest only applications provided there's an acceptable source of funds to repay the capital at the end of the mortgage. For new clients and existing borrowers who are increasing the interest only amount:
+
+## Interest only repayment vehicles
+We accept the following repayment vehicles where any part of the mortgage is on an interest only basis: Sale of the mortgaged property For new clients and existing borrowers who are increasing the interest only amount: Investment vehicles Acceptable investment vehicles We require evidence to support the plausibility of your clients' repayment strategy in all cases. We don't accept any other repayment vehicle: e.g. pensions, sale of other properties (including BTLs), bonuses, overpayments, cash savings (including cash ISA) or inheritance. We'll consider applications where a repayment vehicle is held in a foreign currency on a case by case basis for existing Santander mortgage customers moving home borrowing the same or less only.
+
+## Interest only - existing customers moving home
+Existing Santander mortgage customers who have any part of their existing loan on an interest only basis can port their existing deal subject to our current lending criteria. You can submit these applications to us through Introducer Internet. If there is no increase in any interest only loan part and the existing vehicle was previously (but no longer) acceptable to Santander, we may consider their new application where the existing mortgage is being simultaneously redeemed and already falls outside of the current interest only policies stated. This is subject to: This is subject to no further increase in either the existing LTV or term. Lending into future requirement can't continue where the borrowers require an increase in lending.
+
+## Maximum LTV - product
+The maximum loan to value is also affected by the type and purpose of the loan and the property type. Our product range LTV limits also apply.
+
+## Maximum term
+The maximum term is 40 years. For part interest and part capital and interest, no loan part can exceed the interest only term.
+
+## Minimum loan
+Minimum loan sizes apply to our products. Please refer to our latest rate guide for details. The minimum loan size relates to each individual product and not the total of all the loan parts.
+
+## Minimum term
+5 years (or product term if longer).
+
+## Mortgage buffer
+There's a £750 buffer available on all purchase and remortgage offers excluding: Please note the mortgage buffer can exceed the product LTV, but it can't go over 90% LTV. Where this facility is required, please make sure your client informs their solicitor.
+
+## Mortgage product maximum loan size
+The maximum loan size on mortgage products relates to the total borrowing required by your client, not just the borrowing on that product.
+
+## Offer validity
+Our mortgage offers are valid for 6 months (9 months for new build if your client takes one of our new build property only products) from date of issue or up to the product completion deadline, whichever comes first. Exceptions apply to clients porting with no top up product or staying on SVR. In these cases, your client's offer will be valid for 9 months if they're buying a new build home. We'll consider an extension subject to the following:
+
+## Repayment methods
+Repayment methods available are capital and interest, interest only with an acceptable repayment vehicle and sale of property. Please see the interest only application section.
+
+## Top up of an existing product
+Prior to completion, the maximum top up available is 10% of the original loan amount. The minimum is £1,000.
+
+## Types and purpose of loans where we lend
+The maximum LTV varies by the type and purpose of the loan and by the property type.
+
+## Property
+        
+            
+            Cladding
+        
+            
+            Estate charges
+        
+            
+            Habitable
+        
+            
+            Home improvements
+        
+            
+            Japanese Knotweed
+        
+            
+            Lease
+        
+            
+            Leasehold properties
+        
+            
+            Let to Buy
+        
+            
+            New build
+        
+            
+            Overage agreements
+        
+            
+            Properties in the Isle of Man
+        
+            
+            Retained properties
+        
+            
+            Right To Buy/Acquire
+        
+            
+            Scottish properties
+        
+            
+            Self build
+        
+            
+            Shared equity
+        
+            
+            Shared Ownership
+        
+            
+            Tenanted properties
+        
+            
+            Types of property where we may lend with certain conditions
+        
+            
+            Types of property/loans where we don't lend
+        
+            
+            Undervalue transactions
+
+New build house | Loans up to and including £570,000 | 95%
+Loans over £570,000 and under or equal to £1m | 90%
+Loans over £1m and under or equal to £2m | 85%
+Loans over £2m and under or equal to £3m | 75%
+New build flat | Loans up to and including £380,000 | 95%
+Loans over £380,000 and under or equal to £1m | 90%
+Loans over £1m and under or equal to £2m | 85%
+Loans over £2m and under or equal to £3m | 75%
+
+Incentive | New Build (including Shared Ownership)
+--- | ---
+Stamp duty | ✓
+No financial limit
+Legal fees | ✓
+Reasonable fees for the purchase
+Carpets and curtains | ✓
+White goods/fitted furniture | ✓
+Upgraded fixtures and fittings (includes option vouchers for upgrades) | ✓
+Provided they're in keeping with the value of the property
+Part exchange | ✓
+Cash up to 5% (can include retail vouchers) | ✓
+Cashback or cash equivalent
+Deposit paid by seller | ✓
+Value included as part of the 5% cash
+Mortgage subsidies or rental subsidy on shared ownership | ✓
+Value included as part of the 5% cash
+Guaranteed rental income | ✓
+Value included as part of the 5% cash
+Show home with non-fitted furniture | ✓
+Value included as part of the 5% cash
+Substantial freestanding furniture (e.g. beds, dining table and chairs) | ✓
+Value included as part of the 5% cash
+Estate agent's fees | ✓
+Value included as part of the 5% cash
+Removal fees | ✓
+Value included as part of the 5% cash
+
+Incentive | Standard New Build
+--- | ---
+Carpets and curtains | ✓
+White good/fitted furniture | ✓
+Non-retail vouchers provided by the builder/developer for property related upgrades to fixtures and fittings to be carried out by the builder | ✓
+Estate agent's fees | ✓
+Combined amount must not be more than 5% of the purchase price
+Stamp duty paid | ✓
+Combined amount must not be more than 5% of the purchase price
+Legal fees | ✓
+Combined amount must not be more than 5% of the purchase price
+
+Type of property | Conditions to be met
+--- | ---
+Farms | We do lend on farmhouses that are independent from the farm, providing there are no contiguous land issues.
+Precast Reinforced Concrete properties (PRC) | We lend on PRC homes where they've been repaired to certain standards confirmed by a structural engineer under a PRC approved licence, subject to our valuer's approval.
+Agricultural land/large acreage | We'll consider up to 10 acres where the land has no agricultural restrictions.
+Contiguous land | access and services don't depend on the contiguous land, or; adjacent land is in exactly the same name(s) as our security and the land can be charged to us.
+
+20% or less and £100,000 or less | No specific family relationship needed between the seller and buyer.; Deposit needed.; LTV is calculated based on the purchase price.; Enter the purchase price into the purchase price/valuation field in the FMA.
+If the purchase price discount falls into either of the below categories, the following applies:
+More than 20% | Defined family relationship needed between the seller and buyer.; Gifted equity can be used as the deposit if there's at least 10% equity based on the market value.; LTV is calculated based on the market value.; Enter the market value into the purchase price/valuation field in the FMA.
+More than £100,000
+• include the monthly amount in the Property details > Service charge field; and
+• add a note to the general notes section to say that it relates to an estate charge.
+
+• thought to be the cause, or
+• is contributing to physical damage (Category A), or
+• is affecting the access to or use of the amenity space around the property (Category B).
+
+• 30 years for mortgages on capital and interest
+• 50 years where any part of the loan is on interest only.
+
+• The property was built or converted within the last 24 months, and
+• Was not previously occupied since build or conversion, and
+• Being sold by the builder or developer, and
+• Not previously used for residential purposes.
+
+• sales incentives on properties sold by a builder/developer which they acquired under part exchange.
+• new build applications where any part of your client's deposit will be raised from an unsecured personal loan which is subsidised by a builder or developer.
+
+• House 95%
+• Flat 95%
+
+• 125% of the declared mortgage payment, or
+• 125% of our stressed mortgage payment at the 5.50% affordability rate.
+
+• the declared mortgage payment, or
+• our stressed mortgage payment at the 6.00% affordability rate.
+
+• Your client must live in the property and Right to Buy/Acquire papers are required.
+• Additional lending may be considered for home improvement purposes only. This will be subject to the local authority's/housing associations unconditional postponement of their charge. If they won't provide this the application may not proceed.
+
+• Purchase applications.
+• Remortgage applications where an equity loan will still exist i.e. we'll not allow partial staircasing.
+• Any other shared equity scheme.
+
+• Agricultural restrictions.
+• Bridging loans.
+• Buying a property for investment.
+• Commonhold tenure.
+• Farms where the farm and accommodation are together.
+• Freehold flats/maisonettes.
+• Guarantor mortgages.
+• Live/work units.
+• Re-sale price restrictions - where a property is sold at a percentage of the open market value.
+• Mobile homes/river boats.
+• Properties with a qualifying purchase restriction.
+• Properties with more than 10 acres of land.
+• Purchase of land.
+• Sale of property by a limited company to one of its directors, or a person connected to a director. A 'connected person' includes a spouse/civil partner or parent or child/step child of the director.
+• Shared equity.
+• Sheltered housing and properties with restricted age for the occupants.
+
+• more than 20% of the market value, or
+• more than £100,000.
+
+• Spouse/civil partner (as recognised under UK Law)
+
+• Parent/child
+• Grandparent/grandchild
+• Sibling
+
+• there is equity of at least 10% based on the market value, and
+• any other policy and product LTV restrictions are met e.g. purchase of a second home – max LTV 80%.
+
+For most flats, the valuer won’t ask for any information before they complete the valuation report. So, you don’t need to send us anything upfront. If the valuer finds there is cladding that raises a concern and we don’t already hold building records, they’ll let you know what they need to give a valuation. If the valuer asks for further information, you should provide this in the exact format they’ve asked for. It should be on headed paper from the building owner or management company. England, Wales and Northern IrelandAlthough we'll consider other supporting documents, we still need a letter from the building owner or management company if the valuer asks for this. ScotlandWe may be able to accept an EWS1 for the individual flat concerned if it’s sent with a letter of provenance. Estate charges are charged on some new developments for maintaining the grounds to cover services like gardening, general grounds maintenance etc. It can be charged on leasehold and freehold properties and isn't limited to the initial property owner. Estate charges must be included in an affordability assessment. So where your client has an estate charge to pay, please include the monthly amount in the affordability calculator (Expenditure > Service charge). Then at FMA make sure you: For all applications the property must be habitable with a working kitchen and bathroom (as a minimum) before any funds will be released. Written estimates may be required for any home improvements so that the valuer can provide an after works value. Where a valuer notes the presence of Japanese Knotweed (JK) within the boundaries of the property being inspected, they'll assess the outbreak based on the categories set out in the RICS guidance. Valuers will request a specialist report and treatment plan only where an outbreak is: A full advance retention will be imposed until the report is received. A reduced retention may be applied where a treatment plan has not yet commenced. Where JK is seen but doesn’t fall into either Category A or Category B, no retention will be imposed. However, there may be some adjustment to the valuation reflecting the presence of JK. The minimum time remaining on the lease at the expiry of the mortgage term must be: Applications are subject to a satisfactory valuation. Please note that the property will be valued by a third party registered RICS valuer. When a property is leasehold, its value will depend upon the length of time remaining on the lease. Typically value reduces as the lease term expires. Consequently, there may be occasions where the valuation of a leasehold property could be insufficient to support the mortgage required, even though the time remaining on the lease meets the above lending requirements. If the property is leasehold, please include the ground rent and service charge amounts in the expenditure field on the mortgage calculator and the full mortgage application. We won't allow a remortgage of the current residential property onto letting terms with Santander UK plc when combined with a residential purchase with Santander UK plc. The maximum LTV on the let property if remaining mortgaged with Santander UK plc is 75%. Refer to the 'Retained properties' section for further information. Evidence of proof of deposit must be held on your file and full details should be provided in the notes section within the full mortgage application on Introducer Internet. In some circumstances we may request evidence of the deposit that you hold. This relates to all new build/converted properties including affordable housing such as Shared Ownership. We define new build where all the following apply: We don't accept: New build offers are valid for 9 months if your client takes one of our new build property only products. Exceptions apply to clients porting with no top up product or staying on SVR. In these cases, your client's offer will be valid for 9 months if they're buying a new build home. We can still consider an extension to the mortgage offer subject to the conditions in the 'Offer validity' section. Standard new build LTV limits Please be aware that all applications will be subject to additional policy including loan to income multiples. New build residential loan limits Incentives Builders may offer sales incentives to prospective buyers to encourage them to purchase their properties. An incentive is anything the builder gives or provides to the buyer in cash or goods. Acceptable incentives up to and including 90% LTV Acceptable incentives above 90% LTV Please note, we don't accept new build applications where any part of your client's deposit will be raised from an unsecured personal loan which is subsidised by a builder or developer. We don't accept property as security where there is an overage agreement. We are unable to process applications for properties in the Isle of Man. Please contact us on 01624 644900 for further details. Retained properties are any other properties your client owns at the point of application. This includes mortgaged or mortgage-free properties that are currently let or to be let, second homes, holiday homes and properties occupied by dependent relatives. We'll need to consider other properties in the background as part of our affordability calculation. The details need to be captured in Introducer Internet. Refer to our Retained/other properties’ user guide for guidance on how to complete our affordability calculator and Introducer Internet. Where your client is remortgaging to us and raising money for a new property, which they may or may not have found yet, please complete the additional property form. 1. Let properties (already let or to be let) Where the property is mortgaged To work out if the property is self-financing, the rent needs to cover the higher of: If the property isn't self-financing, we'll automatically consider the shortfall between the 125% figure and the rent when assessing the affordability of the new mortgage. We can consider any surplus rent as secondary income if the property is already let, the rent isn't received in a foreign currency and every owner of the retained property is also a borrower on the residential mortgage application. If the let or to be let property will be mortgaged with Santander UK plc on completion of the new residential mortgage, the maximum LTV for each of those let properties is 75%. Where the property is owned mortgage-free If the property is already let and the rent isn't received in a foreign currency, we'll deduct 20% of the monthly rent to cover the costs of running the property. The surplus rental income can be used as secondary income where every owner of the retained property is also a borrower on the residential mortgage application. 2. Not let properties For second homes, holiday homes and properties occupied by a dependent relative, we'll consider the monthly running costs of these properties. Plus, if the property is mortgaged, we'll use the higher of: We won't consider the financial contributions from an occupant when assessing affordability. For LTV limits please refer to the ‘Types and purpose of loans where we lend section. For residential properties in Scotland, please refer to our 'How to submit a residential application for a Scottish property' This will help you key in the agreement in principle (AIP) and full mortgage application correctly in Introducer Internet We don't offer self build mortgages. We accept remortgage applications to redeem a shared equity loan in full including the Help to Buy schemes in England, Scotland and Wales. Where the LTV is over 85% and up to 90%, the money can only be used to redeem the first mortgage and the equity loan. We don't accept: Where your client owns less then 100% of the property, with the remaining share being owned by a third party, our LTV restrictions apply to the value of the share owned by the customer. The Shared Ownership agreement must allow staircasing to 100% ownership. Remortgage applications where the property is currently tenanted and/or isn't currently occupied by your client will be declined. This is regardless of any future intentions. We don't lend on the following types of property/loan: Regardless of the relationship between the seller and buyer, we can consider applications under standard policy where a property is sold below market value as long as the purchase price of the property isn't discounted by: The LTV must be based on the reduced purchase price and not the market value. Applications where the discount is greater than the limits above can only be considered where the transaction is between family members and their relationship is defined as any of the following: Or any of the following who may also include their spouse or civil partner as a joint applicant: Where the buyer/seller relationship meets the above we'll allow lending up to 100% of the discounted purchase price if:
+
+## Cladding
+For most flats, the valuer won’t ask for any information before they complete the valuation report. So, you don’t need to send us anything upfront. If the valuer finds there is cladding that raises a concern and we don’t already hold building records, they’ll let you know what they need to give a valuation. If the valuer asks for further information, you should provide this in the exact format they’ve asked for. It should be on headed paper from the building owner or management company. England, Wales and Northern IrelandAlthough we'll consider other supporting documents, we still need a letter from the building owner or management company if the valuer asks for this. ScotlandWe may be able to accept an EWS1 for the individual flat concerned if it’s sent with a letter of provenance.
+
+## Estate charges
+Estate charges are charged on some new developments for maintaining the grounds to cover services like gardening, general grounds maintenance etc. It can be charged on leasehold and freehold properties and isn't limited to the initial property owner. Estate charges must be included in an affordability assessment. So where your client has an estate charge to pay, please include the monthly amount in the affordability calculator (Expenditure > Service charge). Then at FMA make sure you:
+
+## Habitable
+For all applications the property must be habitable with a working kitchen and bathroom (as a minimum) before any funds will be released.
+
+## Home improvements
+Written estimates may be required for any home improvements so that the valuer can provide an after works value.
+
+## Japanese Knotweed
+Where a valuer notes the presence of Japanese Knotweed (JK) within the boundaries of the property being inspected, they'll assess the outbreak based on the categories set out in the RICS guidance. Valuers will request a specialist report and treatment plan only where an outbreak is: A full advance retention will be imposed until the report is received. A reduced retention may be applied where a treatment plan has not yet commenced. Where JK is seen but doesn’t fall into either Category A or Category B, no retention will be imposed. However, there may be some adjustment to the valuation reflecting the presence of JK.
+
+## Lease
+The minimum time remaining on the lease at the expiry of the mortgage term must be: Applications are subject to a satisfactory valuation. Please note that the property will be valued by a third party registered RICS valuer. When a property is leasehold, its value will depend upon the length of time remaining on the lease. Typically value reduces as the lease term expires. Consequently, there may be occasions where the valuation of a leasehold property could be insufficient to support the mortgage required, even though the time remaining on the lease meets the above lending requirements.
+
+## Leasehold properties
+If the property is leasehold, please include the ground rent and service charge amounts in the expenditure field on the mortgage calculator and the full mortgage application.
+
+## Let to Buy
+We won't allow a remortgage of the current residential property onto letting terms with Santander UK plc when combined with a residential purchase with Santander UK plc. The maximum LTV on the let property if remaining mortgaged with Santander UK plc is 75%. Refer to the 'Retained properties' section for further information. Evidence of proof of deposit must be held on your file and full details should be provided in the notes section within the full mortgage application on Introducer Internet. In some circumstances we may request evidence of the deposit that you hold.
+
+## New build
+This relates to all new build/converted properties including affordable housing such as Shared Ownership. We define new build where all the following apply: We don't accept: New build offers are valid for 9 months if your client takes one of our new build property only products. Exceptions apply to clients porting with no top up product or staying on SVR. In these cases, your client's offer will be valid for 9 months if they're buying a new build home. We can still consider an extension to the mortgage offer subject to the conditions in the 'Offer validity' section. Standard new build LTV limits Please be aware that all applications will be subject to additional policy including loan to income multiples. New build residential loan limits Incentives Builders may offer sales incentives to prospective buyers to encourage them to purchase their properties. An incentive is anything the builder gives or provides to the buyer in cash or goods. Acceptable incentives up to and including 90% LTV Acceptable incentives above 90% LTV Please note, we don't accept new build applications where any part of your client's deposit will be raised from an unsecured personal loan which is subsidised by a builder or developer.
+
+## Overage agreements
+We don't accept property as security where there is an overage agreement.
+
+## Properties in the Isle of Man
+We are unable to process applications for properties in the Isle of Man. Please contact us on 01624 644900 for further details.
+
+## Retained properties
+Retained properties are any other properties your client owns at the point of application. This includes mortgaged or mortgage-free properties that are currently let or to be let, second homes, holiday homes and properties occupied by dependent relatives. We'll need to consider other properties in the background as part of our affordability calculation. The details need to be captured in Introducer Internet. Refer to our Retained/other properties’ user guide for guidance on how to complete our affordability calculator and Introducer Internet. Where your client is remortgaging to us and raising money for a new property, which they may or may not have found yet, please complete the additional property form. 1. Let properties (already let or to be let) Where the property is mortgaged To work out if the property is self-financing, the rent needs to cover the higher of: If the property isn't self-financing, we'll automatically consider the shortfall between the 125% figure and the rent when assessing the affordability of the new mortgage. We can consider any surplus rent as secondary income if the property is already let, the rent isn't received in a foreign currency and every owner of the retained property is also a borrower on the residential mortgage application. If the let or to be let property will be mortgaged with Santander UK plc on completion of the new residential mortgage, the maximum LTV for each of those let properties is 75%. Where the property is owned mortgage-free If the property is already let and the rent isn't received in a foreign currency, we'll deduct 20% of the monthly rent to cover the costs of running the property. The surplus rental income can be used as secondary income where every owner of the retained property is also a borrower on the residential mortgage application. 2. Not let properties For second homes, holiday homes and properties occupied by a dependent relative, we'll consider the monthly running costs of these properties. Plus, if the property is mortgaged, we'll use the higher of: We won't consider the financial contributions from an occupant when assessing affordability.
+
+## Right To Buy/Acquire
+For LTV limits please refer to the ‘Types and purpose of loans where we lend section.
+
+## Scottish properties
+For residential properties in Scotland, please refer to our 'How to submit a residential application for a Scottish property' This will help you key in the agreement in principle (AIP) and full mortgage application correctly in Introducer Internet
+
+## Self build
+We don't offer self build mortgages.
+
+## Shared equity
+We accept remortgage applications to redeem a shared equity loan in full including the Help to Buy schemes in England, Scotland and Wales. Where the LTV is over 85% and up to 90%, the money can only be used to redeem the first mortgage and the equity loan. We don't accept:
+
+## Shared Ownership
+Where your client owns less then 100% of the property, with the remaining share being owned by a third party, our LTV restrictions apply to the value of the share owned by the customer. The Shared Ownership agreement must allow staircasing to 100% ownership.
+
+## Tenanted properties
+Remortgage applications where the property is currently tenanted and/or isn't currently occupied by your client will be declined. This is regardless of any future intentions.
+
+## Types of property where we may lend with certain conditions
+
+## Types of property/loans where we don't lend
+We don't lend on the following types of property/loan:
+
+## Undervalue transactions
+Regardless of the relationship between the seller and buyer, we can consider applications under standard policy where a property is sold below market value as long as the purchase price of the property isn't discounted by: The LTV must be based on the reduced purchase price and not the market value. Applications where the discount is greater than the limits above can only be considered where the transaction is between family members and their relationship is defined as any of the following: Or any of the following who may also include their spouse or civil partner as a joint applicant: Where the buyer/seller relationship meets the above we'll allow lending up to 100% of the discounted purchase price if:
+
+## Valuation services and fees
+Your client will receive a free standard valuation for mortgage purposes. Please note we reserve the right to charge a valuation fee in some instances. If your client would like a survey, they'll need to arrange and pay for any associated costs separately. For help with finding a local Surveyor you can visit the RICS website. We may ask for more reports if the valuer feels they're necessary. For example, if the valuer has noticed cracking, damp, or similar issues, they may need to be investigated before we can decide to lend to your client. A Valuer Desktop Assessment or Automated Valuation Model (AVM) is applicable to certain products. They're for our sole use and no fee is charged. We reserve the right to upgrade to a full inspection, in which case the valuer will contact your client directly. No fee is charged in these circumstances. Scottish purchase properties If you're buying in Scotland, we may accept a transcription of the valuation in the Home Report commissioned by the seller if it's dated within 3 months of the application. Where it's not dated within 3 months of the application, we'll instruct a new valuation. Please note we don't accept a Home Report for private sale applications.

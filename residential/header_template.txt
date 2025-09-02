@@ -1,0 +1,13 @@
+================================================================================
+LENDER: [LENDER_NAME]
+PRODUCT TYPE: RESIDENTIAL MORTGAGE
+CRITERIA VERSION: [DATE]
+================================================================================
+
+This document contains the complete residential mortgage lending criteria for [LENDER_NAME].
+All criteria are subject to change and should be verified with the lender before application.
+
+================================================================================
+
+
+

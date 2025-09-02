@@ -1,0 +1,796 @@
+=== Halifaxidentialing Services ===
+File: halifax_residential_banking_services_residential.txt
+Type: .txt
+Size: 966 bytes
+--------------------------------------------------
+🔹 TITLE: Residential Criteria - Hinckley & Rugby for Intermediaries
+🔹 DATE: 2025-08-24 21:22:52
+
+════════════════════════════════════════════════════════════════════════════════
+
+
+### Let us help
+
+Explore our website to find what you need or click below, and get in touch with a member of our team.
+
+────────────────────────────────────────────────────────────
+
+
+════════════════════════════════════════════════════════════════════════════════
+🎯 CONTENT EXTRACTION COMPLETE
+📊 Total sections: 1
+📋 Tota...
+
+=== Test Lender ===
+File: test_mortgage_lender_residential.txt
+Type: .txt
+Size: 1472 bytes
+--------------------------------------------------
+TEST MORTGAGE LENDER RESIDENTIAL CRITERIA
+==============================================
+
+LENDER INFORMATION:
+- Lender Name: Test Mortgage Lender
+- Product Type: Residential Mortgages
+- Minimum Age: 18
+- Maximum Age: 80
+
+INCOME REQUIREMENTS:
+- Minimum Income: £20,000
+- Self-employed: 1 year accounts required
+- PAYE: 1 month payslip required
+- Multiple incomes: Combined up to 4.5x
+
+DEPOSIT REQUIREMENTS:
+- Minimum Deposit: 5%
+- Maximum LTV: 95%
+- Gifted deposits: Allowed
+- Help to Buy: Supported
+-...
+
+=== Skipton ===
+File: skipton_building_society_mortgage_residential.txt
+Type: .txt
+Size: 214550 bytes
+--------------------------------------------------
+SKIPTON BUILDING SOCIETY - MORTGAGE LENDING CRITERIA
+================================================================================
+
+Source: https://www.skipton-intermediaries.co.uk/criteria/a-z-lending-criteria/a-z-lending-criteria-residential
+
+
+PEOPLE
+======
+
+
+POLICY
+======
+
+
+PROPERTY
+========
+
+
+PEOPLE
+======
+
+
+POLICY
+======
+
+
+PROPERTY
+========
+
+
+PEOPLE
+======
+
+
+POLICY
+======
+
+
+PROPERTY
+========
+
+
+POLICY
+======
+
+
+PEOPLE
+======
+
+
+POLICY
+======
+
+
+PROPERTY
+========
+
+
+PEOPLE
+======
+
+
+POLICY
+====...
+
+=== Nationwide-Residential.Txt ===
+File: nationwide-residential.txt
+Type: .txt
+Size: 673755 bytes
+--------------------------------------------------
+
+
+================================================================================
+URL: https://www.nationwide-intermediary.co.uk/support/broker-chat
+--------------------------------------------------------------------------------
+# 
+
+9.30am to 5pm on Mondays and 9am to 5pm , Tuesday to Friday (except bank holidays).
+To start a chat, press the blue 'Chat now' button during our operating hours.
+
+## What our teams can help with
+
+- Product and criteria Decision in Principle, Full Mortgage Applicati...
+
+=== Demo ===
+File: demo_bank_residential.txt
+Type: .txt
+Size: 984 bytes
+--------------------------------------------------
+DEMO BANK RESIDENTIAL MORTGAGE CRITERIA
+===============================================
+
+LENDER INFORMATION:
+- Lender Name: Demo Bank
+- Product Type: Residential Mortgages
+- Minimum Age: 18
+- Maximum Age: 75
+
+INCOME REQUIREMENTS:
+- Minimum Income: £25,000
+- Self-employed: 2 years accounts required
+- PAYE: 3 months payslips required
+
+DEPOSIT REQUIREMENTS:
+- Minimum Deposit: 10%
+- Maximum LTV: 90%
+- Gifted deposits: Allowed with letter
+
+PROPERTY TYPES:
+- Freehold houses: Yes
+- Leasehold flats: Yes...
+
+=== Hsbcidential 1.Txt ===
+File: hsbc_residential_1.txt
+Type: .txt
+Size: 13995118 bytes
+--------------------------------------------------
+================================================================================
+HSBC Residential Lending Criteria - PROPER FORMAT
+================================================================================
+Source: https://intermediaries.hsbc.co.uk/criteria/
+Extracted on: 2025-08-28 23:54:39
+================================================================================
+
+Found 401 relevant criteria sections:
+
+1. #### Affordable housing schemes
+==============================================...
+
+=== Leeds ===
+File: leeds_building_society_residential.txt
+Type: .txt
+Size: 55279 bytes
+--------------------------------------------------
+🔹 TITLE: Leeds Building Society - Residential Criteria Guide
+🔹 DATE: 2025-08-25 19:45:37
+
+════════════════════════════════════════════════════════════════════════════════
+
+
+### Value:
+
+24 months
+
+All applicants must be a UK citizen or have permanent or unrestricted indefinite leave to remain in the UK All Non-UK Citizens must have indefinite leave to remain or right to reside evidenced by a passport stamp, settled or pre-settled status under the EU Settlement Scheme, or confirmation from the Hom...
+
+=== Newcastle ===
+File: newcastle_building_society_residential.txt
+Type: .txt
+Size: 72210 bytes
+--------------------------------------------------
+🔹 TITLE: Newcastle Building Society - Residential Lending Criteria
+🔹 DATE: 2025-08-25 21:30:45
+🔹 SOURCE: https://newcastleforintermediaries.co.uk/criteria/residential-lending-criteria
+
+════════════════════════════════════════════════════════════════════════════════
+
+
+### Affordability assessment
+
+The Society undertakes a thorough affordability assessment to ensure that we lend responsibly. How much you can borrow is calculated through a combination of your income, regular financial commitments a...
+
+=== The Lender ===
+File: the_mortgage_lender_res_residential.txt
+Type: .txt
+Size: 346193 bytes
+--------------------------------------------------
+
+================================================================================
+URL: https://www.themortgagelender.com/product-transfer/
+--------------------------------------------------------------------------------
+Product Transfer - Intermediaries | The Mortgage Lender
+Important Information
+i
+Introducing DocuSign! Customers will now receive an email link to complete their mortgage application form electronically, streamlining the application process.
+Important Information
+Intermediaries
+Me...
+
+=== Kmc Lending ===
+File: kmc_lending_res_residential.txt
+Type: .txt
+Size: 69588 bytes
+--------------------------------------------------
+
+================================================================================
+Page 1
+--------------------------------------------------------------------------------
+LENDING POLICY -
+RESIDENTIAL
+FOR INTERMEDIARIES ONLY Downloaded on 25 Aug 2025
+Additional Lending
+Additional Lending is an optional feature of the FlexiFixed for Term mortgage range only and is notavailable on our
+standard Kensington Mortgagesranges. Clients can apply for Additional Lending noearlier than 12 months after
+complet...
+
+=== Principality ===
+File: principality_building_society_residential.txt
+Type: .txt
+Size: 12718 bytes
+--------------------------------------------------
+Product information
+Legal fees
+Where the product allows for legal fee assistance, we use either Optima Legal or O’Neill Patient Solicitor (ONP).
+
+Loan to value limits
+ 
+
+Loan to value limits on residential purchases are: 
+
+New purchase
+Loan to value	Maximum loan size
+95%	£500,000
+75-90% 	£650,000
+65-75%	£750,000
+<65% 	£1,000,000 
+The 95% should include any product fees. 
+
+
+New build
+Loan to value 	Maximum loan size
+95% (excluding flats – 90%).	£650,000
+The 95% should include any product fees.
+
+ ...
+
+=== Furness ===
+File: furness_building_society_residential.txt
+Type: .txt
+Size: 57879 bytes
+--------------------------------------------------
+🔹 TITLE: Lending criteria | Furness For Intermediaries
+🔹 DATE: 2025-08-23 12:11:28
+
+════════════════════════════════════════════════════════════════════════════════
+
+
+### Income criteria changes and pipeline update
+
+Employed applicants
+
+Now that the furlough scheme has ended we will consider applicants who have been on furlough provided that they have been back in full time employment for at least 1 full month.
+
+Self-employed applicants
+
+For self-employed applicants, those who can prove consiste...
+
+=== Coventry ===
+File: coventry_residential.txt
+Type: .txt
+Size: 101342 bytes
+--------------------------------------------------
+🔹 TITLE: Residential criteria
+🔹 DATE: 2025-08-23 11:10:02
+
+════════════════════════════════════════════════════════════════════════════════
+
+
+#### Age
+
+All applicants must be aged 18 or over, and they must be no more than 75 years old at the end of the mortgage term.
+
+For applicant(s) that cannot provide evidence of adequate pension income, the maximum age is their stated anticipated retirement age (no greater than 70 years old) or state retirement age, where no anticipated retirement age has be...
+
+=== Leek ===
+File: leek_building_society_residential.txt
+Type: .txt
+Size: 10104 bytes
+--------------------------------------------------
+🔹 TITLE: Leek Building Society - Residential Lending Criteria
+🔹 DATE: 2025-08-25 23:38:53
+🔹 SOURCE: Leek Building Society Lending Criteria
+
+════════════════════════════════════════════════════════════════════════════════
+
+### Products
+
+chevron_left  leekbs.co.uk 
+────────────────────────────────────────────────────────────────────────
+
+### Search
+
+log in close menu 
+────────────────────────────────────────────────────────────────────────
+
+### If you do need further information then please contac...
+
+=== Hsbc ===
+File: hsbc_residential.txt
+Type: .txt
+Size: 2024901 bytes
+--------------------------------------------------
+================================================================================
+HSBC Residential Lending Criteria
+================================================================================
+Source: https://intermediaries.hsbc.co.uk/criteria/
+Extracted on: 2025-08-28 23:38:31
+================================================================================
+
+Found 692 relevant criteria sections:
+
+1. #### Affordable housing schemes
+============================================================
+
+...
+
+=== Clydesdale ===
+File: clydesdale_bank_res_residential.txt
+Type: .txt
+Size: 54380 bytes
+--------------------------------------------------
+
+# Residential Lending Criteria
+
+**Scope:** Applies to product set **HomeA–F** (unless noted otherwise)
+
+## 1) Adverse Credit
+
+### 1.1 Arrears
+
+* **Last 6 months**
+
+  * **Mortgage:** No arrears permitted.
+  * **Non-mortgage commitments:** Max **1 month** in arrears per account, and must now be **back up to date**.
+* **Last 12 months**
+
+  * Max **3 months** in arrears per account on **any** commitment.
+  * **No account** may be **3 months in arrears** for **two consecutive months**.
+* **Last 24 m...
+
+=== Santanderidential 1.Txt ===
+File: santander_bank_residential_1.txt
+Type: .txt
+Size: 118585 bytes
+--------------------------------------------------
+# Santander for Intermediaries - Residential Mortgage Criteria
+
+Source: https://www.santanderforintermediaries.co.uk/products-and-criteria/mortgage-lending-criteria
+
+Last Updated: 2025-08-28
+
+
+## What's changed?
+• Affordability
+
+Changes to our loan to income multiples.
+• Changes to our loan to income multiples.
+
+• Changes to our loan to income multiples.
+
+The following section has been updated:
+
+## Eligibility questions
+• Are your clients unable to provide written confirmation of all types of in...
+
+=== Santander ===
+File: santander_bank_residential.txt
+Type: .txt
+Size: 82989 bytes
+--------------------------------------------------
+SANTANDER FOR INTERMEDIARIES - RESIDENTIAL MORTGAGE LENDING CRITERIA
+================================================================================
+
+What's changed?
+
+The following section has been updated:
+
+Affordability
+
+Changes to our loan to income multiples.
+
+ Eligibility questions
+
+If the answer is yes to any of the questions below, unfortunately we'll decline the application.
+
+Are your clients unable to provide written confirmation of all types of income which will be used in the applica...
+
+=== Bank Of Ireland ===
+File: bank_of_ireland_residential.txt
+Type: .txt
+Size: 122412 bytes
+--------------------------------------------------
+================================================================================
+BANK OF IRELAND MORTGAGE CRITERIA - FINAL STRUCTURED CONTENT
+================================================================================
+Extracted on: 2025-08-17 13:00:58
+Source file: BANKOFIRELAND.HTML
+
+MORTGAGE CRITERIA SECTIONS:
+==================================================
+
+1. ACCEPTABLE TENURE
+-----------------
+Scotland __
+  • Simple/Absolute
+  • Commonhold.
+
+
+2. SCOTLAND
+--------
+  • Simple/Absolute
+...
+
+=== Vida Home Loans ===
+File: vida_home_loans_residential.txt
+Type: .txt
+Size: 66553 bytes
+--------------------------------------------------
+================================================================================
+Vida Home Loans - Residential Mortgage Lending Criteria
+================================================================================
+Source: https://www.vidahomeloans.co.uk/intermediaries/lending-criteria
+Extracted on: 2025-08-28 22:02:50
+================================================================================
+
+1. Acceptable Visa Types
+------------------------------------------------------------
+
+KEY LEN...
+
+=== Accord ===
+File: accord_residential.txt
+Type: .txt
+Size: 514396 bytes
+--------------------------------------------------
+------------------------------------------------------------
+Title: Salaried income
+URL: https://www.accordmortgages.com/criteria/income
+Slug: income
+Category: Applicant
+------------------------------------------------------------
+
+Headings:
+  - H2: Income criteria
+  - H1: Income
+  - H3: Page contents
+  - H2: Salaried income
+  - H2: Employed by family company
+  - H2: Ltd company director
+  - H2: Salaried director income
+  - H2: Umbrella company income
+  - H2: Self employed / partnership / limite...
+
+=== Metro ===
+File: metro_bank_residential.txt
+Type: .txt
+Size: 5928 bytes
+--------------------------------------------------
+🔹 TITLE: Metro Bank - Complete Residential Lending Criteria
+🔹 DATE: 2025-08-25 23:27:55
+🔹 SOURCE: https://www.metrobankonline.co.uk/intermediaries/lending-criteria/
+
+════════════════════════════════════════════════════════════════════════════════
+
+### Address History
+
+3 year UK address history is required. 
+────────────────────────────────────────────────────────────────────────
+
+### Settled/Pre-Settled Status under the EU settlement scheme is accepted.
+
+Applicants on a Skilled Worker or Family ...
+
+=== Virgin Money ===
+File: virgin_money_residential.txt
+Type: .txt
+Size: 96502 bytes
+--------------------------------------------------
+================================================================================
+Lending criteria
+================================================================================
+Source: https://intermediaries.virginmoney.com/lending-criteria/residential/#lending-criteria
+Extracted on: 2025-08-28 22:26:48
+================================================================================
+
+Found 59 criteria items with complete content:
+
+1. Adverse credit
+   Link: #adverse-credit
+====================...
+
+=== Scottish Widows ===
+File: scottish_widows_mortgage_residential.txt
+Type: .txt
+Size: 108357 bytes
+--------------------------------------------------
+SCOTTISH WIDOWS - MORTGAGE LENDING CRITERIA
+================================================================================
+
+APPLICATION
+-----------
+
+Application
+
+Decision in Principle (DIP)
+ expandable section
+
+A DIP states how much we can lend and is valid for three months, subject to a valuation and the information supplied being correct.
+
+Direct Debit details
+ expandable section
+
+The details of the customer’s bank account from where the mortgage will be paid should be keyed at application.
+...
+
+=== Barclays ===
+File: barclays_residential.txt
+Type: .txt
+Size: 448949 bytes
+--------------------------------------------------
+================================================================================
+BARCLAYS BANK MORTGAGE CRITERIA - EXTRACTED CONTENT
+================================================================================
+Extracted on: 2025-08-16 21:36:45
+Source file: BARCLEYS.HTML
+
+SECTION HEADERS:
+  • A-C
+  • D-K
+  • L-N
+  • O-Q
+  • R-Z
+
+ACCORDION SECTIONS:
+----------------------------------------
+
+ADDITIONAL BORROWING
+--------------------
+  You need to treat requests for additional borrowing by exist...
+
+=== Lend Invest ===
+File: lend_invest_residential.txt
+Type: .txt
+Size: 25905 bytes
+--------------------------------------------------
+
+================================================================================
+Page 1
+--------------------------------------------------------------------------------
+For intermediaries only
+Residential
+mortgages
+criteria guide
+Lending criteria and property requirements for
+our Residential Mortgages products.
+Mortgages made simple
+Last Updated: 24/06/2025
+0203 846 6814 | resisales@lendinvest.com 1
+
+================================================================================
+Page 2
+-------...
+
+=== Nottingham ===
+File: nottingham_building_society_residential.txt
+Type: .txt
+Size: 53278 bytes
+--------------------------------------------------
+🔹 TITLE: Nottingham Building Society - Residential Lending Criteria (All Content)
+🔹 DATE: 2025-08-26 23:36:13
+🔹 SOURCE: https://www.thenottingham.com/intermediaries/lending-criteria/residential
+
+════════════════════════════════════════════════════════════════════════════════
+
+## Section 1
+
+Residential lending criteria | Nottingham Building Society
+FOR INTERMEDIARY USE ONLY
+Accessibility tools
+Contact
+Find a BDM
+Paying fees
+Register
+Log in
+Register
+Log in
+Products and rates
+Products and rates
+New...
+
+=== Sample ===
+File: sample_building_society_residential.txt
+Type: .txt
+Size: 1419 bytes
+--------------------------------------------------
+SAMPLE BUILDING SOCIETY RESIDENTIAL CRITERIA
+========================================================
+
+LENDER INFORMATION:
+- Lender Name: Sample Building Society
+- Product Type: Residential Mortgages
+- Minimum Age: 21
+- Maximum Age: 70
+
+INCOME REQUIREMENTS:
+- Minimum Income: £30,000
+- Self-employed: 3 years accounts required
+- PAYE: 6 months payslips required
+- Bonus: 50% of bonus can be used
+
+DEPOSIT REQUIREMENTS:
+- Minimum Deposit: 15%
+- Maximum LTV: 85%
+- Gifted deposits: Allowed with solicit...
+
+=== Kent Reliance ===
+File: kent_reliance_residential.txt
+Type: .txt
+Size: 41155 bytes
+--------------------------------------------------
+🔹 TITLE: Mortgage Criteria Guide | Kent Reliance For Intermediaries - Residential
+🔹 DATE: 2025-08-25 15:02:22
+
+════════════════════════════════════════════════════════════════════════════════
+
+
+### Acceptable income
+
+All residential loans must pass the affordability test using our own model. Income from all applicants will be combined for the purpose of affordability. Please use our residential affordability calculator to check your client s affordability.
+
+We ll accept the following forms of in...
+
+=== Halifaxidentialing Servicesidential Direct ===
+File: halifax_residential_banking_services_residential_direct_residential.txt
+Type: .txt
+Size: 630 bytes
+--------------------------------------------------
+🔹 TITLE: HRBS Residential Criteria
+🔹 DATE: 2025-08-24 21:25:28
+
+════════════════════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════════════════════
+🎯 CONTENT EXTRACTION COMPLETE
+📊 Total sections: 0
+📋 Total tables: 0...
+
+=== Natwest ===
+File: natwest_bank_residential.txt
+Type: .txt
+Size: 108937 bytes
+--------------------------------------------------
+🔹 TITLE: NatWest Bank - Residential Lending Criteria
+🔹 DATE: 2025-08-25 22:40:24
+🔹 SOURCE: https://www.natwest.com/mortgages/criteria
+
+════════════════════════════════════════════════════════════════════════════════
+
+### Acreage/Agricultural restriction
+
+We don’t have a maximum plot size.Where a property is over 4 hectares/10 acres, we will be able to consider the property subject to underwriter assessment and a suitable valuation report.Agricultural restrictions limit the occupancy of a propert...
+
+=== Pepper Money ===
+File: pepper_money_residential.txt
+Type: .txt
+Size: 27095 bytes
+--------------------------------------------------
+# Scraped Website Content
+
+Generated on: 8/27/2025, 11:38:37 AM
+
+## Main Content
+
+
+Our mortgage criteria’s are designed to help your customers with unique circumstances who would benefit from a more human underwriting approach. This includes those with complex income, self-employed, young credit history, and those who have experienced previous financial blips.
+ Applicant details **Minimum age:** • 21
+ **Maximum age:** • 80 at end of term
+ • For joint applications the age of the oldest applicant ...
+
+=== Modas ===
+File: moda_mortgages_residential.txt
+Type: .txt
+Size: 422388 bytes
+--------------------------------------------------
+🔹 TITLE: Moda Mortgages - Complete A-Z Lending Criteria
+🔹 DATE: 2025-08-25 23:06:51
+🔹 SOURCE: https://modamortgages.co.uk/intermediaries/lending-criteria
+
+════════════════════════════════════════════════════════════════════════════════
+
+### Letter A - Content Section
+
+Go back home
+This site is for intermediaries only
+Access our broker portal
+Overview
+Products & criteria
+Resources
+About
+Get in touch
+Lending criteria
+We have clear and straightforward lending criteria to help you quickly identify w...
+
+=== Halifax ===
+File: halifax_bank_residential.txt
+Type: .txt
+Size: 319426 bytes
+--------------------------------------------------
+🔹 TITLE: Criteria | Mortgages | Halifax Intermediaries
+🔹 DATE: 2025-08-23 12:33:37
+
+════════════════════════════════════════════════════════════════════════════════
+
+
+### C-D expandable section
+
+• Certifying Documents
+• Changing Property Address
+• Cladding & EWS1
+• Commitments and outgoings
+• Concessionary and family purchase
+• Consent to let
+• Contractors
+• Decision in Principle (DIP)
+• Dependants
+• Deposit acceptance and documentation
+• Direct Debit Details
+• Discount Market Scheme (DMS)/ Resa...
+
+=== Kmc Lending ===
+File: kmc_lending_residential.pdf
+Type: .pdf
+Size: 198476 bytes
+--------------------------------------------------
+[PDF FILE: kmc_lending_residential.pdf - Content extraction requires PDF processing library]...
+
+=== Fleet ===
+File: fleet_residential.pdf
+Type: .pdf
+Size: 303101 bytes
+--------------------------------------------------
+[PDF FILE: fleet_residential.pdf - Content extraction requires PDF processing library]...
+
+=== Santander ===
+File: santander_bank_residential.pdf
+Type: .pdf
+Size: 9092407 bytes
+--------------------------------------------------
+[PDF FILE: santander_bank_residential.pdf - Content extraction requires PDF processing library]...
+

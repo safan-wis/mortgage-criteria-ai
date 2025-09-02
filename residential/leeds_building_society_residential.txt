@@ -1,0 +1,980 @@
+🔹 TITLE: Leeds Building Society - Residential Criteria Guide
+🔹 DATE: 2025-08-25 19:45:37
+
+════════════════════════════════════════════════════════════════════════════════
+
+
+### Value:
+
+24 months
+
+All applicants must be a UK citizen or have permanent or unrestricted indefinite leave to remain in the UK All Non-UK Citizens must have indefinite leave to remain or right to reside evidenced by a passport stamp, settled or pre-settled status under the EU Settlement Scheme, or confirmation from the Home Office
+
+Tuesday 22nd of October 2024
+
+This is the required number of months we specify an applicant has to have had a UK address history for.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Not Acceptable
+
+Leeds Building Society does not accept applications from advisors applying for their own mortgage including Product Transfers.
+
+Monday 30th of June 2025
+
+Indicates if we can potentially accept residential applications from an advisor wishing to apply for his or her own mortgage.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Can Be Ignored
+
+Leeds Building Society will ignore 'Additional Voluntary Pension Contributions' when assessing borrowers affordability.
+
+Monday 19th of August 2024
+
+Indicates if we can potentially ignore additional voluntary pension contributions when assessing applicants expenditure for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society will not include 'Charitable Donations' when assessing borrowers affordability.
+
+Please note this is subject to underwriter's discretion. Depending on the size and regularity of the donation the underwriter may choose to include this, usually if it is higher than a usual monthly donation.
+
+Thursday 14th of December 2023
+
+Indicates if we can potentially ignore charitable donations when assessing applicants expenditure for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Not Ignored
+
+Leeds Building Society will include 'Child Care Vouchers' when assessing borrowers affordability.
+
+Friday 15th of November 2024
+
+Indicates if we can potentially ignore childcare vouchers when assessing applicants expenditure for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society will ignore 'Company Pension Contributions' when assessing borrowers affordability.
+
+Wednesday 6th of November 2024
+
+Indicates if we can potentially ignore company pension contributions when assessing applicants expenditure for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society will need any maintenance payments to be included as a commitment.
+
+Wednesday 16th of April 2025
+
+Indicates if we can potentially ignore maintenance payments when assessing applicants expenditure for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can ignore 'Private Healthcare Payments' when assessing borrowers affordability unless excessive.
+
+Indicates if we can potentially ignore private health care premiums when assessing applicants expenditure for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society will include 'School Fees' when assessing borrowers affordability.
+
+Indicates if we can potentially ignore school fees when assessing applicants expenditure for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society will ignore 'Season Ticket Loans' when assessing borrowers affordability subject to underwriter's discretion.
+
+Indicates if we can potentially ignore season ticket loans when assessing applicants expenditure for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society will ignore 'Sharesave Schemes' when assessing borrowers affordability.
+
+Indicates if we can potentially ignore share save schemes when assessing applicants expenditure for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society will include 'Student Loans' when assessing borrowers affordability.
+
+Indicates if we can potentially ignore student loans when assessing applicants expenditure for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society will ignore non dependant household occupants when assessing borrowers affordability.
+
+Indicates if we can potentially ignore non-dependant household occupants when assessing applicants expenditure for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society will include personal borrowing for self employed business purposes when assessing borrowers affordability.
+
+Indicates if we can potentially ignore personal borrowing for self employed business purposes when assessing borrowers affordability
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society allows Interest Only mortgages up until a maximum age of 70 or the clients intended retirement age whichever earlier for the oldest applicant.
+
+Friday 13th of September 2024
+
+Indicates the maximum age at the end of the mortgage term we could consider for an interest only application on residential applications
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+80 years
+
+This applies to the oldest applicant on the mortgage.
+
+Indicates the maximum age (at the point of application) an applicant can be in order for them to be considered for an application with us.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+No Maximum years
+
+This applies to the oldest applicant on a capital and interest mortgage. If Interest only, then it would be client's intended retirement age or 70 whichever is sooner. For RIO, there is no max age as this is a lifetime mortgage.Additionally, the maximum age for Shared Ownership, Shared Equity and Help to Buy is age 70 or the client's intended retirement age or 70 whichever is sooner.
+
+Depending on the mortgage type this would determine the maximum age. Residential - 70 or aged 75 if paying into a pension. 85 if using only pension income.Shared Ownership, Help to Buy, Shared Equity and Interest Only - 70 or clients intended retirement ageRIO - No maximum
+
+Wednesday 24th of July 2024
+
+Indicates the absolute maximum age we might lend to. In summary 'Age Limits: Maximum Age at End of Mortgage Term' indicates the age we can potentially lend up until if you meet all required criteria.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+85 years
+
+Specifies the maximum age we can potentially accept for a non-contributing applicant. A non-contributing applicant is an applicant whose income is not factored into the affordability of the mortgage.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+70 years
+
+Maximum retirement age is 70 years or the borrower can state their own retirement age, whichever is earlier.
+
+Specifies the maximum age we might be able to accept before proof of acceptable pension income would be required. This figure can vary from applicant to applicant as it often depends upon other factors such as an applicant's planned retirement age. Therefore the value shown is the maximum age we may be able to lend to before pension proof would be required and assumes applicants planned retirement age is not sooner than our stated maximum.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+75 years
+
+The society can use earned income (Employed or Self Employed) up to age 70, or retirement age, whichever comes first. However, if the client is paying into a private pension each month, and this can be evidenced, we can lend to age 75.
+
+The client must be investing, actively, into a pension otherwise use of earned income would be capped at their retirement age or age 70, whichever is sooner.
+
+Specifies the maximum age we can potentially accept for a self employed borrower.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+18 years
+
+The minimum age for a mortgage application is 18 years old.
+
+Friday 23rd of August 2024
+
+Specifies our minimum age at point of application requirement for residential mortgages.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does offer Retirement Interest Only (RIO) mortgages to applicants aged between 55 and 80 at time of application.Please review full policy.
+
+This criteria indicates if we offer Retirement Interest Only (RIO) mortgages and if so, do we have a MAXIMUM AGE AT APPLICATION requirement.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+No Maximum
+
+Leeds Building Society has no maximum age at the end of the mortgage.
+
+This criteria indicates if we offer Retirement Interest Only (RIO) mortgages and if so, do we have a maximum age at the end of the term requirement. Mortgage lenders are not required to set a fixed term for the mortgage and so the repayment date can be when the borrower dies or goes into care, as with Lifetime Mortgages.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Minimum age of 55 does apply for Retirement Interest Only (RIO) mortgages.
+
+Monday 28th of October 2024
+
+This criteria indicates if we offer Retirement Interest Only (RIO) mortgages and if so, do we have a minimum age requirement.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Acceptable
+
+Leeds Building Society can consider an applicant who is not on electoral register
+
+Indicates if we will consider a residential application for an applicant who is not on the electoral register
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can potentially allow fees to be added where it means the lending loan to value limits will be exceeded providing this doesn't exceed 95%. It would still need to fit within the maximum loan figure.
+
+Wednesday 18th of June 2025
+
+Indicates if we allow borrowers to add the arrangement fee (where one is payable) to the mortgage advance where this will mean the max lending policy loan to value will be exceeded.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can potentially allow fees to be added where it means the product loan to value limits will be exceeded to a maximum 95% lending. with the exception of a case being Maxed loaned on affordability and if the monetary value exceeds the limit assigned to the LTV. e.g. 90% LTV cannot exceed  600,000.
+
+Indicates if we allow borrowers to add the arrangement fee (where one is payable) to the mortgage advance where this will mean the product loan to value will be exceeded.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Monday 7th of October 2024
+
+Indicates if we can potentially accept applicants that have an arrangement to pay registered on their credit file on residential applications.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can potentially consider applicants with previous mortgage or secured loan arrears.
+
+A maximum of 1 missed mortgage payments in the last 12 months.
+
+Indicates if we can potentially accept applications from applicants that have a history of mortgage or secured loan arrears.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can potentially consider applicants with previous unsecured loan arrears.
+
+Indicates if we can potentially accept applications from applicants that have a history of unsecured loan arrears.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Outstanding Balance
+
+Leeds Building Society will include an outstanding balance on additional residential mortgages when assessing affordability along with running costs associated to owning multiple residential properties using ONS data as opposed to the monthly payment.
+
+Tuesday 17th of December 2024
+
+Indicates if we will use the monthly payment of any background other residential mortgages when assessing affordability or the outstanding balance. For example, Applicant 'A' is applying for a new mortgage with Lender 'A'. Applicant 'A' has a second property in the background that is used as a second home with an outstanding mortgage of  50,000 and a monthly payment of  300 per month. When assessing Applicant 'A's' income Lender 'A' take the monthly payment of the background mortgage as a monthly commitment as opposed to deducting the outstanding balance ( 50,000) from the total amount they have calculated Applicant 'A' could borrow based on his income.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+The property needs to have been owned for a minimum of 6 months before the society can consider a remortgage.
+
+Back to back is typically where the vendor has owned the property for less than six months, or remortgages where they've owned the property for less than six months.Back to Back (Remortgage - Bridging) indicates if we will accept applications where the customer has funded the purchase from a bridging loan and now wishes to mortgage the property.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds require the property should have been owned for at least 6 months prior to the re-mortgage.
+
+Leeds has the discretion to underwrite cases outside of the required criteria provided.
+
+Back to back is typically where the vendor has owned the property for less than six months, or remortgages where they've owned the property for less than six months.Back to back (Remortgage - Customer Funded), indicates if we can accept applications where the customer has funded the purchase from their own funds and now wish to mortgage the property.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Upon inheriting a property through death we can allow a re-mortgage once probate has completed and our clients names are on title.
+
+Back to back is typically where the vendor has owned the property for less than six months, or remortgages where they've owned the property for less than six months.Back to back (Remortgage - Inherited) indicates if we will accept applications where the customer has inherited a property and now wish to mortgage it on a residential basis.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Please contact your BDM to discuss
+
+We will carry out due diligence checks.
+
+Back to back is typically where the vendor has owned the property for less than six months, or remortgages where they've owned the property for less than six months.In the case of Back to back (Remortgage - Other) it indicates if we are able to potentially accept remortgage applications where the current owner has owned the property for less than 6 months and is now looking to remortgage for a reason other than due to the property being inherited, remortgaging having recently ported, to repay bridging finance or to mortgage having originally purchase the property for cash.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does not accept back to back remortgages of this nature.
+
+Leeds Building Society can only accept a remortgage where the client has owned the property for at least 6 months.
+
+Wednesday 5th of June 2024
+
+Back to back is typically where the vendor has owned the property for less than six months, or remortgages where they've owned the property for less than six months.Back to back (Remortgage - Ported) indicates if we will accept applications where the customer has recently moved and ported their mortgage, their product has come to an end shortly after and they now wish to remortgage. For example, Jeff moved into his new property last month and ported his existing mortgage across so as to avoid an early repayment charge on his then-current mortgage. The current product, however, expires about a month after his move in date and so he would like to remortgage to a new lender in order to obtain a new product even though he has only been in the property for one month.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+We will not normally lend where there is a sub-sale, sale and leaseback or a back to back transaction. All circumstances where the owner/registered proprietor has owned the property for less than 6 months from purchase will be assessed manually by the society. Lending in these scenarios is outside policy and is considered on a case by case basisWe will need the following information:
+
+Tuesday 3rd of December 2024
+
+Back to back is typically where the vendor has owned the property for less than six months, or remortgages where they've owned the property for less than six months.In the case of Back to back (Purchase - Other) it indicates if we are able to potentially accept applications for purchases where the current owner has owned the property for less than 6 months and is now wishing to sell for a reason other than due to a previous part exchange or a lender repossession.
+
+• confirmation that the property is currently owned by the seller;
+• date on which the seller acquired the property; and
+• the purchase price paid by the borrower.
+
+• the property is currently owned by the borrower;
+• the date on which the borrower acquired the property; and
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+We will not normally lend where there is a sub-sale, sale and leaseback or a back to back transaction.All circumstances where the owner/registered proprietor has owned the property for less than 6 months from purchase will be assessed manually by the society.Lending in these scenarios is outside policy and is considered on a case by case basisWe will need the following information:
+
+Back to back is typically where the vendor has owned the property for less than six months, or remortgages where they've owned the property for less than six months.In the case of Back to back (Purchase - Part Exchange), it indicates if we are able to potentially accept applications for purchases where the current owner took the property as a part exchange on a previous sale. An example would be where a builder sold a property to someone and took their property as a part exchange and now wishes to sell that property and the part exchange falls within the last 6 months.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Back to back is typically where the vendor has owned the property for less than six months, or remortgages where they've owned the property for less than six months.In the case of Back to back (Purchase - Repossessed), it indicates if we are able to potentially accept applications for purchases where the current owner is a lender that has repossessed the property being sold from the previous owner in the past 6 months.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does accept adoption allowance as an additional income type at 100% subject to having a primary income source.
+
+Friday 6th of December 2024
+
+Displays if we will accept Adoption Allowance as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can accept Attendance Allowance at 100% provided there is a source of primary income on the application
+
+There must be a source of earned income, PAYE or self-employment, or pension on the application.
+
+Friday 13th of October 2023
+
+Displays if we will accept Attendance Allowance as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does accept carers allowance as an income type at 100%. Subject to having a primary income source.
+
+Displays if we will accept Carers Allowance as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can consider 100% child benefits (cb) subject to an applicant having a primary source of income
+
+Underwriters discretion when assessing plausibility if the benefits does not cover the term of the mortgage.
+
+Displays if we will accept Child Benefit as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can consider 100% child tax credit (CTC)
+
+Indicates if we accept child tax credits as an allowable income type for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can consider 100% being used subject to it being sustainable, the client must have a primary income.
+
+Displays if we will accept Constant Attendance Allowance as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can consider disability living allowance as a secondary source of income, must be guaranteed for life with no review periods. Subject to full award letter.
+
+Please note: Leeds Building Society do not accept DLA awarded to the applicant's child/children.
+
+Displays if we will accept Disability Living Allowance as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Support group element only. Evidenced by the award letter.
+
+Displays if we will accept Employment and Support Allowance as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can consider Guardian allowance as a secondary income type to support affordability subject to having a primary source of income on application.
+
+Displays if we will accept Guardian Allowance as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can potentially accept industrial injuries disablement benefit as an income type.
+
+needs to be guaranteed for life of client and the amount paid cannot be reviewed.
+
+Displays if we will accept Industrial Injuries Disablement Benefit as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can accept Personal Independence Payments (PIP) as a secondary income source. The total of all secondary income sources combined is capped at equal the application's primary income.We will require the Latest DLA / Award Letter (dated within the last 12 months) - The PIP needs to be for a named applicant and not dependent and not reviewable.
+
+Displays if we will accept Personal Independence Payment as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+If there is a primary source of income on the application such as employed or self-employed income, we can look to use income from Universal Credits. We will consider the average of the last three months standard allowance and carer's allowance, minus any housing allowance. Underwriters may consider using any child allowance to offset any childcare costs at their own discretion.Underwriters may occasionally ask for a longer track record, should they feel that the risk profile of the case merits it.
+
+Please discuss with your BDM if these benefits do not meet the mortgage term.
+
+Displays if we will accept Universal Credit as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+100% of the working element only, evidenced in the HMRC tax credit award letter (all pages)
+
+Indicates if we accept working tax credits as an allowable income type for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Not Offered
+
+Leeds Building Society will not consider applications on a Buy for Uni Scheme
+
+Thursday 28th of November 2024
+
+Indicates if we can potentially consider applications on a Buy for University Scheme. Buy for uni allows students to borrow up to 100% to buy a property and rent out rooms to meet the mortgage interest payments. Parents support the arrangement by being a joint borrower on the mortgage and by providing additional security if necessary
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Potentially Acceptable
+
+Maximum of one County Court Judgement (CCJ) or default satisfied within the last 3 years, and no greater than  500 in value. If greater than  500 in value, the CCJ/default must have been satisfied over 3 years ago.We will allow up to 4 defaults or CCJs satisfied over three years ago, not exceeding  20,000 collectively. Unsatisfied defaults / CCJs are not acceptable.
+
+Indicates if we can potentially accept applicants that have had any CCJs registered more than 12 months ago and less than 24 months ago. Other factors will also be taken into consideration such as, but by no means limited to, number of adverse, value and the overall credit profile of an applicant.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Indicates if we can potentially accept applicants that have had any CCJs registered more than 24 months ago and less than 36 months ago. Other factors will also be taken into consideration such as, but by no means limited to, number of adverse, value and the overall credit profile of an applicant.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Indicates if we can potentially accept applicants that have had any CCJs registered more than 3 months ago and less than 12 months ago. Other factors will also be taken into consideration such as, but by no means limited to, number of adverse, value and the overall credit profile of an applicant.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Indicates if we can potentially accept applicants that have had any CCJs registered in the past 3 months. Other factors will also be taken into consideration such as, but by no means limited to, number of adverse, value and the overall credit profile of an applicant.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Potentially Ignored
+
+Indicates if we can potentially ignore CCJs that were registered more than 36 months ago. Other factors will also be taken into consideration such as, but by no means limited to, number of adverse, value and the overall credit profile of an applicant.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can extend mortgage offers once for an additional 6 months, please refer to the offer extension declaration form on our website.
+
+Indicates if we can potentially extend a clients mortgage offer beyond the standard expiry.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Indicates if we accept concessionary purchase applications where the current owner is related to one of the applicants. For example, Mr Smith has agreed to sell a property he owns to his grandson (Joe) for  150,000. The property is worth  200,000. Joe wishes to purchase the property for  150,000 and would like a lender who will use the difference between the property value and the purchase price as a deposit ( 50,000).
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Vendor deposit maxed at 5% of purchase price or valuation, whichever is the lower.
+
+Indicates if we accept concessionary purchase applications where the current owner is the landlord of the property and the applicant(s) are the tenants. For example, Mr Landlord has agreed to sell the property he Lets to his tenants (Tom and Sally) for  150,000. The property is worth  200,000. Tom and Sally wish to purchase the property for  150,000 and would like a lender who will use the difference between the property value and the purchase price as a deposit ( 50,000).
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can consider this situation where it is a concessionary purchase where the giftor will remain an occupant of the property subject to gifted deposit form, occupier consent form and ground 2 notice forms being signed.
+
+Please speak to your BDM
+
+Indicates if we accept concessionary purchase applications where the current owner is providing a gift of equity AND WILL REMAIN IN THE PROPERTY. For example, Mr Lane has agreed to sell a property he owns to his son (Tony) for  150,000. The property is worth  200,000. Tony wishes to purchase the property for  150,000 and would like a lender who will use the difference between the property value and the purchase price as a deposit ( 50,000) and is happy for Mr Lane senior to remain in the property.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building society will not accept any part of the property being let out via AirBnB or similar.The society can consider clients having a lodger - please see Lodger criteria.
+
+We can not use any income which the borrower is receiving from the lodger.
+
+Tuesday 24th of December 2024
+
+Indicates if we allow borrowers to Let a room via services such as AirBnB or similar. FOR CLARIFICATION this is for the situation whereby the borrower resides in the security property and Lets a room in that property.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can not accept a situation where an applicant is in tied accommodation and wishes to purchase on a residential basis but let the property and remain in the tied accommodation until returning to this property as their main residential.
+
+The society can consider a BTL mortgage in this instance where the clients are in tied accommodation, this is to be evidenced as tied and not an optional benefit.
+
+Indicates if we can potentially allow applicants that are in tied accommodation to take a residential product and give the applicant permission to Let the property whilst they remain in the tied accommodation. For example an applicant who is moving into or currently in tied accommodation linked to their employment (e.g. boarding school teacher, vicar/minster, estate worker, army barracks etc) and will remain in this situation until their job ceases at some point in the future. They'd like to purchase a property that they intend to live in at a later date but would like to Let the property whilst they remain in tied accommodation.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does not accept applications where contract reassignment exists.
+
+Indicates if we are potentially able to accept the situation whereby the purchaser is looking to buy a new build property from a third party (not the builder/developer) who has yet to complete on the transaction. An example of this is whereby a third party has secured the property off plan and exchanged contracts but has not completed. They then sell the contract to a new purchaser. This is known as 'contract reassignment'. Sometimes this is for a premium of the original purchase price and sometimes it is without a premium.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does not accept agency work as a source of income.
+
+Displays if we will accept Agency work as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Treat as self-employed. Please see self-employed policy for sole trader/partnership or LTD company.
+
+Displays if we will accept CIS Contractor as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Displays if we will accept Fixed Term Contract as an acceptable source of income for affordability purposes.
+
+• Applicants employed on a short term contract will be considered where the contract has already been renewed at least once with the same employer. Alternatively, where there is an established record of employment covering a minimum of 12 months within the same field of business.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can potentially accept IT Consultant as an income type. Please refer to the relevant employment type e.g. permanent employment, short term/fixed term contract.
+
+Displays if we will accept IT Contractor as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can potentially accept Locum Doctor as an income type on provision they are not 0 hour contract
+
+No 0 hours contract
+
+Wednesday 7th of August 2024
+
+Displays if we will accept Locum Doctor as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does not accept any nursing bank work as a source of income.
+
+Displays if we will accept Nursing Bank as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does not accept piecework contracts as an income type.
+
+Displays if we will accept Piecework Contract as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does not accept probationary contracts as an income type.
+
+We cannot accept a client on a open-ended probationary contract. We can consider someone in a employed role who is within their probation period.
+
+Specifies if we accept someone's income who is on a 'probationary contract'. A probationary contract is not the same as a probationary period. If your client is simply in a probationary period then you should check that specific criteria.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can potentially accept income from a rolling contract as long as each contract has an end date. We will treat these as fixed term contracts.
+
+Indicates if we can accept a rolling contract as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does not accept seasonal contracts as an income type.
+
+certain circumstances may be considered if we can evidence history of this employment and if can be evidenced for future.
+
+Displays if we will accept Seasonal Contract as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Applicants who are employed (PAYE) on short-term contracts can be considered, the contract must have been renewed at least once with the same employer or, there must be an established record of employment covering a minimum of 12 months within the same field of business.
+
+Displays if we will accept Short Term Renewable Contract as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Displays if we will accept Sub contractor as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Displays if we will accept Temporary Contract as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can consider contractor income that is paid via an umbrella company however we are to treat them as self-employed with evidence of SA302's therefore taking an average of the latest 2 years income.
+
+Indicates if we can consider contractor income where the income paid to the applicant is paid via an umbrella company.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Displays if we will accept Zero Hours Contract as an acceptable source of income for affordability purposes.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society no longer uses Equifax as a credit reference agency.
+
+Indicates if we use Equifax as a credit reference agency when assessing applications.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society use Experian as a credit reference agency when assessing applications in Mortgage Hub and Mortgage Extra.
+
+Indicates if we use Experian as a credit reference agency when assessing applications.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does not use Callcredit as a credit reference agency when assessing applications.
+
+Indicates if we use Transunion (formerly Callcredit) as a credit reference agency when assessing applications.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society does credit score when assessing applications.
+
+Indicates if we use 'credit scoring' to assess a client(s) mortgage application usually, at, agreement in principle (AIP) stage.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Wednesday 30th of April 2025
+
+Indicates if we can potentially accept applicants that have a criminal record.
+
+• Relating to any aspect of dishonesty, such as theft, robbery, fraud or arson.
+
+• That may have a bearing on the borrower s future employment or the likely conduct of the mortgage account.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society cannot consider re-mortgaging a where the client has not owned the property for at least 6 months.
+
+Subject to underwriter's review.
+
+Indicates if we accept day one remortgage applications. An example of this type of situation would be where an applicant has recently purchased a property at auction for cash and then wishes to release funds by remortgaging the property straight away.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Indicates if we accept remortgage applications from an applicant who has recently inherited the property. For example, James inherited a property today and wishes to remortgage it to raise some funds.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+This is to be assessed on individual case basis.
+
+Indicates if we can potentially accept an application from an applicant who is currently in a debt management plan.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Indicates if we can potentially accept an application from an applicant who has previously had a debt management plan that is now satisfied.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+One third of all debts being paid off will be taken into account when assessing the loan amount that the customer can afford.
+
+Indicates if, when assessing affordability, we are able to potentially ignore debts that an applicant is intending to repay on or before completion of the new mortgage.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Where a credit commitment is due to expire during application or at completion still need to be disclosed on affordability, entering the debt to be repaid, a third of the commitment will however be taken into account for affordability. Only debts that have been fully repaid and updated on their credit file prior to DIP would be fully ignored.
+
+Indicates if, when assessing affordability, we are able to potentially ignore (in part or in full) loans that are coming to an end (typically 6 months or less to run).
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can potentially accept applicants with a current payday loan.The underwriters will assess this on a case by case basis and it is at their discretion.
+
+Friday 29th of November 2024
+
+Indicates if we can potentially accept an application from an applicant who is currently in a payday loan credit agreement
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can potentially accept applicants with a previous payday loan.
+
+Underwriters discretion subject to credit check and strength of case.
+
+Indicates if we can potentially accept an application from an applicant who has had a payday loan in the past but is not currently in a payday loan credit agreement.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Leeds Building Society can potentially consider an applicant with a satisfied debt relief order that was discharged over 6 years ago.
+
+Indicates if we can consider an applicant with a satisfied debt relief order
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Maximum of one County Court Judgement (CCJ) or default satisfied within the last 3 years, and no greater than  500 in value. We will allow up to 4 defaults or CCJs satisfied over three years ago, not exceeding  20,000 collectively. Unsatisfied defaults / CCJs are not acceptable.
+
+Indicates if we can potentially accept applicants that have had any Defaults registered more than 12 months ago and less than 24 months ago. Other factors will also be taken into consideration such as, but by no means limited to, number of adverse, value and the overall credit profile of an applicant.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Indicates if we can potentially accept applicants that have had any Defaults registered more than 24 months ago and less than 36 months ago. Other factors will also be taken into consideration such as, but by no means limited to, number of adverse, value and the overall credit profile of an applicant.
+
+────────────────────────────────────────────────────────────
+
+
+### Value:
+
+Indicates if we can potentially accept applicants that have had any Defaults registered more than 3 months ago and less than 12 months ago. Other factors will also be taken into consideration such as, but by no means limited to, number of adverse, value and the overall credit profile of an applicant.
+
+────────────────────────────────────────────────────────────
+
+
+════════════════════════════════════════════════════════════════════════════════
+🎯 CONTENT EXTRACTION COMPLETE
+📊 Total sections: 97
+📋 Total tables: 0

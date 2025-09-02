@@ -1,0 +1,55 @@
+TEST MORTGAGE LENDER RESIDENTIAL CRITERIA
+==============================================
+
+LENDER INFORMATION:
+- Lender Name: Test Mortgage Lender
+- Product Type: Residential Mortgages
+- Minimum Age: 18
+- Maximum Age: 80
+
+INCOME REQUIREMENTS:
+- Minimum Income: £20,000
+- Self-employed: 1 year accounts required
+- PAYE: 1 month payslip required
+- Multiple incomes: Combined up to 4.5x
+
+DEPOSIT REQUIREMENTS:
+- Minimum Deposit: 5%
+- Maximum LTV: 95%
+- Gifted deposits: Allowed
+- Help to Buy: Supported
+- Shared equity: Available
+
+PROPERTY TYPES:
+- Freehold houses: Yes
+- Leasehold flats: Yes (min 80 years)
+- New build: Yes
+- Buy to let: No
+- Shared ownership: Yes
+- Right to Buy: Supported
+
+CREDIT REQUIREMENTS:
+- Credit score: Minimum 650
+- CCJs: Maximum £1,000
+- Defaults: Maximum 1 in last 12 months
+- Bankruptcy: Discharged 3+ years ago
+- IVA: Discharged 3+ years ago
+
+EMPLOYMENT:
+- Full-time: Yes
+- Part-time: Yes (minimum 12 hours)
+- Contract: 6+ months remaining
+- Agency: 3+ months with same agency
+- Zero hours: 6+ months with same employer
+- Student: Final year with job offer
+
+SPECIAL FEATURES:
+- First-time buyers: 95% LTV with no fees
+- Key workers: 100% LTV available
+- Graduate mortgages: Special rates for recent graduates
+- Family mortgages: Multiple borrower options
+- Guarantor mortgages: Available
+
+ADDITIONAL NOTES:
+This demo file shows how the system can handle various lending criteria.
+All information will be automatically indexed and searchable.

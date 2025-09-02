@@ -1,0 +1,1754 @@
+================================================================================
+BANK OF IRELAND MORTGAGE CRITERIA - FINAL STRUCTURED CONTENT
+================================================================================
+Extracted on: 2025-08-17 13:10:44
+Source file: BANKOFIRELAND.HTML
+
+MORTGAGE CRITERIA SECTIONS:
+==================================================
+
+1. ACCEPTABLE TENURE
+-----------------
+Scotland __
+  • Simple/Absolute
+  • Commonhold.
+
+
+2. SCOTLAND
+--------
+  • Simple/Absolute
+  • Commonhold.
+
+
+3. ENGLAND, WALES & NORTHERN IRELAND
+---------------------------------
+  • Freehold
+  • Commonhold
+  • All leasehold properties require a **minimum of 85 years** at the start of the mortgage term.
+
+
+4. ADVERSE CREDIT
+--------------
+**We’re a clean credit lender.** We won’t lend to any applicant who has eve**
+  • been bankrupt
+  • been subject to an Individual Voluntary Arrangement (IVA)
+  • owned a previous property which has been taken into possession or who has surrendered voluntary possession to the lender.
+We will not lend if, in the last 3 years, an applicant has had:
+  • a County Court Judgement (CCJ) registered or settled within this time, or has an outstanding CCJ registered outside the 3 years
+  • any arrears at all on a mortgage, fixed payment loan and/or rent
+  • more than two consecutive missed payments on credit and/or store cards.
+We will not usually lend if the applicant has defaulted or settled a past defaulted account on any credit agreement in the last 3 years, or has an outstanding default.
+Communications and mail order records can be ignored, unless the scale and/or frequency of missed payments indicate cause for concern.
+
+
+5. AGE OF APPLICANT
+----------------
+  • The minimum age is 21
+  • The maximum age is 80 at end of mortgage term.
+
+
+6. BACK TO BACK TRANSACTIONS
+-------------------------
+  • A ‘Back to Back’ transaction, where a property has been owned for less than 6 months, is not acceptable and will be declined.
+  • Assignable contracts are not acceptable and will be declined.
+
+
+7. BESPOKE
+-------
+
+======================================================================
+**CHECK OUR 5 GOLDEN RULES**
+======================================================================
+
+  • Must pass our credit score
+  • Must meet our minimum income and loan size requirements*
+  • Income to support the loan must be paid in GBP
+  • Up to 90% LTV for residential and up to 75% LTV for Buy to Let
+  • Must meet our standard property criteria.
+For further information, take a look at our [Bespoke information](/bespoke-information/ "Bespoke Information") page or search our dedicated [Bespoke Lending Criteria](https://www.bankofireland4intermediaries.co.uk/lending-criteria/?isBespoke=true#tabs) to see how we can meet the needs of your clients with complex income.
+*The minimum loan size is £150,000 and the minimum income requirements are:
+**Residential:** Repayment mortgage - At least one applicant must earn £40,000. Interest only mortgage - £50,000 for sole applicants and £75,000 for joint applicants. **Buy to Let:** At least one applicant must earn £40,000 for a repayment or interest only mortgag**
+
+
+8. BUILDER INCENTIVES
+------------------
+Builders’ incentives are accepted up to 5% of purchase price with no adjustment to the purchase price or loan. We don’t accept guaranteed rental income schemes.
+
+
+9. BUY TO LET TOP SLICING
+----------------------
+
+======================================================================
+**UNLESS SPECIFIED BELOW, OUR USUAL BUY TO LET CRITERIA ALSO APPLIES TO TOP SLICING.**
+======================================================================
+
+Property value __
+The minimum property value is £100,000.
+
+
+10. PROPERTY VALUE
+--------------
+The minimum property value is £100,000.
+
+
+11. NUMBER OF APPLICANTS
+--------------------
+The maximum number of applicants is 4. All applicants must live at the same address and at least one must be a home owner (at point of completion).
+We’ll only use the income of the 2 highest earners but assess all applicants' ability to pay.
+
+
+12. INCOME
+------
+A minimum household income of £40,000 per annum is required.
+We’ll verify income on every application and only accept income contracted and paid in £GBP for our affordability assessment.
+See 'Income’ in the residential section for a full list of acceptable income sources.
+
+
+13. EXISTING CUSTOMERS
+------------------
+Most of our lending criteria is applicable to existing customers with some minor exceptions.
+
+
+14. AFFORDABILITY
+-------------
+We’ll assess affordability using the applicant's personal income. This can be used to cover a rent shortfall to achieve 145% of the monthly interest due (inclusive of any product fees added to the loan).
+We’ll look at your customer's overall affordability including their credit commitments, residential mortgage and existing Buy to Let properties.
+Rental income must be at least 100% of the monthly interest due, inclusive of any product fees added to the loan. This is calculated using the notional interest rate below (whichever applies):
+
+======================================================================
+**PRODUCT**
+======================================================================
+
+|
+
+======================================================================
+**MINIMUM INTEREST RATE**
+======================================================================
+
+---|---
+Fixed rate less than 5 years or a variable rate
+|
+The higher of 5.5% or product pay rate + 2%
+Fixed rate 5 years or more
+|
+The higher of 4.5% or product pay rate + 1%
+Proof of income will be required once a full application has been submitted.
+
+
+15. CONCESSIONARY PURCHASE PRICE
+----------------------------
+We don’t accept concessionary purchase prices on Buy to Let applications.
+
+
+16. CAPITAL RAISING
+---------------
+Applicants can remortgage to raise additional capital up to 75% LTV (excluding fees) for any legal purpose, subject to underwriter assessment, excluding the following;
+  • Business or speculative purposes (e.g. investment, replace savings)
+Gambling debts,
+Payment of tax,
+Purchase of an overseas property (including timeshares),
+Debt consolidation (repayment of other mortgages/staircasing is not considered debt consolidation),
+Repayment of bridging finance,
+Payment of care fees.
+Remortgages where the applicant has owned the property for less than 6 months are not normally acceptable. There are some circumstances where we can consider these applications (such as when an applicant has inherited the property or where a developer has taken the property as part exchange) so please [contact us](https://www.bankofireland4intermediaries.co.uk/contact-us/ "Contact us") to provide details.
+
+
+17. CONFLICT OF INTEREST POLICY
+---------------------------
+We won’t accept any applications where the broker has a financial interest in the property being mortgaged. Put simply, the broker submitting the case can’t also be the buyer/owner.
+
+
+18. CONSUMER BUY TO LET (CBTL)
+--------------------------
+To advise on CBTL mortgages you must be registered to do so. To find out more please search ‘FCA - Changes to Consumer Buy to Let mortgages’.
+
+
+19. CRIMINAL RECORD
+---------------
+We will not normally accept applications from applicants with a criminal record unless the conviction is for a minor traffic offence, or is spent under the Rehabilitation of Offenders Act 1974.
+
+
+20. CURRENT PROPERTY OWNERSHIP
+--------------------------
+At least 1 applicant must be an owner occupier at the point of completion (with or without a mortgage).
+
+
+21. DIPLOMATIC STATUS
+-----------------
+Applicants with diplomatic status in the UK are not acceptable.
+
+
+22. DIRECT DEBITS
+-------------
+Payment by Direct Debit mandate is compulsory for all loan types.
+
+
+23. DEBT CONSOLIDATION
+------------------
+We don't allow debt consolidation on Buy to Let or Let to Buy applications.
+Debt consolidation would include: repaying any unsecured lending such as loans, hire purchase agreements, credit cards, overdrafts, etc.
+We also classify the following as debt consolidation:
+  • Repayment of any Second Charges
+Unsecured loans linked with original mortgages (i.e. Northern Rock Together mortgage)
+Repaying parents/family back to repay monies used to assist in the purchase of the property.
+Remortgages where the applicant is looking to capital raise to reduce other mortgage borrowing, Buy to Let or Residential are accepted up to and including 75% LTV.
+We don't consider repayment of Help to Buy or the repayment of final staircasing as debt consolidation.
+
+
+24. DOCUMENTS WELL NEED
+-------------------
+Please see our **[packaging requirements](/packaging-requirements/ "Packaging Requirements")** page.
+
+
+25. EXISTING CUSTOMERS
+------------------
+All of our lending criteria is applicable to existing customers with some minor exceptions.
+Product Transfer __
+**You can apply for a product transfer if:**
+  • your customer's account number starts 80 and is a ten digits
+  • the mortgage amount, term and repayment method are staying the same
+  • you only need 1 offer and do not require a revaluation of the property
+  • the mortgage is outside any Early Repayment Charge (ERC) period, or has 4 months or less remaining on the ERC period
+  • your customer is not residing in the property
+  • your customer is not in arrears or in a concessionary period on their mortgage
+  • the remaining mortgage term exceeds the chosen product by at least 6 months.
+To view our products or apply visit our product transfer page.
+
+
+26. PRODUCT TRANSFER
+----------------
+**You can apply for a product transfer if:**
+  • your customer's account number starts 80 and is a ten digits
+  • the mortgage amount, term and repayment method are staying the same
+  • you only need 1 offer and do not require a revaluation of the property
+  • the mortgage is outside any Early Repayment Charge (ERC) period, or has 4 months or less remaining on the ERC period
+  • your customer is not residing in the property
+  • your customer is not in arrears or in a concessionary period on their mortgage
+  • the remaining mortgage term exceeds the chosen product by at least 6 months.
+To view our products or apply visit our product transfer page.
+
+
+27. FURTHER ADVANCE
+---------------
+**Further advance applicants must meet certain criteria:**
+  • **UK resident -** All applicants must be UK residents
+  • **Minimum loan size -** £5,000
+  • **Maximum loan size -** £750,000 (total mortgage including further advance)
+  • **Portfolio -** Maximum total borrowing £2m. The total portfolio size is 3 Buy to Let (BTL) mortgaged properties per applicant (either solely or jointly) across all lenders, including Bank of Ireland Group
+  • **Term -** 2 years minimum (or duration of product). The further advance term can be longer than the main mortgage. The charge on the property won’t be released until the further advance term has finished
+  • **Income -** No minimum income required
+  • **Reasons for borrowing -** applicants can borrow funds to raise additional capital to fund most legal purposes, provided the capital is not used for:
+  • business or speculative purpose
+  • debt consolidation
+  • payment of tax
+  • overseas property (including timeshare)
+  • gambling debts.
+Raising capital to fund a deposit or outright purchase of a Buy to Let is not considered a business purpose.
+A solicitor may occasionally be required to act. Your customer is able to choose their own solicitor. You can check if the solicitor is on our panel using our [Solicitor Search tool](/find-a-solicitor/ "Find a Solicitor").
+  • **Residential home owner -** your customer must be a residential home owner at the time of application (owned outright or subject to a mortgage)
+  • **Repayment options -** Capital Repayment, Interest Only or Combination of the 2, subject to any Interest Only balance having a suitable Repayment Strategy. Please refer to the Interest Only section of the criteria lookup tool
+  • **Total Loan to Value (LTV) limit -** Maximum loan of £750,000 and maximum LTV of 75%
+  • **Valuation of property -** A revaluation will be required (see fee scale below) however where the last recorded Bank of Ireland panel valuation was more than 10 years ago, a standard valuation will be required. Please review the Valuation fees scale of charges. **All Buy to Lets must have an EPC available** with a rating of A-E before the re-valuation (or full valuation) is carried out. In England and Wales only, we’ll also accept properties listed on the [PRS Exemptions Register](https://prsregister.beis.gov.uk/NdsBeisUi/register-search-exemptions).
+**Revaluation fee scale:**
+**Property value** | **Fee**
+---|---
+£0 to £125,000
+|
+£135
+£125,001 to £300,000
+|
+£175
+£300,001 to £600,000
+|
+£245
+£600,001 to £1,000,000
+|
+£325
+£1,000,001 to £1,600,000
+|
+£425
+  • **Affordability -** your customer’s ability to pay is assessed on the rental income (which must be received in £GBP).
+The rental income must be at least 145% of the monthly interest due, inclusive of any product fees added to the loan. This is calculated using the product rate plus 2.00% – subject to the following minimum rates:
+**Product** | **Minimum Interest Rate**
+---|---
+Fixed rate less than 5 years or a variable rate
+|
+The higher of 5.5% or product pay rate + 2%
+Fixed rate 5 years or more
+|
+The higher of 4.5% or product pay rate + 1%
+  • **Adverse credit/payday loans -** refer to the relevant criteria sections
+  • All applications are subject to credit score, valuation and underwriting.
+
+
+28. ENERGY PERFORMANCE CERTIFICATE (EPC)
+------------------------------------
+For all Buy to Lets, including both purchase and remortgage, the EPC must be in place before the valuation is instructed.
+We'll only accept properties with an EPC rating of:
+  • A-E in England, Wales, and Northern Ireland (unless registered on the [**PRS Exemptions Registe** r](https://prsregister.beis.gov.uk/NdsBeisUi/register-search-exemptions))
+  • A-D in Scotland
+  • A, B or C if applying for an Energy Efficient Buy to Let mortgage.
+We won't accept applications if these conditions aren't met.
+To check the EPC rating of a property, visit:
+  • [**Find an energy certificate**](https://www.gov.uk/find-energy-certificate) (England, Wales and Northern Ireland only)
+  • [**Scottish EPC Registe** r](https://www.scottishepcregister.org.uk/) (Scotland only).
+**New builds:** When a new build is under construction and doesn't have an EPC rating, please provide a Predicted Energy Assessment (PEA). We'll ask the solicitor to confirm the EPC rating before the mortgage start**
+
+
+29. ENERGY EFFICIENT BUY TO LET MORTGAGES
+-------------------------------------
+Energy Efficient Buy to Let mortgages are available for:
+  • Properties with energy performance (EPC) ratings A, B or C
+  • Purchases and remortgages
+  • Interest Cover Ratio (ICR) and Top Slicing calculations.
+Please check the EPC to make sure the property is eligible before submitting an application. This can be checked via the **[Government website](https://www.gov.uk/find-energy-certificate)** or the **[Scottish EPC Register](https://www.scottishepcregister.org.uk/)** for Scottish properties.
+
+
+30. FAMILY LETS
+-----------
+**Buy to Let mortgages for tenants who are related to the customer are not acceptable and will be declined. We define a related person as:**
+  • spouse
+  • civil partner
+  • parents
+  • grandparents
+  • siblings
+  • children, and grandchildren.
+
+
+31. FIRST TIME LANDLORDS
+--------------------
+No prior Buy to Let experience is required, but at least 1 applicant must be an owner occupier at the point of application.
+
+
+32. FOREIGN NATIONALS
+-----------------
+We require confirmation that the applicant has the right to live and work in the UK. The applicant will need to have resided in the UK for long enough to ensure we have a meaningful credit score and employment history, this is normally a minimum of 3 years.
+**The following applicants can apply up to our maximum LTV:**
+  • Irish Nationals.
+  • EU, EEA and Swiss Nationals with ‘settled status’.
+  • Non EU, EEA and Swiss Nationals with ‘indefinite leave to remain’.
+  • Applicants who are born outside of the UK but who have received UK naturalisation.
+**The following applicants can apply up to 75% LTV:**
+  • EU, EEA and Swiss Nationals with ‘pre-settled status’.
+  • Non EU, EEA and Swiss Nationals with limited rights to work/remain in the UK. Only Innovator, and Global Talent visas (previously Tier 1), Skilled Worker visas (previously Tier 2) and Ancestral Visas are acceptable. The underwriter will need to be satisfied that there is an adequate period of time remaining on the visa to warrant the granting of a long term loan.
+
+
+33. FIRE RISK ASSESSMENTS
+---------------------
+For properties purchased in residential housing blocks that have cladding/stacked balconies, we may refer the property to our Property Risk Team at an earlier stage in the application. We may request the Fire Risk Assessment (FRA) and Fire Risk External Wall Assessment (FRAEW) reports for the building where the property is located prior to instructing the valuation. Once the reports are received our Property Risk Team will assess and advise if the property is acceptable to us.
+A FRA/FRAEW report may also be recommended by our valuer when inspecting the property.
+**We do not accept EWS1 forms for properties with cladding/stacked balconies.**
+**We will only accept the following qualifications for FRA & FRAEW reports:**
+  • Architects Registration Board (ARB)
+  • Association of Consultant Approved Inspectors (ACAI)
+  • Chartered Association of Building Engineers (CABE)
+  • Chartered Institute of Architectural Technologists (CIAT)
+  • Chartered Institute of Building (CIOB)
+  • Chartered Institution of Building Services Engineers (CIBSE)
+  • Construction Industry Council Approved Inspectors Register (CICAIR)
+  • Institute of Clerks of Works and Construction Inspectorate (ICWCI)
+  • Institution of Civil Engineers (ICE)
+  • Institution of Fire Engineers (IFE)
+  • Institute of Fire Safety Managers (IFSM)
+  • Institution of Structural Engineers (IStructE)
+  • Local Authority Building Control (LABC)
+  • Royal Institute of British Architects (RIBA)
+  • Royal Institution of Chartered Surveyors (RICS)
+  • Society of Façade Engineers (SFE)
+Please refer to our [flats in high rise development criteria](https://www.bankofireland4intermediaries.co.uk/lending-criteria/#property-resi) for the type of report we require.
+**We'll only accept reports from fully qualified individuals (Graduates, apprentices, associates and student memberships are not accepted).**
+**Please be aware we’ll decline the property if the report(s) confirms a fire risk rating higher than:**
+  • **Low**
+  • **Tolerable, or**
+  • **Trivial risk to life.**
+All properties 10 storeys or higher must be referred to our Property Risk Team prior to application so please [contact us](https://www.bankofireland4intermediaries.co.uk/contact-us/ "Contact us").
+
+
+34. FURTHER ADVANCE
+---------------
+**To apply for a further advance for your client, they must meet certain criteria:**
+  • **UK resident -** All applicants must be UK residents
+  • **Minimum loan size -** £5,000
+  • **Maximum loan size -** £750,000 (total mortgage including further advance)
+  • **Portfolio -** Maximum total borrowing £2m. The total portfolio size is 3 Buy to Let mortgaged properties per applicant (either solely or jointly) across all lenders, including Bank of Ireland Group
+  • **Term -** 2 years minimum (or duration of product). The further advance term can be longer than the main mortgage. The charge on the property won’t be released until the further advance term has finished
+  • **Income -** No minimum income required
+  • **Reasons for borrowing -** Applicants can borrow funds to raise additional capital to fund most legal purposes, provided the capital is not used for:
+  • business or speculative purpose*
+  • debt consolidation
+  • payment of tax
+  • overseas property (including timeshare)
+  • gambling debts.
+*Raising capital to fund a deposit or outright purchase of a Buy to Let isn’t considered a business purpose.
+A solicitor may occasionally be required to act. You can use our [**Solicitor Search**](/find-a-solicitor/ "Solicitor search") tool to find which firms are already on our approved panel.
+  • **Residential home owner -** the applicant must be a residential home owner at the time of application (owned outright or subject to a mortgage)
+  • **Repayment options -** Capital Repayment, Interest Only or combination of the two, subject to any Interest Only balance having a suitable Repayment Strategy. Please refer to our [**Interest Only**](https://www.bankofireland4intermediaries.co.uk/lending-criteria/?isBuyToLet=true#interest-only-btl) section
+  • **Total Loan to Value (LTV) limit -** Maximum loan of £750,000 and maximum LTV of 75%
+  • **Valuation of property -** A revaluation will be required (see fee scale below) however, where the last recorded Bank of Ireland UK panel valuation was more than 10 years ago, a **standard valuation** will be required. Please refer to our [**standard valuation fees**](https://www.bankofireland4intermediaries.co.uk/lending-criteria/?isBuyToLet=true#valuation-fees_standard-valuation-fee). **All Buy to Lets must have an EPC available** with a rating of A-E before the revaluation (or full valuation) is carried out. In England and Wales only, we’ll also accept properties listed on the **[PRS Exemptions Register](https://prsregister.beis.gov.uk/NdsBeisUi/register-search-exemptions)**.
+**Revaluation fee scale:**
+**Property value** | **Fee**
+---|---
+£0 to £125,000
+|
+£110
+£125,001 to £300,000
+|
+£150
+£300,001 to £600,000
+|
+£220
+£600,001 to £1,000,000
+|
+£300
+£1,000,001 to £1,600,000
+|
+£400
+£1,600,001 and above
+|
+By negotiation
+The valuation fee is non-refundable once the valuation has been completed.
+  • **Affordability -** Your client’s ability to pay is assessed on the rental income (which must be received in GBP).
+The rental income must be at least 145% of the monthly interest due, inclusive of any product fees added to the loan. This is calculated using the product rate plus 2.00% – subject to the following minimum rates:
+**Product** | **Minimum Interest Rate**
+---|---
+Fixed rate less than 5 years or a variable rate
+|
+The higher of 5.5% or product pay rate + 2%
+Fixed rate 5 years or more
+|
+The higher of 4.5% or product pay rate + 1%
+  • **Adverse credit/payday loans -** please refer to our [**adverse credit**](https://www.bankofireland4intermediaries.co.uk/lending-criteria/?isBuyToLet=true#adverse-credit) section
+  • All applications are subject to **credit score, valuation and underwriting.**
+
+
+35. GUARANTORS
+----------
+We don’t offer guarantor loans on our Buy to Let product range.
+
+
+36. HOLIDAY LETS
+------------
+We don’t lend on holiday lets.
+
+
+37. HOUSES IN MULTIPLE OCCUPATION (HMO)
+-----------------------------------
+We don’t lend on properties that need an HMO licence or where there are more than 4 people named on the tenancy agreement. An HMO is a house in multiple occupation. There are different rules around properties that fall into the category of an HMO, such as the number of sharers and the size of the property. This can be confirmed with the relevant Local Authority.
+
+
+38. INCOME - BUY TO LET
+-------------------
+Buy to Let Top Slicing __
+Investment income isn’t acceptable.
+Income from land and property should be excluded from the applicant's income figure. This will be asked for/calculated separately within our Top Slicing affordability calculator.
+Income must be paid and contracted in GBP (£) and be subject to UK tax and National Insurance contributions.
+
+
+39. BUY TO LET TOP SLICING
+----------------------
+Investment income isn’t acceptable.
+Income from land and property should be excluded from the applicant's income figure. This will be asked for/calculated separately within our Top Slicing affordability calculator.
+Income must be paid and contracted in GBP (£) and be subject to UK tax and National Insurance contributions.
+
+
+40. BUY TO LET ICR
+--------------
+There’s no minimum income required.
+
+
+41. INTEREST ONLY
+-------------
+Interest only or part and part is available. Confirmation of the repayment strategy is required and all repayment strategies must be held, valued and paid in £GBP.
+
+
+42. LIMITED COMPANIES
+-----------------
+We don’t offer limited company Buy to Lets.
+
+
+43. LEGAL FEES FOR PURCHASES
+------------------------
+If stated in the Offer of Loan, Bank of Ireland UK will pay the basic legal fees for the work involved in a standard property purchase.
+**This offer of Fees Assisted Conveyancing does not include:**
+  • Costs a solicitor must pay to a third party such as a local authority or other search fees
+  • Stamp Duty Land Tax
+  • Indemnity insurance for defective title
+  • Registration fees payable to the Land Registry.
+The offer also does not include the charge, plus VAT, payable to the solicitor to deal with the settlement of any Stamp Duty Land Tax and the submission of the Stamp Duty Land Tax form or the cost of any associated sale. The solicitor will provide you with full details of this charge and the third party costs. These fees, along with the legal fees for any additional legal work that the solicitor carries out are payable by the applicant.
+If the purchase does not complete the applicant will not have to pay for the standard conveyancing work carried out but will have to pay any third party costs already paid by the solicitor.
+**For property purchases in Scotland:**
+Please contact us for details of our nominated solicitor when obtaining the Approval in Principle. If the applicant chooses not to use our nominated solicitor they will be liable for the legal costs.
+More information about legal fees can be found in our [Standard Legal Fees document](/media/1zxm212i/standardlegalfees_boi4i.pdf "Standard Legal Fees Explained").
+
+
+44. LOAN SIZE AND LOAN TO VALUE LIMITS
+----------------------------------
+**Loan size****
+Minimum £25,001, maximum £750,000 per property for purchases and remortgages.
+---|---
+**Maximum total borrowing****
+£2,000,000
+**Maximum LTV****
+75% LTV. Fees may be added to the loan.
+**Maximum portfolio size****
+The total portfolio size is 3 UK mortgaged BTL properties per applicant (either solely or jointly) across all lenders, including Bank of Ireland Group. Properties that are owned in the name of a limited company which an applicant is a director of, and applications in progress, should also be included.
+Existing customers __
+**Loan size****
+No minimum loan size, maximum loan size per property £750,000.
+If £750,000 is already exceeded no additional borrowing will be allowed.
+---|---
+**Further advance****
+Minimum loan size £5,000
+Maximum loan size £750,000 (total mortgage including further advance)
+**Maximum total borrowing****
+£2,000,000. No maximum total borrowing as long as the total loan size does not exceed £750,000 per property.
+**Maximum LTV****
+75% LTV. Fees may be added to the loan.
+**Maximum portfolio size****
+n/a
+
+
+45. EXISTING CUSTOMERS
+------------------
+**Loan size****
+No minimum loan size, maximum loan size per property £750,000.
+If £750,000 is already exceeded no additional borrowing will be allowed.
+---|---
+**Further advance****
+Minimum loan size £5,000
+Maximum loan size £750,000 (total mortgage including further advance)
+**Maximum total borrowing****
+£2,000,000. No maximum total borrowing as long as the total loan size does not exceed £750,000 per property.
+**Maximum LTV****
+75% LTV. Fees may be added to the loan.
+**Maximum portfolio size****
+n/a
+
+
+46. LOAN TYPES
+----------
+Remortgage __
+**Applicants can remortgage to raise additional capital to fund most legal purposes, provided the capital isn’t used for:**
+  • business or speculative purpose
+  • debt consolidation
+  • gambling debts
+  • overseas property (including timeshare)
+  • payment of tax.
+Raising capital to fund a deposit or outright purchase of a Buy to Let is not considered a business purpose.
+We require applicants to have owned the property for a minimum of 6 months prior to completion of this transaction.
+
+
+47. REMORTGAGE
+----------
+**Applicants can remortgage to raise additional capital to fund most legal purposes, provided the capital isn’t used for:**
+  • business or speculative purpose
+  • debt consolidation
+  • gambling debts
+  • overseas property (including timeshare)
+  • payment of tax.
+Raising capital to fund a deposit or outright purchase of a Buy to Let is not considered a business purpose.
+We require applicants to have owned the property for a minimum of 6 months prior to completion of this transaction.
+
+
+48. PURCHASE
+--------
+**We require the vendor to have owned the property for a minimum of 6 months prior to completion of this transaction unless the seller is:**
+  • a personal representative of the registered proprietor; or
+  • an institutional mortgagee exercising its power of sale; or
+  • a receiver, trustee-in-bankruptcy or liquidator; or
+  • a developer or builder selling a property acquired under a part-exchange scheme; or
+  • a registered housing provider (Housing Association) exercising a power of sale.
+
+
+49. LET TO BUY
+----------
+Remortgage of a current residential to a Buy to Let and capital raising to fund the purchase of the new main residence is acceptable. To be acceptable we need to be satisfied that the applicant will be moving out of the property upon completion and moving into their new residence, otherwise it will become a regulated Buy to Let. It must be a simultaneous completion.
+We'll require confirmation of the new correspondence address, purchase price, borrowing amount, monthly payment, a breakdown of how funds are being used e.g. deposit, fees, improvements etc. and a copy of the onward residential mortgage offer if applicable. If there isn't a mortgage the solicitor must confirm the details.
+We do not allow capital raising for any debt consolidation. We can accept both standalone Let to Buy applications and where we’re also providing the mortgage for the onward residential purchase.
+All Let to Buy properties will require a valid Energy Performance Certificate (EPC) with a rating between A-E (unless exempt) or between A-D in Scotland. This must be in place at the time the valuation is carried out, if not, additional costs may be incurred and the application may be delayed.
+
+
+50. LEGAL FEES FOR REMORTGAGES
+--------------------------
+
+======================================================================
+**REMORTGAGES WITH STANDARD LEGAL FEES PAID**
+======================================================================
+
+Some of our remortgage products include standard legal fees. This means we cover the basic legal costs. For these products, your client must use the legal firm assigned by our partner, Legal Marketing Services Ltd (LMS).
+
+======================================================================
+**APPLICANTS WISHING TO USE THEIR OWN SOLICITOR**
+======================================================================
+
+If your client prefers to use their own solicitor, they must select a remortgage product without standard legal fees paid. In this case, they are responsible for all legal costs and disbursements.
+
+======================================================================
+**IMPORTANT EXCLUSIONS**
+======================================================================
+
+**Help to Buy** and **Shared Ownership** remortgages are not eligible for fees-assisted product**
+  • Your client will need to choose a product without standard legal fees paid and choose a solicitor, ideally from our approved panel.
+
+======================================================================
+**WHAT WE DON’T COVER**
+======================================================================
+
+We won't pay for additional legal work outside the scope of a standard remortgage transaction. The following costs are examples of fees which won’t be paid by us:
+  • Further valuation reports
+  • Related legal services
+  • Transfer of Equity
+  • Deed of Postponement
+  • Deed of Grant
+  • Deed of Variation
+  • Merger of freehold or leasehold title
+  • Leasehold supplements
+  • Change of name
+  • Telegraphic transfer of surplus funds to borrower
+  • Local searches for loans over £1,000,000
+  • If an exceptional amount of work is needed to correct a defective title.
+The legal firm will discuss any additional costs with your client and obtain their consent before proceeding.
+For full details on additional legal work and associated costs, please refer to our [**Fees and Charges**](https://www.bankofireland4intermediaries.co.uk/fees-and-charges/#common-additional-fees) page.
+
+======================================================================
+**ADDITIONAL FEES TO NOTE**
+======================================================================
+
+All remortgage cases may involve administration fees not covered by us:
+  • **Telegraphic Transfer Fee:** £30 + VAT for paying off an existing loan or transferring surplus funds
+  • **Electronic ID Check Fee:** £5 + VAT per customer.
+For leasehold properties, a **Leasehold Supplement Fee** of £95 + VAT may apply, for example:
+  • Loan amounts exceeding £1 million
+  • Properties where the landlord is a Local Authority or Housing Association
+  • Loan to Value (LTV) exceeding 85%.
+(These scenarios are examples and not exhaustive.)
+
+
+51. NEW PROPERTY DETAILS
+--------------------
+If your client has an application with us and their purchase falls through, send us a [New Property Details Form](/media/ub4h2v2u/newpropertydetailsform_boi4i.pdf "New Property Details Form") for a change of property.
+By applying for a new property, your client's case will be reassessed by one of our underwriters. This means we may ask you for additional information. Our decision to lend may also be affected if there is a change in their circumstances or the new property isn’t considered suitable.
+
+
+52. OFFER EXPIRY
+------------
+Our offer of loan is valid for a period of 6 months from the date of the offer for both purchases and remortgages, unless stated otherwise in the offer document.
+If completion hasn’t taken place before the offer expires, we can consider a 6 month extension. The application will be subject to a full reassessment against our current criteria including reverification of income and a revaluation of the property which the applicant will be charged for. A new product may need to be selected from our current range.
+For new build offer expiry details please see our 'New build' section.
+
+
+53. PAYDAY LOANS
+------------
+We will not normally lend if any applicant has taken out a payday loan in the last year. Applicants with payday loans taken out more than 1 year ago will be assessed individually to make sure affordability can be demonstrated.
+
+
+54. PORTABILITY
+-----------
+If your client is looking to move, you could help them port their rate to a new property or take out a new loan with us.
+Please see our [Porting and Moving page](/porting-and-moving/ "Porting and Moving") for more information on how you can help your clients.
+
+
+55. PRIVATE SALES
+-------------
+Private sales where no estate agent is acting are not acceptable.
+
+
+56. PROOF OF RESIDENCY AND IDENTITY
+-------------------------------
+To help protect against fraud, Anti Money Laundering Regulations (AML) require us to check the names and addresses of all our customers.
+We’ll attempt to do this electronically. If this fails, each applicant must supply 1 item from the Proof of identity list and 1 item from the Proof of occupancy list.
+**The same document cannot be used to verify both their identity and their residency.**
+
+======================================================================
+**PROOF OF IDENTITY:**
+======================================================================
+
+Driving licence
+|
+Auto requested if applicant has failed AML check
+|
+**Includes following:**
+  • Current full old-style UK driving licence (paper version) - not more than 51 years old
+  • Current Full UK/EU/USA/Canada/Australia photo card driving licence - not more than 10 years old
+  • Current Provisional UK Photo card driving licence - not more than 3 years old.
+---|---|---
+DWP / Benefits agency Letter
+|
+Correspondence from the DWP/Benefits Agency/Social Insurance documents/Disability allowance book /Disability pension book/ROI Pension book dated within the last 13 months.
+EU National ID Card
+|
+EU National Identity Card (photographic) which must be valid and in date.
+NI Electoral Office ID
+|
+Identity card issued by the Electoral Office for Northern Ireland (NI only).
+HMRC correspondence
+|
+HM Revenue & Customs/Revenue Commissioners correspondence e.g. Tax coding notice dated within the last 13 months (note: P60s & P45s are not acceptable).
+Passport
+|
+Full current signed valid Passport, not more than 10 years old.
+
+======================================================================
+**PROOF OF OCCUPANCY:**
+======================================================================
+
+Bank statement
+|
+Auto requested if applicant has failed AML check and has not been found on Voter's Roll for all residential addresses for past 12 months
+|
+Original or certified copy of Bank/Building Society/Credit Union statement*, dated within the last 6 months. If downloaded from the internet, the copy must contain Bank/ Building Society logo, date, full name and address.
+---|---|---
+Credit card statement
+|
+Original or certified copy of statement*, dated within the last 6 months. If downloaded from the internet, the copy must contain Bank/ Building Society logo, date, full name and address.
+DWP / Benefits agency Letter
+|
+Correspondence from the DWP/Benefits Agency/Social Insurance documents/Disability allowance book /Disability pension book/ROI Pension book dated within the last 13 months.
+HMRC correspondence
+|
+HM Revenue & Customs/Revenue Commissioners correspondence e.g. Tax coding notice dated within the last 13 months (note: P60s & P45s and internet copies are not acceptable).
+Local Authority correspondence
+|
+Council Tax bill (internet copies are not acceptable).
+ROI Government document
+|
+Document posted from Government body in ROI dated within the last 6 months (for use in NI only).
+Solicitor house purchase letter
+|
+Letter from solicitors confirming recent house purchase within the last 6 months.
+Utility bill
+|
+For example, gas, electricity, water, telephone (not mobile), Cable services, Satellite TV* e.g. Sky, original statement dated within the last 6 months (not 'dongle' contracts). If downloaded from the internet, the copy must contain company logo, date, customer’s full name and address.
+**Please be aware:**
+  • For Anti Money Laundering purposes, documents being used to provide residency must show at least one forename and surname. Variations of the name may be acceptable if they refer to the same person, for example Pat/Paddy or Liz/Betty. Documents which show the initials only are not acceptable.
+  • The address must match against the application form
+  • *Statements downloaded from the internet (e-statement) can only be accepted if Proof of Identity is provided either by Passport, UK driving licence or EU ID card. An e-statement must be printed as a PDF document, not an excel download. It must contain the bank name and logo, date, full name and address. If it's used along with a driving licence, the addresses must be the same.
+You can securely upload and certify documents for assessment via our [online application system](https://www2.mortgageapplicationservice.co.uk/web/index.html#/index/BOI/login/?login=true "BOI4I login").
+
+
+57. PROPERTY CONCENTRATION
+----------------------
+We’ll only lend on a maximum of 2 properties within the same exact postcode.
+
+
+58. PORTFOLIO SIZE
+--------------
+The total portfolio size is 3 UK mortgaged BTL properties per applicant (either solely or jointly) across all lenders, including Bank of Ireland Group. Properties that are owned in the name of a limited company which an applicant is a director of, and applications in progress, should also be included.
+
+
+59. PROPERTY OR INVESTMENT CLUBS
+----------------------------
+Transactions where the borrower is purchasing through a Property or Investment Club are not acceptable.
+
+
+60. PROPERTY PURCHASED AT AUCTION
+-----------------------------
+We will lend for auction purchases in principle. To be acceptable the property must meet our minimum requirements for both condition and title. The applicant should ensure there is adequate time to process their application before legal completion.
+
+
+61. PROPERTY VALUE
+--------------
+  • The minimum property value is £60,000 (£40,000 for properties in Northern Ireland).
+  • The maximum property value is £4,000,000.
+
+
+62. PRODUCT TRANSFER
+----------------
+**You can apply for a product transfer if:**
+  • your customer's account number starts 80 and is 10 digits
+  • the mortgage amount, term and repayment method are staying the same
+  • you only need 1 offer and do not require a revaluation of the property
+  • the mortgage is outside any Early Repayment Charge (ERC) period, or has 4 months or less remaining on the ERC period
+  • your customer is not residing in the property for Buy to Let mortgages
+  • your customer is residing in the property for residential mortgages, unless in the armed forces
+  • your customer is not in arrears or in a concessionary period on their mortgage
+  • the remaining mortgage term exceeds the chosen product by at least 6 months.
+**To view our products or apply visit our[product transfer page.](/product-transfers/ "Product Transfers")**
+
+
+63. PROPERTY
+--------
+**Property description** | **Criteria**
+---|---
+Access to flats
+|
+Self-contained access from the front of the building MUST be in place. Properties with external rear/side access via narrow alleyways or public footpaths are unacceptable, including those accessed across commercial premises/carparks.
+Blocks of flats exceeding 4 floors in height (excluding basement floors but including ground floor, i.e.0,1,2,3 floors) MUST have lift access to all floors to be acceptable. Unless it's a converted former house in a desirable location, e.g. Pimlico, Chelsea, Kensington or Belgravia, or a standard Scottish tenement for the area.
+We don't allow access via an external staircase.
+Annexes
+|
+Not acceptable.
+New build house/1st sale
+|
+Acceptable.
+New build flat/1st sale/1st registration of lease
+|
+Not acceptable.
+Former council/MOD/Former work houses
+|
+Acceptable.
+Former council/MOD/Former work flats
+|
+Acceptable, subject to a minimum value of £90,000, 4 storeys or fewer with no open deck access.
+Shared ownership and shared equity houses
+|
+Not acceptable.
+Shared ownership and shared equity flats
+|
+Not acceptable.
+Large properties
+|
+Properties which have the following are acceptable:
+  • Properties must be readily marketable for owner occupation and located in predominately residential areas
+  • Properties with more than 4 bedrooms are only acceptable if they are within an area of predominately single family occupancy, subject to the valuer confirming it is a suitable security and there is a demand for single family rentals in the area
+  • Let to a single family or a maximum of 4 sharers on a single assured shorthold tenancy (or equivalent).
+Properties outside of this criteria could be deemed as a House in Multiple Occupation (HMO), which are unacceptable to the Bank.
+Property location |
+We do not usually lend on properties that are next to, opposite, above or close to commercial premises or anything that may prohibit the peaceful enjoyment of the property.
+For example: shops, garages, petrol stations, restaurants, takeaways, factories, industrial units, farms, overhead power lines, sub stations, pylons, mobile phone masts, noise nuisance, smell, etc. This isn’t an exhaustive list.
+However, if the property is in a highly desirable area we may be able to consider it, so please [contact us](https://www.bankofireland4intermediaries.co.uk/contact-us/ "Contact us") prior to application.
+Flats converted from former office, industrial buildings and ex local authority blocks
+|
+Not acceptable.
+Studio flats
+|
+Can be considered, subject to the valuer being comfortable there is good demand in the locality. The gross internal area (GIA) must exceed 30 square metres.
+Holiday homes
+|
+Not acceptable.
+Properties with part commercial use
+|
+Not acceptable.
+Properties with part commercial use in the title
+|
+Not acceptable.
+Properties less than 10 years old
+|
+Must be covered by an approved new home warranty scheme or Professional Consultants Certificate from a suitably qualified individual. Please see ‘New build property warranties’ section for acceptable warranties.
+Properties outside mainland UK
+|
+Not acceptable with the exception of Isle of Wight, Anglesey, Skye, Bute, Lewis & Harris, Mainland Orkney, Mainland Shetland, Arran, Mull, Islay, Whalsay, Yell, South Ronaldsay, West Burra, Tiree and Unst.
+Freehold flats
+|
+Not acceptable.
+Minimum leasehold requirements
+|
+All leasehold properties require a **minimum of 85 years** at the start of the mortgage term.
+Onerous lease terms
+|
+Not acceptable.
+The Bank will consider lending on properties with escalating ground rent clauses, however it will not lend upon properties with onerous leases. The Bank itself will not determine whether a lease is onerous or not. It relies on its panel valuers and conveyancers to advise on the onerous nature of a lease. This is based upon their professional knowledge and experience of both leases and the local housing market, since it is the market which determines this property attribute.
+As far as ground rents are concerned, increases in line with RPI (or equivalent indexes) are generally acceptable to the Bank. However, multiplier increases will need to be referred to both the valuer and conveyancer, particularly if the multiplier is for a time period of less than every 25 years. The Bank’s professional advisers will consider market appetite for ground rent increases, which will vary from location to location.
+Properties with occupancy restrictions
+|
+Not acceptable.
+Properties being acquired under assignable contract
+|
+Not acceptable.
+Properties with communal heating, hot water or other services where the property is not individually metered
+|
+These are generally not acceptable. But in prime locations, particularly within London, unmetered systems may be acceptable. Please speak to your [BDM](/contact-us/ "Find your BDM") before submitting the application.
+Livework units
+|
+Not acceptable.
+Properties with solar panels
+|
+Can be considered on an individual case basis, please contact us prior to submission.
+Overhead power lines
+|
+Properties where high power lines pass over the site are not normally acceptable.
+Minimum floor area
+|
+The minimum acceptable floor area for a property is 30 square metres.
+Property with land/smallholding
+|
+We will not usually lend on smallholdings. For properties with more than 10 acres or separate fields, please contact us prior to submission.
+We will not lend on working farms or houses which connect to, or through, working farms.
+Properties with 2 kitchens
+|
+Not acceptable.
+Listed buildings
+|
+Acceptable.
+Properties with an Energy Performance Certificate (EPC) rating of A-E (or A-D in Scotland) | Acceptable. In England and Wales only, we’ll also accept properties if they’re listed on the [PRS Exemptions Register](https://prsregister.beis.gov.uk/NdsBeisUi/register-search-exemptions "https://prsregister.beis.gov.uk/NdsBeisUi/register-search-exemptions").
+Maximum property value
+|
+£4,000,000
+Refurbishment/modernisation
+|
+We'll not lend on properties that are part way through a project e.g. incomplete extensions, loft conversions, incomplete kitchens and bathrooms etc or very dated properties (which show after being inspected) that most purchasers would modernise/refurbish soon after moving in.
+If the applicant has in the last 6 years substantially altered, refurbished, remodelled or extended their property please [contact us](https://www.bankofireland4intermediaries.co.uk/contact-us/ "contact us") prior to application.
+
+
+64. PURCHASING FROM OWN DEVELOPMENT COMPANY
+---------------------------------------
+Purchases where the vendor is a building firm or development company in which the applicant has a financial interest are not acceptable.
+
+
+65. PROPERTY CONSTRUCTION
+---------------------
+Construction Type | Criteria
+---|---
+Traditional construction
+|
+Houses must be of solid or cavity construction incorporating the materials brick, concrete block or stone. Render and tile hung finishes in addition to the above are considered traditional and acceptable.
+Period properties of cob
+|
+Period properties of cob (mud and straw) construction may be acceptable provided roofs are thatched. They will be considered on their merits, depending on the comments made by the mortgage valuer.
+The term ‘period property’ will normally be applied to a building built before 1850.
+For other roof types please contact us prior to submission.
+Single skin/ half brick thick walls
+|
+Single skin/half brick thick walls are only acceptable in older properties where the walls are within single storey structures and contain non-habitable rooms.
+Any single skin wall structure above single storey is normally unacceptable.
+Roofs
+|
+Roofs should normally be pitched and covered with tiles or slates (including artificial slates), or thatched.
+100% flat roof
+|
+100% flat roofs on houses can be acceptable if the property is of traditional construction and the valuer confirms saleability and acceptability to other lenders.
+100% flat roofs on flat developments are generally acceptable.
+Modern timber frame
+|
+Modern post 1970 (post 1950 in Scotland) factory made timber frames are generally acceptable provided the properties have a conventional outer cladding of brick, rendered block or reconstructed stone.
+Post 2000 flat developments with timber cladding will be considered on their merits subject to not being more than 4 storeys.
+Period timber frame housing
+|
+Historic hardwood timber frame housing is acceptable, being period properties (usually) built between 1300 and 1800.
+Period timber frame properties normally clad in stone/brick/lath and plaster are acceptable. As are those clad in clap board or weather board, providing that the Valuer confirms this is common to the locality and constructed prior to 1900.
+Pre reinforced concrete construction
+|
+Properties listed as defective under the Housing Defects legislation are not acceptable if unrepaired.
+Repairs must be licensed by PRC Homes Ltd.
+Repair schemes that predate PRC Homes Ltd schemes will only be acceptable where a PRC Licence Scheme number was later granted.
+Steel frame construction
+|
+Steel framed houses built in 1984 or later and which are conventionally clad in brick or rendered block work are acceptable.
+Steel framed houses built before 1984 and which are conventionally clad in brick or rendered block work are acceptable subject to a satisfactory Structural Engineer's report.
+Unconventionally clad steel framed houses are unacceptable irrespective of their age.
+No fines/'Easiform'
+|
+Only 2 storey structures are usually acceptable (3 storey in Scotland). Any evidence of cracks must be referred to a Structural Engineer and where appropriate, a carbonation test will be required.
+‘Easiform’ construction built prior to 1940 is unacceptable.
+Acceptability is dependent on continued market demand.
+Large panel systems
+|
+Houses not acceptable.
+Flats may be considered if constructed after 2000 on an individual case basis.
+Cross wall/curtain wall
+|
+These types are generally acceptable providing the party walls are of conventional construction. This type of construction in conjunction with a flat roof is normally unacceptable unless the valuer can confirm that an established demand for these properties exists and that they are generally mortgageable.
+Cross wall is only acceptable where party walls are of masonry.
+
+
+66. PROPERTY CONDITION AND LETTING REQUIREMENTS
+-------------------------------------------
+Buy to Let properties must predominantly appeal to the residential home owner market, and must already be suitable to be let at the time of the property valuation. They should be tenanted within 60 days of being marketed.
+We don't lend on new build flats as a Buy to Let. We can consider ex-council properties but only in good condition and in locations with both a strong rental and owner occupier demand.
+For ex-local authority flats we accept a maximum height of 4 storeys. We do not accept blocks with open deck access, unless there is a secure entry-phone system and doors to all stairwells.
+For ex- local authority properties we have a minimum value of £60,000 (£40,000 in Northern Ireland). For ex-local authority flats the minimum value is £90,000.
+
+
+67. RENTAL CALCULATION/MARGIN
+-------------------------
+Ability to pay is assessed on the rental income (which must be received in £GBP).
+The rental income must be at least 145% of the monthly interest due inclusive of any product fees added to the loan.
+**This is calculated using the notional interest rate below (whichever is applicable):**
+**Product** | **Notional interest rate**
+---|---
+Fixed rate less than 5 years or a variable rate
+|
+The higher of 5.5% or product pay rate + 2%
+Fixed rate 5 years or more
+|
+The higher of 4.5% or product pay rate + 1%
+Like-for-Like Buy to Let Remortgage __
+For landlords who wish to remortgage with no extra borrowing, we’ll consider rental income which is at least 125% of the monthly interest for Interest Cover Ratio (ICR) applications.
+  • No minimum income required
+  • Ability to pay is assessed on rental income (which must be received in GBP)
+  • Minimum loan size £100,000 (exclusive of any product fees)
+  • The rental income must be at least 125% of the monthly interest due inclusive of any product fees added to the loan. This is calculated using the relevant stress rate below (whichever applies):
+**Product stress rate** | **Stress rate**
+---|---
+Fixed rate less than 5 years or a variable rate | 5.5% or pay rate +2%
+Fixed rate 5 years or more | 4.5% or pay rate +1%
+
+
+68. LIKE-FOR-LIKE BUY TO LET REMORTGAGE
+-----------------------------------
+For landlords who wish to remortgage with no extra borrowing, we’ll consider rental income which is at least 125% of the monthly interest for Interest Cover Ratio (ICR) applications.
+  • No minimum income required
+  • Ability to pay is assessed on rental income (which must be received in GBP)
+  • Minimum loan size £100,000 (exclusive of any product fees)
+  • The rental income must be at least 125% of the monthly interest due inclusive of any product fees added to the loan. This is calculated using the relevant stress rate below (whichever applies):
+**Product stress rate** | **Stress rate**
+---|---
+Fixed rate less than 5 years or a variable rate | 5.5% or pay rate +2%
+Fixed rate 5 years or more | 4.5% or pay rate +1%
+
+
+69. ROOFS
+-----
+We accept pitched roofs covered with thatch, slates or standard/artificial tiles. Thatched roofs must have specialist insurance cover in place.
+100% Flat Roofs __
+Houses with 100% flat roofs may be acceptable if the property is of traditional construction and the valuer confirms saleability and acceptability to other lenders.
+For semi-detached and terraced houses, party walls must extend above the flat roof covering between the properties for the property to be acceptable to us.
+100% flat roofs on blocks of flats/apartments are generally acceptable.
+
+
+70. 100% FLAT ROOFS
+---------------
+Houses with 100% flat roofs may be acceptable if the property is of traditional construction and the valuer confirms saleability and acceptability to other lenders.
+For semi-detached and terraced houses, party walls must extend above the flat roof covering between the properties for the property to be acceptable to us.
+100% flat roofs on blocks of flats/apartments are generally acceptable.
+
+
+71. ROOFS WITH SINGLE DIRECTION PITCH (MONO-PITCH)
+----------------------------------------------
+Roofs which are pitched in a single direction and have materials more commonly used on flat roofed properties, such as felt, asphalt or similar materials, will need to comply with our policy for 100% flat roofs (see below).
+For semi-detached and terraced houses, party walls must extend above any flat roof covering between the properties for the property to be acceptable to us.
+
+
+72. RESIDENCY STATUS
+----------------
+All applicants must be resident in the UK prior to applying. The applicant will need to have lived in the UK for long enough to ensure we have a meaningful credit score and employment history. This is normally a minimum of 3 years. Please see the Foreign Nationals section for any rights to live and work in the UK.
+
+
+73. SALE AND RENT BACK
+------------------
+Sale and rent backs where the vendor is becoming the tenant upon completion are not acceptable and will be declined.
+
+
+74. SCOTTISH VALUATIONS
+-------------------
+Transcripts are not permitted.
+
+
+75. SOURCE OF DEPOSITS
+------------------
+Proof of deposit may be requested at our underwriter’s discretion.
+**The following are acceptable sources of deposit:**
+  • equity from sale of property
+  • savings
+  • family gift
+  • inheritance
+  • capital raising on another property.
+**Unacceptable sources of deposit are:**
+  • personal loans
+  • funding from credit cards
+  • vendor/builder cashback without additional minimum deposit from an acceptable source.
+
+
+76. SCOTLAND
+--------
+In Scotland, if it is public knowledge a property is for sale, the seller in most cases must provide a Home Report to prospective buyers. There are some exceptional situations when a seller can choose not to provide a potential purchaser with the Home Report and cases where a Home Report is not actually required. Further information can be found at https://www.mygov.scot/buying-a-home/home-report
+For applications where no Home Report is required or available, we'll instruct a mortgage valuation.
+The Home Report contains the Property Questionnaire, Single Survey, and an Energy Performance Certificate (EPC); the majority will also contain a Generic Mortgage Valuation Report (GMVR).
+For purchase applications we'll request a transcript of the GMVR from the valuer who prepared the original Home Report. That valuer must be on the Bank of Ireland Panel. We'll only accept transcripts from Home Reports that are no more than 12 weeks old. It is the seller’s responsibility to obtain a refreshed Home Report if this is older than 12 weeks.
+The transcript we receive is valid throughout the offer period and a Home Report refresh is not required. If the offer expires and an offer extension is required, then we'll require a revaluation which the applicant must pay for.
+To get the correct product and Loan to Value (where the purchase price is different from the Home Report) you should key the application with the lower of the valuation or purchase price and then in the additional information box put a note on to say what the correct purchase price is. The application must also include the name of the firm that completed the Home Report and the date when the Home Report was undertaken.
+If the firm is on our panel and the Home Report in date, then a transcript can be instructed.
+If the firm is not on panel, then a Standard valuation would be required, but if the product does not include a fees free valuation or the fees free valuation has already been used, then a valuation fee payment must be taken first.
+Missives covers the exchange of correspondence between the purchaser’s and seller’s solicitors negotiating the conditions of the sale. Property transactions in Scotland become legally binding for all parties upon ‘conclusion of Missives’.
+**Scottish Private Residential Tenancies (PRT)**
+Scottish Private Residential Tenancies (PRT) are acceptable and we'll instruct a mortgage valuation.
+**Tenure**
+Tenure - typically referred to as Former Feudal, Simple/Absolute ownership is accepted.
+Applications can be considered for security on the following Scottish Islands;
+Lewis and Harris, Mainland Shetland, Mainland Orkney, Skye, Bute, Arran, Islay, Mull, Whalsay, Yell, South Ronaldsay, West Burra, Tiree and Unst.
+Where the valuer identifies a flat with potentially combustible cladding and/or stacked balconies which could facilitate the spread of fire, we'll require the Fire Risk Assessment report (FRA) and Fire Risk Assessment External Walls (FRAEW), together with the names and qualifications of the authors of these documents, for the building. Once we have all of this information, our Property Risk team will assess and advise if acceptable to proceed.
+We do not accept EWS1 forms for properties with cladding/stacked balconies.
+Please refer to our [fire risk assessments criteria](/lending-criteria/#fire-risk-assessments) for acceptable qualifications for FRA & FRAEW reports.
+All properties 10 storeys or higher must be referred to our Property Risk Team prior to application. Please [contact us](https://www.bankofireland4intermediaries.co.uk/contact-us/).
+
+
+77. SOLICITORS AND LICENSED CONVEYANCERS
+------------------------------------
+Please see our [**solicitors and licensed conveyancers**](/working-with-us/using-solicitors-and-licensed-conveyancers/ "Using solicitors and licensed conveyancers") page.
+
+
+78. TENANCIES AND VACANT POSSESSION
+-------------------------------
+****
+|
+**England & Wales**
+|
+**Scotland & Northern Ireland**
+---|---|---
+**With Vacant Possession**
+|
+**With Tenant In Situ**
+|
+**With Vacant Possession**
+|
+**With Tenant In Situ**
+**Purchases**
+|
+Yes
+|
+Yes
+|
+Yes
+|
+No
+**Remortgages**
+|
+Yes
+|
+Yes
+|
+Yes
+|
+Yes
+**Tenanted Possession Restrictions**
+|
+The existing tenancy must have commenced after 28 February 1997 and the existing tenant must not have resided in the property before the date of the agreement.
+|
+Scotland: Remortgages will only be considered provided the tenant has not been resident in the property 5 years earlier than the date of our offer.
+Northern Ireland: Remortgages will only be considered if the existing tenancy is a Protected Shorthold Agreement or an Uncontrolled Letting.
+**Tenancy Types**
+|
+The tenancy mustn’t exceed 2 years in duration and must normally be written in one of the following formats:
+  • England: Assured Shorthold Tenancy (AST)
+  • Wales: Occupation Contract
+  • Scotland: Private Residential Tenancy (Formerly Shorthold Assured Tenancy (SAT)
+  • Northern Ireland: Protected Shorthold Agreement or Uncontrolled Letting
+Maximum of 4 tenants on a single AST (or equivalent)
+Company/housing association lets are not acceptable.
+
+
+79. TERM
+----
+  • The maximum term is 35 years
+  • The minimum term is 5 years (or term of promotional period for existing customers moving home).
+
+
+80. VENDOR DEPOSITS
+---------------
+Vendor paid deposits for second hand properties will be deducted from the gross purchase price to give a true net purchase price. Our maximum LTV lending will be based on this lower sum.
+
+
+81. VALUATION APPEAL
+----------------
+Where an appeal against a valuation is requested we’ll need evidence of 3 transactions of similar properties (comparables) to be submitted within 14 working days from the date you were aware of the valuation.
+Where appealing both rent and capital values, we’ll need 3 comparables for each.
+These should be completed sales or lettings within the last 6 months of similar properties and locations, ideally in the same postcode.
+**The following information will need to be provided for each comparable item*:**
+  • Full address (i.e. house or flat number and postcode)
+  • Details of who sold or let the property
+  • The agreed sale price or rent
+  • Date of the transaction
+  • Source of information.
+For any valuation decision queries please get in touch with us via [case message](https://www2.mortgageapplicationservice.co.uk/dist/BOI/login/).
+_*We don’t accept links to web adverts. Estate Agent letters, automated valuations, details of unsold/unlet properties and previous Valuer’s opinions aren’t considered appropriate evidence and will not be considered._
+
+
+82. VALUATION - ESSENTIAL REPAIRS
+-----------------------------
+If a valuation report is received and the survey does not provide a current market value due to a recommendation that specialist reports are required, please be aware of the following:
+  • The application **may still be declined** even after the reports have been received if there is an issue with the property that does not meet our lending policy
+  • If there are any recommended works stipulated within the specialist reports, these works **must be completed** before we can proceed with the application
+
+
+83. VALUATION FEES
+--------------
+Standard valuation fee __
+Please see our **[fees and charges](/fees-and-charges/ "Fees and Charges")** page.
+
+
+84. STANDARD VALUATION FEE
+----------------------
+Please see our **[fees and charges](/fees-and-charges/ "Fees and Charges")** page.
+
+
+85. REVALUATION FEE
+---------------
+Please see our **[fees and charges](/fees-and-charges/ "Fees and Charges")** page.
+
+
+86. RE-INSPECTION FEE
+-----------------
+Please see our **[fees and charges](/fees-and-charges/ "Fees and Charges")** page.
+
+
+================================================================================
+REFERENCE TABLES (CHATBOT-READY FORMAT)
+================================================================================
+TABLE 1:
+======================================================================
+COLUMNS:
+  1. Product
+  2. Minimum Interest Rate
+
+DATA:
+Row 1:
+  Product: Fixed rate less than 5 years or a variable rate
+  Minimum Interest Rate: The higher of 5.5% or product pay rate + 2%
+
+Row 2:
+  Product: Fixed rate 5 years or more
+  Minimum Interest Rate: The higher of 4.5% or product pay rate + 1%
+
+
+Table 1 Summary:
+This table contains 2 columns: Product, Minimum Interest Rate
+Total rows: 2
+Key information:
+  Row 1: Product: Fixed rate less than 5 years or a variable rate | Minimum Interest Rate: The higher of 5.5% or product pay rate + 2%
+  Row 2: Product: Fixed rate 5 years or more | Minimum Interest Rate: The higher of 4.5% or product pay rate + 1%
+
+----------------------------------------------------------------------
+
+TABLE 2:
+======================================================================
+COLUMNS:
+  1. Property value
+  2. Fee
+
+DATA:
+Row 1:
+  Property value: £0 to £125,000
+  Fee: £135
+
+Row 2:
+  Property value: £125,001 to £300,000
+  Fee: £175
+
+Row 3:
+  Property value: £300,001 to £600,000
+  Fee: £245
+
+Row 4:
+  Property value: £600,001 to £1,000,000
+  Fee: £325
+
+Row 5:
+  Property value: £1,000,001 to £1,600,000
+  Fee: £425
+
+
+Table 2 Summary:
+This table shows property value ranges and corresponding fees.
+Total rows: 5
+Key information:
+  Row 1: Property value: £0 to £125,000 | Fee: £135
+  Row 2: Property value: £125,001 to £300,000 | Fee: £175
+  Row 3: Property value: £300,001 to £600,000 | Fee: £245
+
+----------------------------------------------------------------------
+
+TABLE 3:
+======================================================================
+COLUMNS:
+  1. Product
+  2. Minimum Interest Rate
+
+DATA:
+Row 1:
+  Product: Fixed rate less than 5 years or a variable rate
+  Minimum Interest Rate: The higher of 5.5% or product pay rate + 2%
+
+Row 2:
+  Product: Fixed rate 5 years or more
+  Minimum Interest Rate: The higher of 4.5% or product pay rate + 1%
+
+
+Table 3 Summary:
+This table contains 2 columns: Product, Minimum Interest Rate
+Total rows: 2
+Key information:
+  Row 1: Product: Fixed rate less than 5 years or a variable rate | Minimum Interest Rate: The higher of 5.5% or product pay rate + 2%
+  Row 2: Product: Fixed rate 5 years or more | Minimum Interest Rate: The higher of 4.5% or product pay rate + 1%
+
+----------------------------------------------------------------------
+
+TABLE 4:
+======================================================================
+COLUMNS:
+  1. Property value
+  2. Fee
+
+DATA:
+Row 1:
+  Property value: £0 to £125,000
+  Fee: £110
+
+Row 2:
+  Property value: £125,001 to £300,000
+  Fee: £150
+
+Row 3:
+  Property value: £300,001 to £600,000
+  Fee: £220
+
+Row 4:
+  Property value: £600,001 to £1,000,000
+  Fee: £300
+
+Row 5:
+  Property value: £1,000,001 to £1,600,000
+  Fee: £400
+
+Row 6:
+  Property value: £1,600,001 and above
+  Fee: By negotiation
+
+
+Table 4 Summary:
+This table shows property value ranges and corresponding fees.
+Total rows: 6
+Key information:
+  Row 1: Property value: £0 to £125,000 | Fee: £110
+  Row 2: Property value: £125,001 to £300,000 | Fee: £150
+  Row 3: Property value: £300,001 to £600,000 | Fee: £220
+
+----------------------------------------------------------------------
+
+TABLE 5:
+======================================================================
+COLUMNS:
+  1. Product
+  2. Minimum Interest Rate
+
+DATA:
+Row 1:
+  Product: Fixed rate less than 5 years or a variable rate
+  Minimum Interest Rate: The higher of 5.5% or product pay rate + 2%
+
+Row 2:
+  Product: Fixed rate 5 years or more
+  Minimum Interest Rate: The higher of 4.5% or product pay rate + 1%
+
+
+Table 5 Summary:
+This table contains 2 columns: Product, Minimum Interest Rate
+Total rows: 2
+Key information:
+  Row 1: Product: Fixed rate less than 5 years or a variable rate | Minimum Interest Rate: The higher of 5.5% or product pay rate + 2%
+  Row 2: Product: Fixed rate 5 years or more | Minimum Interest Rate: The higher of 4.5% or product pay rate + 1%
+
+----------------------------------------------------------------------
+
+TABLE 6:
+======================================================================
+COLUMNS:
+  1. Loan size
+  2. Maximum total borrowing
+  3. Maximum LTV
+  4. Maximum portfolio size
+
+DATA:
+Row 1: Loan size | Minimum £25,001, maximum £750,000 per property for purchases and remortgages.
+
+Row 2: Maximum total borrowing | £2,000,000
+
+Row 3: Maximum LTV | 75% LTV. Fees may be added to the loan.
+
+Row 4: Maximum portfolio size | The total portfolio size is 3 UK mortgaged BTL properties per applicant (either solely or jointly) across all lenders, including Bank of Ireland Group. Properties that are owned in the name of a limited company which an applicant is a director of, and applications in progress, should also be included.
+
+
+Table 6 Summary:
+This table shows loan size limits and corresponding LTV (Loan to Value) percentages.
+Total rows: 4
+Key information:
+
+----------------------------------------------------------------------
+
+TABLE 7:
+======================================================================
+COLUMNS:
+  1. Loan size
+  2. Further advance
+  3. Maximum total borrowing
+  4. Maximum LTV
+  5. Maximum portfolio size
+
+DATA:
+Row 1: Loan size | No minimum loan size, maximum loan size per property £750,000. If £750,000 is already exceeded no additional borrowing will be allowed.
+
+Row 2: Further advance | Minimum loan size £5,000 Maximum loan size £750,000 (total mortgage including further advance)
+
+Row 3: Maximum total borrowing | £2,000,000. No maximum total borrowing as long as the total loan size does not exceed £750,000 per property.
+
+Row 4: Maximum LTV | 75% LTV. Fees may be added to the loan.
+
+Row 5: Maximum portfolio size | n/a
+
+
+Table 7 Summary:
+This table shows loan size limits and corresponding LTV (Loan to Value) percentages.
+Total rows: 5
+Key information:
+
+----------------------------------------------------------------------
+
+TABLE 8:
+======================================================================
+COLUMNS:
+  1. Driving licence
+  2. DWP / Benefits agency Letter
+  3. EU National ID Card
+  4. NI Electoral Office ID
+  5. HMRC correspondence
+  6. Passport
+
+DATA:
+Row 1: Driving licence | Auto requested if applicant has failed AML check | Includes following: Current full old-style UK driving licence (paper version) - not more than 51 years old Current Full UK/EU/USA/Canada/Australia photo card driving licence - not more than 10 years old Current Provisional UK Photo card driving licence - not more than 3 years old.
+
+Row 2: DWP / Benefits agency Letter | Correspondence from the DWP/Benefits Agency/Social Insurance documents/Disability allowance book /Disability pension book/ROI Pension book dated within the last 13 months.
+
+Row 3: EU National ID Card | EU National Identity Card (photographic) which must be valid and in date.
+
+Row 4: NI Electoral Office ID | Identity card issued by the Electoral Office for Northern Ireland (NI only).
+
+Row 5: HMRC correspondence | HM Revenue & Customs/Revenue Commissioners correspondence e.g. Tax coding notice dated within the last 13 months (note: P60s & P45s are not acceptable).
+
+Row 6: Passport | Full current signed valid Passport, not more than 10 years old.
+
+
+Table 8 Summary:
+This table contains 6 columns: Driving licence, DWP / Benefits agency Letter, EU National ID Card, NI Electoral Office ID, HMRC correspondence, Passport
+Total rows: 6
+Key information:
+
+----------------------------------------------------------------------
+
+TABLE 9:
+======================================================================
+COLUMNS:
+  1. Bank statement
+  2. Credit card statement
+  3. DWP / Benefits agency Letter
+  4. HMRC correspondence
+  5. Local Authority correspondence
+  6. ROI Government document
+  7. Solicitor house purchase letter
+  8. Utility bill
+
+DATA:
+Row 1: Bank statement | Auto requested if applicant has failed AML check and has not been found on Voters Roll for all residential addresses for past 12 months | Original or certified copy of Bank/Building Society/Credit Union statement*, dated within the last 6 months. If downloaded from the internet, the copy must contain Bank/ Building Society logo, date, full name and address.
+
+Row 2: Credit card statement | Original or certified copy of statement*, dated within the last 6 months. If downloaded from the internet, the copy must contain Bank/ Building Society logo, date, full name and address.
+
+Row 3: DWP / Benefits agency Letter | Correspondence from the DWP/Benefits Agency/Social Insurance documents/Disability allowance book /Disability pension book/ROI Pension book dated within the last 13 months.
+
+Row 4: HMRC correspondence | HM Revenue & Customs/Revenue Commissioners correspondence e.g. Tax coding notice dated within the last 13 months (note: P60s & P45s and internet copies are not acceptable).
+
+Row 5: Local Authority correspondence | Council Tax bill (internet copies are not acceptable).
+
+Row 6: ROI Government document | Document posted from Government body in ROI dated within the last 6 months (for use in NI only).
+
+Row 7: Solicitor house purchase letter | Letter from solicitors confirming recent house purchase within the last 6 months.
+
+Row 8: Utility bill | For example, gas, electricity, water, telephone (not mobile), Cable services, Satellite TV* e.g. Sky, original statement dated within the last 6 months (not dongle contracts). If downloaded from the internet, the copy must contain company logo, date, customers full name and address.
+
+
+Table 9 Summary:
+This table contains 8 columns: Bank statement, Credit card statement, DWP / Benefits agency Letter, HMRC correspondence, Local Authority correspondence, ROI Government document, Solicitor house purchase letter, Utility bill
+Total rows: 8
+Key information:
+
+----------------------------------------------------------------------
+
+TABLE 10:
+======================================================================
+COLUMNS:
+  1. Property description
+  2. Criteria
+
+DATA:
+Row 1:
+  Property description: Access to flats
+  Criteria: Self-contained access from the front of the building MUST be in place. Properties with external rear/side access via narrow alleyways or public footpaths are unacceptable, including those accessed across commercial premises/carparks. Blocks of flats exceeding 4 floors in height (excluding basement floors but including ground floor, i.e.0,1,2,3 floors) MUST have lift access to all floors to be acceptable. Unless its a converted former house in a desirable location, e.g. Pimlico, Chelsea, Kensington or Belgravia, or a standard Scottish tenement for the area. We dont allow access via an external staircase.
+
+Row 2:
+  Property description: Annexes
+  Criteria: Not acceptable.
+
+Row 3:
+  Property description: New build house/1st sale
+  Criteria: Acceptable.
+
+Row 4:
+  Property description: New build flat/1st sale/1st registration of lease
+  Criteria: Not acceptable.
+
+Row 5:
+  Property description: Former council/MOD/Former work houses
+  Criteria: Acceptable.
+
+Row 6:
+  Property description: Former council/MOD/Former work flats
+  Criteria: Acceptable, subject to a minimum value of £90,000, 4 storeys or fewer with no open deck access.
+
+Row 7:
+  Property description: Shared ownership and shared equity houses
+  Criteria: Not acceptable.
+
+Row 8:
+  Property description: Shared ownership and shared equity flats
+  Criteria: Not acceptable.
+
+Row 9:
+  Property description: Large properties
+  Criteria: Properties which have the following are acceptable: Properties must be readily marketable for owner occupation and located in predominately residential areas Properties with more than 4 bedrooms are only acceptable if they are within an area of predominately single family occupancy, subject to the valuer confirming it is a suitable security and there is a demand for single family rentals in the area Let to a single family or a maximum of 4 sharers on a single assured shorthold tenancy (or equivalent). Properties outside of this criteria could be deemed as a House in Multiple Occupation (HMO), which are unacceptable to the Bank.
+
+Row 10:
+  Property description: Property location
+  Criteria: We do not usually lend on properties that are next to, opposite, above or close to commercial premises or anything that may prohibit the peaceful enjoyment of the property. For example: shops, garages, petrol stations, restaurants, takeaways, factories, industrial units, farms, overhead power lines, sub stations, pylons, mobile phone masts, noise nuisance, smell, etc. This isnt an exhaustive list. However, if the property is in a highly desirable area we may be able to consider it, so please contact us prior to application.
+
+Row 11:
+  Property description: Flats converted from former office, industrial buildings and ex local authority blocks
+  Criteria: Not acceptable.
+
+Row 12:
+  Property description: Studio flats
+  Criteria: Can be considered, subject to the valuer being comfortable there is good demand in the locality. The gross internal area (GIA) must exceed 30 square metres.
+
+Row 13:
+  Property description: Holiday homes
+  Criteria: Not acceptable.
+
+Row 14:
+  Property description: Properties with part commercial use
+  Criteria: Not acceptable.
+
+Row 15:
+  Property description: Properties with part commercial use in the title
+  Criteria: Not acceptable.
+
+Row 16:
+  Property description: Properties less than 10 years old
+  Criteria: Must be covered by an approved new home warranty scheme or Professional Consultants Certificate from a suitably qualified individual. Please see New build property warranties section for acceptable warranties.
+
+Row 17:
+  Property description: Properties outside mainland UK
+  Criteria: Not acceptable with the exception of Isle of Wight, Anglesey, Skye, Bute, Lewis & Harris, Mainland Orkney, Mainland Shetland, Arran, Mull, Islay, Whalsay, Yell, South Ronaldsay, West Burra, Tiree and Unst.
+
+Row 18:
+  Property description: Freehold flats
+  Criteria: Not acceptable.
+
+Row 19:
+  Property description: Minimum leasehold requirements
+  Criteria: All leasehold properties require a minimum of 85 years at the start of the mortgage term.
+
+Row 20:
+  Property description: Onerous lease terms
+  Criteria: Not acceptable. The Bank will consider lending on properties with escalating ground rent clauses, however it will not lend upon properties with onerous leases. The Bank itself will not determine whether a lease is onerous or not. It relies on its panel valuers and conveyancers to advise on the onerous nature of a lease. This is based upon their professional knowledge and experience of both leases and the local housing market, since it is the market which determines this property attribute. As far as ground rents are concerned, increases in line with RPI (or equivalent indexes) are generally acceptable to the Bank. However, multiplier increases will need to be referred to both the valuer and conveyancer, particularly if the multiplier is for a time period of less than every 25 years. The Banks professional advisers will consider market appetite for ground rent increases, which will vary from location to location.
+
+Row 21:
+  Property description: Properties with occupancy restrictions
+  Criteria: Not acceptable.
+
+Row 22:
+  Property description: Properties being acquired under assignable contract
+  Criteria: Not acceptable.
+
+Row 23:
+  Property description: Properties with communal heating, hot water or other services where the property is not individually metered
+  Criteria: These are generally not acceptable. But in prime locations, particularly within London, unmetered systems may be acceptable. Please speak to your BDM before submitting the application.
+
+Row 24:
+  Property description: Livework units
+  Criteria: Not acceptable.
+
+Row 25:
+  Property description: Properties with solar panels
+  Criteria: Can be considered on an individual case basis, please contact us prior to submission.
+
+Row 26:
+  Property description: Overhead power lines
+  Criteria: Properties where high power lines pass over the site are not normally acceptable.
+
+Row 27:
+  Property description: Minimum floor area
+  Criteria: The minimum acceptable floor area for a property is 30 square metres.
+
+Row 28:
+  Property description: Property with land/smallholding
+  Criteria: We will not usually lend on smallholdings. For properties with more than 10 acres or separate fields, please contact us prior to submission. We will not lend on working farms or houses which connect to, or through, working farms.
+
+Row 29:
+  Property description: Properties with 2 kitchens
+  Criteria: Not acceptable.
+
+Row 30:
+  Property description: Listed buildings
+  Criteria: Acceptable.
+
+Row 31:
+  Property description: Properties with an Energy Performance Certificate (EPC) rating of A-E (or A-D in Scotland)
+  Criteria: Acceptable. In England and Wales only, well also accept properties if theyre listed on the PRS Exemptions Register.
+
+Row 32:
+  Property description: Maximum property value
+  Criteria: £4,000,000
+
+Row 33:
+  Property description: Refurbishment/modernisation
+  Criteria: Well not lend on properties that are part way through a project e.g. incomplete extensions, loft conversions, incomplete kitchens and bathrooms etc or very dated properties (which show after being inspected) that most purchasers would modernise/refurbish soon after moving in. If the applicant has in the last 6 years substantially altered, refurbished, remodelled or extended their property please contact us prior to application.
+
+
+Table 10 Summary:
+This table contains 2 columns: Property description, Criteria
+Total rows: 33
+Key information:
+  Row 1: Property description: Access to flats | Criteria: Self-contained access from the front of the building MUST be in place. Properties with external rear/side access via narrow alleyways or public footpaths are unacceptable, including those accessed across commercial premises/carparks. Blocks of flats exceeding 4 floors in height (excluding basement floors but including ground floor, i.e.0,1,2,3 floors) MUST have lift access to all floors to be acceptable. Unless its a converted former house in a desirable location, e.g. Pimlico, Chelsea, Kensington or Belgravia, or a standard Scottish tenement for the area. We dont allow access via an external staircase.
+  Row 2: Property description: Annexes | Criteria: Not acceptable.
+  Row 3: Property description: New build house/1st sale | Criteria: Acceptable.
+
+----------------------------------------------------------------------
+
+TABLE 11:
+======================================================================
+COLUMNS:
+  1. Construction Type
+  2. Criteria
+
+DATA:
+Row 1:
+  Construction Type: Traditional construction
+  Criteria: Houses must be of solid or cavity construction incorporating the materials brick, concrete block or stone. Render and tile hung finishes in addition to the above are considered traditional and acceptable.
+
+Row 2:
+  Construction Type: Period properties of cob
+  Criteria: Period properties of cob (mud and straw) construction may be acceptable provided roofs are thatched. They will be considered on their merits, depending on the comments made by the mortgage valuer. The term period property will normally be applied to a building built before 1850. For other roof types please contact us prior to submission.
+
+Row 3:
+  Construction Type: Single skin/ half brick thick walls
+  Criteria: Single skin/half brick thick walls are only acceptable in older properties where the walls are within single storey structures and contain non-habitable rooms. Any single skin wall structure above single storey is normally unacceptable.
+
+Row 4:
+  Construction Type: Roofs
+  Criteria: Roofs should normally be pitched and covered with tiles or slates (including artificial slates), or thatched.
+
+Row 5:
+  Construction Type: 100% flat roof
+  Criteria: 100% flat roofs on houses can be acceptable if the property is of traditional construction and the valuer confirms saleability and acceptability to other lenders. 100% flat roofs on flat developments are generally acceptable.
+
+Row 6:
+  Construction Type: Modern timber frame
+  Criteria: Modern post 1970 (post 1950 in Scotland) factory made timber frames are generally acceptable provided the properties have a conventional outer cladding of brick, rendered block or reconstructed stone. Post 2000 flat developments with timber cladding will be considered on their merits subject to not being more than 4 storeys.
+
+Row 7:
+  Construction Type: Period timber frame housing
+  Criteria: Historic hardwood timber frame housing is acceptable, being period properties (usually) built between 1300 and 1800.Period timber frame properties normally clad in stone/brick/lath and plaster are acceptable. As are those clad in clap board or weather board, providing that the Valuer confirms this is common to the locality and constructed prior to 1900.
+
+Row 8:
+  Construction Type: Pre reinforced concrete construction
+  Criteria: Properties listed as defective under the Housing Defects legislation are not acceptable if unrepaired. Repairs must be licensed by PRC Homes Ltd. Repair schemes that predate PRC Homes Ltd schemes will only be acceptable where a PRC Licence Scheme number was later granted.
+
+Row 9:
+  Construction Type: Steel frame construction
+  Criteria: Steel framed houses built in 1984 or later and which are conventionally clad in brick or rendered block work are acceptable. Steel framed houses built before 1984 and which are conventionally clad in brick or rendered block work are acceptable subject to a satisfactory Structural Engineers report. Unconventionally clad steel framed houses are unacceptable irrespective of their age.
+
+Row 10:
+  Construction Type: No fines/Easiform
+  Criteria: Only 2 storey structures are usually acceptable (3 storey in Scotland). Any evidence of cracks must be referred to a Structural Engineer and where appropriate, a carbonation test will be required. Easiform construction built prior to 1940 is unacceptable. Acceptability is dependent on continued market demand.
+
+Row 11:
+  Construction Type: Large panel systems
+  Criteria: Houses not acceptable. Flats may be considered if constructed after 2000 on an individual case basis.
+
+Row 12:
+  Construction Type: Cross wall/curtain wall
+  Criteria: These types are generally acceptable providing the party walls are of conventional construction. This type of construction in conjunction with a flat roof is normally unacceptable unless the valuer can confirm that an established demand for these properties exists and that they are generally mortgageable. Cross wall is only acceptable where party walls are of masonry.
+
+
+Table 11 Summary:
+This table contains 2 columns: Construction Type, Criteria
+Total rows: 12
+Key information:
+  Row 1: Construction Type: Traditional construction | Criteria: Houses must be of solid or cavity construction incorporating the materials brick, concrete block or stone. Render and tile hung finishes in addition to the above are considered traditional and acceptable.
+  Row 2: Construction Type: Period properties of cob | Criteria: Period properties of cob (mud and straw) construction may be acceptable provided roofs are thatched. They will be considered on their merits, depending on the comments made by the mortgage valuer. The term period property will normally be applied to a building built before 1850. For other roof types please contact us prior to submission.
+  Row 3: Construction Type: Single skin/ half brick thick walls | Criteria: Single skin/half brick thick walls are only acceptable in older properties where the walls are within single storey structures and contain non-habitable rooms. Any single skin wall structure above single storey is normally unacceptable.
+
+----------------------------------------------------------------------
+
+TABLE 12:
+======================================================================
+COLUMNS:
+  1. Product
+  2. Notional interest rate
+
+DATA:
+Row 1:
+  Product: Fixed rate less than 5 years or a variable rate
+  Notional interest rate: The higher of 5.5% or product pay rate + 2%
+
+Row 2:
+  Product: Fixed rate 5 years or more
+  Notional interest rate: The higher of 4.5% or product pay rate + 1%
+
+
+Table 12 Summary:
+This table contains 2 columns: Product, Notional interest rate
+Total rows: 2
+Key information:
+  Row 1: Product: Fixed rate less than 5 years or a variable rate | Notional interest rate: The higher of 5.5% or product pay rate + 2%
+  Row 2: Product: Fixed rate 5 years or more | Notional interest rate: The higher of 4.5% or product pay rate + 1%
+
+----------------------------------------------------------------------
+
+TABLE 13:
+======================================================================
+COLUMNS:
+  1. Product stress rate
+  2. Stress rate
+
+DATA:
+Row 1:
+  Product stress rate: Fixed rate less than 5 years or a variable rate
+  Stress rate: 5.5% or pay rate +2%
+
+Row 2:
+  Product stress rate: Fixed rate 5 years or more
+  Stress rate: 4.5% or pay rate +1%
+
+
+Table 13 Summary:
+This table contains 2 columns: Product stress rate, Stress rate
+Total rows: 2
+Key information:
+  Row 1: Product stress rate: Fixed rate less than 5 years or a variable rate | Stress rate: 5.5% or pay rate +2%
+  Row 2: Product stress rate: Fixed rate 5 years or more | Stress rate: 4.5% or pay rate +1%
+
+----------------------------------------------------------------------
+
+TABLE 14:
+======================================================================
+COLUMNS:
+  1. England & Wales
+  2. Scotland & Northern Ireland
+  3. With Vacant Possession
+  4. With Tenant In Situ
+  5. With Vacant Possession
+  6. With Tenant In Situ
+
+DATA:
+Row 1:  | England & Wales | Scotland & Northern Ireland
+
+Row 2: With Vacant Possession | With Tenant In Situ | With Vacant Possession | With Tenant In Situ
+
+Row 3: Purchases | Yes | Yes | Yes | No
+
+Row 4: Remortgages | Yes | Yes | Yes | Yes
+
+Row 5: Tenanted Possession Restrictions | The existing tenancy must have commenced after 28 February 1997 and the existing tenant must not have resided in the property before the date of the agreement. | Scotland: Remortgages will only be considered provided the tenant has not been resident in the property 5 years earlier than the date of our offer.
+
+Row 6: Northern Ireland: Remortgages will only be considered if the existing tenancy is a Protected Shorthold Agreement or an Uncontrolled Letting.
+
+Row 7: Tenancy Types | The tenancy mustnt exceed 2 years in duration and must normally be written in one of the following formats: England: Assured Shorthold Tenancy (AST) Wales: Occupation Contract Scotland: Private Residential Tenancy (Formerly Shorthold Assured Tenancy (SAT) Northern Ireland: Protected Shorthold Agreement or Uncontrolled Letting
+
+Row 8: Maximum of 4 tenants on a single AST (or equivalent)
+
+Row 9: Company/housing association lets are not acceptable.
+
+
+Table 14 Summary:
+This table contains 7 columns: , England & Wales, Scotland & Northern Ireland, With Vacant Possession, With Tenant In Situ, With Vacant Possession, With Tenant In Situ
+Total rows: 9
+Key information:
+
+----------------------------------------------------------------------

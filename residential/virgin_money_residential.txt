@@ -1,0 +1,1914 @@
+================================================================================
+Lending criteria
+================================================================================
+Source: https://intermediaries.virginmoney.com/lending-criteria/residential/#lending-criteria
+Extracted on: 2025-08-28 22:26:48
+================================================================================
+
+Found 59 criteria items with complete content:
+
+1. Adverse credit
+   Link: #adverse-credit
+============================================================
+
+# Adverse credit
+
+##### Arrears
+
+• In the last 6 months - no mortgage arrears allowed
+
+• In the last 6 months - maximum 1 month’s arrears per account on any non-mortgage commitments, unless they're back up to date
+
+• In the last 12 months – maximum 3 months’ arrears per account on any type of commitment, and no account 3 months in arrears for 2 months in a row
+
+• In the last 2 years – maximum 2 months’ arrears per account if it’s a mortgage or loan
+
+• Other missed payments may be acceptable, subject to application
+
+• In the last 6 months - no mortgage arrears allowed
+
+• In the last 6 months - maximum 1 month’s arrears per account on any non-mortgage commitments, unless they're back up to date
+
+• In the last 12 months – maximum 3 months’ arrears per account on any type of commitment, and no account 3 months in arrears for 2 months in a row
+
+• In the last 2 years – maximum 2 months’ arrears per account if it’s a mortgage or loan
+
+• Other missed payments may be acceptable, subject to application
+
+##### Defaults
+
+• Unsatisfied – no current unsatisfied defaults of any value
+
+• Satisfied – no defaults registered in the last 12 months. Maximum 2 satisfied defaults in the last 6 years, up to a combined total of £2,000
+
+• Unsatisfied – no current unsatisfied defaults of any value
+
+• Satisfied – no defaults registered in the last 12 months. Maximum 2 satisfied defaults in the last 6 years, up to a combined total of £2,000
+
+##### CCJs
+
+• Unsatisfied – no current unsatisfied CCJs of any value
+
+• Satisfied – no CCJs registered in the last 6 months. Maximum 1 satisfied CCJ in the last 6 years, up to £500
+
+• Unsatisfied – no current unsatisfied CCJs of any value
+
+• Satisfied – no CCJs registered in the last 6 months. Maximum 1 satisfied CCJ in the last 6 years, up to £500
+
+##### Debt management plans
+
+### Customers must not have a current debt management plan in place.
+
+##### IVAs, Administration Orders, Debt Relief Orders or Bankruptcy
+
+### None of these are acceptable within the last 6 years, even where satisfied or discharged.
+
+##### Repossession
+
+### Customers must never have had a property repossessed.
+
+
+2. Age
+   Link: #age
+============================================================
+
+# Age
+
+• The minimum age at the start of the application is 18
+
+• The maximum age at the end of the mortgage term is 75 and 364 days
+
+• The minimum age at the start of the application is 18
+
+• The maximum age at the end of the mortgage term is 75 and 364 days
+
+For Interest Only Mortgages where downsizing is being used as the repayment vehicle the maximum age at the end of the mortgage term is the lower of 70 and 364 days or the customers declared retirement age.
+
+### Viewlending into retirement policy
+
+
+3. Applicants
+   Link: #applicants
+============================================================
+
+# Applicants
+
+### The maximum number of applicants is 4. We use the income of the 2 highest earners.
+
+If there are more than 2 applicants our online system can’t be used and to get an illustration, a DIP or to apply, call us on 0345 601 0680.
+
+
+4. Assignable contracts
+   Link: #assignable-contracts
+============================================================
+
+# Assignable contracts
+
+### We do not lend on assigned contracts.
+
+This is where a vendor allows the assignment of a purchase contract from the original buyer to a new buyer before completion.
+
+
+5. Back to back transactions
+   Link: #back-to-back-transactions
+============================================================
+
+# Back to back transactions
+
+##### Purchase
+
+Also known as a sub-sale, we allow a purchase where the seller has not yet owned the property for 6 months.
+
+We will use the lower of the original purchase price (estate valuation if inherited) and the current valuation, unless the seller has significantly improved the property increasing its value, then we can use the current valuation (or new purchase price if lower). The new ownership must be registered at Land Registry.
+
+### For new builds the valuer will need to see the original Disclosure of Incentives Form.
+
+##### Remortgage
+
+Also known as a day one remortgage, we allow a remortgage within 6 months of purchasing or inheriting a property.
+
+Within the first 6 months we will use the lower of the original purchase price (estate valuation if inherited) and the current valuation, unless the customer has significantly improved the property increasing its value, then we can use the current valuation. The new ownership must be registered at Land Registry.
+
+Where a property has been gifted, we will not allow a remortgage within the first 6 months of ownership.
+
+##### Contact us before applying
+
+### You need to let us know if a case is a back to back transaction before applying.
+
+
+6. Bank statements
+   Link: #bank-statements
+============================================================
+
+# Bank statements
+
+### We don't always need bank statements, but we do need them for certain applications.
+
+### Which applications need bank statements?
+
+• Contractors
+
+• Cash income
+
+• Employed by a family business
+
+• Handwritten payslips/P60s
+
+• Contractors
+
+• Cash income
+
+• Employed by a family business
+
+• Handwritten payslips/P60s
+
+For self employed customers we may ask for the latest months’ business bank statement. We’ll let you know if we need it.
+
+### Viewpackaging requirements
+
+
+7. Bonus and variable income
+   Link: #bonus-and-variable-income
+============================================================
+
+# Bonus and variable income
+
+We accept 100% of contractually guaranteed income from a customer’s primary employment. For example, a contractual car allowance, large city weighting or permanent shift allowance.
+
+We accept 60% of variable income that’s regular and reliable. For example, bonus, commission or overtime.
+
+  Variable pay frequency
+  Income used
+  Monthly or more regular
+  60% of the lowest of the last 2 monthsIf the year to date figure is lower, we'll use 60% of the variable pay showing in the YTD.
+• 60% of the lowest of the last 2 months
+
+• 60% of the lowest of the last 2 months
+
+  Annual, Half-yearly, Quarterly
+  60% of the most recent yearIf the total variable pay is more than basic pay, we use 60% of the 2 year average, or more recent if lower.
+• 60% of the most recent year
+
+• 60% of the most recent year
+
+Exceptionally, we may be able to use up to 75% of variable income where a 3 year track record of stability is held (2 years if monthly or more regular). This must be agreed with us before applying.
+
+### Viewpackaging requirements
+
+
+8. Capital raising
+   Link: #capital-raising
+============================================================
+
+# Capital raising
+
+##### Allowable purposes
+
+• We allow additional borrowing as part of a remortgage application for most reasons other than business purposes, stocks and shares, currency speculation, time-shares, ASU premiums and tax bills
+
+• We allow additional borrowing as part of a remortgage application for most reasons other than business purposes, stocks and shares, currency speculation, time-shares, ASU premiums and tax bills
+
+##### Maximum LTV
+
+• The maximum LTV for additional borrowing is 90%
+
+• This includes for the deposit on a new property, home improvements, paying off a Help to Buy Equity Loan in full, fully staircasing shared ownership and any other allowable purpose other than debt consolidation
+
+• The maximum LTV where additional borrowing includes any unsecured debt consolidation is 80%
+
+• The maximum LTV for additional borrowing is 90%
+
+• This includes for the deposit on a new property, home improvements, paying off a Help to Buy Equity Loan in full, fully staircasing shared ownership and any other allowable purpose other than debt consolidation
+
+• The maximum LTV where additional borrowing includes any unsecured debt consolidation is 80%
+
+##### Debt consolidation
+
+• Maximum LTV 80% for debt consolidation
+
+• We include the monthly payments of any debts being repaid (other than Help to Buy Equity Loans) in our affordability assessment as if they were not being paid off
+
+• Debt consolidation is not allowed on interest only. The amount being consolidated must be on capital and interest
+
+• Maximum LTV 80% for debt consolidation
+
+• We include the monthly payments of any debts being repaid (other than Help to Buy Equity Loans) in our affordability assessment as if they were not being paid off
+
+• Debt consolidation is not allowed on interest only. The amount being consolidated must be on capital and interest
+
+
+9. Cladding
+   Link: #cladding
+============================================================
+
+# Cladding
+
+##### New mortgage applications
+
+### Multi storey buildings which have multiple occupancy and are either:
+
+• Under 11 metres AND 4 storeys or less, anywhere in the UK, or
+
+• 11 metres or more OR 5 storeys or more, in Wales, Scotland or Northern Ireland
+
+• Under 11 metres AND 4 storeys or less, anywhere in the UK, or
+
+• 11 metres or more OR 5 storeys or more, in Wales, Scotland or Northern Ireland
+
+Our valuation policy will ensure that a professional valuation is undertaken for these properties. Where the valuer has fire safety concerns with the External Wall System or any other fire safety concerns, they will request a completed External Wall Fire Review Form (EWS1), in line with RICS guidance. Our appointed valuer will check their database to confirm the property’s EWS1 status. Where they are unable to do so, we will request the EWS1 form. The EWS1 form should be sent directly to us.
+
+The EWS1 form is the responsibility of the building owner (property owner in Scotland) to undertake. They must appoint a qualified member of one of the appropriate professional bodies to complete and sign the form. The form will confirm that the EWS has been assessed and provide its safety rating. The rating will determine whether we are able to progress the case.
+
+A rating of A1, A2 or B1 will mean that the valuer will determine whether the case can progress and where acceptable, provide an amended valuation report.
+
+A rating of A3 or B2 will mean that the property will be declined where affected by cladding and remediation is required.
+
+### Multi storey buildings in England which have multiple occupancy and are either:
+
+• 11 metres or more, or
+
+• Have 5 or more storeys
+
+• 11 metres or more, or
+
+• Have 5 or more storeys
+
+Where a valuer has identified any significant fire safety concerns, or the EWS1 form rating is either A3 or B2, they’ll let us know if remediation of the property has been agreed to be funded by either Government funding or by the Developer, if known. We’ll then get in touch requesting the following:
+
+• An executed Leaseholder Deed of Certificate.
+
+• An executed Landlord Certificate (for applications where the building is being fully remediated under the Building Safety Act or by the Developer, this certificate will not be required).
+
+• An executed Leaseholder Deed of Certificate.
+
+• An executed Landlord Certificate (for applications where the building is being fully remediated under the Building Safety Act or by the Developer, this certificate will not be required).
+
+Please note that we aren’t accepting applications fromnon-qualifying leaseholdersfor buildings that are not being remediated under the Building Safety Act.
+
+We must be satisfied with the information provided to allow us to proceed. You can find more guidance on this documentation on thegovernment website.
+
+##### Existing mortgages
+
+We are here to support our existing customers who have a mortgage on a property that is impacted by potentially unsafe EWS. When their current mortgage deal ends we will offer a new mortgage product, just as we always would.
+
+For changes to an existing Virgin Money mortgage we will assess each case based on individual circumstances. As a responsible lender, any application for additional borrowing from customers impacted by unsafe EWS will be carefully considered before a decision is made.
+
+For any other questions about EWS please refer to theFAQsprovided by RCIS or visit theGovernment’s websiteto view their guidance on cladding.
+
+
+10. Contractors
+   Link: #contractors
+============================================================
+
+# Contractors
+
+##### Daily rate contractors
+
+• We will lend to daily rate contractors who have a fixed rate of pay, work schedule and contract duration
+
+• Income is calculated by the current contract multiplied by 46 weeks
+
+• The maximum gap between contracts is 6 weeks. If there is more than a 6 week gap, please contact us - we may still be able to help
+
+• Contractors who earn £50,000 or more must have 1 year’s contracting experience or 2 years’ experience in same the industry
+
+• Contractors who earn under £50,000 must have 2 years’ contracting experience. There is no minimum income requirement
+
+• The maximum LTV is 95%
+
+• If there is less than 1 month remaining on the current contract, evidence of renewal must be held
+
+• It is acceptable for a contractor to have a limited company providing they do not employ other contractors or have more than one contract. Offshore structures are not accepted
+
+• We will lend to daily rate contractors who have a fixed rate of pay, work schedule and contract duration
+
+• Income is calculated by the current contract multiplied by 46 weeks
+
+• The maximum gap between contracts is 6 weeks. If there is more than a 6 week gap, please contact us - we may still be able to help
+
+• Contractors who earn £50,000 or more must have 1 year’s contracting experience or 2 years’ experience in same the industry
+
+• Contractors who earn under £50,000 must have 2 years’ contracting experience. There is no minimum income requirement
+
+• The maximum LTV is 95%
+
+• If there is less than 1 month remaining on the current contract, evidence of renewal must be held
+
+• It is acceptable for a contractor to have a limited company providing they do not employ other contractors or have more than one contract. Offshore structures are not accepted
+
+##### IR35 and umbrella companies
+
+• Contractors operating inside IR35 and/or use of a payroll services company (PAYE umbrella company) are accepted
+
+• When reviewing payslips, we will deduct any statutory employer costs (including employer National Insurance contributions and Apprenticeship Levy) and any payroll service costs from the gross pay before multiplying by 46 weeks
+
+• Contractors operating inside IR35 and/or use of a payroll services company (PAYE umbrella company) are accepted
+
+• When reviewing payslips, we will deduct any statutory employer costs (including employer National Insurance contributions and Apprenticeship Levy) and any payroll service costs from the gross pay before multiplying by 46 weeks
+
+##### Zero hour contracts, fixed term employment, and agency contracts
+
+• These are all acceptable where the customer has a 2 year track record in the same line of work, whether on a permanent basis, or as a contractor. For zero hour contracts we need a 2 year track record of that income type
+
+• If the customer has not been in their current job for a year, then we can only use their income if it is consistent with the level received in their previous job
+
+• Seasonal or temporary short term employment is not acceptable
+
+• These are all acceptable where the customer has a 2 year track record in the same line of work, whether on a permanent basis, or as a contractor. For zero hour contracts we need a 2 year track record of that income type
+
+• If the customer has not been in their current job for a year, then we can only use their income if it is consistent with the level received in their previous job
+
+• Seasonal or temporary short term employment is not acceptable
+
+##### Construction Industry Scheme (CIS)
+
+### We assess CIS income using ourself employed policy.
+
+##### Evidence
+
+### Viewpackaging requirements
+
+
+11. Debt consolidation
+   Link: #debt-consolidation
+============================================================
+
+# Debt consolidation
+
+### The maximum LTV for debt consolidation is 80%.
+
+We include the monthly payments of any debts being repaid (other than Help to Buy Equity Loans) in our affordability assessment as if they were not being paid off.
+
+Debt consolidation is not allowed on interest only. The amount being consolidated must be on capital and interest.
+
+
+12. Deposit
+   Link: #deposit
+============================================================
+
+# Deposit
+
+##### Gifted deposits
+
+Gifted deposits, such as money gifted by family, are acceptable. Vendor gifted deposits are only acceptable fornew build.
+
+##### Let-to-buy deposits
+
+A deposit from alet-to-buyis acceptable. We do not require simultaneous completion (unless both the BTL and residential transactions of a let-to-buy are being mortgaged with Virgin Money).
+
+### Deposits from capital raising against other properties are also acceptable.
+
+##### New builds
+
+For new builds, we allow cash incentives up to 5% of the purchase price up to 90% LTV without affecting the loan amount. If greater than 5%, the balance of the incentive above 5% must be deducted from the purchase price when calculating the maximum loan amount. Where the LTV on a Shared Ownership case is greater than 90%, cash incentives must be deducted from the purchase price when calculating the maximum loan amount.
+
+##### Loans
+
+Deposits from loans are only acceptable subject to underwriter assessment. There must be no charge placed on the property we are lending on. Where the deposit is from a loan, this should be confirmed as the source of deposit in the application, and the associated expenditure and repayment terms declared. This includes loans from financial institutions or individuals, such as family members. Just so you know, we won’t usually consider scenarios where the deposit is entirely from a loan.
+
+##### Forces HTB
+
+### Forces HTB loans are accepted as a source of deposit. See ourForces HTB criteria.
+
+##### Gifted equity
+
+### Gifted equity is acceptable when buying from a family member. See ourdiscounted purchase criteria.
+
+##### ROSCA
+
+Deposits sourced from Rotating Savings and Credit Associations (ROSCA), such as an open cooperative funding circle scheme, are not acceptable.
+
+##### Evidence
+
+We do not usually require proof of deposit to be provided. The legal rep will confirm the deposit as part of their due diligence. If the deposit is gifted, we require agifted deposit form.
+
+
+13. Discounted purchase
+   Link: #discounted-purchase
+============================================================
+
+# Discounted purchase
+
+Also known as a concessionary purchase, an undervalue purchase or use of gifted equity as deposit for a purchase is acceptable when buying from a family member. The seller cannot live in the property after it has been sold.
+
+##### How it works
+
+The LTV will be calculated on the property value instead of the purchase price and we will not lend more than the discounted purchase price.
+
+For example, on a property valued at £200,000 sold at a discount for £150,000, we’d lend up to £150,000 and calculate the LTV as 75%.
+
+##### Conditions
+
+The legal rep must establish that the family member selling the property is not insolvent and/or arrange suitable indemnity insurance for the full value of the property, and the buyer and seller must have separate legal representation.
+
+We will need a letter from the family member(s) gifting the equity to confirm that it is a gift and they do not expect to be repaid during the recipient’s ownership of the property or on its sale.
+
+### We do not allow a remortgage within 6 months of being gifted a property.
+
+
+14. Execution only
+   Link: #execution-only
+============================================================
+
+# Execution only
+
+We allow execution only applications where all applicants are either High Net Worth or Mortgage Professionals, according to the MCOB definition.
+
+We allow brokers to submit their own applications. They must be submitted on an advised basis rather than execution only basis. We pay the usual procuration fee.
+
+
+15. Existing customers - additional borrowing
+   Link: #existing-customers---additional-borrowing
+============================================================
+
+# Existing customers - additional borrowing
+
+We offer additional borrowing to our existing mortgage customers who wish to release additional equity without remortgaging. If your customer is within 180 days of rate expiry or on SVR, the additional funds can be requested as part of a product transfer application. A product transfer application with additional funds can still be made outside of the 180 day product transfer window but an ERC may be applicable.
+
+It will also be possible to vary the term and repayment type of any existing element as part of the application, subject to lending criteria.
+
+Customers are also able to release additional equity on a separate standalone additional borrowing product when in an ERC period. This is only available to customers contacting us directly.
+
+### Our additional borrowing has the following key features:
+
+• Products can be selected from our existing customer product range when requested as part of a product transfer
+
+• New business maximum LTVs apply to additional borrowing transactions
+
+• Existing mortgage must be up to date and the application must meet current lending criteria
+
+• Affordability will be based on total mortgage borrowing
+
+• Maximum term is 40 years but a new additional borrowing element cannot exceed the maturity date of an existing element
+
+• Mortgage term must exceed the end date of the selected product
+
+• No minimum loan amount
+
+• Products can be selected from our existing customer product range when requested as part of a product transfer
+
+• New business maximum LTVs apply to additional borrowing transactions
+
+• Existing mortgage must be up to date and the application must meet current lending criteria
+
+• Affordability will be based on total mortgage borrowing
+
+• Maximum term is 40 years but a new additional borrowing element cannot exceed the maturity date of an existing element
+
+• Mortgage term must exceed the end date of the selected product
+
+• No minimum loan amount
+
+
+16. Existing customers - consent to let
+   Link: #existing-customers---consent-to-let
+============================================================
+
+# Existing customers - consent to let
+
+Residential mortgage customers can seek permission from us to let their property on a temporary basis subject to the following conditions:
+
+• The mortgage must be at least 6 months old (except where the customer is a member of the Armed Forces)
+
+• Maximum LTV 80%, subject to usual maximum loan and LTV criteria
+
+• The maximum period we can agree is 12 months. Customers can apply for an extension at the end of that period
+
+• Lodgers/holiday lets are not acceptable
+
+• The minimum rental income is 125% at the higher of 5% or pay rate + 1%
+
+• Personal income cannot be used to support the affordability assessment
+
+• We require confirmation of rental income from a reputable letting agent or a copy of the tenancy agreement
+
+• There is a fee, currently £125, for each consent to let that is granted
+
+• The mortgage must be at least 6 months old (except where the customer is a member of the Armed Forces)
+
+• Maximum LTV 80%, subject to usual maximum loan and LTV criteria
+
+• The maximum period we can agree is 12 months. Customers can apply for an extension at the end of that period
+
+• Lodgers/holiday lets are not acceptable
+
+• The minimum rental income is 125% at the higher of 5% or pay rate + 1%
+
+• Personal income cannot be used to support the affordability assessment
+
+• We require confirmation of rental income from a reputable letting agent or a copy of the tenancy agreement
+
+• There is a fee, currently £125, for each consent to let that is granted
+
+
+17. Existing customers - overpayments and lump sum payments
+   Link: #existing-customers---overpayments-and-lump-sum-payments
+============================================================
+
+# Existing customers - overpayments and lump sum payments
+
+Overpayments and/or lump sum payments are allowed in combination up to 10% of the mortgage balance during each year of the fixed rate product without incurring an early repayment charge. Fully flexible products allow unlimited overpayments / lump sum payments.
+
+##### Overpayments
+
+Customers can request to add a regular monthly overpayment amount to their monthly payment by contacting us. Following a product transfer or if the product is ported then the overpayment amount will be removed and will need to be set up again.
+
+##### Lump sum payments
+
+Lump sum payments can only be lodged once the first payment has been credited to the mortgage account.
+
+It is important to note that your customer’s regular payment will not automatically reduce following a lump sum payment. They can request a payment reduction by contacting us.
+
+
+18. Existing customers - porting
+   Link: #existing-customers---porting
+============================================================
+
+# Existing customers - porting
+
+### All our on-sale products can be ported.
+
+Where the full balance is not ported to the new property the amount the balance has been reduced by will be subject to any applicable Early Repayment Charges.
+
+The new mortgage can exceed the product LTV for the original application but must be within Virgin Money’s maximum loan to value limits.
+
+Virgin Money will consider applications where customers wish to port their existing product to a property that they already own. This includes properties mortgaged to Virgin Money, another lender or owned outright.
+
+If your customer requires additional borrowing to purchase their next property, they will be able to apply for a new product for the additional amount from the product range available at that time. Broker exclusive products can’t be used for this additional borrowing.
+
+##### Existing customers moving home and taking an entirely new product
+
+All customers who are moving home also have the option to take a new mortgage product from our prevailing range for the entire loan for their new property. Provided the new loan completes within three months of redemption of the existing loan, they may receive a refund of 50% on any applicable Early Repayment Charge.
+
+##### Customers redeeming and completing on different days
+
+If a customer doesn't complete the loan on the next property on the same day as they repay the loan on their current property, then any applicable Early Repayment Charge will be payable in full on the day of redemption. If they complete the loan on the next property within three months of redeeming, then the Early Repayment Charge will be refunded. If there is a reduction in the balance, any applicable Early Repayment Charge will be payable on the difference.
+
+If your customer’s expected completion date on their new property is within 90 days of their product maturity, we will allow the customer to select a new product without incurring an early repayment charge, this will prevent your customer from having to port their mortgage product and then undertake a product transfer application in quick succession. If there is a reduction in the balance, any applicable Early Repayment Charge will still be payable on the difference.
+
+Please refer to the Offer documentation issued to your customer for confirmation of their terms and conditions when moving home.
+
+##### Customers who need to change the parties named on the mortgage when moving home
+
+• Where the parties of the mortgage are changing, availability of the portable balance is evenly divided between the current named parties.
+
+• Any additional funds can be applied for from our on-sale core product range, this does not include any exclusive products or products with incentives.
+
+• If any party doesn't wish to port, they can still get up to a 50% share of the total Early Repayment Charge refund by using thismoving your mortgage form
+
+• If the customer intends to make of use of this policy, please make sure that a completed form accompanies your application submission.
+
+• Any Early Repayment Charge refund will be administered upon completion of the new loan agreement.
+
+• Where the parties of the mortgage are changing, availability of the portable balance is evenly divided between the current named parties.
+
+• Any additional funds can be applied for from our on-sale core product range, this does not include any exclusive products or products with incentives.
+
+• If any party doesn't wish to port, they can still get up to a 50% share of the total Early Repayment Charge refund by using thismoving your mortgage form
+
+• If the customer intends to make of use of this policy, please make sure that a completed form accompanies your application submission.
+
+• Any Early Repayment Charge refund will be administered upon completion of the new loan agreement.
+
+If you've got any questions, just get in touch with yourBusiness Development Managerwho will do everything they can to help.
+
+##### Procuration fees
+
+If your customer chooses to take an entirely new mortgage product from our current range for all borrowing or transfer the remaining terms and conditions of their current product to their new property, you will be entitled to the full procuration fee for that product.
+
+### Please refer to your club or network for details of procuration fees.
+
+
+19. Existing customers - product transfer
+   Link: #existing-customers---product-transfer
+============================================================
+
+# Existing customers - product transfer
+
+We offer a hassle-free product transfer service. Applications can be made up to 180 days before maturity and to apply you just need to log onto VMO and choose the ‘Product Transfer’ option from the menu.
+
+Additional borrowing, changes to mortgage term and changes to the repayment method can all be requested subject to meeting criteria.
+
+A product transfer may not be available in very limited circumstances (e.g. an account is in arrears or has a consent to let).
+
+### For more information, view ourmortgage renewal sales aid
+
+### Accepting the offer
+
+We’ll email and post your customer their offer. If we haven’t asked for any more info, it will be accepted automatically, 10 days after the date of the offer.
+
+To accept sooner, customers should emailPTReflectionPeriod@virginmoney.comwith their mortgage account number or application number.
+
+### To cancel they must call us on0345 602 8301.
+
+### Product switching
+
+As part of any product transfer application, we will allow you to amend the product selected at any point before maturity. There are no restrictions on the number of times you can ‘switch’ products, however:
+
+• If we are in the final month preceding the product transfer, we may have started the completion process, and this will have locked in the chosen rate at that time
+
+• Any request to change rate after this will mean that your customer will have to pay an SVR payment in the month of maturity. The rate will then be amended in time for the following payment with an interest adjustment applied
+
+• If we are in the final month preceding the product transfer, we may have started the completion process, and this will have locked in the chosen rate at that time
+
+• Any request to change rate after this will mean that your customer will have to pay an SVR payment in the month of maturity. The rate will then be amended in time for the following payment with an interest adjustment applied
+
+
+20. Ex-pats
+   Link: #ex-pats
+============================================================
+
+# Ex-pats
+
+### We do not lend to ex-pats or customers resident abroad.
+
+UK and Irish nationals resident in the UK but are temporarily working abroad are acceptable subject to:
+
+• Income being in GBP and paid into a UK bank account
+
+• The customer and/or their immediate family occupying the property
+
+• The mortgage being affordable after UK and overseas living costs have been considered
+
+• Not living or working in acountry subject to financial sanctionsunless they are a member of British Armed Forces posted in one of these countries
+
+• Income being in GBP and paid into a UK bank account
+
+• The customer and/or their immediate family occupying the property
+
+• The mortgage being affordable after UK and overseas living costs have been considered
+
+• Not living or working in acountry subject to financial sanctionsunless they are a member of British Armed Forces posted in one of these countries
+
+UK residency is determined by the UK’s Statutory Residence Test. This does not always require a minimum number of days an individual must be physically present in the UK but confirms if you’ve been in the UK for 183 or more days in a given tax year, you’ll be a UK resident.
+
+
+21. First time buyers
+   Link: #first-time-buyers
+============================================================
+
+# First time buyers
+
+We define a first time buyer (FTB) as a customer who has never had a mortgage. For a joint application neither customer will have ever had a mortgage.
+
+### First time buyers are acceptable up to 95% LTV.
+
+
+22. Flats
+   Link: #flats
+============================================================
+
+# Flats
+
+##### LTVs
+
+• Flats in buildings with 4 storeys or fewer are acceptable to 95% LTV
+
+• Flats in buildings with 5-10 storeys are acceptable to 85% LTV (95% forshared ownership)
+
+• Flats in buildings with more than 10 storeys are acceptable to 80% LTV (95% forshared ownership)
+
+• Ex local authority, housing association or MOD flats are acceptable to 85% LTV (but not forshared ownership)
+
+• New buildflats are acceptable to 80% LTV (95% forshared ownership)
+
+• Flats in buildings with 4 storeys or fewer are acceptable to 95% LTV
+
+• Flats in buildings with 5-10 storeys are acceptable to 85% LTV (95% forshared ownership)
+
+• Flats in buildings with more than 10 storeys are acceptable to 80% LTV (95% forshared ownership)
+
+• Ex local authority, housing association or MOD flats are acceptable to 85% LTV (but not forshared ownership)
+
+• New buildflats are acceptable to 80% LTV (95% forshared ownership)
+
+##### Types of flats
+
+• Converted flats are defined as new build until the later of 2 years after conversion or the date of first occupation
+
+• Studio flats with an internal floor area of at least 30m2are acceptable
+
+• We treat maisonettes the same as flats
+
+• Converted flats are defined as new build until the later of 2 years after conversion or the date of first occupation
+
+• Studio flats with an internal floor area of at least 30m2are acceptable
+
+• We treat maisonettes the same as flats
+
+##### Multi-storey
+
+Flats on the 5th storey or higher must be serviced by a lift. Where a flat is located on the 4th storey or below, there is no requirement for a lift to be provided irrespective of the number of floors to the block. Flats on the 5th story or higher which are not serviced by a lift are only considered acceptable if there is demonstrable demand due to the location.
+
+The number of storeys includes all floors and if there are multiple blocks in a development which share an entrance, we will use the storey height of the highest block.
+
+Ex local authority, housing association or MOD flats must not be in a building of over 7 storeys. Deck or balcony access is acceptable subject to valuer comment.
+
+##### Commercial premises
+
+Flats over or adjacent to commercial premises are acceptable subject to valuer assessment including that the commercial premises doesn’t detriment demand or enjoyment of the property. The flat’s entrance must not be via the commercial premises and flats immediately above or adjacent to food, drink or dry cleaners will usually be unacceptable.
+
+##### Tenure
+
+Flats must beleasehold(or in Scotland, heritable or leasehold). Share of freehold properties are acceptable but there must be an acceptable underlying lease upon which we can place our charge.
+
+Freehold flats are only acceptable for a Tyneside flat where there are reciprocating lease/ freehold arrangements, with our security being the lease of the subject flat and the freehold of the other flat.
+
+
+23. Forces Help to Buy
+   Link: #forces-help-to-buy
+============================================================
+
+# Forces Help to Buy
+
+Forces HTB is a scheme open to serving members of the armed forces allowing them to borrow up to 50% of their annual salary up to £25,000 interest free. Funds can be used towards a deposit and fees for a residential purchase and are repaid in equal instalments over a 10 year period, deducted from salary with a small insurance premium.
+
+### We accept the Forces HTB loan as a residential mortgage deposit.
+
+When applying, please select ‘Other’ as the source of deposit, and use the box that appears to tell us it’s ‘Forces HTB’.
+
+It’s important to include the Forces HTB loan and insurance payments as expenditure so we know how much the customer will be paying. In the ‘Financial Details’ section please declare the loan under ‘Existing Loan Details’ as an ‘Unsecured’ commitment and include the insurance cost under ‘Monthly Outgoings’ as ‘Insurance & Investments’.
+
+### We don’t need the customer’s personal information note from the MoD which confirms their loan.
+
+We allow Forces HTB for Shared Ownership too, and it’ll count towards the minimum 5% personal contribution we need for a Shared Ownership deposit.
+
+
+24. Foreign currency
+   Link: #foreign-currency
+============================================================
+
+# Foreign currency
+
+### We do not lend in the case of foreign currency loans. This means:
+
+• We cannot use any non-sterling income. This includes any income contracted or held in a foreign currency which is then converted to sterling
+
+• We cannot consider any non-sterling interest only repayment vehicles
+
+• We cannot lend to any customer resident outside the UK
+
+• We cannot use any non-sterling income. This includes any income contracted or held in a foreign currency which is then converted to sterling
+
+• We cannot consider any non-sterling interest only repayment vehicles
+
+• We cannot lend to any customer resident outside the UK
+
+##### UK residency
+
+UK residency is determined by the UK’s Statutory Residence Test. This does not always require a minimum number of days an individual must be physically present in the UK but confirms if you’ve been in the UK for 183 or more days in a given tax year, you’ll be a UK resident.
+
+
+25. Foreign nationals
+   Link: #foreign-nationals
+============================================================
+
+# Foreign nationals
+
+### Virgin Money does not differentiate between UK and Irish Nationals in our lending policy.
+
+Non-UK/Irish nationals with either the permanent right to reside and work in the UK or a settled or pre-settled EU Settlement Scheme status are accepted on standard lending policy.
+
+### All applicants must be resident in the UK and have a 3 year consecutive UK address history.
+
+We cannot lend to nationals of acountry subject to financial sanctionsor to a foreign national with diplomatic immunity.
+
+### Viewpackaging requirements
+
+
+26. Foster carers
+   Link: #foster-carers
+============================================================
+
+# Foster carers
+
+### Income from foster caring is acceptable and is subject to our usualself employed policy.
+
+### Any individuals under foster care should be included as dependants within the application.
+
+
+27. Greener mortgages
+   Link: #greener-mortgages
+============================================================
+
+# Greener mortgages
+
+Our Greener mortgages give customers access to a range of products that are priced more competitively than the equivalent non-Greener product, rewarding customers for purchasing an energy efficient new build home.
+
+To qualify, customers must be purchasing a new build residential home with a certified or predicted energy rating of A or B, evidenced by an Energy Performance Certificate (EPC), a Predicted Energy Assessment (PEA) or a Standard Assessment Procedure calculation (SAP).
+
+
+28. Guarantors
+   Link: #guarantors
+============================================================
+
+# Guarantors
+
+### We don’t offer guarantor mortgages.
+
+
+29. Help to Buy
+   Link: #help-to-buy
+============================================================
+
+# Help to Buy
+
+For customers with a Help to Buy equity loan on a property mortgaged with another lender, we only offer remortgages if the equity loan is being repaid in full.
+
+### We don’t offer remortgages to customers partially staircasing.
+
+
+30. Income
+   Link: #income
+============================================================
+
+# Income
+
+##### Employed
+
+### Guaranteed income
+
+In addition to basic pay from permanent employment, we accept 100% of any contractually guaranteed income, like a car allowance or territorial allowance.
+
+### Variable income
+
+### View ourbonus and variable income policy.
+
+### Probation
+
+If the customer is in probation or has not been in their current job for 6 months, this is acceptable as long as they have a permanent contract (as opposed to short term) and they’ve received their first payslip.
+
+### Second jobs
+
+### We take 100% of income from a second job where the income has been received for at least 12 months.
+
+### Parental leave
+
+### View ourparental leave policy.
+
+### Other employed income
+
+Agency, fixed term employment and zero hour contracts are acceptable where the customer has a 2 year track record in the same line of work, whether on a permanent basis, or as a contractor. For zero hour contracts we need a 2 year track record of that income type. If the customer has not been in their current job for a year, then we can only use their income if it is consistent with the level received in their previous job.
+
+### Seasonal or temporary short term employment is not acceptable.
+
+##### Self employed
+
+### Shareholding
+
+If the total combined shareholding of all applicants is under 20% of a partnership or limited company, we treat them as employed. If it’s 20% or more, we treat them as self employed.
+
+### LLPs
+
+If a partner/member of an LLP is salaried with no shareholding, we treat them as employed. If they are an equity partner or receive profit share as part of their remuneration, we usually treat them as self employed.
+
+### View ourself employed policy
+
+##### Contractors
+
+• View ourcontractor policy
+
+• Construction Industry Scheme (CIS) income is assessed using ourself employed criteria
+
+• View ourcontractor policy
+
+• Construction Industry Scheme (CIS) income is assessed using ourself employed criteria
+
+##### Pension
+
+• If a customer is already retired, or the term extends to or beyond the customer’s declared retirement age or their 71st birthday and they are within 10 years of either date we will use their pension income for affordability, or current income if lower
+
+• If the term extends to or beyond the customer’s declared retirement age or their 71st birthday but the customer is not within 10 years of either date, we don’t need proof of income in retirement, but we do need to see that the customer is paying in to a pension plan
+
+• For self-employed customers we may be able to use their current income up to age 75 and 364 days. This is subject to their line of work and business activities. Please check with us before applying
+
+• The following types of pension are all acceptable: annuities, occupational (defined benefits / final salary, defined contribution / money purchase), pension tax credits, personal (stakeholder, SIPP), state, war, war disability
+
+• If a customer is already retired, or the term extends to or beyond the customer’s declared retirement age or their 71st birthday and they are within 10 years of either date we will use their pension income for affordability, or current income if lower
+
+• If the term extends to or beyond the customer’s declared retirement age or their 71st birthday but the customer is not within 10 years of either date, we don’t need proof of income in retirement, but we do need to see that the customer is paying in to a pension plan
+
+• For self-employed customers we may be able to use their current income up to age 75 and 364 days. This is subject to their line of work and business activities. Please check with us before applying
+
+• The following types of pension are all acceptable: annuities, occupational (defined benefits / final salary, defined contribution / money purchase), pension tax credits, personal (stakeholder, SIPP), state, war, war disability
+
+##### Maintenance
+
+Income from a court ordered maintenance agreement or a Child Maintenance Arrangement is accepted if it has been received for at least 2 years and will be in place for at least the term of the mortgage.
+
+##### Benefits and disability benefits
+
+### We accept the following benefits:
+
+• Adult Disability Payment
+
+• Carers Allowance
+
+• Child Benefit: providing no applicant earns over £60,000 per year before tax
+
+• Child Disability Payment
+
+• Child Tax Credits
+
+• Disability Living Allowance (DLA)
+
+• Disabled Person Tax Credits
+
+• Employment and Support Allowance
+
+• Incapacity Benefit
+
+• Independent Living Fund
+
+• Personal Independence Payment (PIP)
+
+• Reduced Earnings Allowance
+
+• Universal Credit: providing any Housing Benefit is deducted, and at least one applicant earns a separate income
+
+• War Disablement Pension
+
+• Working and Family Tax Credit
+
+• Adult Disability Payment
+
+• Carers Allowance
+
+• Child Benefit: providing no applicant earns over £60,000 per year before tax
+
+• Child Disability Payment
+
+• Child Tax Credits
+
+• Disability Living Allowance (DLA)
+
+• Disabled Person Tax Credits
+
+• Employment and Support Allowance
+
+• Incapacity Benefit
+
+• Independent Living Fund
+
+• Personal Independence Payment (PIP)
+
+• Reduced Earnings Allowance
+
+• Universal Credit: providing any Housing Benefit is deducted, and at least one applicant earns a separate income
+
+• War Disablement Pension
+
+• Working and Family Tax Credit
+
+##### Rental income
+
+• On a residential application, we assess any background rental income and expenditure, including established BTLs and properties about to be let
+
+• Unlike all other income types, rental income is not included for loan to income calculations
+
+• On a residential application, we assess any background rental income and expenditure, including established BTLs and properties about to be let
+
+• Unlike all other income types, rental income is not included for loan to income calculations
+
+##### Other
+
+• Other income such as income from investments, trusts, non-court ordered maintenance or income protection insurance/PHI can also be considered but please check with us before applying
+
+• We don’t accept anyforeign currencyincome
+
+• Other income such as income from investments, trusts, non-court ordered maintenance or income protection insurance/PHI can also be considered but please check with us before applying
+
+• We don’t accept anyforeign currencyincome
+
+##### Useful links
+
+• Packaging requirements
+
+• Affordability calculator
+
+• Maximum loan to income policy
+
+• Packaging requirements
+
+• Affordability calculator
+
+• Maximum loan to income policy
+
+
+31. Income multiples
+   Link: #income-multiples
+============================================================
+
+# Income multiples
+
+##### Purchase or remortgage with additional borrowing
+
+• Income under £50,000 – 4.49x
+
+• Income £50,000 to £74,999 – 5x
+
+• Income of £75,000 or more – 5.5x
+
+• Income under £50,000 – 4.49x
+
+• Income £50,000 to £74,999 – 5x
+
+• Income of £75,000 or more – 5.5x
+
+##### Max 4.49x LTI at all income levels if any of the following apply:
+
+• Over 85% LTV
+
+• Any applicant is self-employed (not including contractors meeting our contractor policy)
+
+• Shared ownership
+
+• Over 85% LTV
+
+• Any applicant is self-employed (not including contractors meeting our contractor policy)
+
+• Shared ownership
+
+##### Remortgage with no additional borrowing
+
+• Up to 85% LTV – 5.5x
+
+• Over 85% LTV – 4.49x
+
+• Up to 85% LTV – 5.5x
+
+• Over 85% LTV – 4.49x
+
+For a remortgage with no additional borrowing, income level and self-employment don’t impact LTI limits.
+
+##### Allowable Income
+
+### When applying LTI multiples we include all of the following income:
+
+• All forms of income listed in ourincome policyat 100%, apart from rental income
+
+• Variable incomeat 60%
+
+• All forms of income listed in ourincome policyat 100%, apart from rental income
+
+• Variable incomeat 60%
+
+### Rental income is not included for LTI purposes.
+
+### This is also how we determine whether a case meets the £50k/£75k income levels referenced above.
+
+
+32. Interest only
+   Link: #interest-only
+============================================================
+
+# Interest only
+
+##### Income
+
+### Minimum income of £75,000 sole or joint.
+
+All acceptableincomewill count towards the minimum at their full levels, except for rental income which we do not include. For example, we will use 100% of the most recent year’s bonus rather than the 60% of it that we use for affordability and loan to income purposes.
+
+##### Debt consolidation
+
+Debt consolidation is not allowed on interest only. The amount being consolidated must be on capital and interest.
+
+### Maximum age at the end of the mortgage term 75 and 364 days.
+
+### Lending into retirement is not allowed if downsizing is the repayment vehicle.
+
+##### Availability
+
+Our standard maximum term of 40 years applies, and interest only is available for remortgage and purchase, but not for first time buyers.
+
+##### Maximum LTV and loan size
+
+• Full interest only – up to 75% LTV for loan sizes of £1m or less
+
+• Part and part – up to 85% LTV for property values of £750k or less, 80% LTV for property values over £750k up to £1.25m, and 75% LTV for property values over £1.25m (up to our maximum loan size of £1m). No more than 75% LTV on interest only
+
+• The maximum total LTV for downsizing or sale of another property is 65%. This cannot be exceeded by using another repayment vehicle or capital & interest
+
+• Full interest only – up to 75% LTV for loan sizes of £1m or less
+
+• Part and part – up to 85% LTV for property values of £750k or less, 80% LTV for property values over £750k up to £1.25m, and 75% LTV for property values over £1.25m (up to our maximum loan size of £1m). No more than 75% LTV on interest only
+
+• The maximum total LTV for downsizing or sale of another property is 65%. This cannot be exceeded by using another repayment vehicle or capital & interest
+
+### For more information, view ourmaximum LTV criteria.
+
+##### Repayment vehicles
+
+### Downsizing
+
+Maximum 65% LTV. This cannot be exceeded by using capital & interest. Downsizing cannot be combined with any other repayment vehicle. Minimum equity at the start of the mortgage £300,000. Maximum age at end of the mortgage term is the lower of 70 and 364 days or the customer’s declared retirement age.
+
+### Sale of other property
+
+Maximum 65% LTV. This cannot be exceeded by using another repayment vehicle or capital & interest. The equity in the other property/properties must be 110% of the amount on interest only, and we’ll carry out automated valuations to establish values.
+
+### Pension lump sum
+
+Maximum 75% LTV. The total LTV can be topped up 85% using capital and interest. The tax free lump sum (25% of the mid-point projected value at retirement) must be 100% of the amount on interest only. The pension must have been in place for at least 12 months.
+
+### Investments (like Stocks & Shares, ISAs, Unit Trusts, OEICs)
+
+Maximum 75% LTV. The total LTV can be topped up 85% using capital and interest. The investments must have been in place for at least 12 months. If a projected maturity value is available we can use the mid-point, which must be 100% of the amount on interest only. If a projected maturity value is unavailable we will use the current value, which must be 100% of the amount on interest only.
+
+### FTSE 100 share portfolio
+
+Maximum 75% LTV. The total LTV can be topped up 85% using capital and interest. The current balance must be 110% of the amount on interest only. A share portfolio must have been held for at least 12 months and the shares must be FTSE 100.
+
+### Endowments
+
+Maximum 75% LTV. The total LTV can be topped up 85% using capital and interest. The mid-point projected maturity value must be 100% of the amount on interest only. The endowment must have been in place for at least 12 months and the maturity date must be on or before the end of the mortgage term.
+
+### All repayment vehicles must be held in sterling.
+
+##### Allowable Income
+
+To calculate whether customers meet our interest only minimum income requirement we include all forms of income listed in ourincome policyat 100%, except for rental income which we do not include.
+
+We include 100% of variable income (rather than the 60% used for income multiples and affordability).
+
+### Viewpackaging requirements.
+
+
+33. Joint borrower sole owner
+   Link: #joint-borrower-sole-owner
+============================================================
+
+# Joint borrower sole owner
+
+Also known as JBSO or JBSP, we don’t offer joint borrower sole owner mortgages through Virgin Money, but we do offer JBSO for residential mortgages throughClydesdale Bank.
+
+
+34. Leasehold
+   Link: #leasehold
+============================================================
+
+# Leasehold
+
+##### Tenure
+
+• Leasehold properties are acceptable
+
+• Share of freehold properties are acceptable but there must be an acceptable underlying lease upon which we can place our charge
+
+• Leasehold properties are acceptable
+
+• Share of freehold properties are acceptable but there must be an acceptable underlying lease upon which we can place our charge
+
+##### Leases
+
+Leases should have at least 85 years remaining at the time of application. If a lease is in the process of being extended it is acceptable for it to be under 85 years at application if it will have 85 years remaining at completion. Leases with under 85 years remaining can be considered by exception but please check with us before applying.
+
+Leases which contain a provision for periodic increase of the ground rent are acceptable if the amount remains reasonable throughout its term. Increases should usually be linked to RPI or similar. If subject to a multiplier, any multipliers which cause a doubling of rent every period of 15 years or less are not permitted.
+
+Ground rent must not exceed £250 per annum at any point during the lease term. In Greater London it's £1,000. We don't accept indemnity policies for this matter, instead leases must be varied so that the ground rent does not rise above the threshold.
+
+
+35. Lending into retirement
+   Link: #lending-into-retirement
+============================================================
+
+# Lending into retirement
+
+##### After or approaching retirement
+
+If a customer is already retired, or the term extends to or beyond the customer’s declared retirement age or their 71st birthday and they are within 10 years of either date we will use their pension income for affordability, or current income if lower.
+
+##### Over 10 years before retirement
+
+If the term extends to or beyond the customer’s declared retirement age or their 71st birthday but the customer is not within 10 years of either date, we don’t need proof of income in retirement but we do need to see that the customer is paying in to a pension plan.
+
+##### Self employed
+
+For self-employed customers we may be able to use their current income up to age 75 and 364 days. This is subject to their line of work and business activities. Please check with us before applying.
+
+##### Acceptable pensions
+
+The following types of pension are all acceptable: annuities, occupational (defined benefits / final salary, defined contribution / money purchase), pension tax credits, personal (stakeholder, SIPP), state, war, war disability.
+
+##### Interest only
+
+### Lending into retirement is not allowed if downsizing is the repayment vehicle.
+
+
+36. Let-to-buy
+   Link: #let-to-buy
+============================================================
+
+# Let-to-buy
+
+For the residential purchase transaction on a LTB, our standard residential criteria and LTV limits apply.
+
+We do not require simultaneous completion, except when both the BTL and residential transactions of a let-to-buy are being mortgaged with Virgin Money.
+
+### To evidence the new background rental income and mortgage payment, view ourpackaging requirements.
+
+For our criteria on the BTL remortgage transaction in a let-to-buy, view thelet-to-buyarticle of our BTL criteria.
+
+
+37. Loan purpose
+   Link: #loan-purpose
+============================================================
+
+# Loan purpose
+
+##### Allowable purposes
+
+We allow additional borrowing as part of a remortgage application for most reasons other than business purposes, stocks and shares, currency speculation, time-shares, ASU premiums and tax bills.
+
+##### Maximum LTV
+
+• The maximum LTV for additional borrowing is 90%
+
+• This includes for the deposit on a new property, home improvements, paying off a Help to Buy equity loan in full, fully staircasing shared ownership and any other allowable purpose other than debt consolidation
+
+• The maximum LTV where additional borrowing includes any unsecured debt consolidation is 80%
+
+• The maximum LTV for additional borrowing is 90%
+
+• This includes for the deposit on a new property, home improvements, paying off a Help to Buy equity loan in full, fully staircasing shared ownership and any other allowable purpose other than debt consolidation
+
+• The maximum LTV where additional borrowing includes any unsecured debt consolidation is 80%
+
+##### Debt consolidation
+
+• Maximum LTV 80% for debt consolidation
+
+• We include the monthly payments of any debts being repaid (other than Help to Buy Equity Loans) in our affordability assessment as if they were not being paid off
+
+• Debt consolidation is not allowed on interest only. The amount being consolidated must be on capital and interest
+
+• Maximum LTV 80% for debt consolidation
+
+• We include the monthly payments of any debts being repaid (other than Help to Buy Equity Loans) in our affordability assessment as if they were not being paid off
+
+• Debt consolidation is not allowed on interest only. The amount being consolidated must be on capital and interest
+
+
+38. Loan size
+   Link: #loan-size
+============================================================
+
+# Loan size
+
+### We have no minimum loan size.
+
+### Our maximum residential loan size is £1m. See ourmaximum LTV criteria.
+
+### Some of our products will have a minimum loan size and/or a different maximum loan size.
+
+
+39. Maximum LTV
+   Link: #maximum-ltv
+============================================================
+
+# Maximum LTV
+
+##### Maximum LTV by property value
+
+  Property value
+  Full capital and interest
+  Interest only
+  Part and part
+  Up to £600,000
+  £600,001 - £750,000
+  £750,001 - £1,250,000
+  Over £1,250,000
+• Maximum loan size £1m
+
+• Full capital and interest shows the maximum LTV where the whole of the mortgage is on capital and interest
+
+• Interest only shows the maximum LTV for the amount of the mortgage being placed on interest only
+
+• Part and part shows the maximum total LTV for the mortgage where capital and interest is used to top up the LTV above the maximum LTV on interest only
+
+• Maximum loan size £1m
+
+• Full capital and interest shows the maximum LTV where the whole of the mortgage is on capital and interest
+
+• Interest only shows the maximum LTV for the amount of the mortgage being placed on interest only
+
+• Part and part shows the maximum total LTV for the mortgage where capital and interest is used to top up the LTV above the maximum LTV on interest only
+
+##### Restrictions
+
+• The maximum LTV for downsizing or sale of other property is 65%. This cannot be exceeded by using another repayment vehicle or capital & interest
+
+• Product fees can be added to the loan, but the total borrowing must not exceed 95% LTV
+
+• To check more specific LTV restrictions, view our policies oncapital raising,debt consolidation,flats,interest only,new build,right to buyandsecond residences
+
+• The maximum LTV for downsizing or sale of other property is 65%. This cannot be exceeded by using another repayment vehicle or capital & interest
+
+• Product fees can be added to the loan, but the total borrowing must not exceed 95% LTV
+
+• To check more specific LTV restrictions, view our policies oncapital raising,debt consolidation,flats,interest only,new build,right to buyandsecond residences
+
+
+40. New build
+   Link: #new-build
+============================================================
+
+# New build
+
+##### Maximum LTV
+
+• We lend up to 90% LTV for a new build house and 80% LTV for a new build flat
+
+• For shared ownership new build we lend up to 95% of the share of the property being purchased
+
+• We lend up to 90% LTV for a new build house and 80% LTV for a new build flat
+
+• For shared ownership new build we lend up to 95% of the share of the property being purchased
+
+##### Definition
+
+### When do we define a property as a new build?
+
+• Up to 2 years after it was built, converted or first occupied, whichever is later
+
+• If it’s being sold by the builder or developer, regardless of when it was built or converted
+
+• If it’s a flat that’s been converted from a building with a different, non-residential use (for example, a church, office block, shop or factory), the 2 year rule above also applies
+
+• Up to 2 years after it was built, converted or first occupied, whichever is later
+
+• If it’s being sold by the builder or developer, regardless of when it was built or converted
+
+• If it’s a flat that’s been converted from a building with a different, non-residential use (for example, a church, office block, shop or factory), the 2 year rule above also applies
+
+### A residential house that is converted into flats is not defined as a new build.
+
+##### Incentives
+
+### Cash incentives
+
+Cash incentives up to 5% of the purchase price are accepted up to 90% LTV without affecting the loan amount. If greater than 5%, the balance of the incentive above 5% must be deducted from the purchase price when calculating the maximum loan amount.
+
+Where the LTV on a Shared Ownership case is greater than 90%, cash incentives must be deducted from the purchase price when calculating the maximum loan amount.
+
+Cashback deals, Stamp Duty paid, payment of professional fees (solicitors, surveyors etc) and guaranteed rental payments for a specific period, are all considered to be cash incentives.
+
+### Non-cash incentives
+
+Non-cash incentives are accepted without affecting the loan amount. Incentives which are fixed or fitted to the property or white goods are considered to be non-cash incentives.
+
+##### Warranty
+
+Properties built or converted in the last 10 years must have been issued with an acceptable warranty or professional consultant’s certificate. Find out more in ourproperty criteria.
+
+##### Offers
+
+### New build offers are valid for 210 days.
+
+Further offer extensions of 210 days require up to date documentation, a new on sale product to be selected and re-assessment against current criteria. We will also refer to the valuer to determine whether the original valuation report can be used, an updated valuation figure should be used or a reinspection is required. This will not result in additional product or valuation fees.
+
+
+41. Offers
+   Link: #offers
+============================================================
+
+# Offers
+
+##### Validity
+
+### Offers are valid for 180 days. Fornew buildit’s 210 days.
+
+##### Amendments
+
+We can usually make changes to existing offers if you need to amend things like the term, loan amount, repayment method, or purchase price. Just contact us to let us know what you need to change. Where this requires a change to product, the range used should be our current new business range.
+
+We allow a change of product using the current product range as many times as needed prior to completion. This can be pre-offer or post-offer, up until we have received the Certificate of Title from the solicitor. We can’t make changes to the product after the COT has been received. If it’s just the product you need to change, ourmortgage product switch formis the easiest way to do it.
+
+Some changes need a brand new application. These include a change of property, adding or removing applicants, or changing the application type from residential to BTL and vice versa.
+
+##### Extending an offer
+
+Offer extensions are not available for non-new build properties. Instead, we require a brand new application including new product and valuation. A new valuation fee will apply if selecting a product with a valuation fee. Any product fee paid can be transferred to the new application.
+
+For new build properties we can extend offers for a further 210 days and will require up to date documentation, a new on sale product to be selected and re-assessment against current criteria.
+
+We will also refer to the valuer to determine whether the original valuation report can be used, an updated valuation figure should be used or a reinspection is required. This will not result in additional product or valuation fees.
+
+
+42. Parental leave
+   Link: #parental-leave
+============================================================
+
+# Parental leave
+
+When someone is on parental leave (often maternity leave or paternity leave), we’ll use their return to work income subject to confirming their intended return to work date, which should be in the next 12 months. We’ll also need to confirm their working hours.
+
+If they’re not returning in the next 3 months, we’ll need to know how they will afford their commitments until they return to work (employee benefits, statutory pay, partner’s income, savings, for example). If they’re returning within the next 3 months, this information is not needed.
+
+### Any future childcare costs should be included within the application.
+
+### Viewpackaging requirements
+
+
+43. Probation
+   Link: #probation
+============================================================
+
+# Probation
+
+If the customer is in probation or has not been in their current job for 6 months, this is acceptable as long as they have a permanent contract (as opposed to short term) and they’ve received their first payslip.
+
+
+44. Product fees
+   Link: #product-fees
+============================================================
+
+# Product fees
+
+Product fees can be added to the mortgage without affecting our LTV calculation, but the total borrowing cannot exceed 95% LTV.
+
+When an application includes more than one product the overall loan amount determines the products available, and the product fees for each product chosen will apply.
+
+### All our mortgages have a funds transfer fee of £25 for us to send mortgage funds to the legal rep.
+
+
+45. Professional product
+   Link: #professional-product
+============================================================
+
+# Professional product
+
+Our professional mortgages give customers access to a range of products that have beneficial pricing or incentives compared to the equivalent non-professional products. Please refer to the latest Product Guide for details.
+
+To qualify, one or more of the applicants must be fully qualified and employed in the following occupations: accountants, architects, barristers, chartered surveyors, engineers, financial advisers (including mortgage advisers), medical (ambulance workers, dentists, doctors, nurses, and any NHS band 3+ or non-NHS equivalent), pilots, police officers, solicitors, teachers, vets.
+
+
+46. Professional sportsperson or entertainer
+   Link: #professional-sportsperson-or-entertainer
+============================================================
+
+# Professional sportsperson or entertainer
+
+We can consider lending to a professional sportsperson or entertainer with at least 12 months remaining on their current contract.
+
+### The maximum LTV is usually 75%.
+
+Lending to these customers is subject to underwriter assessment so please check with us before applying.
+
+
+47. Promotion or pay rise
+   Link: #promotion-or-pay-rise
+============================================================
+
+# Promotion or pay rise
+
+If an employed applicant has a confirmed pay rise (from a pay review or promotion, for example) we may be able to use the increased income if it is due to start within a reasonable time-frame. We’ll need confirmation from the employer, and you should contact us before applying.
+
+
+48. Property
+   Link: #property
+============================================================
+
+# Property
+
+##### Where we lend
+
+• We lend in on properties in England, Northern Ireland, Scotland and Wales. This includes Isle of Wight, Scilly Isles, Lindisfarne, Lundy, Shetland Islands, Orkney Islands, Outer Hebrides, Inner Hebrides, Clyde Islands, Anglesey, Holy Island and Caldey
+
+• We do not lend on properties in the Channel Islands (Bailiwicks of Guernsey and Jersey) or the Isle of Man
+
+• We lend in on properties in England, Northern Ireland, Scotland and Wales. This includes Isle of Wight, Scilly Isles, Lindisfarne, Lundy, Shetland Islands, Orkney Islands, Outer Hebrides, Inner Hebrides, Clyde Islands, Anglesey, Holy Island and Caldey
+
+• We do not lend on properties in the Channel Islands (Bailiwicks of Guernsey and Jersey) or the Isle of Man
+
+##### Standard construction
+
+A property’s suitability is subject to individual assessment but generally, a property is acceptable where it’s of standard construction with brick, block or stone solid or cavity walls, or modern timber frame with a masonry external skin, or modern steel frame with a masonry external skin (if originally with NHBC guarantee), and a main pitched tiled, slated, thatched or modern metal sheet covered roof (not corrugated iron) or flat felt, asphalt, copper, lead, zinc or GRP covered roof or timber cut, trussed, or a steel frame roof. Historic hardwood timber framed infilled properties are also usually acceptable.
+
+##### Non-standard construction
+
+• Properties of non-standard construction are considered individually, including where modern methods of construction (MMC) have been used. High alumina cement, Large Panel Systems (LPS) and lightweight softwood timber framed properties are not accepted
+
+• Prefabricated Reinforced Cement (PRC) are only considered if repaired under an approved scheme for properties of no more than 2 storeys and there is not an adjacent unrepaired property
+
+• Timber clad properties are not accepted unless it is lightweight for decorative purposes only and covering a small proportion of the wall surface
+
+• Properties of non-standard construction are considered individually, including where modern methods of construction (MMC) have been used. High alumina cement, Large Panel Systems (LPS) and lightweight softwood timber framed properties are not accepted
+
+• Prefabricated Reinforced Cement (PRC) are only considered if repaired under an approved scheme for properties of no more than 2 storeys and there is not an adjacent unrepaired property
+
+• Timber clad properties are not accepted unless it is lightweight for decorative purposes only and covering a small proportion of the wall surface
+
+##### Commercial
+
+• Properties with appropriate home office are usually acceptable. Any other commercial use is not accepted
+
+• Properties over or adjacent to commercial premises are acceptable subject to valuer assessment including that the commercial premises doesn’t detriment demand or enjoyment of the property. The entrance must not be via the commercial premises and properties immediately above or adjacent to food, drink or dry cleaners will usually be unacceptable
+
+• Properties with appropriate home office are usually acceptable. Any other commercial use is not accepted
+
+• Properties over or adjacent to commercial premises are acceptable subject to valuer assessment including that the commercial premises doesn’t detriment demand or enjoyment of the property. The entrance must not be via the commercial premises and properties immediately above or adjacent to food, drink or dry cleaners will usually be unacceptable
+
+##### Japanese Knotweed
+
+### Japanese Knotweed is categorised as:
+
+A. Causing visible damage to the propertyB. Impacting the amenity space of the propertyC. Within the boundaries but not impacting the amenity space of the propertyD. On neighbouring property or land
+
+### Categories A and B
+
+The surveyor will usually request a report by a PCA or ISSE registered firm. All recommended remedial works must be undertaken and covered by an insurance backed 10 year guarantee which must be property specific and transferable to subsequent owners and mortgagees in possession. Funding for the works must be ring-fenced and protected by bond-pay, escrow or similar.
+
+### Categories C and D
+
+### We are usually able to lend with no further requirements.
+
+##### Warranty
+
+• Properties built or converted in the last 10 years must have been issued with an acceptable warranty or professional consultant’s certificate. These must not be offered retrospectively
+
+• Acceptable warranties are Advantage HCI, Build Assure, Build Zone, Building Life Plans (BLP), Castle 10 / Checkmate, Global Home Warranties, Homeproof (formerly Aedis), International Construction Warranties (ICW), Local Authority Building Control (LABC), National House Building Council (NHBC), Premier Guarantee, Protek, Q Assure, Thomas Miller Specialty Construction
+
+• We will also accept a UK Finance standard professional consultant’s certificate issued for a single dwelling, or for a flat which has been converted from a single dwelling. They are not acceptable on new build flats or other developments of more than one dwelling. This is subject to meeting the requirements listed under section 6.7 of the UK Finance handbook forEngland and WalesandScotlandor section 6.6 forNorthern Irelandwhich include the consultant having appropriate professional indemnity insurance and belonging to an approved professional body. PCCs are often valid for 6 years rather than 10, and in this instance an expired certificate is acceptable in years 7-10 as long as it met the usual criteria when it was issued at the time the property was built or converted.
+
+• Properties built or converted in the last 10 years must have been issued with an acceptable warranty or professional consultant’s certificate. These must not be offered retrospectively
+
+• Acceptable warranties are Advantage HCI, Build Assure, Build Zone, Building Life Plans (BLP), Castle 10 / Checkmate, Global Home Warranties, Homeproof (formerly Aedis), International Construction Warranties (ICW), Local Authority Building Control (LABC), National House Building Council (NHBC), Premier Guarantee, Protek, Q Assure, Thomas Miller Specialty Construction
+
+• We will also accept a UK Finance standard professional consultant’s certificate issued for a single dwelling, or for a flat which has been converted from a single dwelling. They are not acceptable on new build flats or other developments of more than one dwelling. This is subject to meeting the requirements listed under section 6.7 of the UK Finance handbook forEngland and WalesandScotlandor section 6.6 forNorthern Irelandwhich include the consultant having appropriate professional indemnity insurance and belonging to an approved professional body. PCCs are often valid for 6 years rather than 10, and in this instance an expired certificate is acceptable in years 7-10 as long as it met the usual criteria when it was issued at the time the property was built or converted.
+
+##### Acreage, annexes, charges of part, flat roofs, flooding, flying freeholds, and neighbouring land
+
+• We have no maximum acreage but for valuation purposes we will not include any land over 2 acres
+
+• Properties with an annex are accepted if it is not let out. If occupied, it must be by family with no security of tenure. If a property has more than one annex, please contact us to see if we can help
+
+• Our charge must cover the entire property and all land within a title - we won’t agree to charge only part of a property or title
+
+• Flat roofs are acceptable up to 100% of the total roof area where the covering is felt, asphalt, copper, lead, zinc or GRP , subject to valuer assessment
+
+• If a property has been affected by flooding or is on a flood plain, this is acceptable subject to valuation and availability of full all perils buildings insurance with a maximum flooding excess of £1,000
+
+• Flying freehold properties are acceptable where no more than 15% of the overall floor area, supported by an indemnity policy which covers potential repair or maintenance liabilities, and there being adequate rights of support and mutually enforceable repairing covenants
+
+• Where the applicant owns land that neighbours the security property over which access is gained or services run to the security property, we will need a mortgage over the neighbouring land as well. This doesn’t apply where the applicant owns multiple flats in a building
+
+• We have no maximum acreage but for valuation purposes we will not include any land over 2 acres
+
+• Properties with an annex are accepted if it is not let out. If occupied, it must be by family with no security of tenure. If a property has more than one annex, please contact us to see if we can help
+
+• Our charge must cover the entire property and all land within a title - we won’t agree to charge only part of a property or title
+
+• Flat roofs are acceptable up to 100% of the total roof area where the covering is felt, asphalt, copper, lead, zinc or GRP , subject to valuer assessment
+
+• If a property has been affected by flooding or is on a flood plain, this is acceptable subject to valuation and availability of full all perils buildings insurance with a maximum flooding excess of £1,000
+
+• Flying freehold properties are acceptable where no more than 15% of the overall floor area, supported by an indemnity policy which covers potential repair or maintenance liabilities, and there being adequate rights of support and mutually enforceable repairing covenants
+
+• Where the applicant owns land that neighbours the security property over which access is gained or services run to the security property, we will need a mortgage over the neighbouring land as well. This doesn’t apply where the applicant owns multiple flats in a building
+
+##### Unacceptable properties
+
+• We won’t lend on any properties with agricultural restrictions/ties, smallholdings, live/work units, holiday lets, mobile or static homes, properties which restrict how many days a year they can be occupied, self-builds pre completion, properties with commercial use such as kennels, caravan parks or farms
+
+• Properties with a pre-emption clause or section 106 restriction/restrictive covenant on occupation, use or development (other than where allowed for Right To Buy & Shared Ownership) are usually not acceptable
+
+• Spray foam insulation is usually not acceptable. We may be able to consider certain types of installation depending on the documentation available, but please contact us before applying
+
+• We won’t lend on any properties with agricultural restrictions/ties, smallholdings, live/work units, holiday lets, mobile or static homes, properties which restrict how many days a year they can be occupied, self-builds pre completion, properties with commercial use such as kennels, caravan parks or farms
+
+• Properties with a pre-emption clause or section 106 restriction/restrictive covenant on occupation, use or development (other than where allowed for Right To Buy & Shared Ownership) are usually not acceptable
+
+• Spray foam insulation is usually not acceptable. We may be able to consider certain types of installation depending on the documentation available, but please contact us before applying
+
+You might also want to check our criteria oncladding,flats,help to buy,leasehold,new build,right to buy,shared ownership,&valuation fees.
+
+
+49. Remortgage package
+   Link: #remortgage-package
+============================================================
+
+# Remortgage package
+
+We offer a range of products with a remortgage package of one free valuation and free basic legal work. The free valuation has no maximum property value or loan size. The maximum property value for free basic legal work is £2m, and there is no maximum loan size. The package also applies to capital raising on an unencumbered property.
+
+We’ll choose a firm to complete the free basic legal work under the package. Additional costs specific to the customer’s circumstances may apply and the customer will be provided a tariff of charges by the firm acting when they’re appointed. There will always be at a funds transfer fee of up to £35 to send remortgage funds to the existing mortgage provider or the customer’s bank account.
+
+##### Free basic legal work eligibility
+
+Most transactions are eligible for the free basic legal work. Customers who want to appoint their own legal rep must choose a product without free basic legal work included. Then they can appoint a legal rep at their own cost. Their chosen legal rep will act for the customer and Virgin Money and must be on our legal panel.
+
+
+50. Replacement property
+   Link: #replacement-property
+============================================================
+
+# Replacement property
+
+You must submit a new application to change a property, add or remove applicants or change the application type from residential to BTL (or vice versa). This includes a new product and valuation, up to date documentation and re-assessment against current criteria. A new valuation fee will apply if selecting a product without free valuation.
+
+##### Submitting a new application
+
+Application details can be copied over to the new application. Any product fee paid can be transferred to the new application, just contact us to let us know the new application number and we’ll cancel the old application. We will allow the product to be transferred to the new application. If the old case has already been cancelled, the product can still be transferred up to 6 weeks after cancellation.
+
+##### Changing an existing offer
+
+We can usually make changes to existing offers if you need to amend things like the term, loan amount, repayment method, or purchase price. Just contact us to let us know what you need to change. Where this requires a change to product, the range used should be our current new business range.
+
+We allow a change of product using the current product range as many times as needed prior to completion. This can be pre-offer or post-offer, up until we have received the Certificate of Title from the solicitor. We can’t make changes to the product after the COT has been received.
+
+
+51. Residency
+   Link: #residency
+============================================================
+
+# Residency
+
+### Applicants must be resident in the UK and have a 3 year consecutive UK address history.
+
+UK and Irish nationals resident in the UK but are temporarily working abroad are acceptable subject to:
+
+• Income being in GBP and paid into a UK bank account
+
+• The customer and/or their immediate family occupying the property
+
+• The mortgage being affordable after UK and overseas living costs have been considered
+
+• Not living or working in acountry subject to financial sanctions, unless they are a member of British Armed Forces posted in one of these countries
+
+• Income being in GBP and paid into a UK bank account
+
+• The customer and/or their immediate family occupying the property
+
+• The mortgage being affordable after UK and overseas living costs have been considered
+
+• Not living or working in acountry subject to financial sanctions, unless they are a member of British Armed Forces posted in one of these countries
+
+UK residency is determined by the UK’s Statutory Residence Test. This does not always require a minimum number of days an individual must be physically present in the UK but confirms if you’ve been in the UK for 183 or more days in a given tax year, you’ll be a UK resident.
+
+### For non-UK/Irish nationals resident in the UK, please see ourforeign nationals policy.
+
+
+52. Retrofit Boost
+   Link: #retrofit-boost
+============================================================
+
+# Retrofit Boost
+
+Our Retrofit Boost mortgage range charges a higher rate of interest in return for providing cashback to spend on eligible energy efficient home improvements.
+
+For more information, including the list of eligible improvements, please see ourRetrofit Boost page.
+
+
+53. Right to Buy
+   Link: #right-to-buy
+============================================================
+
+# Right to Buy
+
+We accept Right to Buy applications up to 85% LTV. The LTV will be calculated on the property value instead of the purchase price and we will not lend more than the discounted purchase price.
+
+For example, on a property valued at £100,000 sold at a discount for £65,000, we’d lend a maximum of £65,000 and calculate the LTV as 65%.
+
+### All applicants must be named on the Right to Buy papers.
+
+We can’t help with any additional borrowing during the period when the customer needs to pay back any of the discount if they were to sell the property.
+
+### You might also want to check our criteria forflatsandproperty.
+
+
+54. Second home
+   Link: #second-home
+============================================================
+
+# Second home
+
+We can lend on a second home (second residence, holiday home, home for a dependant relative) up to 75% LTV.
+
+If a customer has a second home in the background, we can lend on their primary residence up to 90% LTV.
+
+We don’t apply aggregated loan to income caps but both mortgages and the costs of running two homes must be affordable so please use our affordability calculator.
+
+
+55. Self employed
+   Link: #self-employed
+============================================================
+
+# Self employed
+
+##### Limited company
+
+### Shareholding 20% or more
+
+If an applicant’s shareholding is 20% or more, we use the 2 year average of the share of Net Profit After Tax + Director’s Salary. If the most recent year is lower, we’ll use that.
+
+### Shareholding under 20%
+
+### If an applicant’s shareholding is under 20%, we treat them as employed.
+
+### Eligibility
+
+We need the business to have been trading for 2 years, with the most recent set of accounts to be in date, and for there not to have been a loss or negative net worth (negative shareholders’ funds) in either of the last two years.
+
+### If the loan is over £1m, the business must have been trading for 3 years.
+
+If any of these requirements is not met but there is strong reasoning as to the merits of the case, please contact us to see if we can help.
+
+##### Sole trader or partnership
+
+### Ownership 20% or more
+
+For sole traders, and for partnerships where an applicant owns 20% or more, we use the 2 year average of their Net Profit. If the most recent year is lower, we’ll use that.
+
+### Ownership under 20%
+
+### If an applicant owns under 20% of a partnership, we treat them as employed.
+
+### Eligibility
+
+We need the business to have been trading for 2 years, with the most recent set of accounts to be in date, and for there not to have been a loss in either of the last two years.
+
+### If the loan is over £1m, the business must have been trading for 3 years.
+
+##### Limited liability partnership (LLP)
+
+### Equity partners and profit share recipients
+
+If a member of an LLP is an equity partner or receives profit share as part of their remuneration, we will use their total remuneration, regardless of their % ownership. We use the 2 year average, or if the most recent year is lower, we’ll use that.
+
+We usually need them to have been at the LLP for 2 years (including any time employed). If they haven’t been a member of the LLP for 2 years, please contact us to see how we can help.
+
+### Salaried members
+
+### Where a partner/member of an LLPs is salaried with no shareholding, we treat them as employed.
+
+##### Loan to income
+
+The maximumloan to incomefor an application where any applicant is self employed is 4.49x. This increases to 5.5x if the application is a remortgage with no additional borrowing up to 85% LTV.
+
+##### Change of trading entity
+
+Where an established business has changed its trading entity (for example, the business has switched from sole trader to limited company) this is acceptable with no minimum trading period for the new entity, as long as income can be evidenced over 2 years using the old entity or across the old and new entities.
+
+##### Please note
+
+• We don’t accept anyforeign currency income
+
+• If the term extends to or beyond the customer’s declared retirement age or their 71st birthday, view ourlending into retirement policy
+
+• For contractor queries, view ourcontractor policy
+
+• We don’t accept anyforeign currency income
+
+• If the term extends to or beyond the customer’s declared retirement age or their 71st birthday, view ourlending into retirement policy
+
+• For contractor queries, view ourcontractor policy
+
+### Viewpackaging requirements
+
+
+56. Shared ownership
+   Link: #shared-ownership
+============================================================
+
+# Shared ownership
+
+##### Availability
+
+We offer shared ownership mortgages for capital and interest purchase and remortgage applications in England and Wales up to 95% LTV of the customer’s share (which must be 25% or more, and for a purchase must be no more than 75%). The maximum loan to income is 4.49x.
+
+Our usualproperty criteriaincluding forflatsapply, but with a few differences: new build houses and flats are acceptable up to 95% LTV, we don’t cap the LTV for flats based on storey height, and we won’t lend on office or ex-local authority conversions.
+
+##### Purchases
+
+New build cash incentives are acceptable subject to our usualdeposit policy, but the customer must still provide a minimum 5% deposit themselves. It’s okay if this is from a family gift.
+
+##### Remortgages
+
+We do not accept remortgage applications unless a customer is purchasing an additional share to take their ownership of the property to 100%.
+
+##### Lease
+
+• The landlord must be a registered provider of social housing and the lease must be a 2015 (or later) Homes England model lease or Welsh Government model lease containing the Mortgage Protection Clause and the right to staircase to 100% without any obligation to increase their share
+
+• Section 106 restrictions on ownership are acceptable if they apply only to the initial sale and are dis-applied to any future sale
+
+• The following pre-emption/nomination rights are acceptable: The sale price under the pre-emption right must be at the open market value. The proceeds of the sale must be payable to the vendor on completion of the sale. The owner of the property must have the right to assign the lease free of any nomination right or sale restriction if either the landlord fails to nominate a buyer or exchange of contracts does not take place within six months of the intention to sell being provided by the owner
+
+• The landlord must be a registered provider of social housing and the lease must be a 2015 (or later) Homes England model lease or Welsh Government model lease containing the Mortgage Protection Clause and the right to staircase to 100% without any obligation to increase their share
+
+• Section 106 restrictions on ownership are acceptable if they apply only to the initial sale and are dis-applied to any future sale
+
+• The following pre-emption/nomination rights are acceptable: The sale price under the pre-emption right must be at the open market value. The proceeds of the sale must be payable to the vendor on completion of the sale. The owner of the property must have the right to assign the lease free of any nomination right or sale restriction if either the landlord fails to nominate a buyer or exchange of contracts does not take place within six months of the intention to sell being provided by the owner
+
+##### Existing customers
+
+Additional borrowing is usually only available for staircasing (minimum 5%), subject to current lending criteria. A conveyancer will need to be instructed. In exceptional circumstances additional borrowing can also be considered for essential repairs to the mortgaged property.
+
+The housing association must give consent for a product transfer, change of term, consent to let or for additional borrowing.
+
+
+57. Term
+   Link: #term
+============================================================
+
+# Term
+
+• The minimum term is 5 years, and must be at least 1 month longer than the initial product end date
+
+• The maximum term is 40 years
+
+• The minimum term is 5 years, and must be at least 1 month longer than the initial product end date
+
+• The maximum term is 40 years
+
+### View ourage policy
+
+
+58. Transcripts
+   Link: #transcripts
+============================================================
+
+# Transcripts
+
+For residential purchase applications up to 95% LTV for properties in Scotland we accept a transcript of a Scottish Home Report (Single Survey) dated within the last 90 days from any of the following firms:
+
+Allied Surveyors Scotland, Connells, D M Hall, David Adamson & Partners, Dixon Heaney Kean Kennedy, First Surveyors Scotland, Gateway Surveyors, Graham & Sibbald, J & E Shepherd, L A Simpson Chartered Surveyors, N J Coward, S J Omand Chartered Surveyors, Sesame Bankhall, Shetland Surveyors Limited, Torrance Partnership, Walker Fraser Steele, Valunation, Whyte & Barrie.
+
+We do not charge a fee for a transcript. If the report is more than 90 days old or the firm is not one of those listed above, we will require a lender’s valuation report.
+
+
+59. Valuation fees
+   Link: #valuation-fees
+============================================================
+
+# Valuation fees
+
+##### Valuation report
+
+The only valuation type available is a lender’s valuation report which is for Virgin Money to calculate how much we can lend. This may involve a physical inspection of the property or be completed remotely without visiting the property. The customer may want to separately instruct a firm of their choosing to carry out a valuation or survey.
+
+##### Fees
+
+The fees below include VAT and an administration fee. The cost to Virgin Money may differ from the fee charged. Our product details will make clear if a free valuation applies.
+
+We may also charge a reinspection fee of £56 where a valuation expires and needs to be updated or where work has been carried out and the valuation needs to be updated.
+
+  Valuation - Fee (£) 
+  Up to £60,000 - 112
+  £60,001 - £100,000 -132
+  £100,001 - £150,000 - 163
+  £150,001 - £200,000 - 183
+  £200,001 - £250,000 -214
+  £250,001 - £500,000 - 275
+  £500,001 - £750,000 - 331
+  £750,001 - £1,000,000 - 377
+  £1,000,001 - £1,500,000 - 510
+  £1,500,001 - £2,000,000 -663
+  £2,000,001 - £2,500,000 - 817
+  £2,500,001 - £3,000,000 - 970
+  Over £3,000,000 -Quoted individually 
+  Quoted individually
+### Viewtranscripts criteria
+

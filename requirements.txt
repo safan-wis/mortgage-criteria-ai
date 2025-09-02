@@ -1,0 +1,46 @@
+# Core Framework
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Vector Database
+lancedb>=0.4.0
+pyarrow>=12.0.0
+
+# AI & Machine Learning
+openai>=1.0.0
+python-dotenv>=1.0.0
+
+# Document Processing
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+python-docx>=0.8.11
+
+# Text Processing
+nltk>=3.8
+spacy>=3.6.0
+textstat>=0.7.3
+
+# Utilities
+requests>=2.31.0
+tqdm>=4.65.0
+click>=8.1.0
+
+# Development & Testing
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.5.0
+
+# Performance
+psutil>=5.9.0
+memory-profiler>=0.61.0
+
+# Security
+cryptography>=41.0.0
+
+# Optional: Enhanced Features
+# Uncomment if you want these features
+# plotly>=5.15.0  # For interactive charts
+# altair>=5.0.0   # For Streamlit charts
+# streamlit-option-menu>=0.3.0  # For better UI

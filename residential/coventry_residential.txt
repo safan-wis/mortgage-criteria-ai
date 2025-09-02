@@ -1,0 +1,1391 @@
+🔹 TITLE: Residential criteria
+🔹 DATE: 2025-08-23 11:10:02
+
+════════════════════════════════════════════════════════════════════════════════
+
+
+#### Age
+
+All applicants must be aged 18 or over, and they must be no more than 75 years old at the end of the mortgage term.
+
+For applicant(s) that cannot provide evidence of adequate pension income, the maximum age is their stated anticipated retirement age (no greater than 70 years old) or state retirement age, where no anticipated retirement age has been provided.
+
+Additional criteria apply where the mortgage term extends beyond the applicants' retirement age. Please see Lending into retirement.
+
+────────────────────────────────────────────────────────────
+
+
+#### Address history
+
+We require three years' UK address history for all applicants. Where an applicant is not able to provide three years' UK address history, non-UK addresses should be recorded and the case reviewed on its own merits.
+
+────────────────────────────────────────────────────────────
+
+
+#### Number of applicants
+
+We allow up to four applicants on a mortgage application. However, we will only take into account a maximum of two applicants' income when assessing maximum affordability.
+
+────────────────────────────────────────────────────────────
+
+
+#### Residency status
+
+Applicants must currently be resident in the UK and have permanent leave to remain.
+
+For foreign nationals (excluding Republic of Ireland) each applicant must have been granted indefinite leave to remain or right of abode to live and work in the UK or settled/pre-settled status to live and work in the UK. We will require one of the following documents as evidence:
+
+In addition we require evidence of two years' residency and employment history in the UK.
+
+Applicants must not hold any level of diplomatic immunity.
+
+If the above cannot be demonstrated then the application will be declined.
+
+• eVisa / manual Share code confirming Indefinite Leave to Remain / Settled or Pre-Settled status - more information can be found here
+• Valid Passport containing Indefinite Stamp
+• Home Office letter with no expiration date
+
+────────────────────────────────────────────────────────────
+
+
+#### Credit check
+
+All applicants are credit searched before a mortgage is offered. This is usually completed at Decision In Principal. Obtaining a Decision In Principal will record a soft footprint against the applicant's credit record(s); it is when the full application is submitted that a hard footprint is left.
+
+When completing a credit search on your client we are required to leave a footprint highlighting that we've performed a search connected with mortgage lending when a full application is submitted, this will leave a hard footprint. Multiple credit searches over a short period may adversely affect your client's credit rating and you should explain this to your client before submitting their application.
+
+Additional checks will also be carried out to verify the identity of the applicants. Please refer to our Privacy Notice for further details.
+
+────────────────────────────────────────────────────────────
+
+
+#### Acceptable credit history
+
+We will consider applications from applicants with previous CCJs, defaults or arrears, provided they do not exceed the limits in the Credit history matrix.
+
+Credit history matrix
+
+Defaults in last 3 years
+
+Defaults over 3 years
+
+Defaults in last 3 years
+
+Defaults over 3 years old
+
+• Mortgages
+• Secured loans
+• Unsecured loans
+
+• Mortgages
+• Secured loans
+• Unsecured loans
+
+• Communications
+• Mail order supplier
+• Credit cards or store cards
+
+• Communications
+• Mail order supplier
+• Credit cards or store cards
+
+
+• : Repossessions
+• Standard acceptable limits: Not acceptable
+• FTB acceptable limits: Not acceptable
+
+• : Bankruptcy
+• Standard acceptable limits: Acceptable if discharged for at least 6 years
+• FTB acceptable limits: Not acceptable
+
+• : IVA
+• Standard acceptable limits: Acceptable if completed for at least 6 years
+• FTB acceptable limits: Not acceptable
+
+• : CCJs in last 6 months
+• Standard acceptable limits: None allowed
+• FTB acceptable limits: None allowed
+
+• : CCJs over 6 months up to 3 years
+• Standard acceptable limits: If the combined total value of CCJs is less than  500 satisfied, or the combined total value of CCJs is less than  250 unsatisfied
+• FTB acceptable limits: None allowed
+
+• : CCJs over 3 years old
+• Standard acceptable limits: Considered on an individual basis
+• FTB acceptable limits: Considered on an individual basis
+
+• : Defaults in last 3 years Mortgages Secured loans Unsecured loans
+• Standard acceptable limits: If the combined total value of defaults is less than  500 satisfied
+• FTB acceptable limits: Considered on an individual basis
+
+• : Defaults over 3 years Mortgages Secured loans Unsecured loans
+• Standard acceptable limits: If the combined total value of defaults is less than  1,500 satisfied or not, may be considered on an individual basis
+• FTB acceptable limits: If the combined total value of defaults is less than  500 satisfied or not, may be considered on an individual basis
+
+• : Defaults in last 3 years Communications Mail order supplier Credit cards or store cards
+• Standard acceptable limits: If the combined total value of defaults is less than  500 satisfied, or the combined total value of defaults is less than  250 unsatisfied
+• FTB acceptable limits: Considered on an individual basis
+
+• : Defaults over 3 years old Communications Mail order supplier Credit cards or store cards
+• Standard acceptable limits: If the combined total value of defaults is less than  1,500 satisfied or not, may be considered on an individual basis
+• FTB acceptable limits: If the combined total value of defaults is less than  500 satisfied or not, may be considered on an individual basis
+
+• : Arrears in last year on unsecured debt
+• Standard acceptable limits: 1 month's arrears are allowed
+• FTB acceptable limits: 1 month's arrears may be considered on an individual basis
+
+• : Arrears in last 3 years on secured debt
+• Standard acceptable limits: 1 month's arrears are allowed
+• FTB acceptable limits: None allowed
+
+
+
+• : Repossessions
+• Standard acceptable limits: Not acceptable
+• FTB acceptable limits: Not acceptable
+
+• : Bankruptcy
+• Standard acceptable limits: Acceptable if discharged for at least 6 years
+• FTB acceptable limits: Not acceptable
+
+• : IVA
+• Standard acceptable limits: Acceptable if completed for at least 6 years
+• FTB acceptable limits: Not acceptable
+
+• : CCJs in last 6 months
+• Standard acceptable limits: None allowed
+• FTB acceptable limits: None allowed
+
+• : CCJs over 6 months up to 3 years
+• Standard acceptable limits: If the combined total value of CCJs is less than  500 satisfied, or the combined total value of CCJs is less than  250 unsatisfied
+• FTB acceptable limits: None allowed
+
+• : CCJs over 3 years old
+• Standard acceptable limits: Considered on an individual basis
+• FTB acceptable limits: Considered on an individual basis
+
+• : Defaults in last 3 years Mortgages Secured loans Unsecured loans
+• Standard acceptable limits: If the combined total value of defaults is less than  500 satisfied
+• FTB acceptable limits: Considered on an individual basis
+
+• : Defaults over 3 years Mortgages Secured loans Unsecured loans
+• Standard acceptable limits: If the combined total value of defaults is less than  1,500 satisfied or not, may be considered on an individual basis
+• FTB acceptable limits: If the combined total value of defaults is less than  500 satisfied or not, may be considered on an individual basis
+
+• : Defaults in last 3 years Communications Mail order supplier Credit cards or store cards
+• Standard acceptable limits: If the combined total value of defaults is less than  500 satisfied, or the combined total value of defaults is less than  250 unsatisfied
+• FTB acceptable limits: Considered on an individual basis
+
+• : Defaults over 3 years old Communications Mail order supplier Credit cards or store cards
+• Standard acceptable limits: If the combined total value of defaults is less than  1,500 satisfied or not, may be considered on an individual basis
+• FTB acceptable limits: If the combined total value of defaults is less than  500 satisfied or not, may be considered on an individual basis
+
+• : Arrears in last year on unsecured debt
+• Standard acceptable limits: 1 month's arrears are allowed
+• FTB acceptable limits: 1 month's arrears may be considered on an individual basis
+
+• : Arrears in last 3 years on secured debt
+• Standard acceptable limits: 1 month's arrears are allowed
+• FTB acceptable limits: None allowed
+
+
+────────────────────────────────────────────────────────────
+
+
+#### Identification and verification
+
+Two forms of identification are required for each applicant - please see Identification and verification - acceptable documents
+
+All documents used for verification must be originals or certified copies of documents that were originally printed at source and posted to the address of the applicant(s). Copies printed from the internet are not acceptable.
+
+If you have examined the original document, you may certify the copy.
+
+If you have not examined the original document, copies of original documents can only be certified by one of the following:
+
+Copies of original documents should have been certified within the last 12 months using the following words:  I confirm that I have seen the original document . The certifier must sign their name and include the following details - full name, profession, business address (where applicable), phone number and date.
+
+The person certifying should be in current employment, but we will also accept certification from a person who has retired (unless the list above specifically indicates that the person should still be serving), provided they still hold the qualification (and are a member of the relevant institute).
+
+The person certifying must not be related to you in any way e.g. spouse, partner, sibling, parent, child or in-law, and they must not be named as a joint account holder/borrower on your mortgage. You cannot certify your own identification.
+
+Photo proofs must be certified by the intermediary/intermediary admin only, with direct access to the physical document. Standard security checks must be completed of physical documentation. Photo proofs must not be accepted from customers.
+
+• Legal professional (solicitor registered in England and Wales, Northern Ireland or Scotland, barrister registered in England and Wales, Northern Ireland or Scotland or notary public registered in any country)
+• Qualified accountant (registered with ICAEW, ICAS, CAI, ACCA, AAT, CIPFA or CIMA)
+• Public sector official (serving officer of the Armed Services, serving police officer, teacher in employment)
+• Medical professional (doctor registered with the General Medical Council, dentist registered with the relevant national professional body)
+• Post Office official (must include Post Office stamp or Post Office certificate)
+• Embassy official (an embassy, consulate or high commission officer in the country of issue of the relevant document)
+• Other (local government councillor, Member of Parliament, bank manager, building society manager or minister of religion).
+
+• Photographs of Physical Documentation for identification and verification can only be accepted by Society intermediaries and intermediaries admin.
+• They must be in a PDF or TIF file format, with a maximum file size of 4MB. We do not accept JPEG files.
+• CamScanner photo proofs are acceptable.
+• If the proof is longer than one page they must be uploaded in one go on our Document Upload Facility, or send on one email using our secure email service.
+
+────────────────────────────────────────────────────────────
+
+
+#### Identification and verification - Acceptable documents
+
+*Documents downloaded from the Internet are not acceptable.
+
+Please note, these lists are not exhaustive. Please contact the Intermediary Development Team for further clarification.
+
+• Passport (UK or foreign)   current, valid and full
+• Valid (UK or EEA) photocard driving licence (full or provisional)
+• EEA member state identity card
+• Full old style paper driving licence (UK)   current, signed
+• DWP pension entitlement letter   valid for the current year
+
+• Full or provisional UK photocard or old style paper driving licence   current, signed
+• Bank/building society statement   less than 3 months old and not printed off the internet. Those issued by Coventry Building Society are not acceptable
+• House insurance certificate   valid for the current year
+• Council/local authority tax bill   less than 12 months old and valid for the current year
+• Utility bills (i.e. gas, electricity, water) or cable/satellite/phone bill (excluding mobile phones)   less than 3 months old and not printed off the internet
+
+────────────────────────────────────────────────────────────
+
+
+#### Employment criteria
+
+Continuous permanent employment for the last 12 months.
+
+No more than one 3 month break in the last 12 months is acceptable.
+
+Probation
+
+If the applicant is currently in a probationary period, the application may be considered provided the applicant:
+
+Continuous employment in contracting over the last 12 months.
+
+There must be a minimum of 6 months remaining on the existing contract. Where there is less than 6 months remaining, then evidence of two years continuous employment in the same profession is required. Applicants paid via an umbrella company are acceptable subject to meeting the above criteria.
+
+We currently only accept zero hours contract applications from the following key workers:
+
+Continuous contracting history over the last 12 months in the same profession.
+
+There must be a minimum of 6 months remaining on the existing contract. Where there is less than 6 months remaining, then evidence of 24 months continuous employment in the same profession is required. Applicants paid via an umbrella company are acceptable subject to meeting the above criteria.
+
+The applicant must have owned the business for a minimum of 2 years and be able to provide proof of income over a minimum period of 2 years.
+
+We will only accept applications from businesses that continue to actively trade and have been for at least 3 months.
+
+Each case will be individually assessed by our underwriting team.
+
+The Limited Company must have been trading for a minimum of 2 years and the applicant must be able to provide proof of income over a minimum period of 2 years.
+
+To calculate gross annual income, we take the total of the applicant's share of the latest year's net profit of the company after deduction of Corporation Tax (excluding dividends) and their salary.
+
+• has previously been employed in a permanent position for a minimum of 6 months and is now moving to a similar job.
+
+• NHS bank nurses and locums
+• Non-NHS bank nurses
+• Care home workers
+• Supermarket workers, including delivery drivers
+• Retained/on-call firefighters and Armed Forces Reservists using zero hours income criteria.
+
+
+• Type of employment: Employed (including Limited Liability Partnerships paid via PAYE)
+• Minimum period: Continuous permanent employment for the last 12 months. No more than one 3 month break in the last 12 months is acceptable. Probation If the applicant is currently in a probationary period, the application may be considered provided the applicant: has previously been employed in a permanent position for a minimum of 6 months and is now moving to a similar job.
+
+• Type of employment: Contracted Personnel (including zero hour contracts)
+• Minimum period: Continuous employment in contracting over the last 12 months. There must be a minimum of 6 months remaining on the existing contract. Where there is less than 6 months remaining, then evidence of two years continuous employment in the same profession is required. Applicants paid via an umbrella company are acceptable subject to meeting the above criteria. We currently only accept zero hours contract applications from the following key workers: NHS bank nurses and locums Non-NHS bank nurses Care home workers Supermarket workers, including delivery drivers Retained/on-call firefighters and Armed Forces Reservists using zero hours income criteria.
+
+• Type of employment: Daily rate contractors
+• Minimum period: Continuous contracting history over the last 12 months in the same profession. There must be a minimum of 6 months remaining on the existing contract. Where there is less than 6 months remaining, then evidence of 24 months continuous employment in the same profession is required. Applicants paid via an umbrella company are acceptable subject to meeting the above criteria.
+
+• Type of employment: Self Employed - Sole Trader, Partnerships (including Limited Liability Partnerships) and Sub-contractors
+• Minimum period: The applicant must have owned the business for a minimum of 2 years and be able to provide proof of income over a minimum period of 2 years. We will only accept applications from businesses that continue to actively trade and have been for at least 3 months. Each case will be individually assessed by our underwriting team.
+
+• Type of employment: Directors with less than 20% share in the Company
+• Minimum period: Directors of limited companies with a shareholding of less than 20% in the company are treated as employed applicants.
+
+• Type of employment: Directors with 20% or more share in the Company
+• Minimum period: The Limited Company must have been trading for a minimum of 2 years and the applicant must be able to provide proof of income over a minimum period of 2 years. To calculate gross annual income, we take the total of the applicant's share of the latest year's net profit of the company after deduction of Corporation Tax (excluding dividends) and their salary.
+
+
+
+• Type of employment: Employed (including Limited Liability Partnerships paid via PAYE)
+• Minimum period: Continuous permanent employment for the last 12 months. No more than one 3 month break in the last 12 months is acceptable. Probation If the applicant is currently in a probationary period, the application may be considered provided the applicant: has previously been employed in a permanent position for a minimum of 6 months and is now moving to a similar job.
+
+• Type of employment: Contracted Personnel (including zero hour contracts)
+• Minimum period: Continuous employment in contracting over the last 12 months. There must be a minimum of 6 months remaining on the existing contract. Where there is less than 6 months remaining, then evidence of two years continuous employment in the same profession is required. Applicants paid via an umbrella company are acceptable subject to meeting the above criteria. We currently only accept zero hours contract applications from the following key workers: NHS bank nurses and locums Non-NHS bank nurses Care home workers Supermarket workers, including delivery drivers Retained/on-call firefighters and Armed Forces Reservists using zero hours income criteria.
+
+• Type of employment: Daily rate contractors
+• Minimum period: Continuous contracting history over the last 12 months in the same profession. There must be a minimum of 6 months remaining on the existing contract. Where there is less than 6 months remaining, then evidence of 24 months continuous employment in the same profession is required. Applicants paid via an umbrella company are acceptable subject to meeting the above criteria.
+
+• Type of employment: Self Employed - Sole Trader, Partnerships (including Limited Liability Partnerships) and Sub-contractors
+• Minimum period: The applicant must have owned the business for a minimum of 2 years and be able to provide proof of income over a minimum period of 2 years. We will only accept applications from businesses that continue to actively trade and have been for at least 3 months. Each case will be individually assessed by our underwriting team.
+
+• Type of employment: Directors with less than 20% share in the Company
+• Minimum period: Directors of limited companies with a shareholding of less than 20% in the company are treated as employed applicants.
+
+• Type of employment: Directors with 20% or more share in the Company
+• Minimum period: The Limited Company must have been trading for a minimum of 2 years and the applicant must be able to provide proof of income over a minimum period of 2 years. To calculate gross annual income, we take the total of the applicant's share of the latest year's net profit of the company after deduction of Corporation Tax (excluding dividends) and their salary.
+
+
+────────────────────────────────────────────────────────────
+
+
+#### Proof of income
+
+We will use the latest year's figures to determine income unless the last two years' figures vary significantly, we may require additional information.
+
+Latest financial year on documentation should be no older than 12 months at the date of application.
+
+The documentation may show a latest financial year up to 18 months old at the date of application when supported with three months' personal bank statements showing income received.
+
+Last two months' personal bank statements (may be requested for first time buyers).
+
+3 months' personal bank statements may be required in other circumstances.
+
+We may ask you to provide some further information, for example, three months  business banking statements.
+
+Pension Income
+
+Investment Income
+
+And/Or
+
+The latest year s figures should be used to determine income.
+
+Latest financial year should be no older than 12 months at the date of application.
+
+Three months  personal bank statements may be required in other circumstances.
+
+And/Or
+
+The latest year s figures should be used to determine income.
+
+Latest financial year should be no older than 12 months at the date of application.
+
+Three months  personal bank statements may be required in other circumstances.
+
+• Latest P60 and last month s payslip (latest four weeks  payslips if paid weekly). Without a P60 we require the latest three month period of payslips (latest 12 weeks' payslips if paid weekly).
+• Without a P60 we require the latest three month period of payslips (latest 12 weeks' payslips if paid weekly).
+• Latest 2 months' bank statements (may be requested for first time buyers).
+• If the applicant is employed by a family business or a family member we will require 2 months' bank statements. We may ask for further information as well.
+• For annual bonus income we require 2 years' evidence. Please provide the relevant payslips showing receipt of bonus payments.
+
+• Without a P60 we require the latest three month period of payslips (latest 12 weeks' payslips if paid weekly).
+
+• Copies of contracts demonstrating continuous employment in contracting over the last 12 months.
+• Latest payslip and P60
+• There must be a minimum of 6 months remaining on the existing contract. Where there is less than 6 months remaining, then evidence of two years continuous employment in the same profession is required.
+• For zero hour contracts, documentary evidence confirming a consistent level of earnings over the last 12 months.
+• Last two months' personal bank statements (may be requested for first time buyers).
+
+• Minimum income  50k (gross annual) using the calculation 'day rate x5 x41'. Day rate  includes hourly/daily paid, if your client is weekly paid they will calculated at weekly rate x 41 weeks.
+• Copies of contracts demonstrating continuous employment in contracting over the last 12 months in the same profession.
+• There must be a minimum of 6 months remaining on the existing contract. If there is less than 6 months remaining, evidence of 24 months continuous employment in the same profession is required.
+• Latest two months personal bank statements (may be requested for first time buyers).
+
+• The latest two years' HMRC Tax Year Calculations plus the Tax Overview documentation (one copy of each piece of documentation is required for each tax year).
+
+• Latest P60 and last month s payslip (latest four weeks  payslips if paid weekly). Without a P60 we require the latest three month period of payslips (latest 12 weeks' payslips if paid weekly).
+• Without a P60 we require the latest three month period of payslips (latest 12 weeks' payslips if paid weekly).
+• Latest 2 months' bank statements (may be requested for first time buyers).
+• If applicant is employed by a family business or a family member we will require 2 months' bank statements. We may ask for further information as well.
+• Where the applicant would like to include dividend income for the company they work for, we will request a reference from the company account.
+• We take 50% of the average of 2 years' dividends from the company that the applicant has received as their income.
+• Where the applicant has been receiving payments from the SEISS grant scheme, we will only accept these where business continues to actively trade and has been for at least 3 months.
+
+• Without a P60 we require the latest three month period of payslips (latest 12 weeks' payslips if paid weekly).
+
+• Accountant's Certificate covering the most recent two years' accounting period. Latest financial year on documentation should be no older than 12 months at the date of application. The Accountant's Certificate may show a latest financial year up to 15 months old at the date of application when supported with 3 months' personal bank statements. We will request the Certificate directly from the Accountant.
+• Latest financial year on documentation should be no older than 12 months at the date of application.
+• The Accountant's Certificate may show a latest financial year up to 15 months old at the date of application when supported with 3 months' personal bank statements.
+• We will request the Certificate directly from the Accountant.
+• 3 months' personal bank statements may be required in other circumstances.
+• Last two months' personal bank statements (may be requested for first time buyers).
+• We will use the latest year s figures to determine income unless the last two years' figures vary significantly, in which case we will base our lending decision on all available information, including any additional information that we may request.
+• Click here to see full details of our Accountant's certificate.
+• Where the applicant has been receiving payments from the Job Retention Scheme, we will only accept these where the business continues to actively trade and has been for at least 3 months.
+
+• Latest financial year on documentation should be no older than 12 months at the date of application.
+• The Accountant's Certificate may show a latest financial year up to 15 months old at the date of application when supported with 3 months' personal bank statements.
+• We will request the Certificate directly from the Accountant.
+
+• State Retirement Pension (SRP)
+• Private pension
+• Company/Occupational Pension
+• Drawdown on pension fund
+• Widow/Widowers' pension
+
+• At least one of the following are required where the applicant is already receiving the pension: Latest 2 months' bank statements showing monthly pension payment Latest annual statement from the provider (letter from the Department for Work and Pension for SRP) Latest Pension slip Last two months' personal bank statements (may be requested for first time buyers).
+• Latest 2 months' bank statements showing monthly pension payment
+• Latest annual statement from the provider (letter from the Department for Work and Pension for SRP)
+• Latest Pension slip
+• Last two months' personal bank statements (may be requested for first time buyers).
+• Proof of income for Lending into Retirement: Latest annual statement of pension due from the provider (letter from the Department for Work and Pension for SRP) Latest P60 Documents provided should be no more than 12 months old and the annual income must be clear from the document(s) received.
+• Latest annual statement of pension due from the provider (letter from the Department for Work and Pension for SRP)
+• Latest P60
+• Documents provided should be no more than 12 months old and the annual income must be clear from the document(s) received.
+
+• Latest 2 months' bank statements showing monthly pension payment
+• Latest annual statement from the provider (letter from the Department for Work and Pension for SRP)
+• Latest Pension slip
+• Last two months' personal bank statements (may be requested for first time buyers).
+
+• Latest annual statement of pension due from the provider (letter from the Department for Work and Pension for SRP)
+• Latest P60
+• Documents provided should be no more than 12 months old and the annual income must be clear from the document(s) received.
+
+• Interest from investments
+• Dividends from shares
+• Income continuing into retirement from business owned (or has a share of) by the applicant
+• Net rental income
+
+• The latest two years' HMRC Tax Year Calculations plus the Tax Overview documentation (one copy of each piece of documentation is required for each tax year).
+• The documentation may show a latest financial year up to 18 months old at the date of application when supported with three months' personal bank statements.
+
+• Accountant s Certificate covering the most recent two year accounting period The Accountant s Certificate may show a latest financial year up to 15 months old at the date of application when supported with six months  personal bank statements. We will request the Certificate directly from the Accountant.
+• The Accountant s Certificate may show a latest financial year up to 15 months old at the date of application when supported with six months  personal bank statements.
+• We will request the Certificate directly from the Accountant.
+
+• The Accountant s Certificate may show a latest financial year up to 15 months old at the date of application when supported with six months  personal bank statements.
+• We will request the Certificate directly from the Accountant.
+
+• The latest two years' HMRC Tax Year Calculations plus the Tax Overview documentation (one copy of each piece of documentation is required for each tax year).
+• The documentation may show a latest financial year up to 18 months old at the date of application when supported with six months' personal bank statements.
+
+• Accountant s Certificate covering the most recent two year accounting period The Accountant s Certificate may show a latest financial year up to 15 months old at the date of application when supported with six months  personal bank statements. We will request the Certificate directly from the Accountant.
+• The Accountant s Certificate may show a latest financial year up to 15 months old at the date of application when supported with six months  personal bank statements.
+• We will request the Certificate directly from the Accountant.
+
+• The Accountant s Certificate may show a latest financial year up to 15 months old at the date of application when supported with six months  personal bank statements.
+• We will request the Certificate directly from the Accountant.
+
+
+• Type of employment: Employed (including Limited Liability Partnerships paid via PAYE)
+• Proof of income: Latest P60 and last month s payslip (latest four weeks  payslips if paid weekly). Without a P60 we require the latest three month period of payslips (latest 12 weeks' payslips if paid weekly). Latest 2 months' bank statements (may be requested for first time buyers). If the applicant is employed by a family business or a family member we will require 2 months' bank statements. We may ask for further information as well. For annual bonus income we require 2 years' evidence. Please provide the relevant payslips showing receipt of bonus payments.
+
+• Type of employment: Contracted Personnel (including zero hour contracts)
+• Proof of income: Copies of contracts demonstrating continuous employment in contracting over the last 12 months. Latest payslip and P60 There must be a minimum of 6 months remaining on the existing contract. Where there is less than 6 months remaining, then evidence of two years continuous employment in the same profession is required. For zero hour contracts, documentary evidence confirming a consistent level of earnings over the last 12 months. Last two months' personal bank statements (may be requested for first time buyers).
+
+• Type of employment: Daily rate contractors
+• Proof of income: Minimum income  50k (gross annual) using the calculation 'day rate x5 x41'. Day rate  includes hourly/daily paid, if your client is weekly paid they will calculated at weekly rate x 41 weeks. Copies of contracts demonstrating continuous employment in contracting over the last 12 months in the same profession. There must be a minimum of 6 months remaining on the existing contract. If there is less than 6 months remaining, evidence of 24 months continuous employment in the same profession is required. Latest two months personal bank statements (may be requested for first time buyers).
+
+• Type of employment: Self Employed - Sole Trader, Partnerships (including Limited Liability Partnerships) and Sub-contractors
+• Proof of income: The latest two years' HMRC Tax Year Calculations plus the Tax Overview documentation (one copy of each piece of documentation is required for each tax year). We will use the latest year's figures to determine income unless the last two years' figures vary significantly, we may require additional information. Latest financial year on documentation should be no older than 12 months at the date of application. The documentation may show a latest financial year up to 18 months old at the date of application when supported with three months' personal bank statements showing income received. Last two months' personal bank statements (may be requested for first time buyers). 3 months' personal bank statements may be required in other circumstances. We may ask you to provide some further information, for example, three months  business banking statements.
+
+• Type of employment: Directors with less than 20% share in the Company
+• Proof of income: Latest P60 and last month s payslip (latest four weeks  payslips if paid weekly). Without a P60 we require the latest three month period of payslips (latest 12 weeks' payslips if paid weekly). Latest 2 months' bank statements (may be requested for first time buyers). If applicant is employed by a family business or a family member we will require 2 months' bank statements. We may ask for further information as well. Where the applicant would like to include dividend income for the company they work for, we will request a reference from the company account. We take 50% of the average of 2 years' dividends from the company that the applicant has received as their income. Where the applicant has been receiving payments from the SEISS grant scheme, we will only accept these where business continues to actively trade and has been for at least 3 months.
+
+• Type of employment: Directors with 20% or more share in the Company
+• Proof of income: Accountant's Certificate covering the most recent two years' accounting period. Latest financial year on documentation should be no older than 12 months at the date of application. The Accountant's Certificate may show a latest financial year up to 15 months old at the date of application when supported with 3 months' personal bank statements. We will request the Certificate directly from the Accountant. 3 months' personal bank statements may be required in other circumstances. Last two months' personal bank statements (may be requested for first time buyers). We will use the latest year s figures to determine income unless the last two years' figures vary significantly, in which case we will base our lending decision on all available information, including any additional information that we may request. Click here to see full details of our Accountant's certificate. Where the applicant has been receiving payments from the Job Retention Scheme, we will only accept these where the business continues to actively trade and has been for at least 3 months.
+
+• Type of employment: Pension Income State Retirement Pension (SRP) Private pension Company/Occupational Pension Drawdown on pension fund Widow/Widowers' pension
+• Proof of income: At least one of the following are required where the applicant is already receiving the pension: Latest 2 months' bank statements showing monthly pension payment Latest annual statement from the provider (letter from the Department for Work and Pension for SRP) Latest Pension slip Last two months' personal bank statements (may be requested for first time buyers). Proof of income for Lending into Retirement: Latest annual statement of pension due from the provider (letter from the Department for Work and Pension for SRP) Latest P60 Documents provided should be no more than 12 months old and the annual income must be clear from the document(s) received.
+
+• Type of employment: Investment Income Interest from investments Dividends from shares Income continuing into retirement from business owned (or has a share of) by the applicant Net rental income
+• Proof of income: The latest two years' HMRC Tax Year Calculations plus the Tax Overview documentation (one copy of each piece of documentation is required for each tax year). The documentation may show a latest financial year up to 18 months old at the date of application when supported with three months' personal bank statements. And/Or Accountant s Certificate covering the most recent two year accounting period The Accountant s Certificate may show a latest financial year up to 15 months old at the date of application when supported with six months  personal bank statements. We will request the Certificate directly from the Accountant. The latest year s figures should be used to determine income. Latest financial year should be no older than 12 months at the date of application. Three months  personal bank statements may be required in other circumstances.
+
+• Type of employment: Dividend income where the applicant is retired
+• Proof of income: The latest two years' HMRC Tax Year Calculations plus the Tax Overview documentation (one copy of each piece of documentation is required for each tax year). The documentation may show a latest financial year up to 18 months old at the date of application when supported with six months' personal bank statements. And/Or Accountant s Certificate covering the most recent two year accounting period The Accountant s Certificate may show a latest financial year up to 15 months old at the date of application when supported with six months  personal bank statements. We will request the Certificate directly from the Accountant. The latest year s figures should be used to determine income. Latest financial year should be no older than 12 months at the date of application. Three months  personal bank statements may be required in other circumstances.
+
+• Type of employment: Child maintenance
+• Proof of income: Three months' personal bank statements.
+
+
+
+• Type of employment: Employed (including Limited Liability Partnerships paid via PAYE)
+• Proof of income: Latest P60 and last month s payslip (latest four weeks  payslips if paid weekly). Without a P60 we require the latest three month period of payslips (latest 12 weeks' payslips if paid weekly). Latest 2 months' bank statements (may be requested for first time buyers). If the applicant is employed by a family business or a family member we will require 2 months' bank statements. We may ask for further information as well. For annual bonus income we require 2 years' evidence. Please provide the relevant payslips showing receipt of bonus payments.
+
+• Type of employment: Contracted Personnel (including zero hour contracts)
+• Proof of income: Copies of contracts demonstrating continuous employment in contracting over the last 12 months. Latest payslip and P60 There must be a minimum of 6 months remaining on the existing contract. Where there is less than 6 months remaining, then evidence of two years continuous employment in the same profession is required. For zero hour contracts, documentary evidence confirming a consistent level of earnings over the last 12 months. Last two months' personal bank statements (may be requested for first time buyers).
+
+• Type of employment: Daily rate contractors
+• Proof of income: Minimum income  50k (gross annual) using the calculation 'day rate x5 x41'. Day rate  includes hourly/daily paid, if your client is weekly paid they will calculated at weekly rate x 41 weeks. Copies of contracts demonstrating continuous employment in contracting over the last 12 months in the same profession. There must be a minimum of 6 months remaining on the existing contract. If there is less than 6 months remaining, evidence of 24 months continuous employment in the same profession is required. Latest two months personal bank statements (may be requested for first time buyers).
+
+• Type of employment: Self Employed - Sole Trader, Partnerships (including Limited Liability Partnerships) and Sub-contractors
+• Proof of income: The latest two years' HMRC Tax Year Calculations plus the Tax Overview documentation (one copy of each piece of documentation is required for each tax year). We will use the latest year's figures to determine income unless the last two years' figures vary significantly, we may require additional information. Latest financial year on documentation should be no older than 12 months at the date of application. The documentation may show a latest financial year up to 18 months old at the date of application when supported with three months' personal bank statements showing income received. Last two months' personal bank statements (may be requested for first time buyers). 3 months' personal bank statements may be required in other circumstances. We may ask you to provide some further information, for example, three months  business banking statements.
+
+• Type of employment: Directors with less than 20% share in the Company
+• Proof of income: Latest P60 and last month s payslip (latest four weeks  payslips if paid weekly). Without a P60 we require the latest three month period of payslips (latest 12 weeks' payslips if paid weekly). Latest 2 months' bank statements (may be requested for first time buyers). If applicant is employed by a family business or a family member we will require 2 months' bank statements. We may ask for further information as well. Where the applicant would like to include dividend income for the company they work for, we will request a reference from the company account. We take 50% of the average of 2 years' dividends from the company that the applicant has received as their income. Where the applicant has been receiving payments from the SEISS grant scheme, we will only accept these where business continues to actively trade and has been for at least 3 months.
+
+• Type of employment: Directors with 20% or more share in the Company
+• Proof of income: Accountant's Certificate covering the most recent two years' accounting period. Latest financial year on documentation should be no older than 12 months at the date of application. The Accountant's Certificate may show a latest financial year up to 15 months old at the date of application when supported with 3 months' personal bank statements. We will request the Certificate directly from the Accountant. 3 months' personal bank statements may be required in other circumstances. Last two months' personal bank statements (may be requested for first time buyers). We will use the latest year s figures to determine income unless the last two years' figures vary significantly, in which case we will base our lending decision on all available information, including any additional information that we may request. Click here to see full details of our Accountant's certificate. Where the applicant has been receiving payments from the Job Retention Scheme, we will only accept these where the business continues to actively trade and has been for at least 3 months.
+
+• Type of employment: Pension Income State Retirement Pension (SRP) Private pension Company/Occupational Pension Drawdown on pension fund Widow/Widowers' pension
+• Proof of income: At least one of the following are required where the applicant is already receiving the pension: Latest 2 months' bank statements showing monthly pension payment Latest annual statement from the provider (letter from the Department for Work and Pension for SRP) Latest Pension slip Last two months' personal bank statements (may be requested for first time buyers). Proof of income for Lending into Retirement: Latest annual statement of pension due from the provider (letter from the Department for Work and Pension for SRP) Latest P60 Documents provided should be no more than 12 months old and the annual income must be clear from the document(s) received.
+
+• Type of employment: Investment Income Interest from investments Dividends from shares Income continuing into retirement from business owned (or has a share of) by the applicant Net rental income
+• Proof of income: The latest two years' HMRC Tax Year Calculations plus the Tax Overview documentation (one copy of each piece of documentation is required for each tax year). The documentation may show a latest financial year up to 18 months old at the date of application when supported with three months' personal bank statements. And/Or Accountant s Certificate covering the most recent two year accounting period The Accountant s Certificate may show a latest financial year up to 15 months old at the date of application when supported with six months  personal bank statements. We will request the Certificate directly from the Accountant. The latest year s figures should be used to determine income. Latest financial year should be no older than 12 months at the date of application. Three months  personal bank statements may be required in other circumstances.
+
+• Type of employment: Dividend income where the applicant is retired
+• Proof of income: The latest two years' HMRC Tax Year Calculations plus the Tax Overview documentation (one copy of each piece of documentation is required for each tax year). The documentation may show a latest financial year up to 18 months old at the date of application when supported with six months' personal bank statements. And/Or Accountant s Certificate covering the most recent two year accounting period The Accountant s Certificate may show a latest financial year up to 15 months old at the date of application when supported with six months  personal bank statements. We will request the Certificate directly from the Accountant. The latest year s figures should be used to determine income. Latest financial year should be no older than 12 months at the date of application. Three months  personal bank statements may be required in other circumstances.
+
+• Type of employment: Child maintenance
+• Proof of income: Three months' personal bank statements.
+
+
+────────────────────────────────────────────────────────────
+
+
+#### Acceptable sources of income
+
+We will generally accept the following as sources of income.
+
+The incomes of a maximum of two applicants will be considered.
+
+• Employed income including: 100% of basic salary 50% of regular income: overtime commission shift allowance bonuses Annual Bonus - 50% of the average of the latest 2 years  annual bonus, or 50% of the most recent year s annual bonus figure, if lower. Car allowance is acceptable provided it forms an integral part of the remuneration package but must not include any allowance to refund expenses paid out by the applicant, e.g. mileage allowance. We will also use 100% of annual non-pensionable allowances forming an integral part of the remuneration package e.g. London weighting allowance, colleague flexible benefit.
+• 100% of basic salary
+• 50% of regular income: overtime commission shift allowance bonuses
+• overtime
+• commission
+• shift allowance
+• bonuses
+• Annual Bonus - 50% of the average of the latest 2 years  annual bonus, or 50% of the most recent year s annual bonus figure, if lower.
+• Car allowance is acceptable provided it forms an integral part of the remuneration package but must not include any allowance to refund expenses paid out by the applicant, e.g. mileage allowance.
+• We will also use 100% of annual non-pensionable allowances forming an integral part of the remuneration package e.g. London weighting allowance, colleague flexible benefit.
+
+• 100% of basic salary
+• 50% of regular income: overtime commission shift allowance bonuses
+• overtime
+• commission
+• shift allowance
+• bonuses
+• Annual Bonus - 50% of the average of the latest 2 years  annual bonus, or 50% of the most recent year s annual bonus figure, if lower.
+• Car allowance is acceptable provided it forms an integral part of the remuneration package but must not include any allowance to refund expenses paid out by the applicant, e.g. mileage allowance.
+• We will also use 100% of annual non-pensionable allowances forming an integral part of the remuneration package e.g. London weighting allowance, colleague flexible benefit.
+
+• overtime
+• commission
+• shift allowance
+• bonuses
+
+• Self employed income
+• Child benefit payments (If submitting your case on the Coventry for intermediaries platform our Affordability model takes child benefit payments into account when calculating the maximum loan amount. If submitting a case on our Coventry for intermediaries MSO platform child benefit needs to be inputted and will be accepted if neither applicant's total individual income is more than  50,000 and the child/children are under 13 years old. Children over 13 years old will not be considered.)
+• State pension
+• Private pension
+• Company/Occupational pension
+• Widow/Widowers' pension
+• Rental income (the net figure submitted to HMRC for taxation purposes)
+• Drawdown on pension fund
+• Income from a company the applicant owns that will continue to provide an income into retirement
+• Investment income
+• Umbrella companies
+• Child Maintenance - 50% of child maintenance income will be taken into account where the child is under 13 years old
+• Additional duty hours
+• Nursing bank
+
+────────────────────────────────────────────────────────────
+
+
+#### Income from multiple sources
+
+We will consider more than one source of income per applicant, provided they meet our acceptable income criteria and can be evidenced in line with our standard proof of income criteria.
+
+────────────────────────────────────────────────────────────
+
+
+#### Unacceptable sources of income
+
+The following are examples of unacceptable sources of income. Please note this list is not exhaustive. If you are unsure, please call us.
+
+• Expenses (travel payments, meal allowances etc)
+• Child/working family tax credits
+• Disability allowances
+• All other state benefits unless otherwise stated
+• Bursaries and other educational subsidies
+• Foster income
+• Income derived from lodgers
+• Income from temporary employment
+• Income derived from Employee Benefit Trusts (EBTs)
+• Income derived from a foreign currency for applications for new borrowing, porting with a further advance and further advances.
+• Furlough income (with the exception of existing customers in certain circumstances)
+
+────────────────────────────────────────────────────────────
+
+
+#### Maternity/paternity leave
+
+Where an applicant is on maternity/paternity leave, the income that they expect to receive after their leave finishes should be used when calculating affordability:
+
+• If the applicant advises they will return to work on the same terms, the latest payslip prior to going on parental leave, along with the most recent payslip showing the applicant is on parental leave (e.g. Statutory Maternity Pay Information) and the latest P60 will be required.
+• If the applicant advises they will return to work on reduced hours an employer s reference is required to confirm this.
+
+────────────────────────────────────────────────────────────
+
+
+#### Approved accountancy bodies
+
+Accountant's certificates should be prepared by an Associate or Fellow of an approved accountancy body:
+
+• Institute of Chartered Accountants (ICA)
+• Association of Chartered Certified Accountants (ACCA)
+• Chartered Institute of Management Accountants (CIMA)
+• Institute of Financial Accountants (IFA)
+• Association of Authorised Public Accountants (APA)
+• Chartered Institute of Public Finance & Accountancy (CIPFA)
+• Chartered Institute of Taxation (CIOT)
+• Association of International Accountants (AIA)
+• Association of Accounting Technicians (AAT)
+
+────────────────────────────────────────────────────────────
+
+
+#### Affordability
+
+It is important that all applicants can afford to repay their mortgage before we enter into a regulated mortgage contract with them, and we take a range of factors into account to determine how much an applicant can borrow.
+
+Our affordability assessment aims to ensure that, after the mortgage payment has been made, there is sufficient net income remaining to cover financial commitments and additional outgoings, including general household and lifestyle costs. We will also consider the impact of possible future interest rate increases on the long term affordability of the mortgage.
+
+The actual loan amount will be subject to: a full credit score, affordability assessment, review of current credit commitments and our current lending policy.
+
+Our affordability calculator provides you with both the maximum loan amount and maximum monthly payments, based on your client's individual circumstances. This can be found in the calculators section of our website.
+
+────────────────────────────────────────────────────────────
+
+
+#### Lending into retirement
+
+Applicant(s) who are currently employed or self-employed (i.e. not yet retired) and the mortgage will continue when the applicant(s) retire(s) and will have:
+
+The lower of current income or anticipated retirement income (both must be net of any ongoing commitments) will be used to calculate the maximum monthly payment and maximum loan amount.
+
+If proof of acceptable income past retirement age cannot be provided then the loan term will be restricted to the retirement age (maximum age 70). Please refer to applicant age.
+
+If you would like to discuss individual cases in more detail, please call our Intermediary Development Team on 0800 121 7788 (selecting option 2).
+
+• 50% or more of the mortgage term in retirement: the lower of current income or anticipated retirement income (both must be net of any ongoing commitments) will be used to calculate the maximum monthly payment and maximum loan amount. or,
+• 5 years or more of the mortgage term in retirement: the case will be assessed by an underwriter to ensure that the mortgage is affordable in retirement.
+
+────────────────────────────────────────────────────────────
+
+
+#### Property location
+
+Properties must be situated in England (including the Isle of Wight), Wales (including Anglesey) or Scotland (including the Scottish Isles).
+
+Please note: We accept transcribed valuations for residential purchases in Scotland. Transcriptions must be carried out by a valuer on our approved panel and must be no more than three months old at the date of application.
+
+────────────────────────────────────────────────────────────
+
+
+#### Tenure
+
+Freehold (also known as Feuhold, heritable or absolute ownership) tenure is acceptable for houses, bungalows and cottages in England, Wales and Scotland.
+
+Freehold (including the previous Feuhold and Heritable Security Tenures) is the only acceptable tenure for properties in Scotland.
+
+Leasehold tenure is acceptable for houses, bungalows and cottages in England and Wales.
+
+Leasehold is the only acceptable tenure for flats and maisonettes in England and Wales.
+
+Leasehold tenure is acceptable provided:
+
+• no sub-leases have been created
+• all of the properties within the block have a leasehold title
+• the unexpired leasehold term must be at least 70 years at completion
+
+────────────────────────────────────────────────────────────
+
+
+#### Construction
+
+Properties must be built of brick or stone with a tile or slate roof. For flats, we will also accept a flat mineral felt roof. The mortgage valuation will be used to confirm the suitability of the property.
+
+Single skin brickwork is only acceptable for garages and porches provided they are single storey, or a small proportion of the habitable area subject to valuer s guidance.
+
+We will consider steel framed properties provided that they were built on or after 1 January 1990. The cladding must be predominantly (67%) either brick or stone at all levels. Outer cladding specifically excluded includes large concrete panels, timber, plastic, metal sheeting, and tiles. However, areas of less than 33% of the total external wall area formed in these materials may be considered on their own merits provided that the remainder of the walls are constructed of an acceptable material.
+
+Timber framed properties built after 1990 can have up to a maximum of four storeys considered.
+
+Timber framed properties built after 1945. Cladding must be predominantly (67%) of either brick or stone at all levels. Outer cladding specifically excluded includes large concrete panels, timber, plastic, metal sheeting, and tiles. However areas of less than 33% of the total external wall area formed in these materials can be considered on their own merits if the remainder of the walls are constructed of an acceptable material.
+
+Timber framed construction built pre 1995 up to two storeys maximum and post 1995 up to four storeys maximum. The outer skin must be predominantly (67%) either brick, concrete block or stone block at all levels.
+
+Please note, the information above outlines our general construction criteria. If you have a specific query, please contact our Intermediary Development Team on 0800 121 7788 (selecting option 2).
+
+Applications where solar power panels are installed on the property being purchased, or remortgaged, are acceptable, subject to the valuer confirming the property is suitable security, and where the solar panels have a lease the acting conveyancer confirms that the lease is acceptable.
+
+• Houses, Cottages and BungalowsTimber framed properties built after 1945. Cladding must be predominantly (67%) of either brick or stone at all levels. Outer cladding specifically excluded includes large concrete panels, timber, plastic, metal sheeting, and tiles. However areas of less than 33% of the total external wall area formed in these materials can be considered on their own merits if the remainder of the walls are constructed of an acceptable material.
+• Flats and MaisonettesTimber framed construction built pre 1995 up to two storeys maximum and post 1995 up to four storeys maximum. The outer skin must be predominantly (67%) either brick, concrete block or stone block at all levels.
+
+────────────────────────────────────────────────────────────
+
+
+#### Flats
+
+Flats above shops are restricted to a maximum LTV of 75% and dependent on the nature of the business, we may not be able to lend at all.
+
+We will not consider a mortgage application for ex-local authority flats or ex-housing association flats:
+
+We also will not consider the following:
+
+Maximum LTV, criteria, and definition for new build flats, can be found within new build properties (less than or equal to two years old, or first occupation)
+
+Cladding
+
+Where an EWS1 form is required, the property is only acceptable when this has been correctly completed by a suitably qualified professional. You'll find a list of the relevant professional bodies on the RICS website. The valuer must also confirm that option A1, A2 or B1 has been selected, confirming that the property has suitably security.
+
+We don't require an EWS1 for properties constructed after 1 January 2020 as we assume these have been built in accordance with current building regulations.
+
+We can accept applications for flats with the following ratings from the EWS1 form:
+
+We can also consider applications for flats in England on an owner-occupied basis ONLY that are five storeys or above (11 metres or above) with the following ratings from the EWS1 form:
+
+Properties with A3 and B2 ratings (or where it's known remediation works are required), will require further checks. These properties will be acceptable, subject to identifying the security block is to be remediated through funding schemes that have been specifically set up by the government or developer. This is to make sure the cost of cladding doesn't fall to leaseholders. Please read our guidance for submitting mortgage applications on buildings of 11 meters or five storeys or above.
+
+Please note - Buildings previously rated as A3 or B2 that have since been remediated must be confirmed as complete by either an updated EWS1 together with written confirmation of nil, or any remaining costs falling to the leaseholder.
+
+We are unable to accept applications where remediation is required on multi storey buildings which have multiple occupancy and are either:
+
+• Where there are more than five storeys.
+• Where the flats are accessed via an external deck or 'balcony access'.
+
+• Lending on freehold flats or maisonettes and studio flats/apartments, except in Scotland   see Tenure.
+• Flats in a block of more than ten storeys.
+• Flats on the fifth storey or above in a block without lift access.
+• Where the property is in a multi-storey, multi-occupancy residential building (flats) with external wall systems (cladding) or external wall attachments (e.g. balconies) these are subject to review by our valuers who will use the latest RICS guidance on cladding as listed here.
+• Where an EWS1 form is required, the property is only acceptable where the form is satisfactorily completed by a suitably qualified professional, and the valuer confirms that option A1, A2 or B1 has been selected and confirms that the property is suitable security. A list of the relevant professional bodies is available to download from the RICS website.
+• We do not require an EWS1 for properties constructed after 1 January 2020 and it can be assumed that the building has been built in accordance with current Building Regulations.
+
+• A1 - There is no cladding that contains significant quantities of combustible material
+• A2 - A risk assessment of cladding has taken place and no remedial works are required
+• B1 - The fire risk is low enough that remedial works are not required.
+
+• A3 - Cladding is unlikely to support combustion but remedial works may still be needed
+• B2 - The fire risk is high enough to require remedial work.
+
+• Under 11 metres (or less than four storeys) anywhere in the UK, or
+• 11 metres or more OR five storeys or above in Wales or Scotland.
+
+────────────────────────────────────────────────────────────
+
+
+#### New build or converted properties (less than or equal to 2 years old, or first occupation)
+
+We define new build as properties that have been built within two years of the mortgage application or are properties to be occupied for the first time.
+
+Any new build properties must hold either:
+
+Second hand properties under ten years old must have been built with the benefit of an acceptable builder's guarantee scheme subject to the following exception:
+
+Where the property was built or converted within the past six years, we will accept the application if it was built with the benefit of a Professional Consultant's Certificate (PCC) where cover was valid for the first six years.
+
+For both new and converted properties the legal representative must confirm:
+
+The maximum loan to value for a new build or converted apartment, flat or coach house is 75% LTV.
+
+We define new build as properties that have been built within two years of the mortgage application or are properties to be occupied for the first time. This includes flat conversions.
+
+• a Professional Consultant's Certificate (PCC) which is valid for the first six years, or
+• an acceptable builder's guarantee which is valid for the first ten years
+• Full details of acceptable guarantees and PCCs can be found by clicking here.
+
+• building regulations' approval has been obtained
+• planning approval has been obtained and in the case of listed buildings, the relevant consents for changes to listed buildings have been obtained and that the works have been carried out in compliance with those consents
+
+────────────────────────────────────────────────────────────
+
+
+#### Builder's incentives
+
+Builder's financial incentives are acceptable up to 10% of the property purchase price, providing applicants are also putting in a minimum of 5% of their own deposit resources.
+
+If the value of the incentive is more than 5% and less than 10%, it will be deducted from the purchase price to get a net purchase price. The maximum loan and mortgage offer will be based on the lower of the purchase price (or net purchase price, where applicable), or the valuation amount.
+
+If any element of the incentive is cashback, the full amount must be paid at completion. Instalments are not acceptable.
+
+Applications with a builder's incentives that is over 10% in value will be declined.
+
+The vendor of any new property is required to disclose the full value of any incentive in connection with the purchase of the property.
+
+────────────────────────────────────────────────────────────
+
+
+#### Purchase applications
+
+For purchase applications, the vendor must have owned the property for a minimum of six months.
+
+────────────────────────────────────────────────────────────
+
+
+#### Properties close to commercial outlets
+
+Our ability to lend may be restricted for properties that are in close proximity or influential distance of commercial outlets. We will take advice from our valuers when assessing the property to be mortgaged.
+
+────────────────────────────────────────────────────────────
+
+
+#### Self-builds and self-build conversions
+
+Applications are not considered where the property offered for security is a self-build property or a self-build conversion, where the construction or conversion of the property is not fully completed at the time of application.
+
+────────────────────────────────────────────────────────────
+
+
+#### Property exposure limits
+
+Applications where it is identified that the customer owns more than 10% of the development, in which the proposed property will be located, will not be accepted.
+
+Where there are ten or less properties on the development or estate, if the applicant already owns one or more properties in the development or estate, we will not consider lending under these circumstances.
+
+────────────────────────────────────────────────────────────
+
+
+#### Japanese knotweed
+
+Applications where the property has Japanese Knotweed can be considered. Further specialist reports may be required where appropriate.
+
+Where Japanese Knotweed
+
+the application can be considered subject to evidence of the property undergoing a treatment plan. The treatment plan must be carried out and monitored by an appropriately qualified and accredited individual or company accredited by one of the following trade bodies:
+
+The treatment plan must be accompanied by a minimum 5-year insurance backed guarantee from the point treatment has finished.
+
+Where Japanese Knotweed is close to the boundary, there is a possibility that there may be future spread from the off-site infestation onto the subject property. It is recommended the applicant seeks their own independent professional advice regarding the risk this plant might impose and the adverse effects it could have on the property should it spread closer.
+
+• is actually causing visible material damage to a structure, OR
+• is not actually causing visible material damage but is still likely to prevent use of or access to amenity space, OR
+• is visible on adjoining land, but is evidently unmanaged and has the potential to significantly impact the subject property/grounds
+
+• Property Care Association (PCA)
+• Invasive Non-Native Specialists Association (INNSA)
+
+────────────────────────────────────────────────────────────
+
+
+#### Spray foam
+
+Applications where the property has existing spray foam applied to the underside of the roof in the loft space can be considered. Further specialist reports may be required where appropriate.
+
+Spray foam insulation must not:
+
+• The spray foam insulation must be in good order and of good quality, breathable and not closed cell.
+• The spray foam must be accompanied by documentation to confirm that it has been installed in accordance with the manufacturer s instructions and certified by British Board of Agr ment (BBA), Building Research Establishment (BRE) or Kiwa.
+• The certification must be accompanied by an appropriate insurance backed warranty/guarantee which is transferrable to the applicants and future owners of the subject property.
+
+• Have been installed as a remedy for defective or life expired roof structure (often closed cell).
+• Encapsulate the structural timbers.
+• Have been fitted in the wall voids of the property.
+
+────────────────────────────────────────────────────────────
+
+
+#### Acceptable loan purposes
+
+We will consider applications for the following loan purposes providing the application meets all our lending criteria:
+
+• to purchase residential properties for owner-occupation, including properties purchased under the Right to Buy scheme
+• to remortgage residential properties for owner-occupation, including properties originally purchased under the Right to Buy scheme
+• to improve, repair or maintain residential properties that are owner-occupied
+• to raise capital on residential unencumbered (mortgage-free) properties that are or will be owner-occupied
+• to raise capital (including debt consolidation), subject to restricted purposes
+• to purchase the freehold title of a leasehold property which is already in mortgage to us
+• to purchase the equity of another party to the mortgage
+• to purchase additional land
+
+────────────────────────────────────────────────────────────
+
+
+#### Unacceptable loan purposes
+
+We will not accept applications for the following:
+
+* The family members able to provide a deposit for owner-occupier mortgages are:
+
+• property purchases where vacant possession would not be achieved upon completion (including situations where the property is purchased by a close relative* and the present occupier is allowed to remain in the property)
+• shared equity applications (including the Homebuy scheme and the Key Worker scheme)
+• shared ownership application
+• use of the loan for bridging finance
+• business investments, payment of taxes, replenishment of savings and investment in timeshares
+• where the loan does not benefit all parties on the mortgage
+
+• Parents, step parent, parents in law
+• Brothers and sisters, half brothers and sisters, brother and sister in laws
+• Grandparents, step grandparents
+• Auntie/Uncle
+• Niece/Nephew/Cousins
+• Applicants' children, step children, son and daughter in laws and adopted children
+
+────────────────────────────────────────────────────────────
+
+
+#### Purchasing from limited companies
+
+We will not consider lending to anyone who wishes to purchase a property in their own name from a limited company in which they have a major interest.
+
+────────────────────────────────────────────────────────────
+
+
+#### Source of deposit
+
+For property purchases applicants must provide a deposit from their own resources.
+
+The following exceptions apply:
+
+* Family sale definition
+
+We define 'family sale' as where an applicant is purchasing from a close relative.
+
+We define 'close relative' as:
+
+** The family members able to provide a deposit for owner-occupier mortgages are:
+
+• family sale* purchases at a discounted price where a loan for the full purchase price (e.g. no deposit) may be considered
+• a gifted deposit from a family member** who doesn't intend to live in the property. The gift must be genuine and unconditional, except where the gift is provided by a family member and is subject to a second charge or Declaration of Trust arrangement. The only condition is for the repayment of the charge to be upon sale of the property.
+• a Ministry of Defence (MOD) Forces Help to Buy Scheme (FHTB), provided it is supported by means of a Personal Information Note from the M.O.D. and not secured by a second charge against the property.
+• Cryptocurrency is an unacceptable form of deposit including where it has been converted back into sterling.
+
+• Spouse, Civil Partner or Common law partner (whether or not of the opposite sex)
+• Children, step-children, parents, step-parents, brothers, sisters, step-brothers. step-sisters, grandparent, step-grandparent, grandchildren or step-grandchildren
+• Spouse, Civil partner or Common law partner of any person within the second bullet
+
+• Parents, step-parent, parents in law
+• Brothers and sisters, half brothers and sisters, brother and sister in laws
+• Grandparents, step-grandparents
+• Auntie/Uncle
+• Niece/Nephew/Cousins
+• Applicants' children, step-children, son and daughter in laws and adopted children
+
+────────────────────────────────────────────────────────────
+
+
+#### Multiple residential mortgages
+
+Where the applicant is purchasing another property, all existing Residential mortgages must be redeemed or the applicant(s) released from their covenants before completion of the new loan.
+
+────────────────────────────────────────────────────────────
+
+
+#### Maximum repayment term
+
+Maximum repayment term requirements apply to all loan types. The maximum repayment term is 40 years.
+
+The maximum term may be restricted by the maximum age restrictions.
+
+────────────────────────────────────────────────────────────
+
+
+#### Interest-only
+
+• No minimum income requirement, but your client must have sufficient income to support an equivalent repayment mortgage and meet our repayment affordability checks.
+• All new applications on an Interest-only basis must have a maximum LTV of 50%. No additional borrowing above this LTV is allowed.
+• For all new Interest-only applications there must be a minimum of  300,000 equity remaining at completion, regardless of the applicant's chosen repayment plan.
+• Debt consolidation is not allowed when applying for an Interest-only loan on an Interest-only specific product.
+• We do not accept new Interest-only applications on a part/part basis.
+• The maximum term is 40 years.
+• The following are acceptable elements of the applicant's repayment strategy:
+
+
+• Acceptable Interest-only repayment plans: Stocks and Shares ISA
+• Evidence required: Copy of the latest statement dated within the last 12 months.
+• Assessment Method: Maximum of 80% of the accrued value at application
+
+• Acceptable Interest-only repayment plans: Endowment Policies
+• Evidence required: Copy of the latest statement dated within the last 12 months
+• Assessment Method: 100% of the accrued endowment statement value at application
+
+• Acceptable Interest-only repayment plans: Pension Lump sum
+• Evidence required: Copy of the latest statement dated within the last 12 months
+• Assessment Method: 12.5% of the current statement value of a defined contribution benefit pension scheme (including SIPPs) or 50% of the guaranteed lump sum defined benefit pension scheme.
+
+• Acceptable Interest-only repayment plans: Sale of the mortgaged property
+• Evidence required: None
+• Assessment Method: Maximum 50% of the current value of the property to be mortgaged.
+
+• Acceptable Interest-only repayment plans: Sale of other unencumbered residential property (UK) (commercial premises are not acceptable)
+• Evidence required: Full details of the property to be provided (Address/Construction/Type etc.) to enable an assessment of value to be made
+• Assessment Method: Up to a maximum of 60% of the current available property value. The valuation will be determined by a desk top valuation
+
+• Acceptable Interest-only repayment plans: UK FTSE Listed securities
+• Evidence required: Copy of share certificates, nominee account statement or confirmation from a recognised stock broker containing evidence of shareholdings together with their valuation
+• Assessment Method: Maximum of 80% of the accrued value at application
+
+• Acceptable Interest-only repayment plans: Unit Trust/OEIC/Investment Trust
+• Evidence required: Maximum of 80% of the accrued value at application
+• Assessment Method: Maximum of 80% of the accrued value at application
+
+
+
+• Acceptable Interest-only repayment plans: Stocks and Shares ISA
+• Evidence required: Copy of the latest statement dated within the last 12 months.
+• Assessment Method: Maximum of 80% of the accrued value at application
+
+• Acceptable Interest-only repayment plans: Endowment Policies
+• Evidence required: Copy of the latest statement dated within the last 12 months
+• Assessment Method: 100% of the accrued endowment statement value at application
+
+• Acceptable Interest-only repayment plans: Pension Lump sum
+• Evidence required: Copy of the latest statement dated within the last 12 months
+• Assessment Method: 12.5% of the current statement value of a defined contribution benefit pension scheme (including SIPPs) or 50% of the guaranteed lump sum defined benefit pension scheme.
+
+• Acceptable Interest-only repayment plans: Sale of the mortgaged property
+• Evidence required: None
+• Assessment Method: Maximum 50% of the current value of the property to be mortgaged.
+
+• Acceptable Interest-only repayment plans: Sale of other unencumbered residential property (UK) (commercial premises are not acceptable)
+• Evidence required: Full details of the property to be provided (Address/Construction/Type etc.) to enable an assessment of value to be made
+• Assessment Method: Up to a maximum of 60% of the current available property value. The valuation will be determined by a desk top valuation
+
+• Acceptable Interest-only repayment plans: UK FTSE Listed securities
+• Evidence required: Copy of share certificates, nominee account statement or confirmation from a recognised stock broker containing evidence of shareholdings together with their valuation
+• Assessment Method: Maximum of 80% of the accrued value at application
+
+• Acceptable Interest-only repayment plans: Unit Trust/OEIC/Investment Trust
+• Evidence required: Maximum of 80% of the accrued value at application
+• Assessment Method: Maximum of 80% of the accrued value at application
+
+
+────────────────────────────────────────────────────────────
+
+
+#### These are the maximum LTV limits we apply
+
+Certain products may have restricted loan to value criteria in which case the lower LTV will be applied.
+
+# If the mortgage is taken on an Interest-only basis a maximum 50% LTV applies for all applications.
+
+** If the property is unencumbered or there is less than  5,000 outstanding on the current mortgage the maximum LTV is 50%
+
+^ Where the further advance has an element of Debt Consolidation, the Debt Consolidation element is restricted to 75%
+
+
+• Purchases: All Cases
+• Remortgages: Without Additional Borrowing
+• Remortgages: With Additional Borrowing (Employed/Other)
+• Remortgages: With Additional Borrowing (Self-Employed)
+• Further Advances: Employed/Other
+• Further Advances: Self-Employed
+
+• Loan amount: > 1.25m up to  2m
+• Purchases: 65%
+• Remortgages: 65%
+• Remortgages: 65%**
+• Remortgages: 65%**
+• Further Advances: 65%**
+• Further Advances: 65%**
+
+• Loan amount: > 1m up to  1.25m
+• Purchases: 75%
+• Remortgages: 75%
+• Remortgages: 75%**
+• Remortgages: 65%**
+• Further Advances: 75%**
+• Further Advances: 65%**
+
+• Loan amount: > 750k up to  1m
+• Purchases: 80%
+• Remortgages: 80%
+• Remortgages: 75%**
+• Remortgages: 65%**
+• Further Advances: 80%**^
+• Further Advances: 65%**
+
+• Loan amount: > 500k up to  750k
+• Purchases: 85%
+• Remortgages: 85%
+• Remortgages: 75%**
+• Remortgages: 65%**
+• Further Advances: 85%**^
+• Further Advances: 65%**
+
+• Loan amount: > 400k up to  500k
+• Purchases: 90%
+• Remortgages: 90%
+• Remortgages: 75%**
+• Remortgages: 65%**
+• Further Advances: 90%**^
+• Further Advances: 65%**
+
+• Loan amount: Up to  400k
+• Purchases: 95%
+• Remortgages: 95%
+• Remortgages: 75%**
+• Remortgages: 65%**
+• Further Advances: 95%**^
+• Further Advances: 65%**
+
+
+
+• Purchases: All Cases
+• Remortgages: Without Additional Borrowing
+• Remortgages: With Additional Borrowing (Employed/Other)
+• Remortgages: With Additional Borrowing (Self-Employed)
+• Further Advances: Employed/Other
+• Further Advances: Self-Employed
+
+• Loan amount: > 1.25m up to  2m
+• Purchases: 65%
+• Remortgages: 65%
+• Remortgages: 65%**
+• Remortgages: 65%**
+• Further Advances: 65%**
+• Further Advances: 65%**
+
+• Loan amount: > 1m up to  1.25m
+• Purchases: 75%
+• Remortgages: 75%
+• Remortgages: 75%**
+• Remortgages: 65%**
+• Further Advances: 75%**
+• Further Advances: 65%**
+
+• Loan amount: > 750k up to  1m
+• Purchases: 80%
+• Remortgages: 80%
+• Remortgages: 75%**
+• Remortgages: 65%**
+• Further Advances: 80%**^
+• Further Advances: 65%**
+
+• Loan amount: > 500k up to  750k
+• Purchases: 85%
+• Remortgages: 85%
+• Remortgages: 75%**
+• Remortgages: 65%**
+• Further Advances: 85%**^
+• Further Advances: 65%**
+
+• Loan amount: > 400k up to  500k
+• Purchases: 90%
+• Remortgages: 90%
+• Remortgages: 75%**
+• Remortgages: 65%**
+• Further Advances: 90%**^
+• Further Advances: 65%**
+
+• Loan amount: Up to  400k
+• Purchases: 95%
+• Remortgages: 95%
+• Remortgages: 75%**
+• Remortgages: 65%**
+• Further Advances: 95%**^
+• Further Advances: 65%**
+
+
+────────────────────────────────────────────────────────────
+
+
+#### Find out more
+
+Offers of advance for purchases (including Transfers of Equity) and remortgages are valid for six months from the date of application (if originally submitted via the Coventry for intermediaries platform) or six months from the date of offer (when submitted via MSO).
+
+Offers for further advances are valid for a period of four months from the date of application.
+
+Please note: Where there is a simultaneous request for a further advance and a transfer of equity, the Transfer of Equity offer will be valid for six months and the further advance offer will be valid for four months.
+
+New Build offers are valid for nine months from the date of application (if originally submitted via the Coventry for intermediaries platform) or nine months from the date of offer (when submitted via MSO). A further three months may be requested using our New Build offer extension form.
+
+────────────────────────────────────────────────────────────
+
+
+#### Find out more
+
+For applications to remortgage properties for owner-occupation, the applicant (or in the case of joint mortgages, all applicants) must reside in the property at the date of application.
+
+We accept the following loan purposes (subject to loan amount and LTV limits):
+
+• To improve, repair or maintain residential properties that are owner-occupied
+• Debt consolidation
+• To purchase the equity of another party to the mortgage
+• To extend the leasehold title of the property in mortgage to us
+• To purchase additional land
+
+────────────────────────────────────────────────────────────
+
+
+#### Definition of first time buyer
+
+We define a first time buyer as an applicant that has never owned a property. For first time buyers applying for products from our Standard Residential and Offset product ranges, normal residential policy applies. In addition to normal lending policy, a FTB will also need to provide the additional requirements set out in policy where applicable (two months bank statements).
+
+────────────────────────────────────────────────────────────
+
+
+#### Step-Up
+
+The Step-Up facility is no longer available to new customers. However, existing Step-Up customers can still apply for porting, transfers of equity and further advances.
+
+────────────────────────────────────────────────────────────
+
+
+#### Find out more
+
+Portability means that your client can move (or 'port') their existing mortgage scheme to purchase a new property.
+
+Our porting policy varies according to the customer's type of mortgage scheme. Please contact the Intermediary Development Team on 0800 121 7788 (selecting option 2) for any porting queries.
+
+────────────────────────────────────────────────────────────
+
+
+#### Photographs of Physical Documentation
+
+• Photographs of Physical Documentation for identification and verification can only be accepted by Society intermediaries and intermediaries admin.
+• They must be in a PDF or TIF file format, with a maximum file size of 4MB. We do not accept JPEG files.
+• CamScanner photo proofs are acceptable.
+• If the proof is longer than one page they must be uploaded in one go on our Document Upload Facility, or send on one email using our secure email service.
+
+Photo proofs must be certified by the intermediary/intermediary admin only, with direct access to the physical document. Standard security checks must be completed of physical documentation. Photo proofs must not be accepted from customers.
+
+────────────────────────────────────────────────────────────
+
+
+#### List A - Confirmation of identity (must show name and signature)
+
+• Passport (UK or foreign)   current, valid and full
+• Valid (UK or EEA) photocard driving licence (full or provisional)
+• EEA member state identity card
+• Full old style paper driving licence (UK)   current, signed
+• DWP pension entitlement letter   valid for the current year
+
+────────────────────────────────────────────────────────────
+
+
+#### List B - Confirmation of address (must show name and address)
+
+• Full or provisional UK photocard or old style paper driving licence   current, signed
+• Bank/building society statement   less than 3 months old and not printed off the internet. Those issued by Coventry Building Society are not acceptable
+• House insurance certificate   valid for the current year
+• Council/local authority tax bill   less than 12 months old and valid for the current year
+• Utility bills (i.e. gas, electricity, water) or cable/satellite/phone bill (excluding mobile phones)   less than 3 months old and not printed off the internet
+
+*Documents downloaded from the Internet are not acceptable.
+
+Please note, these lists are not exhaustive. Please contact the Intermediary Development Team for further clarification.
+
+────────────────────────────────────────────────────────────
+
+
+#### Freehold
+
+Freehold (also known as Feuhold, heritable or absolute ownership) tenure is acceptable for houses, bungalows and cottages in England, Wales and Scotland.
+
+Freehold (including the previous Feuhold and Heritable Security Tenures) is the only acceptable tenure for properties in Scotland.
+
+────────────────────────────────────────────────────────────
+
+
+#### Leasehold
+
+Leasehold tenure is acceptable for houses, bungalows and cottages in England and Wales.
+
+Leasehold is the only acceptable tenure for flats and maisonettes in England and Wales.
+
+Leasehold tenure is acceptable provided:
+
+• no sub-leases have been created
+• all of the properties within the block have a leasehold title
+• the unexpired leasehold term must be at least 70 years at completion
+
+────────────────────────────────────────────────────────────
+
+
+#### Construction of brickwork
+
+Single skin brickwork is only acceptable for garages and porches provided they are single storey, or a small proportion of the habitable area subject to valuer s guidance.
+
+────────────────────────────────────────────────────────────
+
+
+#### Steel framed properties
+
+We will consider steel framed properties provided that they were built on or after 1 January 1990. The cladding must be predominantly (67%) either brick or stone at all levels. Outer cladding specifically excluded includes large concrete panels, timber, plastic, metal sheeting, and tiles. However, areas of less than 33% of the total external wall area formed in these materials may be considered on their own merits provided that the remainder of the walls are constructed of an acceptable material.
+
+────────────────────────────────────────────────────────────
+
+
+#### Timber framed properties
+
+Timber framed properties built after 1990 can have up to a maximum of four storeys considered.
+
+• Houses, Cottages and BungalowsTimber framed properties built after 1945. Cladding must be predominantly (67%) of either brick or stone at all levels. Outer cladding specifically excluded includes large concrete panels, timber, plastic, metal sheeting, and tiles. However areas of less than 33% of the total external wall area formed in these materials can be considered on their own merits if the remainder of the walls are constructed of an acceptable material.
+• Flats and MaisonettesTimber framed construction built pre 1995 up to two storeys maximum and post 1995 up to four storeys maximum. The outer skin must be predominantly (67%) either brick, concrete block or stone block at all levels.
+
+Please note, the information above outlines our general construction criteria. If you have a specific query, please contact our Intermediary Development Team on 0800 121 7788 (selecting option 2).
+
+────────────────────────────────────────────────────────────
+
+
+#### Solar power panels
+
+Applications where solar power panels are installed on the property being purchased, or remortgaged, are acceptable, subject to the valuer confirming the property is suitable security, and where the solar panels have a lease the acting conveyancer confirms that the lease is acceptable.
+
+────────────────────────────────────────────────────────────
+
+
+#### The maximum loan to value for a new build house is 90%.
+
+We define new build as properties that have been built within two years of the mortgage application or are properties to be occupied for the first time.
+
+Any new build properties must hold either:
+
+• a Professional Consultant's Certificate (PCC) which is valid for the first six years, or
+• an acceptable builder's guarantee which is valid for the first ten years
+• Full details of acceptable guarantees and PCCs can be found by clicking here.
+
+Second hand properties under ten years old must have been built with the benefit of an acceptable builder's guarantee scheme subject to the following exception:
+
+Where the property was built or converted within the past six years, we will accept the application if it was built with the benefit of a Professional Consultant's Certificate (PCC) where cover was valid for the first six years.
+
+For both new and converted properties the legal representative must confirm:
+
+• building regulations' approval has been obtained
+• planning approval has been obtained and in the case of listed buildings, the relevant consents for changes to listed buildings have been obtained and that the works have been carried out in compliance with those consents
+
+────────────────────────────────────────────────────────────
+
+
+#### Apartments, flats and coach houses
+
+The maximum loan to value for a new build or converted apartment, flat or coach house is 75% LTV.
+
+We define new build as properties that have been built within two years of the mortgage application or are properties to be occupied for the first time. This includes flat conversions.
+
+────────────────────────────────────────────────────────────
+
+
+#### Acceptable capital raising purposes
+
+We accept the following loan purposes (subject to loan amount and LTV limits):
+
+• To improve, repair or maintain residential properties that are owner-occupied
+• Debt consolidation
+• To purchase the equity of another party to the mortgage
+• To extend the leasehold title of the property in mortgage to us
+• To purchase additional land
+
+────────────────────────────────────────────────────────────
+
+
+### Manage your cookies
+
+We use three types of cookies to improve your experience. You can choose which optional cookies you d like to allow below. We ll save your preferences and apply them when you visit our site in the future. You can find out more in our Cookie Policy.
+
+Essential cookies Essential cookies are necessary for our website to work. They keep you secure, make sure pages load properly and enable basic features like navigation. These can t be turned off. Always active
+
+Performance / analytics cookies Performance cookies help us understand how you use our website, so we can make it better. They only collect anonymous data, like how long you spend on a page.
+
+Advertising cookies Advertising cookies help to show you ads that match your interests. They re managed by trusted third parties so you should only see things that are relevant to you.
+
+────────────────────────────────────────────────────────────
+
+
+#### Quick links
+
+• About us
+• Financial results
+• Privacy Notice
+• Cookie Policy
+• Online security
+• Consumer site
+• Modern slavery statement
+
+────────────────────────────────────────────────────────────
+
+
+### Need some help?
+
+Managing cases
+
+────────────────────────────────────────────────────────────
+
+
+════════════════════════════════════════════════════════════════════════════════
+🎯 CONTENT EXTRACTION COMPLETE
+📊 Total sections: 57
+📋 Total tables: 5

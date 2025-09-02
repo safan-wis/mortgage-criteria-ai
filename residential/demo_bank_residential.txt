@@ -1,0 +1,40 @@
+DEMO BANK RESIDENTIAL MORTGAGE CRITERIA
+===============================================
+
+LENDER INFORMATION:
+- Lender Name: Demo Bank
+- Product Type: Residential Mortgages
+- Minimum Age: 18
+- Maximum Age: 75
+
+INCOME REQUIREMENTS:
+- Minimum Income: £25,000
+- Self-employed: 2 years accounts required
+- PAYE: 3 months payslips required
+
+DEPOSIT REQUIREMENTS:
+- Minimum Deposit: 10%
+- Maximum LTV: 90%
+- Gifted deposits: Allowed with letter
+
+PROPERTY TYPES:
+- Freehold houses: Yes
+- Leasehold flats: Yes (min 85 years)
+- New build: Yes
+- Buy to let: No
+
+CREDIT REQUIREMENTS:
+- Credit score: Minimum 700
+- CCJs: Maximum £500
+- Defaults: None in last 6 years
+- Bankruptcy: Discharged 6+ years ago
+
+EMPLOYMENT:
+- Full-time: Yes
+- Part-time: Yes (minimum 16 hours)
+- Contract: 12+ months remaining
+- Agency: 6+ months with same agency
+
+ADDITIONAL NOTES:
+This is a demo file to show how easy it is to add new lenders.
+The system will automatically process this file and make it searchable.

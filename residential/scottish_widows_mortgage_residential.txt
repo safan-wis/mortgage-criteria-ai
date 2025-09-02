@@ -1,0 +1,1393 @@
+SCOTTISH WIDOWS - MORTGAGE LENDING CRITERIA
+================================================================================
+
+APPLICATION
+-----------
+
+Application
+
+Decision in Principle (DIP)
+ expandable section
+
+A DIP states how much we can lend and is valid for three months, subject to a valuation and the information supplied being correct.
+
+Direct Debit details
+ expandable section
+
+The details of the customer’s bank account from where the mortgage will be paid should be keyed at application.
+We'll require a Direct Debit mandate to be completed, signed and sent to us for all applications.
+The Direct Debit must be set up from a personal current account in the applicant's name. We do not accept payments from a savings, third party or business account.
+
+Finder’s fees
+ expandable section
+
+Applications involving finder's fees are not acceptable.
+A finder's fee is a fee or commission paid by a seller to a third party (such as an investment club) for finding or introducing a buyer. It does not include the normal fee or commission payable to any estate agent handling the sale.
+
+First monthly payment and initial interest
+ expandable section
+
+We’ll always collect the first payment on the 1st of the month in the month after the first full month after the mortgage completes. For example, if the mortgage completes on the 1st of June we’ll collect the first payment on the 1st of July. If the mortgage completes on the 2nd of June we’ll collect the first payment on the 1st of August.
+The first payment is usually higher than the rest of the monthly payments. This is because it includes interest charges from the day we release the money to the end of the month, plus the first full monthly payment.
+We’ll collect ongoing monthly payments on the 1st of each month. If the 1st falls on the weekend or on a bank holiday we’ll collect the payment on the next available working day.
+
+How do you calculate the first payment?
+The first monthly payment is made up of interest charges from the day we release the loan to the end of the month, plus the first monthly mortgage payment.
+Example:
+
+Loan | How we calculate June interest | £ First payment due on 1 August
+-----------------------------------------------------------------------
+Repayment loan of £60,000Interest rate: 5.49% fixedMoney issued on: 25th June | 60,000 x 5.49% x 6 days (25th-30th June) 365 days*= £54.15 | 54.15 June interest366.47 July monthly payment420.62 Total payment
+
+*Note that in a leap year we’ll still calculate the payment using 365 days.
+
+When will you tell the customer about this?
+On the first working day after we release the money, we’ll write to tell the customer when we’ll collect their first and subsequent monthly payments.
+The letter will also give a summary of other information we agreed when you applied for the mortgage, such as whether it’s an interest-only mortgage, a repayment mortgage or a combination of the two. If the mortgage account is made up of different parts, the letter will also explain:
+
+how we have set these up; and
+how the monthly payments on each part make up the total monthly payment we’ll collect.
+
+Back to top
+Back to top
+
+
+NEW CUSTOMERS
+-------------
+
+New customers
+
+Customer verification
+ expandable section
+
+If we cannot complete electronic verification, we need to ensure that the customer is who they say they are from documents which confirm their identity and where they live.
+Depending on the type of verification document provided, the customer will need to provide either one or two documents. FCA registered firms must ensure that documentation relied upon to verify aspects of a customer's identify is copied and retained. Sufficient and accurate information must be recorded on our application system. You must also correctly indicate if the case is face-to-face or non face-to-face.
+We reserve the right to request copies of identity documents.
+Two separate documents must be provided to verify the customer's name, residential address and date of birth.
+Documents must be originals and can only be used once throughout the whole process; i.e. used once for either address verification or for identification.
+
+Single Identification Documentation
+
+Document | Identification | Address Verification
+------------------------------------------------
+EU/EEA Driving Licence (some not applicable) | Yes | Yes
+EU/EEA Identity Card (some not applicable) | Yes | No
+Firearms/Shotgun Certificate | Yes | Yes
+Northern Ireland Voters Card | Yes | Yes
+UK and Non UK Passport (some non UK passports not applicable) | Yes | No
+UK Driving Licence - Photo Card | Yes | Yes
+
+Non Single Identification Documentation
+
+Document | Identification | Address Verification
+------------------------------------------------
+Bank, Building Society or Credit Union Statement | No | Yes
+Benefits/State Pension Notification Letter | Yes | No
+Biometric Residence Permit | Yes | No
+Blue Disabled Driver's Pass | Yes | No
+HM Revenue & Customs Correspondence | No | Yes
+HM Revenue & Customs Tax Notification | Yes | Yes
+Local Authority Tax Bill | No | Yes
+Local Council Rent Card/Statement | No | Yes
+Mortgage Statement | No | Yes
+Solicitors Correspondence | No | Yes
+Utility Bill/Utility Statement or a certificate/Letter from a Supplier of Utilities | No | Yes
+Young Scot Card | Yes | No
+Credit Card Statement | No | Yes
+Tenancy Agreement | No | Yes
+
+How to certify a document
+ expandable section
+
+If we ask you to provide ID documents, you must ensure that the following is present to satisfy certification requirements. This must be recorded by the FCA Registered Mortgage Intermediary:
+
+name of the certifier;
+signature of the certifier;
+date of certification, which must not be older than three months at the time of the application and;
+written confirmation from the certifier stating "I hereby certify that this is a true and correct copy of the original document as sighted by me" (variations are acceptable).
+
+Documents must be certified by an FCA registered mortgage intermediary.
+
+Non UK Nationals
+ expandable section
+
+To check if an application for a non-UK national can be accepted: 
+
+Has the customer (or any customer on a joint application) lived in the UK for more than five years. If yes, application can proceed 
+If no, does the customer (or any customer on a joint application) have permanent right to reside (see definition below). If yes, application can proceed 
+If no, does the customer (or any customer on a joint application) have an individual income of £75,000 or more, OR on a joint application is the combined customer income £100,000 or more. If yes, application can proceed 
+If no, the application can proceed up to 75% loan to value (LTV) 
+
+If a next step message shows ‘Proof of permanent right to reside in the UK is required’ we can proceed with proof that the customer (or any customer on a joint application) has permanent right to reside, OR proof that the customer (or any customer on a joint application) has lived in the UK for more than 5 years. Otherwise the loan to value would have to be reduced to 75% LTV to proceed. 
+
+Permanent right to reside can include:
+
+As part of the EU Settlement Scheme EEA, EU and Swiss citizens, living in the UK by 31st December 2020 can apply to continue to live in the UK after 30th June 2021 and will receive one of two statuses which are both acceptable:
+Settled status (awarded where they have lived in UK for at least five years and also known as ‘indefinite leave to remain under the EU Settlement Scheme’)
+Pre-settled status (awarded where lived in the UK for less than five years and they can re-apply for settled status after five years continuous residence in UK has been reached)
+Indefinite leave to enter or remain
+Republic of Ireland citizens do not need to apply under the EU Settlement Scheme and have automatic permanent right to reside in the UK (no proof of permanent right to reside is required for ROI citizens).
+
+Proof of permanent right to reside could be verified to one of the following:
+
+An Immigration status ‘share code’ – customers who can view their immigration status online at gov.uk can provide a share code which lasts for 30 days and we can use this to view their immigration status e.g. settled or pre-settled status
+Please note only ‘immigration status’ share codes starting with an ‘S’ are acceptable and not ‘right to work’ or ‘right to rent’ share codes  
+Indefinite leave stamp in passport – including: Indefinite Right (or Leave) to Remain/Enter ; Right of Abode ; 'There is at present no time limit on the holder's stay in the United Kingdom'
+Biometric Residence Permit showing ‘indefinite’ rights to remain (this includes ‘indefinite leave to remain’, ‘indefinite leave to enter’ or ‘no time limit)
+Letter from the Home Office confirming indefinite right to remain in the UK.
+
+When an application has one customer who has lived in the UK for more than 5 years, or meets the minimum income requirement above, or is a maximum 75% LTV then there is no requirement for the customer(s) to hold a particular type of visa or to have a minimum remaining visa validity.  
+‘Lived in the UK for more than 5 years …’ means lived in the UK for at least the latest 5 years, but the customer may have spent period(s) aboard within the last 5 years.  We will use data provided by the credit reference agencies to determine if a customer has lived in the UK for more than 5 years. Alternatively we can accept proof from the customer e.g. a bank statement, HMRC tax notification, Local Authority Tax Bill or utility bill dated over 5 years ago. 
+To calculate the income of £75,000 or £100,000 we will include the total of all earned incomes or the latest year’s income for self-employed customers.
+Applications from non-UK nationals holding diplomatic immunity are not acceptable.
+We only accept income paid in Sterling.
+
+Back to top
+Back to top
+
+
+PROPERTY
+--------
+
+Property
+
+Cladding
+ expandable section
+
+In England and Wales, for properties in buildings that are five storeys or higher we will no longer require an External Wall System (EWS1) form in order to progress an application. We will also be able to consider applications on properties where cladding remediation work is required but not yet completed. This only applies to buildings five stories or higher therefore EWS1 forms may still be required for buildings four storeys or lower and for properties in Scotland or Northern Ireland. 
+The surveyor will advise when an External Wall System (EWS1) form is required to confirm the status of the external wall system and any applicable attachments e.g. balconies on multi occupied, multi storey buildings.
+It is the responsibility of the building owner and/or its agent (in Scotland individual customers have to source the EWS1 form) as the responsible person to:
+Confirm that an external wall system (EWS) or attachments, such as a balcony, on buildings containing flats has been assessed by a suitable expert for likelihood of proportionate remediation to address fire safety risk.
+The EWS1 form must be prepared by a suitably qualified independent professional advisor. Professional advisor must be a member of one of the professional bodies as listed by the RICS - List of professional bodies (DOC, 31KB). We will be unable to confirm if a property is acceptable until a valuation has been instructed.
+For purchase cases a special condition will be added to a mortgage offer to instruct the conveyancer to advise the customer that the offer has been made on the reliance of an EWS1. It will also ensure that the customer knows that neither ourselves or surveying providers are liable for the information that was contained in the EWS1 form.
+
+New Build
+For New Build high rise blocks over 6 storeys/18m in height (England and Wales) or  4 storeys/11m in height (Scotland) Building Regulation compliance, The Building (Amendment) Regulations 2018 or local equivalent can be relied on, subject to the conveyancer receiving confirmation of this from the building owner, and/or its agent or duty holder. Where this cannot be obtained the above criteria applies.
+
+Condition
+ expandable section
+
+The property must meet minimum criteria. Must be habitable, readily saleable, structurally sound and be able to have buildings insurance arranged upon it. The mortgage advance may be wholly or partially retained pending completion of works required to bring the property to a suitable condition for lending.
+
+Construction
+ expandable section
+
+Property acceptability is based on a satisfactory valuation report from the bank's appointed valuer. Non-standard construction will be assessed on individual merit. Certain types of pre-cast reinforced concrete (PRC) construction are designated defective and may not be acceptable unless repaired.
+
+Distressed sale and leaseback
+ expandable section
+
+Applications that involve a distressed sale or a sale and leaseback are not acceptable.
+
+Japanese knotweed
+ expandable section
+
+We will lend subject to the valuer confirming the property is suitable mortgage security and providing a present condition valuation figure. To assess the property the valuer will require a report outlining the issues and a quote from a treatment company who must either be a member of the Property Care Association or be able to offer a warranty backed treatment plan. If treatment is advised and where possible, then this is often over 3-4 years.
+
+New build
+ expandable section
+
+An initial occupancy/new build is any property being occupied and/or sold for the first time on the open market in its current state and includes converted and refurbished properties.
+These will fall into one of four categories:
+
+newly-built property
+re-furbished property i.e. refurbishment of an existing residential property, typically a refurbished property will be considered as initial occupancy where the vendor is a builder/developer and the property has been vacated to allow for the refurbishment to be undertaken
+newly-converted property i.e. conversion of an existing non-residential property, e.g. an existing mill converted into flats
+A property, either new or converted (as above), that has been tenanted and is now offered for sale by the builder/developer
+
+maximum LTV on new build properties (houses and flats) is 85%. (75% for second home loans).
+
+Property must be subject to one of the following requirements:
+
+subject to a Building Standards Indemnity scheme as listed below
+being sold by a Development Corporation or a Local Authority where the body concerned gives an acceptable guarantee
+a single detached property (either self-built or otherwise) where construction is monitored by a consultant employed directly by your customer
+a property built by a self-build group where construction is monitored by a consultant employed by that self-build group
+a property forming part of a small solely residential development comprising not more than 15 units in total where construction is monitored by a consultant employed by the builder or developer. (If flats/maisonettes are involved, each individual flat/maisonette counts as one property)
+developments containing more than 15 units need NHBC or another acceptable form of building standards indemnity.
+
+All new build properties when being purchased for the first time must either have a warranty from a provider (see below for acceptable warranty providers), or a professional consultant's certificate in a format provided by UK Finance signed by a person with an acceptable qualification.
+Where developments contain more than 5 units we may place a limit on the percentage of properties we will lend against on that particular site. Where the limit has been reached, the valuers will decline to carry out a valuation and will advise accordingly.
+
+Acceptable Warranty Providers:
+
+ABC+
+Advantage HCI
+ARK Insurance
+Build Assure
+Building LifePlans Ltd (BLP)
+Buildzone
+Cadis
+Checkmate
+Compariqo
+FMB Insurance
+Global Home Warranties
+Homeproof (previously Aedis)
+International Construction Warranties (ICW)
+NHBC
+One Guarantee
+Premier Guarantee - includes the LABC New Homes Warranty and LABC Hallmark Scheme
+Protek
+Q Assure Build
+Thomas Miller
+
+Confirmation of what warranty is in place is required. This should be received prior to offer.
+Builder cash incentives include but are not limited to deposit contributions, cash-backs, contribution to legal fees/stamp duty, mortgage subsidies.
+Builder cash incentives will typically be acceptable provided the value of these does not exceed 5% of the lower of purchase price/valuation. Cash incentives in excess of this amount may result in a reduction in the maximum loan available. All builder cash incentives must be declared at the point of sale.
+All lending decisions are based on valuation or purchase price (whichever is lower).
+
+Revised property details
+ expandable section
+
+If the purchase property address changes once a mortgage application has been made, and the customer’s original mortgage product has been withdrawn, a new product from the current range must be selected.
+If the property being purchased is not changing but an amendment is required to the address keyed e.g. property number or street name this must be amended by us prior to completion. You should contact us to make this change.
+
+Second home loan
+ expandable section
+
+Let’s your customer apply for a mortgage on a property to be used primarily as a holiday or second home.
+
+We will allow 1 residential plus 5 ‘other’ properties with Lloyds Banking Group (across BTL and Second Home Loan).
+We will consider a maximum portfolio value of £3m and a maximum LTV of 75%.
+We will not accept Right to Buy, Guarantor applications or Builders Incentive Schemes.
+Occasional letting is allowed up to a period of four months with special conditions placed on the mortgage. If the Second Home is for let for more than four months this will be treated as a consent to let.
+Income must cover all mortgage commitments and the additional expense of running second home properties.
+Minimum applicant age of 18 years.
+Applications where a tenancy agreement is in place between applicant and family member cannot be accepted - the mortgage can be used where a family member will occupy the property provided there is not a formal tenancy agreement.
+
+Section 106 planning agreements/restrictive covenants
+ expandable section
+
+Intended to regulate development or proposed use of property.
+Range is varied but may include:
+limiting occupation to a certain category of occupant - local residents, first time buyers, specified age requirement, specified employment types
+restricting use of property - tied to agricultural use, restricting residential occupation to certain time limits, for example, 10 months of the year.
+
+The impact on acceptability depends upon the impact of the restriction. There may be a strong local demand for the property from qualifying purchasers.
+Broadly, restrictions that mean a property must be used for agricultural use will be unacceptable.
+The valuer will determine the impact on the suitability of the property for lending and the conveyancer will determine whether the purchaser/owner complies with the obligation, advising the bank of any issues that may impact the lending.
+Where the restriction limits the time a property can be occupied this will only be acceptable for holiday homes /second home loans and subject to the valuer confirming the property is suitable for lending.
+
+Sub-sales and back-to-back transcriptions
+ expandable section
+
+Sub-sales and back-to-back transactions are not acceptable.
+A sub-sale occurs when a property is bought and then sold on within six months, i.e. the borrower is buying the property from someone who has themselves bought the property less than six months before. The date of registration at the Land Registry is how we determine the length of ownership.
+This means that the current vendor must have owned the property for at least six months before we can accept an application to purchase that property, unless the property has been inherited.
+A back-to-back transaction is a type of sub-sale where the intervening seller buys from the original seller and sells on to the borrower on the same day or within a few days. We also regard as sub-sales, cases where the seller acquires the freehold (or superior leasehold) title to the property, which they then immediately sell on to the borrower by the grant to them of a lease (or sub-lease).
+The following cases are exceptions where it is acceptable for the property to be sold on within six months of acquisition by the seller.
+Where sales are by:
+
+a personal representative of the registered proprietor; or
+an institutional mortgagee exercising its power of sale; or
+a receiver, trustee-in-bankruptcy or liquidator; or
+a developer or builder selling a property acquired under a part-exchange scheme.
+
+We will also accept Inherited properties where the applicant is a beneficiary but has not owned the property for 6 months. The conveyancer will be responsible for ensuring the application meets the acceptable criteria.
+Applications which involve assignable contracts or irrevocable powers of attorney in favour of intervening sellers are not acceptable. Any other structure to the transaction which has a similar effect should be reported to us.
+
+Tenure
+ expandable section
+
+We do not lend on freehold flats unless freehold reversion/Tyneside arrangements apply and there are no more than four flats in the building. In addition we accept Coach house freehold flats where the garages underneath are subject to a long lease.
+For leasehold property there must be a minimum of 70 years remaining on the lease at application. Shorter lease terms are only accepted on certain central London estates and subject to specific criteria.
+Commonhold property is not accepted.
+
+Type of property
+ expandable section
+
+Each application will be assessed on its own merits although there are some property types which are specifically excluded.
+Further advice can be found here.
+
+Unacceptable construction types
+ expandable section
+
+Timber or metal framed buildings where the cavity, between frame & cladding, has been retrospectively filled with an insulation material.
+Concrete walls as built in Cornwall or Devon before 1950 (1960 for postcodes PL12, 13, 14, 15, 17, 18, 22 & 23) where valuer has recommended a Mundic report and test of the concrete has classified the concrete in either class B or C.
+Unrepaired, designated defective properties under the Housing Act 1985, Housing (Scotland) Act 1987, Housing (Northern Ireland) Order 1986.
+Flats or maisonettes of large panel system type unless acceptable structural appraisal on the whole block.
+Load bearing panels of asbestos or gypsum plaster construction.
+Properties which are structurally unsound and properties which are uninsurable.
+
+Use of property
+ expandable section
+
+Property must be assessed as an individual residential property intended for owner occupation.
+Farms or property with land that is subject to commercial agricultural use, commercial property and timeshare are not acceptable.
+Limited incidental business use may be acceptable subject to property retaining residential status.
+Live/work schemes may be acceptable on mainstream lending only subject to compliance with planning condition and ‘work’ element using less than 40% of the property.
+
+Valuation
+ expandable section
+
+The minimum valuation amount for all lending is £40,000.
+Before we can make an advance, we must have a mortgage valuation that takes into account any factors likely to materially affect the value.
+The valuation figure is currently valid for 12 months.
+Properties for sale in England, Wales and Northern Ireland must have an Energy Performance Certificate which details the energy rating of the property. The Energy Performance Certificate is not a replacement for a valuation or property survey.
+In Scotland, most sellers must provide a Home Report, part of which will include a survey (Scottish Single Survey) and may include a Generic Mortgage Valuation Report (GMVR) which the purchaser and any eventual Lender may rely on.
+Where an application relates to a property still being constructed, the valuer will provide a valuation figure based on the assumption that construction is completed to a satisfactory standard.
+The appropriate Special Condition will be included in any Mortgage Offer.
+For full details about the cost and types of valuation available through our surveyors, visit Charges and Valuation Fees
+
+Back to top
+Back to top
+
+
+LENDING
+-------
+
+Lending
+
+Affordability and Sustainability
+ expandable section
+
+Scottish Widows use affordability as a way of assessing how much they will lend. 
+When calculating affordability, the following Loan to Income (LTI) caps also apply. These can be used to calculate the maximum loan that would be available based on income but these are caps and the actual maximum loan could be lower and can be impacted by loan to value and credit score.
+
+Income | LTV | Loans<=£750k | Loans >£750k
+------------------------------------------
+<£40k | 0-90% | 4.49x | N/A
+£40k <£50K | 0-85%85.01-90% | 4.75x4.49x
+£50k-£75k | 0-75%75.01-85%85.01-90% | 5.00x5.00x4.49x
+>£75k-£125k | 0-75%75.01-85%85.01-90% | 5.50x5.00x4.75x (loan <=£500K)4.49x (loan >£500k - <=£750K) | 5.50x5.00xN/A
+>£125k | 0-85%85.01-90% | 5.50x4.75x (loan <=£500k)4.49x (loan >£500k-<=£750k) | 5.50xN/A
+
+Please note:
+
+If there is any element of self-employed income on an application and the application income is up to £75k, a maximum LTI of 4.49x will apply. For loans where the application income >£75k, and there is any element of self-employed income, the normal 5.50x maximum LTI applies up to 75% LTV. For loans >£500,000 to £750,000 of 85.01% to 90% LTV and for loans >£750,000 to £1m of 75.01% to 85% LTV a 4.00x LTI will apply.
+The level of credit score achieved and overall credit profile may restrict the LTI applied ; this may be restricted to 4.49x, 5.00x rather than 5.50x shown and if income >£75k and loan >£500k where 4.49x shows this may be restricted to 4.00x.
+When calculating affordability on interest only loans, Scottish Widows Bank will take into account the monthly premiums payable for the relevant repayment vehicle i.e. existing endowment or new or existing ISA. Please ensure the premium(s) is specified at both DIP and full application.
+For some customers we may make a deduction within our affordability calculation to allow for financial planning commitments the customer may have going forward.
+Within our affordability calculation we may apply an affordability adjustment for some contractors to take into account likely business expenses.
+Affordability must also include future changes to income and expenditure.
+Where the maximum loan available is below that requested there may be the option to extend the term (up to retirement) or extend term into retirement (subject to evidence of adequate retirement income).
+Please note, if the maximum loan available is reduced due to income not being evidenced at the declared level then the loan amount must be reduced accordingly.
+In some circumstances we may deduct credit commitments as ongoing in our affordability calculation even when customers have declared an intention to repay these. If the maximum loan available is reduced as a result then the loan amount must be reduced to proceed.
+Only in the below scenarios may we consider a loan amount above the maximum loan from our affordability model:
+
+Existing Scottish Widows Bank mortgage customers with no increase in in loan amount or loan to value (LTV) compared with their current mortgage (see Existing Customers).
+There is additional income, not previously considered, that is expected for the life of the mortgage and can be evidenced in line with our requirements.
+
+Assignable contracts
+ expandable section
+
+Applications which involve assignable contracts or irrevocable powers of attorney in favour of intervening sellers are not acceptable. Any other structure to the transaction which has a similar effect should be reported to us. Assignable contracts allow the original buyer to sell the property before legal completion, by assigning the contract to buy the property to a new buyer after contracts have been exchanged with the developer.
+
+Bankruptcies
+ expandable section
+
+The Bankruptcy question should be answered as yes if your customer has had a bankruptcy/IVA/Debt Management Arrangement or Debt Relief Order within the last 6 years or still have an outstanding Bankruptcy Restriction Order.
+
+County Court Judgments (CCJs)
+ expandable section
+
+CCJs are generally taken into account in credit scoring however, background details are required.
+
+Credit Score Decline - Appeals
+ expandable section
+
+All applications will be credit scored. If an application is declined as it has not passed the credit score customers have a right to appeal and whilst we’ll always reconsider carefully, without new information it is very unlikely that we will be able to change our decision.
+This also applies where an application is declined on policy because of ‘the level of unsecured debt outstanding’ or because ‘an active pay day loan is present’.
+Please give careful consideration before submitting an appeal for assessment. The list below provides guidance on the scenarios in which an appeal may be successful:
+Existing Scottish Widows Bank Mortgage Customers
+Moving house with no increase in loan amount or loan to value (LTV) compared with the current mortgage.
+BFPO Address
+The client is in the British Armed Forces and living at a BFPO address.
+Victim of Fraud
+The fraud has been reported to the Police and Credit Industry Fraud Avoidance system (CIFAS) and can be evidenced by a crime reference number.
+Adverse Credit Data Registered in Error
+An error by Lloyds Banking Group can be evidenced.
+If the adverse information has been registered on a non-Lloyds Banking Group product an appeal cannot be submitted and the customer should arrange for their records to be corrected before a new application is submitted.
+For scenarios that fall outside of this list it is likely the final decision will remain unchanged.
+
+Deposits
+ expandable section
+
+All customers must make a minimum personal deposit for the property relevant to their individual credit score, product or scheme. No element of this deposit should be represented by a personal loan.
+Where evidence of deposit is requested, the following documents are acceptable:
+Gifted deposits
+You should obtain a letter written by the family member that includes all of the following:
+
+addressed to Scottish Widows Bank
+dated within the last three months
+name and address of the person(s) gifting the deposit
+name and address of the applicant(s)
+the relationship between the person(s) making the gift and the applicant(s). They must be a family member.
+
+See definition of family member below
+
+the property address being purchased
+the amount of the deposit being gifted
+the source of the gifted deposit e.g. savings
+the gift is 'not repayable' and the person(s) gifting the deposit 'will hold no interest in the property following completion of the mortgage'
+signed by the person(s) gifting the deposit
+
+A Gifted Deposit (PDF, 419KB) template letter is available for you to use in the Literature page.
+You should also provide a UK bank statement or UK passbook from the family member or applicants, showing the deposit funds in their account. Alternatively, the family member or applicant may provide a letter from their UK bank confirming that the funds are available. Additional statements may be requested where required.
+
+If any of the deposit is gifted, this should be chosen as the source of deposit when keying the application.
+The definition of a family member is someone who is related to at least one of the applicants as follows: 
+
+relative by birth/blood or by marriage/civil partnership including: 
+husband/wife or civil partners 
+parents, step-parents, parents-in-law 
+brothers and sisters, half brothers and sisters, step-brothers and sisters, brother and sister-in-laws 
+applicants' children, step-children, son and daughter in laws and adopted children 
+grandparents, step-grandparents 
+uncle/aunt (must be related by blood and not marriage) 
+nephew/niece 
+
+'common Law' partners or co-habitees 
+partners or ex-partners who are not co-habiting at the property  
+
+Gifts from the following are not acceptable: 
+
+friends, including family friends 
+employers 
+vendor, developer, landlord 
+cousins 
+foster/guardian children 
+
+Savings
+You should obtain:
+
+the latest three months' UK bank statements or a UK passbook covering the latest three months' transactions showing the applicant's name, account details (sort code and account number for bank statements or account number for passbooks) and company name, or the latest annual statement for longer term savings plans
+the statements or passbook should be in the name of at least one of the applicants
+the latest closing balance must cover the total deposit required
+any recent large or unusual deposit may require clarification to establish the source.
+
+Vendor Deposits and Cashbacks (Non New Build Properties) - Vendor Gifted Deposits are an unacceptable source of deposit for any non new build property.
+This does not impact buyers who are receiving gifted deposits to purchase New Build Properties or concessionary purchases.
+
+Expats
+ expandable section
+
+We do not currently accept new business applications from Expat residents.
+
+Interest only repayment methods
+ expandable section
+
+All loans arranged where the capital element is not included in the monthly payment, including those that are part capital and interest repayment, part interest only, must have a plan in place to repay the capital at the end of the term. This includes new loans, further advances and product transfers.
+As a responsible lender, it is important for us to see evidence of the repayment plan for interest only mortgages so documents relating to the repayment plan must be received before a new mortgage offer can be considered.
+You can see a list of our current acceptable repayment plans on the interest only criteria section.
+
+Lending limits
+ expandable section
+
+Maximum LTV: 90%.
+The following restrictions apply for borrowing above £750,000:
+
+>£750,000 to £1m 85%
+>£1,000,000 to £2m 80%
+>£2,000,000 to £5m 75%
+>£5,000,000 50%
+
+New build properties - 85%.
+The maximum loan amount available on an interest only basis is 75% LTV (or for sale of mortgaged property (SOMP) main residence 50%, 60% or 75% depending on the minimum equity requirement).  
+On part interest only/part capital and interest repayment customers can borrow up to 85% LTV with the balance on capital and interest repayment.  
+Over 85% and up to 90% LTV the full balance must be on a repayment basis.
+Further Advances are available up to 85% LTV, based on the current value of the property. Existing customers will not be considered for a Further Advance until 6 months have elapsed since completion of the original mortgage.
+
+Min/max term
+ expandable section
+
+Minimum term: 5 years.
+Maximum term: 40 years, or to age 80 if less.
+
+If the mortgage term extends beyond the lower of either a maximum working age of 70 or anticipated retirement age, we will assess affordability on both current sustainable income and expected retirement income.
+
+Min/max age
+ expandable section
+
+Minimum age 18 years.
+Maximum retirement, unless retirement income meets affordability rules.
+
+The maximum age at the end of the mortgage term is 80 years for repayment mortgages, and 70 if any part of the mortgage is on interest only.
+
+Mortgage arrears
+ expandable section
+
+Applications where previous mortgages have been in arrears will be considered on an individual basis.
+
+Number of applicants
+ expandable section
+
+Maximum of four applicants.
+Two incomes are taken into account for affordability.
+Discretion can be used if third income is required.
+For Bonus/Cash/Sale Of Mortgage Property interest only repayment plans, only the income from the first two applicants will be used to determine the income qualifying criteria.
+
+Outstanding mortgage
+ expandable section
+
+Simultaneous sale and purchase is the preferred route, but we recognise that this is not always possible.
+Existing property is for sale but will not be sold before new mortgage completes
+
+The existing mortgage payment must be keyed as a credit commitment and will be included in the affordability calculation.
+
+Existing property to be rented out
+
+The mortgage payment must be keyed as a credit commitment (the mortgage type for the commitment needs to by keyed as ‘Buy to Let’). The rent received should be keyed as 'Rental Income (if rental property)’.
+
+Back to top
+Back to top
+
+
+EMPLOYMENT TYPES
+----------------
+
+Employment types
+
+Applicants not paid in sterling
+ expandable section
+
+Foreign currency income will not be accepted for new mortgage or remortgage applications for new and existing customers, including porting, transfers of equity and further advances.
+The only exceptions to this are further advance applications, for essential repairs to the mortgaged property, and product transfers.
+Foreign currency income is any income other than sterling received by a customer. Foreign currency income paid into a UK bank account and subsequently transferred to sterling is still considered to be foreign currency.
+
+Employment contracts
+ expandable section
+
+Sub-contractors, fixed/short term contracts and agency workers
+Applications will be considered from the above employment types if the customer has a current continuous employment of 12 months or more with six months of the contract remaining or the customer has two years continuous service in the same type of employment.
+
+Evidence of their employment track record may be required.
+
+Customers should be treated as self employed if they pay their own tax or sub contract to more than one company.
+
+IT and other contractors
+All applicants must have a current continuous employment of 12 months or more with six months of the contract remaining or two years continuous service in the same type of employment. For IT contractors on any income and other contractors whose income is more than £500 per day or £75,000 per annum: whether employed or self-employed, we accept the gross value of the contract as evidence of income.
+
+Construction Industry Scheme Contractors (CIS)
+
+Applications from customers employed on a Construction Industry Scheme (CIS) Contract will be considered. An average of the latest three months income should be used and evidence of the income for these applicants must be provided.
+
+Zero hours contracts
+Applications from customers employed on a zero hours contract will be considered where the customer has been employed on a zero hours contract for a minimum of 12 months. If the customer has been employed on a zero hours contract for less than 12 months, the application should be declined unless there is alternative income or sufficient income from an additional applicant. This applies even if the customer was previously employed on a guaranteed hours contract.
+
+The total of the last 12 calendar months income only will be used and all the income must be evidenced.
+
+Where the customer has been employed on a zero hours contract by different employers but for the same type of work, this can be considered continuous employment, and income documentation for 12 months will be required.
+
+Where the customer is employed by a nursing bank on a zero hours contract then the Nursing Bank Policy should be followed; refer to employment types.
+
+Probation
+
+Income from probationary employment is only used where the probationary period is part of a permanent contract. If the contract is purely probationary with the employer having the option to terminate the contract then this income cannot be used.
+It is important that probationary contracts are keyed accurately as follows:
+Where the applicant receives an offer of permanent employment and the contract states an initial probationary period e.g. three or six months, it should be keyed as 'permanent'. The income will be used in the affordability assessment.
+
+Where the applicant is offered a probationary contract, e.g. for three months, at the end of which the employer has the option to determine if a permanent contract will be offered, it should be keyed as ‘probationary’. The income will not be used in the affordability assessment.
+
+Professional sports people
+Applications will be considered from Professional Sports People where either continuous employment of 12 months or more with six months of the contract remaining or two years continuous service (for the last two years as at the date of application) in the same type of employment can be confirmed.
+It is essential to establish that such individuals will have the ability to sustainably meet the monthly repayments as they near the end of their career or if their career should be ended abruptly due to injury.
+Funding from corporations/charities/sponsors is not an acceptable form of income.
+
+Lending into retirement
+ expandable section
+
+The maximum age at the end of the mortgage term is 80 years for all lending.
+Future retirement income will need to be verified where the customer is taking a mortgage term which extends beyond their anticipated retirement age or a maximum working age, for which we will use 70, whichever is the earliest. Affordability will be assessed on the future retirement income. On occasions, a further review will be required to confirm we feel it is appropriate for the customer to lend into retirement.
+The applicant’s plans should be discussed in view of their occupation, and reasonability of working beyond state pension age should be documented where appropriate.
+The types of evidence which can be used to verify anticipated retirement income are as follows:
+
+Private / Company Pension Forecast Statement dated within the last 18 months.
+State Pension Statement dated within last 18 months which must be obtained by the customer directly as an actual statement with their name and address on it (this can be obtained from The Pension Service).
+State Pension Forecast statement issued to the customer directly from The Pension Service with their name and address on it. Annuity Statement dated within the last 18 months.
+
+The types of evidence which can be used to verify Pension Income already being received are as follows:
+
+For State Pension, War Pension and Widows Pension
+
+Latest month’s bank statement.
+
+For Company or Private Pension
+One of the following:
+
+latest payslip
+latest bank statement
+latest pension statement/reference dated within last 12 months.
+
+Length of Employment
+ expandable section
+
+Employed - Current employment details collected.
+Self-Employed - three years history requested however, where the business has been trading for less than three years e.g. one year self-employed and so self-employed income is not available for three years, we will still consider these applications. You must record all relevant years' income accurately on the mortgage application.
+
+Second Job
+ expandable section
+
+In cases where the customer has more than one job, we’ll consider the following when deciding whether or not to take the secondary income into account:
+
+hours worked - are they sustainable?
+are the roles/skills similar?
+what is the distance between the jobs and the customers home?
+how long has the customer been in both jobs?
+is the salary consistent with the type of employment?
+the number of days the customer works per week.
+
+Self-Employed
+ expandable section
+
+If any of the following applies, the customer must be keyed as self-employed:
+
+where the customer has a shareholding of 25% or more
+if joint customers own 25% or more between them, treat both customers as self-employed (both applicants need to hold a % share)
+a sub-contractor who derives income from more than one contract
+a customer has a partnership interest in a business, i.e. income is not PAYE, irrespective of the percentage shareholding
+a customer owns a franchise
+a customer employed by a Private Limited Company (LTD) who receives a salary (PAYE) and dividends as part of their remuneration package
+a customer who is in a Limited Liability Partnership (LLP) and receives a share of Net Profits.
+
+For applicants who are classed as self-employed, you should capture all of their income under the field ‘net profit’. Whilst some self-employed income we allow is not truly 'net profit', we use this field in our affordability assessment and in our policy rules. For example if the customer is paid PAYE and dividends this can be added together and keyed in the ‘net profit’ field.
+Where the applicant has been self-employed for two years or more, the full two years income documentation must be provided.
+We will accept self-employed incomes which include government Self Employed Income Support Scheme (SEISS) grant income.
+The income level used in our affordability calculation will be the lower of the latest year or the average of the last 2 years. 
+A maximum LTI of 4.49x will apply on some applications where there is any element of self-employed income.
+
+Acceptable Income Verification Documents
+
+Latest two years’ HM Revenue & Customs (HMRC) Tax Calculation accompanied by corresponding Tax Year Overviews – The year the Tax Calculation relates to and the Customer’s name/initials must show. Tax Calculations can be obtained from the customer’s online self-assessment account.
+The following details must be visible on the online Tax Calculation:
+
+HMRC logo
+Unique Tax Reference (UTR)
+customer’s name
+Tax year (most recent no older than 18 months old), and the following wording:
+"This is a copy of information held on your official online SA tax account with HMRC", and
+"Submission is 100% complete."
+
+Online tax assessments produced by accountants’ commercial software (accompanied by corresponding Tax Year Overviews) are acceptable provided they show the following:
+
+Unique Tax Reference number
+customer’s name
+tax year (most recent no older than 18 months old).
+
+Tax Year Overviews – corresponding Tax Year Overviews must accompany Tax Calculations. The tax due for each tax year must exactly match the corresponding Tax Calculation figure for Income Tax and National Insurance due.
+Latest two year's full accounts – must be finalised and clearly show the net profit (for Sole Traders), share of net profit (for Partnerships) or salary & dividends (for Directors of Limited companies). Profit & Loss statements alone are not acceptable.
+The year end on all documentation must be the most recent and must not be dated more than 18 months before the date of application. Tax Calculations from the customer’s online self-assessment account. Tax Calculations must be accompanied by corresponding Tax Year Overviews and the figures for tax due must exactly match.
+In addition for all self-employed incomes the latest three months' bank statements for the account which is used for business purposes may be required.
+
+Self Employed Types
+ expandable section
+
+Income/Contract Type | Verification document (preferred shown first alternative shown below) | Criteria
+-------------------------------------------------------------------------------------------------------
+Ltd Company – Director/Shareholder - less than 25% wanting to use basic PAYE only - Treat as employed | Latest payslip,(this applies whether the applicant is paid weekly or monthly).Hand written payslips are not acceptable.Employer's reference. | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.Providing the applicant is NOT employed by a family business, on occasions where the customer is unable to provide payslips that fit the listed criteria, we are able to request an employer's reference to verify the income.
+Ltd Company – Director/Shareholder - equal to or greater than 25% wanting to use basic PAYE only - Treat as self-employed | Last two years’ Tax Calculations accompanied by corresponding Tax Year Overviews.Latest two years’ Full Accounts.Latest three months' bank statements for the account which is used for business purposes may be required. | The year the Tax Calculation related to and customer’s name/initial & surname must be shown. Tax Calculations can be obtained from the customer’s online self-assessment account. The following details must be visible on the online Tax Calculations:HMRC logoUnique Tax Reference (UTR)customer’s nametax year (most recent no older than 18 months old), and the following wording:“This is a copy of information held on your official online SA tax account with HMRC”, and“Submission is 100% complete.”Online tax assessments produced by accountants’ commercial software (accompanied by corresponding Tax Year Overviews) are acceptable provided they show the following:Unique Tax Reference numbercustomer’s nametax year (most recent no older than 18 months old).Must be finalised, and clearly show the net profit (for sole traders), share of net profit (for partnerships) or salary & dividends (for director of Limited company).Profit & Loss statements alone are NOT acceptable.
+Ltd Company – Director/Shareholder -Irrespective of shareholding wanting to use basic PAYE (salary) & Dividends - Treat as self-employed | Last two years Tax Calculation accompanied by corresponding Tax Year Overviews.Latest two years Full Accounts.Latest three months' bank statements for the account which is used for business purposes may be required. | The year the Tax Calculation related to and customer’s name/initial & surname must be shown. Tax Calculations can be obtained from the customer’s online self-assessment account. The following details must be visible on the online Tax Calculation:HMRC logoUnique Tax Reference (UTR)customer’s nametax year (most recent no older than 18 months old), and the following wording:“This is a copy of information held on your official online SA tax account with HMRC”, and“Submission is 100% complete.”Online tax assessments produced by accountants’ commercial software (accompanied by corresponding Tax Year Overviews) are acceptable provided they show the following:Unique Tax Reference numbercustomer’s nametax year (most recent no older than 18 months old).Must be finalised and clearly show the net profit (for sole traders), share of net profit (for partnerships) or salary & dividends (for director of Limited company).Profit & Loss statements alone are NOT acceptable.
+Employee of LLP - not equity shareholding partner (Treat as employed) | Latest payslip (this applies whether the applicant is paid weekly or monthly).Employer's reference. | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.On occasions where the customer is unable to provide a payslip that fits the listed criteria, we are able to request an employer's reference to verify the income.
+
+Projected income will be considered for doctors, dentists, solicitors (including LLP) and accountants (including LLP).
+
+Back to top
+Back to top
+
+Existing customers
+
+Arrears
+ expandable section
+
+Where the mortgage has been at least one month in arrears within the last three months, a further advance application cannot be accepted.
+The customer should be advised to bring their account up to date and be ‘arrears free' for at least three months before re-applying.
+This rule also applies to any standalone product transfers that you may wish to process, however, you can process the product transfer as soon as the account is up to date with no requirement to wait three months.
+
+Bank of England rate changes
+ expandable section
+
+Tracker rates are linked to the Bank of England bank rate. This is announced by the Bank of England's Monetary Policy Committee (MPC). If the MPC decides to change the bank rate, we will change the tracker rate in line with it. This will be within 30 days of the publication of the minutes of the MPC meeting at which the decision to change the bank rate was made.
+At the end of the tracker rate period the tracker rate mortgage will cease to be a tracker rate mortgage and we will charge your client interest at Scottish Widows Bank standard variable rate.
+All variable rates are stated at their current levels and are subject to change.
+
+Consent to Let
+ expandable section
+
+Customers can apply for Consent to Let their property. If agreed, there is a fee of 0.5%. This fee is charged annually for short-term letting arrangements (not applicable for existing buy to let mortgages).
+The 0.5% is calculated on the total outstanding balance of the mortgage, including any further drawdowns, as at the 1st of the month in which consent is granted. The fee is non-refundable, even if the property is let for less than 12 months or the mortgage is redeemed in full.
+To apply for consent to let, customers must complete the Consent to Let Application Form (PDF, 538KB) and return this to us.
+A consent to let would not normally be considered until the mortgage has been in place for six months (armed forces personnel are exempt from this rule).
+
+Early Repayment Charges
+ expandable section
+
+We offer different types of mortgage products with different interest rates. With some of these there may be a charge if the customer repays all or part of the loan within a certain period of time.The Mortgage Illustration and offer letter give details of any early repayment charges that apply.
+
+Why do we charge them?
+We charge them because when setting up the funds to provide loans to customers, we expect them to keep the money for the time agreed at the outset. There is a cost to us if they repay some or the entire loan sooner. The charge compensates us for this cost.
+
+When do we charge them?
+A fee will be charged if the customer repays the loan while an early repayment charge is still present. Details of the charge percentage and end dates are detailed in the Mortgage Illustration and offer letter.
+If the customer repays part of the loan on which an early repayment charge applies, we’ll charge them a proportion of the early repayment charge due.
+We’ll also make an early repayment charge if we agree to transfer all or part of the loan to a new mortgage product during the early repayment charge period.
+
+Are there any exceptions to this?
+Yes. Currently with our fixed rate products, as a concession, each year the customer can make a single overpayment of up to 10% of the amount outstanding without having to pay an early repayment charge.
+If the amount you overpay exceeds 10%, or the customer makes any additional overpayments, we’ll only charge them an early repayment charge on the proportion they overpay above 10%, or as additional overpayments.
+With our variable rate products (including our Standard Variable Rate) there are no early repayment charges.
+Where the loan is divided into more than one part, the concession will apply to the amount owing on each part.
+Remember, we can change or withdraw our 10% early repayment charge concession, so if the customer decides they want to make regular or lump-sum overpayments, it’s always a good idea to contact us and check if the policy has changed. We will give at least three months’ notice before withdrawing or reducing the concession.
+If the customer is moving home and can take the product with the early repayment charge with them to a new mortgage, they may not have to pay the early repayment charge.
+
+Further advance reasons
+ expandable section
+
+The list of acceptable reasons are as follows:
+
+consumer goods
+debt consolidation
+gift to relative
+home improvements
+investment purpose (restriction - not for currency speculation or the purchase of stocks and shares)
+purchase freehold - (conveyancer required)
+purchase additional land adjacent to property (conveyancer required)
+purchase extension to lease - (conveyancer required)
+repay subsequent charge.
+
+New Mortgage Application
+ expandable section
+
+Existing Scottish Widows Bank Customers Moving Home
+If the maximum loan available on affordability for a new application is below that required the application can still proceed on the loan amount required if all the below criteria are met:
+
+Loan Amount - No increase in borrowing (new mortgage loan amount must be less than or equal to the existing mortgage balance)
+Monthly Payment - New monthly payment no more than 5% above existing payment
+Term - No increase in term for Interest only applications. For a full repayment application the term can increase, provided the new mortgage is not Lending into Retirement
+Arrears - No current arrears on existing mortgage
+LTV - An increase of up to 10% in loan to value (LTV) is acceptable, where the new LTV does not exceed 60% LTV (e.g. 45% to 55% LTV is allowable). Where the new LTV is above 60% there can be no increase above the existing LTV. The existing mortgage LTV can be calculated based on the sale price of the property rather than the indexed valuation
+Repayment Basis - No changes allowed
+Affordability - Maximum income multiple of 4.75x
+
+There will be no discretion to proceed outside of these criteria.
+Customers named on the new mortgage application must be the same as those on the existing mortgage.
+Please ensure you consider the full financial circumstances of the customer before submitting an application.
+
+Overpayments
+ expandable section
+
+Lump sum or regular overpayments can be made at any time. If early repayment charges apply to the product, refer to early repayment charges for more details.
+You can’t make regular overpayments on a fixed rate product.
+
+Porting your mortgage
+ expandable section
+
+It is sometimes possible to take a product with you to a new mortgage. We call this ‘porting’. The Mortgage Illustration and offer letter will say if any products are portable.
+
+What does 'Porting' mean?
+Porting means taking a product to another mortgage with the same lender, so there’s no early repayment charge.
+The customer may be able to port the product and early repayment charge to the new mortgage for the amount they owe on the product they are porting. But if they are borrowing more, they’ll need to have a new product for the extra amount they borrow.
+If they are borrowing less than the amount they owe on the product they are porting, and the offer they have for their old mortgage says there is an early repayment charge, then they will have to pay an early repayment charge on the difference.
+
+When will the customer not be able to port?
+We’ll decide whether to offer a new mortgage based on our lending policies at the time the customer applies. If we don’t offer a new mortgage, the customer cannot port their product. Also, if the customer repays their existing mortgage, they will still have to pay early repayment charges.
+
+What if the customer can't repay their existing mortgage at the same time?
+If the customer intends to sell their current property but can’t take out a new loan and repay the existing loan at the same time, they can ask permission to have two loans with us for a short time.
+We’ll agree to this if we think they can afford to pay the monthly payments on both loans. They may be able to take their existing product to the new loan. However, they will have to transfer the existing loan to the lender variable rate that applies to the existing loan until the sale is complete and they have fully repaid the loan.
+This is a concession that may not always be available.
+Other rules apply if the customer wants to let their existing property.
+
+What if the customer needs to repay their existing mortgage first?
+If the customer sells their property, but they’re not ready to buy another, they’ll need to repay their existing mortgage. This means they’ll have to pay any early repayment charges that apply.
+However, if they submit a new mortgage application with us within 90 days of repaying the existing mortgage, they can apply for a refund of the early repayment charge once the new mortgage has started. In this scenario they would need to select a new rate from our current range, and if the new loan is for a reduced amount, the early repayment charge refund will be pro-rata. This concession may not always be available.
+
+Product transfer timescales
+ expandable section
+
+The Product Transfer will take effect from the 1st of the month following the month in which the application and all required documentation are received.
+
+Regulation
+ expandable section
+
+If an existing mortgage is already FCA Regulated then it will stay FCA regulated regardless of a further advance or product transfer.
+If, however, a mortgage is non-FCA regulated and a further advance is required, to give the client the regulatory protection for the entire mortgage, the existing debt is refinanced to make the whole mortgage FCA Regulated.
+Please note that a standalone product transfer would not make the mortgage regulated.
+
+Subsequent Charges (SCG)
+ expandable section
+
+If a SCG is present contact you if there is a problem with the SCG type or problems in obtaining a Letter of Postponement (LOP).
+If any of the following SCG reasons are present the further advance cannot proceed:
+
+bankruptcy inhibition
+bankruptcy order
+creditors notice
+drug trafficking offence
+receiving order
+sequestration.
+
+If the SCG is registered to a non-clearing bank and is to be repaid, a conveyancer must be instructed.
+If the client does not intend to repay the SCG using the further advance and will therefore continue after completion, The Bank will request a Letter of Postponement (LOP) from the SCG lending company. If the LOP is not granted the further advance cannot proceed. It is not unusual for the SCG lending company to refuse to grant an LOP.
+
+Back to top
+Back to top
+
+Interest only
+
+We offer mortgages on a full or partial interest only basis.
+The maximum loan amount available on an interest only basis is 75% LTV (or for sale of mortgaged property (SOMP) main residence 50%, 60% or 75% depending on the minimum equity requirement).  
+On part interest only/part capital and interest repayment customers can borrow up to 85% LTV with the balance on capital and interest repayment.  
+Over 85% and up to 90% LTV the full balance must be on a repayment basis. 
+All interest only borrowing must be supported with an acceptable repayment plan, which we’ll need to see evidence of before a mortgage offer can be produced.
+
+Acceptable repayment plans
+Below are the repayment plans we currently accept. Click on each one to see associated criteria, evidence required, and the assessment method we’ll use.
+This information is a guide. We’ll only issue a mortgage offer once we’ve confirmed the evidence supplied meets our criteria for the amount required.
+
+Sale of property to be mortgaged, if it's a main residence
+ expandable section
+
+Criteria: | Evidence required: | Assessment method:
+---------------------------------------------------
+Sole applicants must have a minimum income of £75,000 pa. For joint applications, one of the applicants must have a minimum income of £75,000 pa, or the joint applicants must have a minimum combined income of £100,000 pa.The income requirement is calculated on the total of basic, overtime, bonus and commission for employed applicants, or the latest year’s income for self employed applicants.Mortgage term must not extend beyond the lower of anticipated retirement age or a maximum working age of 70 (no lending into retirement). | No additional evidence is required. We’ll use the valuation carried out on application to calculate the equity available. | The equity amount is calculated as the property value minus interest only amount:Up to 50% interest only the minimum equity requirement will be £300,000For >50%-60% the minimum equity will be £500,000For >60%-75% the minimum equity will be £750,000For part Interest Only and part repayment lending the minimum equity is calculated at the end of the mortgage term, not at point of application.You must ensure your client understands the requirement to sell their property at the end of the term to repay the outstanding loan.
+
+Sale of property to be mortgaged, if it's a second home
+ expandable section
+
+Criteria: | Evidence required: | Assessment method:
+---------------------------------------------------
+Sole applicants must have a minimum income of £75,000 pa. For joint applications, one of the applicants must have a minimum income of £75,000 pa, or the joint applicants must have a minimum combined income of £100,000 pa.The income requirement is calculated on the total of basic, overtime, bonus and commission for employed applicants, or the latest year’s income for self employed applicants. | No additional evidence is required. We’ll use the valuation carried out on application to calculate the equity available. | No minimum equity requirement. We can use the full equity amount to support interest only lending.You must ensure your client understands the requirement to sell their property at the end of the term to repay the outstanding loan.
+
+Bonus
+ expandable section
+
+Criteria: | Evidence required: | Assessment method:
+---------------------------------------------------
+Sole applicants must have a minimum income of £75,000 pa. For joint applications, one of the applicants must have a minimum income of £75,000 pa, or the joint applicants must have a minimum combined income of £100,000 pa.The income requirement is calculated on the total of basic, overtime, bonus and commission for employed applicants, or the latest year’s income for self employed applicants.Mortgage term must not extend beyond the lower of anticipated retirement age or a maximum working age of 70 (no lending into retirement). | If received monthly, the latest three payslips.If received quarterly, the latest four payslips showing bonus payments.If received half yearly the latest two payslips showing bonus payments.If received annually, the latest two years payslips showing bonus payments.An average value should be calculated and used.Payslips must show the applicant’s name, employer, pay date and gross bonus amount. | An annual bonus figure is calculated from the payslips provided as evidence. Where bonus is paid annually, the average of the bonus received in the last two years is used. 30% of this bonus figure is then multiplied by the term of the mortgage required for the amount of interest only lending available.There’s an expectation that the applicant will make periodic lump sum repayments to reduce the amount outstanding during their interest only mortgage and it’s important they understand this. Early Repayment Charges would apply as normal where any overpayment concession is exceeded.Where any bonus is to be used as a repayment plan, no bonus income earned by any applicant to the mortgage will be used in our affordability assessment.
+
+Cash
+ expandable section
+
+Criteria: | Evidence required: | Assessment method:
+---------------------------------------------------
+Sole applicants must have a minimum income of £75,000 pa. For joint applications, one of the applicants must have a minimum income of £75,000 pa, or the joint applicants must have a minimum combined income of £100,000 pa.The income requirement is calculated on the total of basic, overtime, bonus and commission for employed applicants, or the latest year’s income for self employed applicants.Cash must be held in £ sterling.Mortgage term must not extend beyond the  maximum working age of 70. | Copy of statement dated within the last month, and a previous statement showing the cash amount being held for a minimum of three consecutive months.The cash could be held across more than one account. | If a minimum of £50,000 has been held in savings or current account for a minimum of three consecutive months, 100% of the current cash balance can be used to support interest only lending. If statements show a fluctuating cash balance then the lowest balance will be used.If savings are also being used as source of deposit, evidence of an amount sufficient for both the repayment plan and deposit must be provided.
+
+Pension
+ expandable section
+
+Criteria: | Evidence required: | Assessment method:
+---------------------------------------------------
+Sole applicants must have a minimum income of £50,000 pa. For joint applications, one of the applicants must have a minimum income of £50,000 pa, or the joint applicants must have a minimum combined income of £50,000 pa.The income requirement is calculated on the total of basic, overtime, bonus and commission for employed applicants, or the latest year’s income for self employed applicants.Must be a UK pension.Mortgage term must not extend beyond the lower of anticipated retirement age or a maximum working age of 70 (no lending into retirement). | Copy of latest pension statement dated within the last 12 months. | The pension must have a minimum projected total fund value of £400,000, of which a maximum 15% of this amount will be used to support interest only lending. Where a projected total fund value does not show on the pension statement, such as on a final salary scheme, if the projected lump sum is at least £100,000 up to 60% of the projected lump sum value can be used. Where a statement gives a range of projected values the middle of three figures or the lower of two will be used.Pension contributions should be declared under the ‘Total monthly payment towards repayment plans’, and will be used in our affordability calculations. Your client must understand the need to maintain pension contributions.
+
+Endowment
+ expandable section
+
+Criteria: | Evidence required: | Assessment method:
+---------------------------------------------------
+Sole applicants must have a minimum income of £50,000 pa. For joint applications, one of the applicants must have a minimum income of £50,000 pa, or the joint applicants must have a minimum combined income of £50,000 pa.The income requirement is calculated on the total of basic, overtime, bonus and commission for employed applicants, or the latest year’s income for self employed applicants.Must be a UK policy.Both with profits and unitised plans permitted. | Copy of the latest projection statement dated within the last 12 months. | Endowment companies will present three growth rates to a client with the middle projection being the most likely outcome.We allow up to 100% of the projected amount using the middle projection figure (usually at 6%).
+
+UK based Stocks & Shares ISAs, Unit Trusts, OEICs or Investment Bonds
+ expandable section
+
+Criteria: | Evidence required: | Assessment method:
+---------------------------------------------------
+Sole applicants must have a minimum income of £50,000 pa. For joint applications, one of the applicants must have a minimum income of £50,000 pa, or the joint applicants must have a minimum combined income of £50,000 pa.The income requirement is calculated on the total of basic, overtime, bonus and commission for employed applicants, or the latest year’s income for self-employed applicants.Only UK based investments quoted within the FTSE index and held in sterling are acceptable. | Copy of the latest statement dated within the last 12 months. | We’ll compare the value of the asset with the amount of interest only lending required, taking into account the remaining term of the mortgage and future market volatility.The valuation we assign to the investment is 80% of the current value, which must be greater than £50,000*.*For existing customers the current value minimum threshold does not apply if the total amount of interest only borrowing is not being increased.
+
+UK based stocks & shares
+ expandable section
+
+Criteria: | Evidence required: | Assessment method:
+---------------------------------------------------
+Sole applicants must have a minimum income of £50,000 pa. For joint applications, one of the applicants must have a minimum income of £50,000 pa, or the joint applicants must have a minimum combined income of £50,000 pa.The income requirement is calculated on the total of basic, overtime, bonus and commission for employed applicants, or the latest year’s income for self employed applicants.Only shares quoted within the FTSE index and held in sterling are acceptable. | Copy of share certificates, nominee account statement or confirmation from a recognised stock broker containing evidence of share holdings, together with their valuation. Must be dated within the last 12 months. | As above for UK based Stocks & Shares ISAs, Unit Trusts, OEICs and Investment Bonds.
+
+Sale of second home/Buy to Let (UK)
+ expandable section
+
+Criteria: | Evidence required: | Assessment method:
+---------------------------------------------------
+Sole applicants must have a minimum income of £50,000 pa. For joint applications, one of the applicants must have a minimum income of £50,000 pa, or the joint applicants must have a minimum combined income of £50,000 pa.The income requirement is calculated on the total of basic, overtime, bonus and commission for employed applicants, or the latest year’s income for self-employed applicants.Due to valuation and verification requirements this is restricted to properties within the UK. | Completed ‘Interest Only Other Residential Property’ form.If the mortgage lender is outside Lloyds Banking Group we need a copy of the latest mortgage statement dated within the last 12 months. | We’ll check the ownership of the other residential property and assess its value. We’ll compare the equity available in the property with the amount of interest only lending required.Current equity within the property must be over £50,000. We’ll use 80% of the current equity available in the property to support interest only lending. Note there must be at least £50,000* equity available in each individual property being used to support interest only lending.*For existing customers the current value minimum threshold does not apply if the total amount of interest only borrowing is not being increased.
+
+Sale of another residential property not yet purchased
+ expandable section
+
+Criteria: | Evidence required: | Assessment method:
+---------------------------------------------------
+Sole applicants must have a minimum income of £50,000 pa. For joint applications, one of the applicants must have a minimum income of £50,000 pa, or the joint applicants must have a minimum combined income of £50,000 pa.The income requirement is calculated on the total of basic, overtime, bonus and commission for employed applicants, or the latest year’s income for self employed applicants.Due to valuation and verification requirements this is restricted to properties within the UK. | We’ll need property details, acting solicitor to confirm intended ownership of the second property and details of any loans to be secured against this property. We may carry out a property valuation and land registry search. | We’ll confirm the intended ownership of the second property prior to producing a mortgage offer.Current equity within the property must be over £50,000. We’ll use 80% of the current equity available in the property to support interest only lending. Note there must be at least £50,000* equity available in each individual property being used to support interest only lending.*For existing customers the current value minimum threshold does not apply if the total amount of interest only borrowing is not being increased.
+
+Further Advances
+If your client has any of their existing debt on interest only they will need to provide evidence that they have a repayment plan in place to repay the capital at the end of the term.
+If the Further Advance is to be conducted on an interest only basis, we will also require evidence of the repayment plan that your client intends to use to repay the Further Advance amount at the end of the term. This repayment plan must be from our acceptable list.
+If the Further Advance is to be conducted on a capital and interest repayment basis and your client has an existing interest only debt, they must still provide evidence that they have a repayment plan in place to repay the interest only capital balance at the end of the term.
+Only where the evidence to support the Further Advance, as well as any existing interest only debt, meets our criteria and covers the full amount to be conducted on an interest only basis, can the Further Advance Offer be produced.
+
+Product transfers and contract changes
+If your client has any of their existing debt on interest only they’ll need to provide evidence that they have a repayment plan in place to repay the capital at the end of the term.
+A Product Transfer can only be completed once the repayment vehicle has been validated.
+
+Exceptions which can be considered if customer does not meet lending rules
+If an existing customer wants to amend their Scottish Widows Bank mortgage and they do not meet current lending rules, we may consider allowing provided the amount of their current Interest Only loan and term are not increasing. Please refer to your BDM for guidance.
+
+Back to top
+Back to top
+
+
+INCOME
+------
+
+Income
+
+Acceptable income types
+
+Additional Duty Hours (Including Additional Responsibility Allowance)
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest three months' payslips.*Hand written payslips are not acceptable*Employer's reference. | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.On occasions where the customer is unable to provide our preferred documentation, we are able to request an employer's reference to verify the income.
+
+Attendance Allowance
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Benefit award letter.Latest full bank statement. | Benefit award Letter.Must be dated within the last 12 months, show applicant name & monetary value of allowance.The benefit must not be received on behalf of another person, e.g. a dependant.Latest full bank statement.Customer full name or initial & surname, account number, receipt of payment for DLA, bank heading/name & http address for internet statement.
+
+Basic Salary 
+ expandable section
+
+(Including applicants on permanent contract with probationary period)
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest month's payslip(s).*Hand written payslips are not acceptable*Employer's reference. | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.On occasions where the customer is unable to provide payslips that fit the listed criteria, we are able to request an employer's reference to verify the income.
+
+Cabin Crew and Flight Attendants - Pay and allowances
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest three months' payslips.*Hand written payslips are not acceptable*Employer's reference. | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.On occasions where the customer is unable to provide our preferred documentation, we are able to request an employer's reference to verify the income.
+
+Car Allowance
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+See Town, Area & Car Allowance | 
+
+Carers Allowance
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Benefit award letter.Latest full bank statement. | Must be dated within the last 12 months, show applicant name & monetary value of allowance.The benefit must not be received on behalf of another person, e.g. a dependant.Customer full name or initial & surname, account number, receipt of payment for DLA, bank heading/name & http address for internet statement.
+
+Child benefit
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest bank statement.Latest benefit award letter (dated within the last 12 months). | Customer full name or initial and surname, account number, receipt of payment for child benefit, bank heading/name and http address for internet statement.Must show applicants name and address and relate to current tax year.
+
+Child Tax Credit and Working Tax Credit
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest award letter from HMRC (all pages).Latest full month bank statement. | Must show applicants name & address and relate to current tax year.Income declared to Inland Revenue for calculating the awarded amount must match the income keyed on the application otherwise the letter is unacceptable.If the letter is in joint names, the income can be keyed for either applicant but both must be party to the mortgage.Customer full name or initial & surname, account number, receipt of payment for CTC/WTC, bank heading/name & http address for internet statement.
+
+Constant Attendance
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Benefit Award letter.Latest full bank statement. | Must be dated within the last 12 months, show applicant name & monetary value of allowance.The benefit must not be received on behalf of another person, e.g. a dependant.Customer full name or initial & surname, account number, receipt of payment for benefit, bank heading/name & http address for internet statement.
+
+Contractors
+ expandable section
+
+Criteria
+Where a customer’s income comes from a contract and they are not employed on a permanent basis they are classed as a contractor. This will include individuals who are self employed and pay their own tax, those who are employed via an umbrella company who deduct their tax and people who are essentially employed but on a fixed/short term contract e.g. 12 months.
+Contractors can be treated as self employed or employed for income verification purposes:
+Self Employed
+Treat as Self Employed if:
+
+The customer pays their own tax, or
+Has more than 1 contract, or
+Has set up a limited company and employs other contractors. 
+
+Income is confirmed as standard for self employed customers.
+
+Employed
+Treat as Employed if:
+
+Tax is paid by the company they work for (or they are employed via an umbrella company who deduct tax), or
+Contractors who earn more than £500 per day or £75k per annum, OR are an IT contractor on any income, can be treated as employed irrespective if the customer pays their own tax, or classes themselves as self-employed. (The only exception to this is where a customer has more than one contract or they have set up a limited company and employs other contractors, in which case they should be treated as self employed.)
+
+Additionally, to be treated as employed, the customer must have either:
+
+12 months or more continuous employment, with 6 months of the contract remaining, or
+2 years continuous service (for the last 2 years as at the date of application) in the same type of employment. 
+
+When we are treating a contractor as employed for income verification these are our requirements:
+Contractors who pay their own tax, or tax is deducted by an umbrella company (including IR35) 
+
+Copy of latest contract and latest month's payslip(s) required (or where payslips not issued latest month's bank statement).
+Income to be used is the lower of the gross value of the contract or income calculated from payslip(s)/bank statement.
+Gross value of contract is calculated as daily rate on the contract x 5 days per week x 46 weeks per year (or hourly rate x 7 hours per day x 5 days per week x 46 weeks per year). Unless the contract states the actual hours/days worked are lower, in which case, use these figures. 
+Income from payslip(s)/bank statement is calculated by multiplying the gross pay received to give an annual figure and then calculating the income based on a 46 week year (unless the contract states the actual weeks to be worked is lower, in which case, use these figures), e.g. multiply gross pay on a monthly payslip x 12, divide by 52 weeks and multiply by 46 (or average the gross pay on the weekly payslips and x 46).
+The total gross pay showing on umbrella payslips may be broken down by basic salary, commission, ‘additional taxable income’, holiday pay etc. but as long as the contract confirms the contractor is paid via a daily rate, or hourly rate, the income does not need to be split into these separate elements and can all be keyed as basic salary.  
+The lower of the two figures calculated is keyed as income and used for affordability.
+For customers who have set up a Limited Company or a Limited Liability Partnership (LLP) the income evidence must be from the actual contracted employer not their own Limited Company.
+Contractors who are set up as a Limited Company may not be entitled to the full income of the contract where there is more than one shareholder. If there are other shareholders, and they are also to be named on the mortgage the income from the contract must be keyed for one customer only and no income from this contract can be keyed for the other applicants that are shareholders. If there are other shareholders, but they are not to be named on the mortgage the income should be keyed to reflect the customer share, e.g. if 50% share then 50% of income should be used. 
+
+Fixed/Short Term or Agency; tax is deducted by employer (not including IR35)  
+
+The latest month's payslip(s) must be used to evidence income, or latest 3 months' payslips where other income is being used. 
+Income from payslip is calculated by multiplying the gross pay received to give an annual figure and then calculating the income based on a 46 week year, e.g. multiply gross pay on a monthly payslip x 12, divide by 52 weeks and multiply by 46 (or average the gross pay on the weekly payslips and x 46).
+
+Construction Industry Scheme Contractors (CIS)
+
+Applications from customers employed on a Construction Industry Scheme (CIS) Contract will be considered. Income should be evidenced using the latest 3 months consecutive payslips/invoices/statements along with corresponding bank statements (this could be from the same or different contracts). For example, if income in January, February and March is used, payslips/invoices/statements and corresponding bank statements must be for January, February and March.
+An average of the latest 3 months income should be used. This average amount should then be calculated based on a 46 week year, e.g. multiply the average monthly pay x 12, divide by 52 weeks and multiply by 46.
+If no income is received or the customer is unable to provide both pieces of evidence of income, then ‘zero’ income must be used for that month.
+Customers should be treated as self employed if they pay their own tax or sub contract to more than one company.
+
+Zero hours contracts
+
+Applications from customers employed on a zero hours contract for over 12 months will be considered. Proof of all income in the last 12 months is required and that total income figure will be used. 
+
+Probation
+
+Income from probationary employment is only used where the probationary period is part of a permanent contract. If the contract is purely probationary with the employer having the option to terminate the contract then this income can't be used.
+It's important that probationary contracts are keyed accurately as follows:
+
+Where the applicant receives an offer of permanent employment and the contract states an initial probationary period e.g. three or six months, it should be keyed as 'permanent'. The income will be used in the affordability assessment.
+Where the applicant is offered a probationary contract, e.g. for three months, at the end of which the employer has the option to determine if a permanent contract will be offered, it should be keyed as ‘probationary’. The income will not be used in the affordability assessment.
+
+Professional Sports People
+
+Applications will be considered from Professional Sports People where either continuous employment of 12 months or more with 6 months of the contract remaining or 2 years continuous service (for the last two years as at the date of application) in the same type of employment can be confirmed. It is essential to establish that such individuals will have the ability to sustainably meet the monthly repayments as they near the end of their career or if their career should be ended abruptly due to injury.
+
+Disability Living Allowance (DLA) and Personal Independence Payment (PIP)
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Benefit Award letter.Latest full bank statement. | Must be dated within the last 12 months, show applicant name & monetary value of allowance must not be received on behalf of another person, e.g. a dependant.Customer full name or initial & surname, account number, receipt of payment, bank heading/name & http address for internet statement.Any related extra care or mobility costs should be keyed as ‘other’ credit commitment.
+
+Employed In A Family Business If Less Than 25 Percent Invested Interest
+ expandable section
+
+Applicants will be treated as employed/self-employed accordingly.
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest month's payslip(s) & corresponding bank statement.Latest Tax Calculations accompanied by corresponding Tax Year Overviews. | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.The year the Tax Calculation related to and customer’s name/initial & surname must be shown. Tax Calculations can be obtained from the customer’s online self-assessment account. The following details must be visible on the online Tax Calculation:HMRC logoUnique Tax Reference (UTR)customer’s nametax year (most recent no older than 18 months old), and the following wording:“This is a copy of information held on your official online SA tax account with HMRC”, and“Submission is 100% complete.”Online tax assessments produced by accountants’ commercial software (accompanied by corresponding Tax Year Overviews) are acceptable provided they show the following:Unique Tax Reference numbercustomer’s name.tax year (most recent no older than 18 months old).
+
+Employed In A Family Business 25 Percent Or More Invested Interest 
+ expandable section
+
+Applicants will be treated as employed/self-employed accordingly.
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Last three years Tax Calculations accompanied by corresponding Tax Year Overviews.Full Accounts.Latest three months' bank statements for the account which is used for business purposes may be required. | The year the Tax Calculation related to and customer’s name/initial & surname must be shown. Tax Calculations can be obtained from the customer’s online self-assessment account. The following details must be visible on the online Tax Calculation:HMRC logoUnique Tax Reference (UTR)customer’s nametax year (most recent no older than 18 months old), and the following wording:“This is a copy of information held on your official online SA tax account with HMRC”, and“Submission is 100% complete.”Online tax assessments produced by accountants’ commercial software (accompanied by corresponding Tax Year Overviews) are acceptable provided they show the following:Unique Tax Reference numbercustomer’s name.tax year (most recent no older than 18 months old).Must be finalised, and clearly show the net profit (for sole traders), share of net profit (for partnerships) or salary & dividends (for director of Limited company). Profit & Loss statements alone are NOT acceptable.
+
+Employment And Support Allowance
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Benefit award letter.Latest full bank statement. | Must be dated within the last 12 months, show applicant name & monetary value of allowance. The benefit must not be received on behalf of another person, e.g. a dependant.Customer full name or initial & surname, account number, receipt of payment for benefit, bank heading/name & http address for internet statement.
+
+Fixed And Short Term Agency Contracts If Applicant Paying Own Tax
+ expandable section
+
+Applicants should be key as self-employed. See self-employed income verification.
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+See self-employed income verification. | 
+
+Flexible Benefits
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Same as evidencing Basic Income. | 
+
+Foster Care Allowance
+ expandable section
+
+Applicants should be keyed as self-employed. See self-employed income verification. 
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+See self-employed income verification.Or a letter from a foster care agency with 2 years’ figures is acceptable. | Foster children to be keyed as dependants.
+
+Furlough
+ expandable section
+
+If customers have been furloughed by their employer as a result of Covid-19, they need to have returned to work before we'll use their income to support a new mortgage application. We'll require the latest payslip to show the customer has returned to work and is being paid in full by their employer. If furlough income is still showing on the latest payslip customers will need to wait until their next payslip is available before applying. We're unable to accept a letter from the employer with an expected, or confirmed, date for return to work.
+
+Guaranteed Income Payment (GIP)
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest payslip Employer's reference. | Key as Private Pension. The term must not extend past the final payment date for GIP if affordability is based on this income only
+
+Holiday Pay
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest month's payslip(s).Employer's Reference. | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.On occasions where the customer is unable to provide payslips that fit the listed criteria, we are able to request an employer's reference to verify the income.
+
+Industrial Injuries
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Benefit Award Letter.Latest full bank statement. | Must be dated within the last 12 months, show applicant name & monetary value of allowance. The benefit must not be received on behalf of another person, e.g. a dependant.Customer full name or initial & surname, account number, receipt of payment for benefit, bank heading/name & http address for internet statement.
+
+Maintenance Income
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Bank statements (latest three consecutive full months).Court Order (minute agreements for maintenance income are not required to be sealed) Maintenance Assessment Letter from Child Support Agency (CSA). | Customer full name or initial & surname, account number, receipt of payment, bank heading/name & http address for internet statement.Must show applicant name & monetary value.
+
+Maternity Pay
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest month's payslip(s) received prior to commencement of maternity leave or latest month's payslip(s) where annual salary is clearly displayed.Employer's Reference. | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.On occasions where the customer is unable to provide our preferred documentation, we are able to request an employer’s reference to verify the income.
+
+New Job, Pay Rise Or Promotion Income Higher Income Can Be Keyed On Application
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+If the new income amount is not already shown on the latest payslip, the applicant's contract or letter confirming employment will be used. | Payslip must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.
+
+Nursing Bank
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest three months' payslips.*Hand written payslips are not acceptable*Employer's Reference. | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.On occasions where the customer is unable to provide our preferred documentation, we are able to request an employer's reference to verify the income.
+
+Overtime Bonus Commission
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+If received weekly or monthly, then latest three months' payslips.Yearly/Half Yearly/Quarterly– please key the lower of (a) the total income earned in the last 12 months or (b) the average of the income earned in each of the last 2 years. All payslips showing this income for the latest 2 years are required.Employer's Reference. | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.On occasions where the customer is unable to provide payslips that fit the listed criteria, we are able to request an employer's reference to verify the income.
+
+Pension State Pension Private Pension War Widows
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest full Bank Statement. | Customer full name or initial & surname, account number, receipt of payment for pension, bank heading/name & http address for internet statement.
+
+Pension War Disablement
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest month's payslip(s), pension statement or P60 (dated within 12 months). | P60 - must be dated within the last 12 months, show applicant name, company name & income amount. On occasions where the customer is unable to provide our preferred documentation fitting the listed criteria, we are able to request an employer's reference.
+
+Permanent Health Insurance (PHI)
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest bank statement.Latest Benefit Award Letter (dated within the last 12 months). | Key as Private Pension. The term must not extend past the final payment date for PHI if affordability is based on this income only.
+
+Rental Income If The Property Is To Be Let
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Any one of the following can be used to evidence rental income:three months consecutive bank statementstenancy agreement (current)letter from letting agent; ORletter from accountant or solicitor.(When a tenancy agreement expires it is normal to have an automatic renewal for the same rent period without a new agreement being issued. In this case, as the tenancy agreement will not be within date, rental income should be evidenced via one of the other methods as shown above.) | Customer full name or initial & surname, account number, receipt of rental income, bank heading/name & http address for internet statement must show applicants name, rental period & rental payment must be on company headed paper, addressed to applicant & confirm property address, rental payment & that the property is currently rented.
+
+Rental Income If The Property Is Already Let
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Any one of the following can be used to evidence rental income:three months consecutive bank statementstenancy agreement (current)letter from letting agent; ORletter from accountant or solicitor.(When a tenancy agreement expires it is normal to have an automatic renewal for the same rent period without a new agreement being issued. In this case, as the tenancy agreement will not be within date, rental income should be evidenced via one of the other methods as shown above.) | Customer full name or initial & surname, account number, receipt of rental income, bank heading/name & http address for internet statement must show applicants name, rental period & rental payment must be on company headed paper, addressed to applicant & confirm property address, rental payment & that the property is currently rented.
+
+Retirement Private Pension
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Pensions Statement. | Must show applicant & employer name, pay date, basic income, gross & net pay.
+
+Shift Allowance
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest three months' payslips.*Hand written payslips are not acceptable*Employer's Reference | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.On occasions where the customer is unable to provide a payslip that fits the listed criteria, we are able to request an employer's reference to verify the income.
+
+Stipend
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Letter of Confirmation from Religious Order - e.g. ‘Statement of Particulars’ for Church of England same as evidencing Basic Income. | Must show applicant & employers name, pay date and basic income.
+
+Supply Teacher
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest month's payslip(s). | The applicant must have had current continuous employment of 12 months or more and at least six months remaining; or at least two years continuous service, for the last two years (as at the date of application) in the same type of employment.
+
+Thalidomide Trust Income
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest full Bank statement.Latest payment confirmation letter (must be dated within 12 months). | Key as Pension-State.
+
+Town Area Or Car Allowance Excl Mileage Allowance
+ expandable section
+
+Verification document (preferred shown first alternative shown below) | Criteria
+--------------------------------------------------------------------------------
+Latest month's payslip(s).*Hand written payslips are not acceptable*Employer's Reference. | Must show applicant & employer name, pay date, basic income, gross & net pay and any additional payments being used in affordability.On occasions where the customer is unable to provide a payslip that fits the listed criteria, we are able to request an employer's reference to verify the income.
+
+Unacceptable income types
+
+Bereavement allowance
+Bursary
+Council Tax benefit
+DWP or Income Support
+Expenses
+Piecework contract
+Seasonal contract
+Temporary contract
+
+Back to top
+Back to top
+
+What do you want to do next?
+
+See our interest rates
+See our interest rates
+Look at our most current rates.
+
+Interest rates
+opens in same tab
+
+Discover offsetting advantages
+Discover offsetting advantages
+See how our offsetting facility can help your clients.
+
+Learn about offsetting
+opens in the same tab
+
+How to apply
+How to apply
+Find out the steps you need to take.
+
+See how to apply
+opens in the same tab
+
+This site is intended for UK authorised & regulated financial advisers only. It is not intended for onward transmission to retail customers & should not be relied upon by any other person. If you are not an adviser please return to our consumer site.
+
+Print
+
+Share
+Please Enter to access social media links
+
+share on Linkedin
+
+Share on Twitter
+
+Share on Facebook
+
+Back to top
+Back to top
+
+ Help and support
+ expandable section
+
+Help and support
+
+Agency set-up
+More information on how to set up an agency
+
+Online services
+
+Transfer Business
+
+Contact us
+
+ Products
+ expandable section
+
+Products
+
+Individual Pensions
+
+Scottish Widows Platform
+
+Workplace Savings
+
+Annuities
+
+Protection
+
+Trusts
+
+Mortgages
+
+ Funds
+ expandable section
+
+Funds
+
+Factsheets, price & performance
+Takes you to our funds tool opens in a new tab
+
+Fund governance
+
+Fund information
+
+ About Us
+ expandable section
+
+About Us
+
+About Scottish Widows
+
+Financial Strength
+
+Our awards
+Our awards
+
+Scottish Widows Bank
+
+Lloyds Banking Group
+
+Careers
+
+Media Centre
+
+Cookies
+
+Legal Information
+
+Accessibility
+
+Site map
+
+Modern Slavery Statement (PDF, 3MB)
+Opens in a new tab
+
+Opens the LinkedIn website in the same tab.
+
+Opens the Twitter website in same tab
+
+Opens the Facebook website in same tab
+
+Opens the YouTube website in same tab
+
