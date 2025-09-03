@@ -1,27 +1,29 @@
-import { NextResponse } from 'next/server';
-import { readFile } from 'fs/promises';
-import { join } from 'path';
-import { LenderConfig } from '../../types';
+import { NextRequest, NextResponse } from 'next/server';
 
-export async function GET() {
+export async function GET(request: NextRequest) {
   try {
-    const configPath = join(process.cwd(), '..', 'residential', 'lender_config.json');
-    const configData = await readFile(configPath, 'utf-8');
-    const config: LenderConfig = JSON.parse(configData);
-    return NextResponse.json(config);
+    // Use the optimized FastAPI backend
+    const backendUrl = process.env.PYTHON_BACKEND_URL || 'http://localhost:8000';
+    
+    const response = await fetch(`${backendUrl}/lenders`, {
+      method: 'GET',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+    });
+
+    if (!response.ok) {
+      throw new Error(`Backend responded with status: ${response.status}`);
+    }
+
+    const data = await response.json();
+    return NextResponse.json(data);
+    
   } catch (error) {
-    console.error('Failed to load lender config:', error);
-    
-    // Fallback configuration
-    const fallbackConfig: LenderConfig = {
-      lender_categories: {
-        major_banks: ['hsbc_residential.txt', 'barclays_residential.txt', 'natwest_bank_residential.txt'],
-        building_societies: ['halifax_bank_residential.txt', 'nationwide-residential.txt'],
-        specialist_lenders: ['pepper_money_residential.txt', 'accord_residential.txt'],
-        other_banks: ['santander_bank_residential.txt', 'virgin_money_residential.txt']
-      }
-    };
-    
-    return NextResponse.json(fallbackConfig);
+    console.error('Lenders API error:', error);
+    return NextResponse.json(
+      { error: `Failed to fetch lenders: ${error instanceof Error ? error.message : 'Unknown error'}` },
+      { status: 500 }
+    );
   }
 }

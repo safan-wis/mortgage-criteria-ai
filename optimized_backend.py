@@ -215,7 +215,72 @@ async def health_check():
 async def chat_endpoint(request: ChatRequest):
     """Chat endpoint with optimized performance."""
     try:
-        # Search for relevant criteria
+        # Check if user is asking for lender list
+        query_lower = request.query.lower()
+        if any(phrase in query_lower for phrase in [
+            "how many lenders", "list all lenders", "what lenders", "which lenders", 
+            "all lenders", "lender names", "available lenders", "lenders do you have",
+            "how many lender details", "lender details", "details do you have"
+        ]):
+            # Get comprehensive lender list from database
+            df = table.to_pandas()
+            lenders = df['metadata'].apply(lambda x: x['lender_name']).unique()
+            
+            # Clean up lender names
+            clean_lenders = []
+            for lender in sorted(lenders):
+                clean_name = lender.replace('_residential.txt', '').replace('_residential.pdf', '')
+                clean_name = clean_name.replace('_res', '').replace('_bank', '').replace('_building_society', '')
+                clean_name = clean_name.replace('_mortgage', '').replace('_criteria', '')
+                clean_name = clean_name.replace('_', ' ').title()
+                
+                # Additional cleaning for common patterns
+                clean_name = clean_name.replace('Residential', '').replace('Res', '').strip()
+                if clean_name.endswith('.'):
+                    clean_name = clean_name[:-1]
+                
+                # Final cleanup - remove extra spaces and normalize
+                clean_name = ' '.join(clean_name.split())
+                
+                # Handle specific cases
+                if clean_name == 'Hsbcidential 1.Txt':
+                    clean_name = 'HSBC'
+                elif clean_name == 'Skipton':
+                    clean_name = 'Skipton Building Society'
+                elif clean_name == 'Halifaxidentialing Services':
+                    clean_name = 'Halifax'
+                elif clean_name == 'Santanderidential 1.Txt':
+                    clean_name = 'Santander'
+                elif clean_name == 'Nationwide-Residential.Txt':
+                    clean_name = 'Nationwide'
+                elif clean_name == 'The Lender':
+                    clean_name = 'The Mortgage Lender'
+                
+                clean_lenders.append(clean_name)
+            
+            # Remove duplicates and sort
+            unique_lenders = sorted(list(set(clean_lenders)))
+            
+            # Create comprehensive response
+            response = f"""I have access to comprehensive mortgage criteria from **{len(unique_lenders)} lenders** with **{len(df)} total criteria chunks** in my database.
+
+Here are all the lenders I can provide information about:
+
+"""
+            for i, lender in enumerate(unique_lenders, 1):
+                response += f"{i:2d}. **{lender}**\n"
+            
+            response += f"""
+I can provide detailed information about eligibility criteria, age limits, income requirements, property types, LTV ratios, and documentation requirements for any of these lenders.
+
+What specific information would you like to know about any of these lenders?"""
+            
+            return ChatResponse(
+                response=response,
+                search_results=[]
+            )
+        
+        # Regular search for specific criteria
         results = search_lender_criteria(request.query, request.num_results, request.lender_filter)
         
         if not results.empty:
@@ -249,10 +314,56 @@ async def chat_endpoint(request: ChatRequest):
 
 @app.get("/lenders")
 async def get_lenders():
-    """Get available lenders."""
+    """Get available lenders from database."""
     try:
-        with open("residential/lender_config.json", "r") as f:
-            return json.load(f)
+        global table
+        
+        # Get all unique lenders from database
+        df = table.to_pandas()
+        lenders = df['metadata'].apply(lambda x: x['lender_name']).unique()
+        
+        # Clean up lender names
+        clean_lenders = []
+        for lender in sorted(lenders):
+            clean_name = lender.replace('_residential.txt', '').replace('_residential.pdf', '')
+            clean_name = clean_name.replace('_res', '').replace('_bank', '').replace('_building_society', '')
+            clean_name = clean_name.replace('_mortgage', '').replace('_criteria', '')
+            clean_name = clean_name.replace('_', ' ').title()
+            
+            # Additional cleaning for common patterns
+            clean_name = clean_name.replace('Residential', '').replace('Res', '').strip()
+            if clean_name.endswith('.'):
+                clean_name = clean_name[:-1]
+            
+            # Final cleanup - remove extra spaces and normalize
+            clean_name = ' '.join(clean_name.split())
+            
+            # Handle specific cases
+            if clean_name == 'Hsbcidential 1.Txt':
+                clean_name = 'HSBC'
+            elif clean_name == 'Skipton':
+                clean_name = 'Skipton Building Society'
+            elif clean_name == 'Halifaxidentialing Services':
+                clean_name = 'Halifax'
+            elif clean_name == 'Santanderidential 1.Txt':
+                clean_name = 'Santander'
+            elif clean_name == 'Nationwide-Residential.Txt':
+                clean_name = 'Nationwide'
+            elif clean_name == 'The Lender':
+                clean_name = 'The Mortgage Lender'
+            
+            clean_lenders.append(clean_name)
+        
+        # Remove duplicates and sort
+        unique_lenders = sorted(list(set(clean_lenders)))
+        
+        return {
+            "total_lenders": len(unique_lenders),
+            "total_chunks": len(df),
+            "lenders": unique_lenders,
+            "last_updated": "2025-01-02"
+        }
+        
     except Exception as e:
         print(f"Lenders endpoint error: {str(e)}")
         raise HTTPException(status_code=500, detail=str(e))
