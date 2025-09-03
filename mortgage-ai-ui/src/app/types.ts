@@ -15,12 +15,10 @@ export interface SearchResult {
 }
 
 export interface LenderConfig {
-  lender_categories: {
-    major_banks: string[];
-    building_societies: string[];
-    specialist_lenders: string[];
-    other_banks: string[];
-  };
+  total_lenders: number;
+  total_chunks: number;
+  lenders: string[];
+  last_updated: string;
 }
 
 export interface SearchRequest {

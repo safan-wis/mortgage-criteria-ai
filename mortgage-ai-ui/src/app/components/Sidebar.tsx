@@ -31,21 +31,15 @@ export default function Sidebar({
         const response = await fetch('/api/lenders');
         if (response.ok) {
           const config: LenderConfig = await response.json();
-          const allLenders: string[] = [];
-          Object.values(config.lender_categories).forEach(category => {
-            allLenders.push(...category);
-          });
           
-          // Clean lender names (same logic as Python)
-          const cleanLenders = allLenders.map(filename => {
-            let name = filename.replace('_residential.txt', '').replace('_residential.pdf', '');
-            name = name.replace('_res', '').replace('_bank', '').replace('_building_society', '');
-            name = name.replace('_mortgage', '').replace('_criteria', '');
-            name = name.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+          // The new API returns clean lender names directly
+          const cleanLenders = config.lenders.map(lender => {
+            // Additional cleaning if needed
+            let name = lender.replace('-.Txt', '').replace('.Txt', '');
             return name.trim();
           });
           
-          setLenders([...new Set(cleanLenders)].sort());
+          setLenders(['All Lenders', ...cleanLenders.sort()]);
         }
       } catch (error) {
         console.error('Failed to load lenders:', error);
